@@ -2,10 +2,12 @@
 import { useState } from "react";
 import Link from "next/link";
 import supabase from "../Supabase";
+import { useRouter } from "next/navigation";
 
 export default function Page() {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
+  const router = useRouter();
 
   const handleLogin = async () => {
     try {
@@ -19,7 +21,7 @@ export default function Page() {
       } else {
         // setAuthenticated(true); // Set authenticated to true
         // checkUser(); // Check the logged in user
-        // navigate("/"); // Redirect to the main page
+        router.push("/");
       }
     } catch (error) {
       console.error("Error logging in:", error);
@@ -39,7 +41,7 @@ export default function Page() {
             <input
               type="email"
               id="email"
-              placeholder="Your email"
+              placeholder="Email"
               value={email}
               onChange={(e) => setEmail(e.target.value)}
               className="w-full px-4 py-2 mt-2 text-gray-700 bg-white border border-gray-300 rounded-md focus:outline-none"
@@ -52,7 +54,7 @@ export default function Page() {
             <input
               type="password"
               id="password"
-              placeholder="Your password"
+              placeholder="Password"
               value={password}
               onChange={(e) => setPassword(e.target.value)}
               className="w-full px-4 py-2 mt-2 text-gray-700 bg-white border border-gray-300 rounded-md focus:outline-none"
@@ -61,14 +63,17 @@ export default function Page() {
           <button
             type="button"
             onClick={handleLogin}
-            className="w-full px-4 py-2 mt-4 text-white bg-blue-500 rounded-md focus:outline-none hover:bg-blue-600"
+            className="w-full px-4 py-2 mt-4 text-white bg-blue-600 rounded-md focus:outline-none hover:bg-blue-500 transition-all duration-300"
           >
             Login
           </button>
         </form>
         <p className="mt-4 text-gray-600">
           Don't have an account?{" "}
-          <Link href="/register" className="text-blue-500 hover:underline">
+          <Link
+            href="/register"
+            className="text-blue-600 hover:text-blue-400 underline transition-all duration-300"
+          >
             Register
           </Link>
         </p>
