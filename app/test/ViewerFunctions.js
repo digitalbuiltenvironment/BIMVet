@@ -4,16 +4,11 @@ import Client from './Auth';
 var getToken = { accessToken: Client.getAccesstoken() };
 var viewer;
 
-export function launchViewer(div, urn) {
+export async function launchViewer(div, urn) {
   getToken.accessToken.then((token) => {
-    var options = {
-      env: 'AutodeskProduction2',
-      api: 'streamingV2', // for models uploaded to EMEA change this option to 'streamingV2_EU'
-      getAccessToken: function (onTokenReady) {
-        var token = token.access_token;
-        var timeInSeconds = 3600; // Use value provided by APS Authentication (OAuth) API
-        onTokenReady(token, timeInSeconds);
-      },
+    var options = { 
+      accessToken: token,
+      env: 'AutodeskProduction',
     };
     Autodesk.Viewing.Initializer(options, function () {
       var htmlDiv = div;
@@ -23,7 +18,11 @@ export function launchViewer(div, urn) {
         console.error('Failed to create a Viewer: WebGL not supported.');
         return;
       }
+      console.log(token);
 
+      Client.createBucket(token.access_token).then((bucket) => {
+        console.log(bucket);
+      });
       console.log('Initialization complete, loading a model next...');
     });
 
