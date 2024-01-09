@@ -1,4 +1,5 @@
-import Client from "./Auth";
+/* global Autodesk, THREE */
+import Client from './Auth';
 
 var getToken = { accessToken: Client.getAccesstoken() };
 var viewer;
@@ -6,8 +7,8 @@ var viewer;
 export function launchViewer(div, urn) {
   getToken.accessToken.then((token) => {
     var options = {
-      env: "AutodeskProduction2",
-      api: "streamingV2", // for models uploaded to EMEA change this option to 'streamingV2_EU'
+      env: 'AutodeskProduction2',
+      api: 'streamingV2', // for models uploaded to EMEA change this option to 'streamingV2_EU'
       getAccessToken: function (onTokenReady) {
         var token = token.access_token;
         var timeInSeconds = 3600; // Use value provided by APS Authentication (OAuth) API
@@ -15,15 +16,15 @@ export function launchViewer(div, urn) {
       },
     };
     Autodesk.Viewing.Initializer(options, function () {
-      var htmlDiv = document.getElementById("forgeViewer");
+      var htmlDiv = div;
       viewer = new Autodesk.Viewing.GuiViewer3D(htmlDiv);
       var startedCode = viewer.start();
       if (startedCode > 0) {
-        console.error("Failed to create a Viewer: WebGL not supported.");
+        console.error('Failed to create a Viewer: WebGL not supported.');
         return;
       }
 
-      console.log("Initialization complete, loading a model next...");
+      console.log('Initialization complete, loading a model next...');
     });
 
     var documentId = urn;
@@ -39,9 +40,7 @@ export function launchViewer(div, urn) {
     }
 
     function onDocumentLoadFailure() {
-      console.error("Failed fetching Forge manifest");
+      console.error('Failed fetching Forge manifest');
     }
   });
 }
-
-launchViewer();
