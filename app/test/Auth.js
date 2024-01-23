@@ -113,16 +113,6 @@ async function getBucketList(accessToken) {
 }
 
 async function uploadFileToSignedUrl(signedUploadUrl, pathToFile) {
-  // const fileData = require('fs').readFileSync(pathToFile);
-  // const handleDrop = (acceptedFiles) => {
-  //   const file = acceptedFiles[0];
-  //   const reader = new FileReader();
-  //   reader.onload = () => {
-  //     const imageSrc = reader.result;
-  //     setUploadedImages([...uploadedImages, imageSrc]);
-  //   };
-  //   reader.readAsDataURL(file);
-  // };
   try {
     const response = await fetch(signedUploadUrl, {
       method: 'PUT',
