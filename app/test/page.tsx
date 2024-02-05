@@ -69,6 +69,7 @@ export default function Page() {
 
   const [uploadedFile, setUploadedFile] = useState<ArrayBuffer | null>(null);
   const [uploadedFileName, setUploadedFileName] = useState('');
+  const [uploadedFileCompleted, setUploadedFileCompleted] = useState(true);
   const [loading, setLoading] = useState(false);
 
   const handleDrop = (acceptedFiles: File[]) => {
@@ -81,6 +82,7 @@ export default function Page() {
       setUploadedFile(filedata);
       const rootFileName = file.name;
       setUploadedFileName(rootFileName);
+      setUploadedFileCompleted(false);
     };
     reader.readAsArrayBuffer(file);
   };
@@ -93,6 +95,8 @@ export default function Page() {
       })
         .then((result) => {
           setUploadedFileBase64(result);
+          setLoading(false);
+          setUploadedFileCompleted(true);
         })
         .catch((error) => {
           console.error('Error uploading file:', error);
@@ -100,7 +104,7 @@ export default function Page() {
     }
   };
   //Sidebar section
-  const [sidebarExpanded, setSidebarExpanded] = useState(true);
+  const [sidebarExpanded, setSidebarExpanded] = useState(false);
 
   const toggleSidebar = () => {
     setSidebarExpanded(!sidebarExpanded);
@@ -114,8 +118,10 @@ export default function Page() {
     <div className="flex h-screen">
       {/* Sidebar */}{' '}
       <div
-        className={`w-50 transition-all ${
-          sidebarExpanded ? 'lg:w-1/6 lg:h-screen bg-opacity-50 bg-gray-600' : 'lg:w-12 lg:h-screen'
+        className={`transition-all ${
+          sidebarExpanded
+            ? 'lg:w-72 lg:h-screen bg-opacity-50 bg-gray-600'
+            : 'lg:w-12 lg:h-screen'
         } z-10 transition-color duration-500`}
       >
         <button
@@ -124,21 +130,35 @@ export default function Page() {
         >
           {sidebarExpanded ? 'Collapse' : 'Expand'}
         </button>
-        {/* Add your sidebar content here */}
-          <div className={`fixed p-4 transition-opacity duration-400 ${sidebarExpanded ? 'opacity-100': 'opacity-0'}`}>
+        {/* Sidebar content */}
+        <div
+          className={`fixed p-4 transition-opacity duration-400 ${
+            sidebarExpanded ? 'opacity-100' : 'opacity-0'
+          } flex flex-col justify-between h-full`}
+        >
+          <div>
             <h2 className="text-xl font-bold mb-4">Sidebar Content</h2>
             <p>Test</p>
           </div>
+
+          <div className="mt-auto">
+            <div className="border-t pt-2 w-full">
+              <p className="pb-12">Bottom Content</p>
+            </div>
+          </div>
+        </div>
       </div>
       <div className="flex-1 p-8">
         <div>
-          <h1>File Upload</h1>
-          <button
-            onClick={defaultButtonPress}
-            className="upload-button"
-          >
-            Default Button
-          </button>
+          <div className="flex-1 ml-2">
+            <h1>Checker</h1>
+            <button
+              onClick={defaultButtonPress}
+              className="upload-button"
+            >
+              Default Button
+            </button>
+          </div>
           <div className="upload-section">
             <Dropzone onDrop={handleDrop}>
               {({ getRootProps, getInputProps }) => (
@@ -155,30 +175,39 @@ export default function Page() {
             </Dropzone>
           </div>
 
-          {uploadedFile !== null && (
-            <div>
+          {uploadedFile !== null && !uploadedFileCompleted && (
+            <div className="flex flex-col items-center justify-center mt-8">
               <h2>Uploaded File: {uploadedFileName}</h2>
               <button
                 onClick={uploadButtonPress}
                 className="upload-button"
               >
-                Confirm uploaded images
+                Confirm uploaded file
               </button>
               {loading && (
-                <div className="loading-overlay">
+                <div className="loading-overlay flex flex-col items-center">
                   <div className="loading-spinner"></div>
-                  {/* Display translation progress */}
-                  <p>Translation Progress: {translationProgress}</p>
+                  <p className="mt-4">
+                    Translation Progress: {translationProgress}
+                  </p>
                 </div>
               )}
             </div>
           )}
         </div>
-
         <div
-          style={{ position: 'absolute', width: '100%', height: '85%' }}
-          id="forgeViewer"
-        ></div>
+          style={{
+            position: 'relative',
+            width: '100%',
+            height: '85%',
+            marginLeft: '10px',
+          }}
+        >
+          <div
+            style={{ position: 'absolute', width: '100%', height: '100%' }}
+            id="forgeViewer"
+          ></div>
+        </div>
       </div>
     </div>
   );
