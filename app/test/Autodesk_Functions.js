@@ -1,8 +1,8 @@
 async function getAccesstoken() {
   return new Promise((resolve, reject) => {
     const url = 'https://developer.api.autodesk.com/authentication/v2/token';
-    const clientId = 'jHdAZq9NRcQwHoeHsRJUc4owAc98HavH';
-    const clientSecret = 'Zygab7khXtIwY7r2';
+    const clientId = process.env.NEXT_PUBLIC_AUTODESK_CLIENT_SECRET_ID;
+    const clientSecret = process.env.NEXT_PUBLIC_AUTODESK_CLIENT_SECRET;
 
     const basicAuth = btoa(`${clientId}:${clientSecret}`).toString();
     const formData = new URLSearchParams();
@@ -24,7 +24,7 @@ async function getAccesstoken() {
     })
       .then((response) => response.json())
       .then((data) => {
-        console.log('Token response:', data);
+        // console.log('Token response:', data);
         resolve(data); // Resolve the promise with the token data
       })
       .catch((error) => {
@@ -54,7 +54,7 @@ async function createBucket(accessToken) {
     })
       .then((response) => response.json())
       .then((data) => {
-        console.log('Bucket response:', data);
+        // console.log('Bucket response:', data);
         resolve(data); // Resolve the promise with the token data
       })
       .catch((error) => {
@@ -79,7 +79,7 @@ async function getSignedS3UploadUrl(accessToken, objectKey) {
     })
       .then((response) => response.json())
       .then((data) => {
-        console.log('Signed S3 Upload URL response:', data);
+        // console.log('Signed S3 Upload URL response:', data);
         resolve(data); // Resolve the promise with the signed S3 upload URL data
       })
       .catch((error) => {
@@ -101,7 +101,7 @@ async function getBucketList(accessToken) {
     })
       .then((response) => response.json())
       .then((data) => {
-        console.log('Bucket list response:', data);
+        // console.log('Bucket list response:', data);
         resolve(data); // Resolve the promise with the bucket list data
       })
       .catch((error) => {
@@ -131,7 +131,7 @@ async function getObjectsInBucket(accessToken, limit = 1) {
     }
 
     const responseData = await response.json();
-    console.log('Objects in bucket response:', responseData);
+    // console.log('Objects in bucket response:', responseData);
     return responseData;
   } catch (error) {
     console.error('Error getting objects in bucket:', error.message);
@@ -229,14 +229,14 @@ async function initiateSignedS3Upload(accessToken, uploadKey) {
   }
 }
 
-async function initiateTranslationJob(accessToken, urn, rootFilename) {
+async function initiateTranslationJob(accessToken, urlSafeUrn, rootFilename) {
   const url =
     'https://developer.api.autodesk.com/modelderivative/v2/designdata/job';
   // console.log(urn);
   // console.log(rootFilename);
   const requestData = {
     input: {
-      urn: urn,
+      urn: urlSafeUrn,
       // rootFilename: rootFilename,
       // compressedUrn: true,
     },
@@ -304,6 +304,55 @@ async function getTranslateManifest(accessToken, urlSafeUrn) {
     throw error;
   }
 }
+async function getAllViewables(accessToken, urlSafeUrn) {
+  const url = `https://developer.api.autodesk.com/modelderivative/v2/designdata/${urlSafeUrn}/metadata`;
+
+  try {
+      const response = await fetch(url, {
+          method: 'GET',
+          headers: {
+              'Authorization': `Bearer ${accessToken}`,
+          },
+      });
+
+      if (!response.ok) {
+          const errorData = await response.json();
+          throw new Error(`Failed to get metadata: ${response.status} - ${errorData.reason}`);
+      }
+
+      const responseData = await response.json();
+      // console.log('Metadata response:', responseData);
+      return responseData;
+  } catch (error) {
+      console.error('Error getting metadata:', error.message);
+      throw error;
+  }
+}
+
+async function getAllViewableProperties(accessToken, urlSafeUrn, viewableGuid) {
+  const url = `https://developer.api.autodesk.com/modelderivative/v2/designdata/${urlSafeUrn}/metadata/${viewableGuid}/properties?forceget=true`;
+
+  try {
+      const response = await fetch(url, {
+          method: 'GET',
+          headers: {
+              'Authorization': `Bearer ${accessToken}`,
+          },
+      });
+
+      if (!response.ok) {
+          const errorData = await response.json();
+          throw new Error(`Failed to get viewable properties: ${response.status} - ${errorData.reason}`);
+      }
+
+      const responseData = await response.json();
+      // console.log('Viewable properties response:', responseData);
+      return responseData;
+  } catch (error) {
+      console.error('Error getting viewable properties:', error.message);
+      throw error;
+  }
+}
 
 const Client = {
   getAccesstoken,
@@ -313,5 +362,7 @@ const Client = {
   initiateTranslationJob,
   deleteObjectInBucket,
   getTranslateManifest,
+  getAllViewables,
+  getAllViewableProperties,
 };
 export default Client;
