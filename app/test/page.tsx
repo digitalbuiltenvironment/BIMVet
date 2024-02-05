@@ -100,6 +100,7 @@ export default function Page() {
         })
         .catch((error) => {
           console.error('Error uploading file:', error);
+          setUploadedFileCompleted(true);
         });
     }
   };

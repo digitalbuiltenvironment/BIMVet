@@ -54,7 +54,7 @@ async function createBucket(accessToken) {
     })
       .then((response) => response.json())
       .then((data) => {
-        // console.log('Bucket response:', data);
+        console.log('Bucket response:', data);
         resolve(data); // Resolve the promise with the token data
       })
       .catch((error) => {
@@ -79,7 +79,7 @@ async function getSignedS3UploadUrl(accessToken, objectKey) {
     })
       .then((response) => response.json())
       .then((data) => {
-        // console.log('Signed S3 Upload URL response:', data);
+        console.log('Signed S3 Upload URL response:', data);
         resolve(data); // Resolve the promise with the signed S3 upload URL data
       })
       .catch((error) => {
@@ -101,7 +101,7 @@ async function getBucketList(accessToken) {
     })
       .then((response) => response.json())
       .then((data) => {
-        // console.log('Bucket list response:', data);
+        console.log('Bucket list response:', data);
         resolve(data); // Resolve the promise with the bucket list data
       })
       .catch((error) => {
@@ -131,7 +131,7 @@ async function getObjectsInBucket(accessToken, limit = 1) {
     }
 
     const responseData = await response.json();
-    // console.log('Objects in bucket response:', responseData);
+    console.log('Objects in bucket response:', responseData);
     return responseData;
   } catch (error) {
     console.error('Error getting objects in bucket:', error.message);

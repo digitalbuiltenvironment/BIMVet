@@ -12,7 +12,7 @@ export async function uploadfilestobucket(
     urn: string,
     counter: number = 0
   ): Promise<boolean> => {
-    if (counter === 300) {
+    if (counter === 200) {
       // Reset the token when the counter reaches 400
       token = await Client.getAccesstoken();
       console.log('Token reset.');
@@ -47,6 +47,8 @@ export async function uploadfilestobucket(
     ); // Initiate signed S3 upload
     const urn = btoa(initiateUploadResponse.objectId).toString(); // Get base64 urn by converting initiate signed S3 upload response to base64
     await Client.initiateTranslationJob(token.access_token, urn, objectName); // Initiate translation job with base64 urn
+    // wait 2 seconds before checking if translation is complete
+    await new Promise((resolve) => setTimeout(resolve, 2000));
     await checkTranslateManifest(token.access_token, urn); // Check if translation is complete and return base64 urn when complete
     return urn;
   } catch (error) {
