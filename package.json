@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.39.1",
+    "dotenv": "^16.4.1",
     "forge-apis": "^0.9.8",
     "fs-extra": "^11.2.0",
     "next": "14.0.4",

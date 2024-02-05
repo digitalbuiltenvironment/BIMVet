@@ -1,30 +1,34 @@
-"use client";
-import React, { useEffect, useState } from "react";
-import { launchViewer } from "./ViewerFunctions";
+'use client';
+import React, { useEffect, useState } from 'react';
+import { launchViewer } from './ViewerFunctions';
+import { uploadfilestobucket } from './UploadFile';
+import { extractMetadata } from './GetMetadata';
+import Dropzone from 'react-dropzone';
+import './custom.css';
 
 export default function Page() {
+  const [scriptLoaded, setScriptLoaded] = useState<boolean>(false);
+  const [uploadedFileBase64, setUploadedFileBase64] = useState<string>('');
+  const [translationProgress, setTranslationProgress] =
+    useState<string>('Loading...');
+
   useEffect(() => {
-    const pathToFilename = '../../samples/racbasicsampleproject.rvt';
-    const reader = new FileReader();
-
-    const documentID = "urn:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltdmV0YnVja2V0L3JzdGJhc2ljc2FtcGxlcHJvamVjdC5ydnQ";
-
     // Dynamically create the script element
-    const script = document.createElement("script");
-    script.src = "https://developer.api.autodesk.com/modelderivative/v2/viewers/7.2/viewer3D.min.js";
+    const script = document.createElement('script');
+    script.src =
+      'https://developer.api.autodesk.com/modelderivative/v2/viewers/7.2/viewer3D.min.js';
     script.async = false;
-    const forgeViewerId = document.getElementById("forgeViewer");
     // Dynamically create the link element for the stylesheet
-    const link = document.createElement("link");
-    link.rel = "stylesheet";
-    link.href = "https://developer.api.autodesk.com/modelderivative/v2/viewers/7.2/style.min.css";
-    link.type = "text/css";
+    const link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href =
+      'https://developer.api.autodesk.com/modelderivative/v2/viewers/7.2/style.min.css';
+    link.type = 'text/css';
     document.head.appendChild(link);
 
     script.onload = () => {
-      // Script has loaded, now you can launch the viewer
-      console.log(LMV_VIEWER_VERSION)
-      launchViewer(forgeViewerId, documentID);
+      console.log(LMV_VIEWER_VERSION);
+      setScriptLoaded(true);
     };
 
     // Append the script to the head of the document
@@ -38,9 +42,144 @@ export default function Page() {
     };
   }, []);
 
+  const loadInViewer = (urnObjectKey: string) => {
+    if (!scriptLoaded) return;
+    const documentID = `urn:${urnObjectKey}`;
+    const forgeViewerId = document.getElementById('forgeViewer');
+    // Script has loaded, now you can launch the viewer
+    launchViewer(forgeViewerId, documentID);
+    console.log(urnObjectKey);
+  };
+
+  useEffect(() => {
+    // This code will run when file is uploaded
+    loadInViewer(uploadedFileBase64);
+    // console.log('myState has changed:', uploadedFileBase64);
+  }, [uploadedFileBase64]);
+
+  const defaultButtonPress = () => {
+    // Load in the previous model
+    loadInViewer(
+      'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltdmV0YnVja2V0L3Rlc3RvYmplY3QucnZ0'
+    );
+    extractMetadata(
+      'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltdmV0YnVja2V0L3Rlc3RvYmplY3QucnZ0'
+    );
+  };
+
+  const [uploadedFile, setUploadedFile] = useState<ArrayBuffer | null>(null);
+  const [uploadedFileName, setUploadedFileName] = useState('');
+  const [loading, setLoading] = useState(false);
+
+  const handleDrop = (acceptedFiles: File[]) => {
+    const file = acceptedFiles[0];
+    console.log(file);
+    const reader = new FileReader();
+    reader.onload = () => {
+      const filedata: ArrayBuffer = reader.result as ArrayBuffer;
+      // console.log(filedata);
+      setUploadedFile(filedata);
+      const rootFileName = file.name;
+      setUploadedFileName(rootFileName);
+    };
+    reader.readAsArrayBuffer(file);
+  };
+
+  const uploadButtonPress = () => {
+    setLoading(true);
+    if (uploadedFile !== null) {
+      uploadfilestobucket(uploadedFile, (progress) => {
+        setTranslationProgress(progress);
+      })
+        .then((result) => {
+          setUploadedFileBase64(result);
+        })
+        .catch((error) => {
+          console.error('Error uploading file:', error);
+        });
+    }
+  };
+  //Sidebar section
+  const [sidebarExpanded, setSidebarExpanded] = useState(true);
+
+  const toggleSidebar = () => {
+    setSidebarExpanded(!sidebarExpanded);
+  };
+
+  if (!scriptLoaded) {
+    return <div>Loading Scripts...</div>;
+  }
+
   return (
-    <div>
-      <div style={{position: "absolute", width:"100%", height:"85%"}} id="forgeViewer"></div>
+    <div className="flex h-screen">
+      {/* Sidebar */}{' '}
+      <div
+        className={`w-50 transition-all ${
+          sidebarExpanded ? 'lg:w-1/6 lg:h-screen bg-opacity-50 bg-gray-600' : 'lg:w-12 lg:h-screen'
+        } z-10 transition-color duration-500`}
+      >
+        <button
+          onClick={toggleSidebar}
+          className={`bg-gray-800 flex text-white px-4 py-2 transition-all duration-500 ml-auto`}
+        >
+          {sidebarExpanded ? 'Collapse' : 'Expand'}
+        </button>
+        {/* Add your sidebar content here */}
+          <div className={`fixed p-4 transition-opacity duration-400 ${sidebarExpanded ? 'opacity-100': 'opacity-0'}`}>
+            <h2 className="text-xl font-bold mb-4">Sidebar Content</h2>
+            <p>Test</p>
+          </div>
+      </div>
+      <div className="flex-1 p-8">
+        <div>
+          <h1>File Upload</h1>
+          <button
+            onClick={defaultButtonPress}
+            className="upload-button"
+          >
+            Default Button
+          </button>
+          <div className="upload-section">
+            <Dropzone onDrop={handleDrop}>
+              {({ getRootProps, getInputProps }) => (
+                <div
+                  {...getRootProps()}
+                  className="dropzone"
+                >
+                  <input {...getInputProps()} />
+                  <p style={{ color: 'darkgray' }}>
+                    Drag & drop an image file here or click to select one
+                  </p>
+                </div>
+              )}
+            </Dropzone>
+          </div>
+
+          {uploadedFile !== null && (
+            <div>
+              <h2>Uploaded File: {uploadedFileName}</h2>
+              <button
+                onClick={uploadButtonPress}
+                className="upload-button"
+              >
+                Confirm uploaded images
+              </button>
+              {loading && (
+                <div className="loading-overlay">
+                  <div className="loading-spinner"></div>
+                  {/* Display translation progress */}
+                  <p>Translation Progress: {translationProgress}</p>
+                </div>
+              )}
+            </div>
+          )}
+        </div>
+
+        <div
+          style={{ position: 'absolute', width: '100%', height: '85%' }}
+          id="forgeViewer"
+        ></div>
+      </div>
     </div>
   );
 }
