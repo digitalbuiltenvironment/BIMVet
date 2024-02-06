@@ -1,14 +1,15 @@
 /* global Autodesk, THREE */
-import Client from './Auth';
+import Client from './Autodesk_Functions';
 
 var getToken = { accessToken: Client.getAccesstoken() };
 var viewer;
 
-export async function launchViewer(div, urn) {
+export function launchViewer(div, urn) {
   getToken.accessToken.then((token) => {
-    var options = { 
-      accessToken: token,
+    var options = {
+      accessToken: token.access_token,
       env: 'AutodeskProduction',
+      api: 'derivativeV2',
     };
     Autodesk.Viewing.Initializer(options, function () {
       var htmlDiv = div;
@@ -18,11 +19,6 @@ export async function launchViewer(div, urn) {
         console.error('Failed to create a Viewer: WebGL not supported.');
         return;
       }
-      console.log(token);
-
-      Client.createBucket(token.access_token).then((bucket) => {
-        console.log(bucket);
-      });
       console.log('Initialization complete, loading a model next...');
     });
 
