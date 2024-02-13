@@ -6,6 +6,8 @@ import { extractMetadata } from './GetMetadata';
 import Sidebar from '../components/Sidebar';
 import Dropzone from 'react-dropzone';
 import BackGroundComponent from '../components/BackGroundComponent';
+import { useTheme } from 'next-themes';
+import 'iconify-icon';
 import './custom.css';
 
 export default function Page() {
@@ -13,6 +15,9 @@ export default function Page() {
   const [uploadedFileBase64, setUploadedFileBase64] = useState<string>('');
   const [translationProgress, setTranslationProgress] =
     useState<string>('Loading...');
+  //Sidebar section
+  const [sidebarExpanded, setSidebarExpanded] = useState(false);
+  const [showPopup, setShowPopup] = useState(false);
 
   useEffect(() => {
     // Dynamically create the script element
@@ -60,6 +65,8 @@ export default function Page() {
   }, [uploadedFileBase64]);
 
   const defaultButtonPress = () => {
+    setShowPopup(false);
+    setSidebarExpanded(false);
     // Load in the previous model
     loadInViewer(
       'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltdmV0YnVja2V0L3Rlc3RvYmplY3QucnZ0'
@@ -90,6 +97,8 @@ export default function Page() {
   };
 
   const uploadButtonPress = () => {
+    setShowPopup(false);
+    setSidebarExpanded(false);
     setLoading(true);
     if (uploadedFile !== null) {
       uploadfilestobucket(uploadedFile, (progress) => {
@@ -106,8 +115,6 @@ export default function Page() {
         });
     }
   };
-  //Sidebar section
-  const [sidebarExpanded, setSidebarExpanded] = useState(false);
 
   const toggleSidebar = () => {
     setSidebarExpanded(!sidebarExpanded);
@@ -117,49 +124,107 @@ export default function Page() {
     return <div>Loading Scripts...</div>;
   }
 
+  const { theme, setTheme } = useTheme();
+
+  const togglePopup = () => {
+    setShowPopup(!showPopup);
+  };
+
+  const closePopup = () => {
+    setShowPopup(false);
+  };
+
   return (
     <BackGroundComponent>
-      <div className="flex h-screen">
+      {/* Popup */}
+      {showPopup && (
+        <div
+          className={`popup-overlay fadeIn`}
+          onClick={closePopup}
+        >
+          <div
+            className={`absolute fadeIn ${
+              theme === 'dark' ? 'popup-content-dark' : 'popup-content'
+            }`}
+            onClick={(e) => e.stopPropagation()}
+          >
+            <button
+              onClick={defaultButtonPress}
+              className="absolute top-0 left-2 upload-button"
+            >
+              Default Button
+            </button>
+
+            <div className="upload-section">
+              <button
+                className={`absolute top-2 right-2 text-2xl cursor-pointer ${
+                  theme === 'dark' ? 'text-white' : 'text-black'
+                }`}
+                onClick={closePopup}
+              >
+                <iconify-icon icon="zondicons:close-outline"></iconify-icon>
+              </button>
+              <div className="mt-12">
+                <Dropzone onDrop={handleDrop}>
+                  {({ getRootProps, getInputProps }) => (
+                    <div
+                      {...getRootProps()}
+                      className="dropzone"
+                    >
+                      <input {...getInputProps()} />
+                      <p
+                        className={`text-xl ${
+                          theme === 'dark' ? 'text-white' : 'text-black'
+                        }`}
+                      >
+                        Drag & drop a file here or click to select one
+                      </p>
+                    </div>
+                  )}
+                </Dropzone>
+                {uploadedFile !== null && (
+                  <div>
+                    <h2>Uploaded File: {uploadedFileName}</h2>
+                    <button
+                      onClick={uploadButtonPress}
+                      className="upload-button"
+                    >
+                      Confirm uploaded file
+                    </button>
+                  </div>
+                )}
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+
+      <div className="flex h-screen overflow-hidden">
         <Sidebar
           sidebarExpanded={sidebarExpanded}
           toggleSidebar={toggleSidebar}
         />
-        <div className="flex-1 p-8">
+        <div className="flex-1 p-2">
           <div>
-            <div className="flex-1 ml-2">
-              <h1>Checker</h1>
-              <button
-                onClick={defaultButtonPress}
-                className="upload-button"
+            <button
+              className="z-50 absolute top-5 right-5 cursor-pointer no-selection"
+              onClick={togglePopup}
+            >
+              <div
+                className={`flex items-center ml-2 text-4xl p-0.5 pr-2 border-2 rounded-md cursor-pointer no-selection ${
+                  theme === 'dark' ? 'border-white' : 'border-black'
+                }`}
               >
-                Default Button
-              </button>
-            </div>
-            <div className="upload-section">
-              <Dropzone onDrop={handleDrop}>
-                {({ getRootProps, getInputProps }) => (
-                  <div
-                    {...getRootProps()}
-                    className="dropzone"
-                  >
-                    <input {...getInputProps()} />
-                    <p style={{ color: 'darkgray' }}>
-                      Drag & drop an image file here or click to select one
-                    </p>
-                  </div>
-                )}
-              </Dropzone>
+                <iconify-icon icon="mdi:file-upload-outline"></iconify-icon>
+                <p className="text-base cursor-pointer">Upload</p>
+              </div>
+            </button>
+            <div className="flex-1 ml-2">
+              <h1 className="text-3xl opacity-90 font-bold mb-6">Checker</h1>
             </div>
 
             {uploadedFile !== null && !uploadedFileCompleted && (
               <div className="flex flex-col items-center justify-center mt-8">
-                <h2>Uploaded File: {uploadedFileName}</h2>
-                <button
-                  onClick={uploadButtonPress}
-                  className="upload-button"
-                >
-                  Confirm uploaded file
-                </button>
                 {loading && (
                   <div className="loading-overlay flex flex-col items-center">
                     <div className="loading-spinner"></div>
@@ -174,8 +239,9 @@ export default function Page() {
           <div
             style={{
               position: 'relative',
-              width: '100%',
-              height: '80%',
+              width: '98.5%',
+              height: '90%',
+              top: '1%',
               marginLeft: '10px',
             }}
           >

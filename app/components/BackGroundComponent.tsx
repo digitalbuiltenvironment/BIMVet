@@ -13,7 +13,7 @@ const BackGroundComponent: React.FC<BackGroundComponentProps> = ({
 
   // Define the class based on the theme
   const backgroundClass =
-    theme === 'light' ? 'background-gradient' : 'background-gradient-dark';
+    theme === 'light' ? 'background-gradient' : 'background-gradient-dark border-black';
 
   return <div className={`${backgroundClass}`}>{children}</div>;
 };
