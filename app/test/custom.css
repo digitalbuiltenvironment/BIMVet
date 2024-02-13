@@ -1,54 +1,61 @@
 /* styles.css */
 .upload-section {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-  }
-  
-  .dropzone {
-    border: 2px dashed #cccccc;
-    border-radius: 4px;
-    text-align: center;
-    padding: 20px;
-    cursor: pointer;
-    background-color: #f9f9f9;
-  }
-  
-  .dropzone p {
-    margin: 0;
-  }
-  
-  .upload-button {
-    margin-top: 10px;
-    background-color: #007bff;
-    color: #fff;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 4px;
-    cursor: pointer;
-    font-size: 18px;
-  }
-  
-  .upload-button:hover {
-    background-color: #0056b3;
-  }
-  
-  .image-preview {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-top: 20px;
-  }
-  
-  .image-list {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    gap: 10px;
-  }
-  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.no-selection {
+  -webkit-user-select: none !important; /* Disable text selection for Safari */
+  -moz-user-select: none !important; /* Disable text selection for Firefox */
+  -ms-user-select: none !important; /* Disable text selection for Microsoft browsers */
+  user-select: none !important; /* Disable text selection for modern browsers */
+}
+
+.dropzone {
+  border: 2px dashed #cccccc;
+  border-radius: 4px;
+  text-align: center;
+  padding: 20px;
+  cursor: pointer;
+  background-color: #f9f9f9;
+}
+
+.dropzone p {
+  margin: 0;
+}
+
+.upload-button {
+  margin-top: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+.upload-button:hover {
+  background-color: #0056b3;
+}
+
+.image-preview {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.image-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
 .image-container {
   position: relative;
   display: inline-block;
@@ -57,15 +64,15 @@
 
 .remove-button {
   position: absolute;
-  top: 5px; 
-  right: 5px; 
+  top: 5px;
+  right: 5px;
   background-color: red;
   color: white;
   border: none;
-  padding: 5px 8px; 
-  border-radius: 50%; 
+  padding: 5px 8px;
+  border-radius: 50%;
   cursor: pointer;
-  font-weight: bold; 
+  font-weight: bold;
 }
 
 .remove-button:hover {
@@ -98,8 +105,10 @@
 
 /* Spinning animation */
 @keyframes spin {
-  0% { transform: rotate(0deg); }
-  100% { transform: rotate(360deg); }
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
 }
-
-  

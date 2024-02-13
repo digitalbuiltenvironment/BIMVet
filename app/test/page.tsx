@@ -3,7 +3,9 @@ import React, { useEffect, useState } from 'react';
 import { launchViewer } from './ViewerFunctions';
 import { uploadfilestobucket } from './UploadFile';
 import { extractMetadata } from './GetMetadata';
+import Sidebar from '../components/Sidebar';
 import Dropzone from 'react-dropzone';
+import BackGroundComponent from '../components/BackGroundComponent';
 import './custom.css';
 
 export default function Page() {
@@ -116,100 +118,74 @@ export default function Page() {
   }
 
   return (
-    <div className="flex h-screen">
-      {/* Sidebar */}{' '}
-      <div
-        className={`transition-all ${
-          sidebarExpanded
-            ? 'lg:w-72 lg:h-screen bg-opacity-50 bg-gray-600'
-            : 'lg:w-12 lg:h-screen'
-        } z-10 transition-color duration-500`}
-      >
-        <button
-          onClick={toggleSidebar}
-          className={`bg-gray-800 flex text-white px-4 py-2 transition-all duration-500 ml-auto`}
-        >
-          {sidebarExpanded ? 'Collapse' : 'Expand'}
-        </button>
-        {/* Sidebar content */}
-        <div
-          className={`fixed p-4 transition-opacity duration-400 ${
-            sidebarExpanded ? 'opacity-100' : 'opacity-0'
-          } flex flex-col justify-between h-full`}
-        >
+    <BackGroundComponent>
+      <div className="flex h-screen">
+        <Sidebar
+          sidebarExpanded={sidebarExpanded}
+          toggleSidebar={toggleSidebar}
+        />
+        <div className="flex-1 p-8">
           <div>
-            <h2 className="text-xl font-bold mb-4">Sidebar Content</h2>
-            <p>Test</p>
-          </div>
-
-          <div className="mt-auto">
-            <div className="border-t pt-2 w-full">
-              <p className="pb-12">Bottom Content</p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div className="flex-1 p-8">
-        <div>
-          <div className="flex-1 ml-2">
-            <h1>Checker</h1>
-            <button
-              onClick={defaultButtonPress}
-              className="upload-button"
-            >
-              Default Button
-            </button>
-          </div>
-          <div className="upload-section">
-            <Dropzone onDrop={handleDrop}>
-              {({ getRootProps, getInputProps }) => (
-                <div
-                  {...getRootProps()}
-                  className="dropzone"
-                >
-                  <input {...getInputProps()} />
-                  <p style={{ color: 'darkgray' }}>
-                    Drag & drop an image file here or click to select one
-                  </p>
-                </div>
-              )}
-            </Dropzone>
-          </div>
-
-          {uploadedFile !== null && !uploadedFileCompleted && (
-            <div className="flex flex-col items-center justify-center mt-8">
-              <h2>Uploaded File: {uploadedFileName}</h2>
+            <div className="flex-1 ml-2">
+              <h1>Checker</h1>
               <button
-                onClick={uploadButtonPress}
+                onClick={defaultButtonPress}
                 className="upload-button"
               >
-                Confirm uploaded file
+                Default Button
               </button>
-              {loading && (
-                <div className="loading-overlay flex flex-col items-center">
-                  <div className="loading-spinner"></div>
-                  <p className="mt-4">
-                    Translation Progress: {translationProgress}
-                  </p>
-                </div>
-              )}
             </div>
-          )}
-        </div>
-        <div
-          style={{
-            position: 'relative',
-            width: '100%',
-            height: '85%',
-            marginLeft: '10px',
-          }}
-        >
+            <div className="upload-section">
+              <Dropzone onDrop={handleDrop}>
+                {({ getRootProps, getInputProps }) => (
+                  <div
+                    {...getRootProps()}
+                    className="dropzone"
+                  >
+                    <input {...getInputProps()} />
+                    <p style={{ color: 'darkgray' }}>
+                      Drag & drop an image file here or click to select one
+                    </p>
+                  </div>
+                )}
+              </Dropzone>
+            </div>
+
+            {uploadedFile !== null && !uploadedFileCompleted && (
+              <div className="flex flex-col items-center justify-center mt-8">
+                <h2>Uploaded File: {uploadedFileName}</h2>
+                <button
+                  onClick={uploadButtonPress}
+                  className="upload-button"
+                >
+                  Confirm uploaded file
+                </button>
+                {loading && (
+                  <div className="loading-overlay flex flex-col items-center">
+                    <div className="loading-spinner"></div>
+                    <p className="mt-4">
+                      Translation Progress: {translationProgress}
+                    </p>
+                  </div>
+                )}
+              </div>
+            )}
+          </div>
           <div
-            style={{ position: 'absolute', width: '100%', height: '100%' }}
-            id="forgeViewer"
-          ></div>
+            style={{
+              position: 'relative',
+              width: '100%',
+              height: '80%',
+              marginLeft: '10px',
+            }}
+          >
+            <div
+              style={{ position: 'absolute', width: '100%', height: '100%' }}
+              id="forgeViewer"
+            ></div>
+          </div>
         </div>
       </div>
-    </div>
+    </BackGroundComponent>
   );
 }
