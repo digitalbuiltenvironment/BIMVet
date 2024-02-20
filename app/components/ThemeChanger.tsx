@@ -7,7 +7,6 @@ const ThemeChanger: React.FC = () => {
 
   const toggleTheme = () => {
     setTheme(theme === 'light' ? 'dark' : 'light');
-    console.log(theme);
   };
 
   return (

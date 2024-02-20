@@ -22,7 +22,8 @@ const Sidebar: React.FC<SidebarProps> = ({
           : 'lg:w-12 lg:h-screen'
       }`}
       style={{
-        transitionProperty: 'width, height, margin, padding, opacity, background',
+        transitionProperty:
+          'width, height, margin, padding, opacity, background',
         transitionDuration: '0.35s',
         transitionTimingFunction: 'ease-in-out',
       }}
@@ -53,7 +54,7 @@ const Sidebar: React.FC<SidebarProps> = ({
           <ThemeChanger />
         </div>
         <div>
-          <h2 className="text-xl font-bold mb-4">Sidebar Content</h2>
+          <h2 className="text-xl font-bold mb-4">BIMVet</h2>
           <p
             className={`mb-2 border-b font-medium hover:font-bold hover:underline no-selection cursor-pointer ${
               theme === 'dark' ? 'border-white' : 'border-black'
@@ -66,7 +67,7 @@ const Sidebar: React.FC<SidebarProps> = ({
               theme === 'dark' ? 'border-white' : 'border-black'
             }`}
           >
-            Checker
+            Scope
           </p>
         </div>
         <div className="mt-auto">
