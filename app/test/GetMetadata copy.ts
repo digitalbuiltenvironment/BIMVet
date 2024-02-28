@@ -1,12 +1,16 @@
+// GetMetadata.ts
+import * as fs from 'fs/promises';
 import Client from './Autodesk_Functions';
+import DownloadCSV from './DownloadCSV.jsx'; // Make sure to provide the correct path
 
-export async function extractMetadata(urn: string): Promise<boolean> {
+export async function extractMetadata(urn: string): Promise<any> {
   try {
     let token = await Client.getAccesstoken(); // Get Autodesk API token
     const viewableObjects: Object = await Client.getAllViewables(
       token.access_token,
       urn
     ); // get all Viewables
+    const csvData: string[] = []; // Array to store CSV data
     for (const viewableObject of viewableObjects.data.metadata) {
       // Wait for 0.5 second before fetching another object properties
       await new Promise((resolve) => setTimeout(resolve, 500));
@@ -37,11 +41,24 @@ export async function extractMetadata(urn: string): Promise<boolean> {
           objectProperties = updatedObjectProperties;
         }
 
+        const csvRow = [
+          objectProperties.properties?.['Identity Data']?.Description || '',
+          objectProperties.properties?.['Materials and Finishes']?.[
+            'Structural Material'
+          ] || '',
+          objectProperties.properties?.['Identity Data']?.['Type Name'] || '',
+        ];
+
+        // Add the current row to CSV data array
+        csvData.push(csvRow.join(','));
+
         console.log(objectProperties); // Log the final objectProperties when the loop exits
       } catch (error) {
         console.error(error);
       }
     }
+
+    return <DownloadCSV csvData={csvData} />;
     return true;
   } catch (error) {
     console.log(error);
