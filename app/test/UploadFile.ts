@@ -12,7 +12,7 @@ export async function uploadfilestobucket(
     urn: string,
     counter: number = 0
   ): Promise<boolean> => {
-    if (counter === 200) {
+    if (counter === 550) {
       // Reset the token when the counter reaches 400
       token = await Client.getAccesstoken();
       console.log('Token reset.');

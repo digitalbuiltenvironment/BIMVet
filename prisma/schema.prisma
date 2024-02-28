@@ -1,0 +1,18 @@
+// schema.prisma
+
+// Define your User model
+model User {
+  id    String  @id @unique
+  name  String?
+}
+
+// Generator and Datasource configuration
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider     = "mysql"
+  url          = env("NEXT_PUBLIC_DATABASE_URL")
+  relationMode = "prisma"
+}
