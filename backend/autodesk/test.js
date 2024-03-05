@@ -1,4 +1,5 @@
 const fs = require('fs');
+const util = require('util');
 
 async function getAccesstoken() {
   return new Promise((resolve, reject) => {
@@ -87,12 +88,133 @@ async function getAllViewableProperties(accessToken, urlSafeUrn, viewableGuid) {
     throw error;
   }
 }
+async function sortMetadata(metadata) {
+  let folderStructureData = {};
+  let newObjectGroup = {};
+  let newObjectGroupList = [];
+  let modelObject = {};
+  let modelObjectList = [];
+  let modelHigherObjectLevel = {};
+  let finalLayerFlag = false;
+  for (let i = 0; i < metadata.length; i++) {
+    try {
+      if (/\[.*\]/.test(metadata[i].name)) {
+        // checkes if the string contains brackets with content in between
+        // console.log("The string contains brackets with content in between");
+      } else {
+        throw new Error(
+          'The string does not contain brackets with content in between'
+        );
+      }
+      const objectAssemblyCode =
+        metadata[i].properties['Identity Data']['Assembly Code'];
+      const objectAssemblyDescription =
+        metadata[i].properties['Identity Data']['Assembly Description'];
+      const objectDescription =
+        metadata[i].properties['Identity Data']['Description'];
+      const objectTypeComment =
+        metadata[i].properties['Identity Data']['Type Comments'];
+      const objectTypeName =
+        metadata[i].properties['Identity Data']['Type Name'];
+      const objectStructuralMaterials =
+        metadata[i].properties['Materials and Finishes']['Structural Material'];
+      const objectMaterials =
+        metadata[i].properties['Materials and Finishes']['Material'];
+      modelObject = {
+        name: metadata[i].name,
+        properties: {
+          'Assembly Code': objectAssemblyCode,
+          'Assembly Description': objectAssemblyDescription,
+          Description: objectDescription,
+          'Type Comments': objectTypeComment,
+          'Type Name': objectTypeName,
+          'Structural Material': objectStructuralMaterials,
+          Material: objectMaterials,
+        },
+      };
+
+      // console.log(modelObject);
+      // // wait for 1 second before fetching the next object
+      // await new Promise((resolve) => setTimeout(resolve, 1000));
+
+      modelObjectList.push(modelObject);
+
+      // [metadata[i].properties['Identity Data']['Description'] || '']
+      // // objectProperties.data.collection[i].properties?.['Materials and Finishes']['Structural Material'] || '',
+      // [metadata[i].properties?.['Identity Data']['Type Name'] || '']
+
+      // console.log(metadata[i].name);
+      // console.log(modelObjectList);
+    } catch (error) {
+      // Find the folder structure
+      const folderName = metadata[i].name;
+      const folderProp = metadata[i].properties;
+      const folderObjectID = metadata[i].objectid;
+
+      if (Object.keys(folderProp).length <= 0 && folderObjectID < 2000) {
+        if (Object.keys(modelHigherObjectLevel).length > 0) {
+          newObjectGroup = { [folderName]: modelHigherObjectLevel };
+        } else if (newObjectGroupList.length > 0) {
+          newObjectGroup = { [folderName]: newObjectGroupList };
+        } else if (Object.keys(newObjectGroup).length <= 0) {
+          newObjectGroup = { [folderName]: modelObjectList };
+        }
+        folderStructureData = {
+          ...folderStructureData,
+          ...newObjectGroup,
+        };
+        newObjectGroup = {};
+        newObjectGroupList = [];
+        modelHigherObjectLevel = {};
+      } else {
+        // console.log(folderName);
+        if (modelObjectList <= 0) {
+          // console.log(folderName);
+          modelHigherObjectLevel = {
+            ...modelHigherObjectLevel,
+            [folderName]: newObjectGroupList,
+          };
+          newObjectGroupList = [];
+        } else {
+          newObjectGroup = { [folderName]: modelObjectList };
+          newObjectGroupList.push(newObjectGroup);
+        }
+
+        // console.log(newObjectGroup);
+        // console.log(folderName);
+        // console.error(error);
+      }
+      modelObjectList = [];
+    }
+    // await new Promise((resolve) => setTimeout(resolve, 100));
+  }
+  // console.log(folderStructureData);
+
+  const jsonString = JSON.stringify(folderStructureData, null, 2);
+  const fileName = 'output.json';
+
+  fs.writeFile(fileName, jsonString, 'utf8', (err) => {
+    if (err) {
+      console.error('Error writing to file:', err);
+    } else {
+      console.log('Object written to', fileName);
+    }
+  });
+}
+
 async function extractMetadata(urn) {
   try {
     let token = await getAccesstoken(); // Get Autodesk API token
-    console.log(token);
+    // console.log(token);
     const viewableObjects = await getAllViewables(token.access_token, urn); // get all Viewables
-    const csvData = []; // Array to store CSV data
+    const viewableObject = viewableObjects.data.metadata[0];
+
+    // Wait for 0.5 second before fetching another object properties
+    await new Promise((resolve) => setTimeout(resolve, 500));
+    const objectName = viewableObject.name;
+    const objectRole = viewableObject.role;
+    const objectGUID = viewableObject.guid;
+
     for (const viewableObject of viewableObjects.data.metadata) {
       // Wait for 0.5 second before fetching another object properties
       await new Promise((resolve) => setTimeout(resolve, 500));
@@ -105,7 +227,8 @@ async function extractMetadata(urn) {
           urn,
           objectGUID
         );
-
+        // console.log(objectName);
+        // console.log(objectProperties);
         while (objectProperties.result === 'success') {
           console.log(`Extracting ${objectName} metadata...`);
 
@@ -122,20 +245,11 @@ async function extractMetadata(urn) {
           // Update objectProperties for the next iteration
           objectProperties = updatedObjectProperties;
         }
-        console.log(objectProperties);
-        let csvRow = [];
-        for (let i = 0; i < objectProperties.data.collection.length; i++) {
-         console.log(objectProperties.data.collection[i].properties['Identity Data']);
-          csvRow = [
-            objectProperties.data.collection[i].properties['Identity Data'].Description || '',
-            // objectProperties.data.collection[i].properties?.['Materials and Finishes']['Structural Material'] || '',
-            objectProperties.data.collection[i].properties?.['Identity Data']['Type Name'] || '',
-          ];
-            csvData.push(csvRow.join(','));
-        }
+        // console.log(objectProperties);
+        const csvData = sortMetadata(objectProperties.data.collection);
 
         // Add the current row to CSV data array
-        console.log(csvData)
+        // console.log(csvData);
 
         // console.log(objectProperties.data.collection); // Log the final objectProperties when the loop exits
       } catch (error) {
@@ -144,7 +258,7 @@ async function extractMetadata(urn) {
     }
     // Write CSV data to a file
     const csvFilePath = 'output.csv';
-    fs.writeFileSync(csvFilePath, csvData.join('\n'));
+    // fs.writeFileSync(csvFilePath, csvData.join('\n'));
     return true;
   } catch (error) {
     console.log(error);
