@@ -14,6 +14,7 @@
     "@nextui-org/react": "^2.2.9",
     "@prisma/client": "^5.9.1",
     "@supabase/supabase-js": "^2.39.1",
+    "csv-writer": "^1.6.0",
     "dotenv": "^16.4.1",
     "forge-apis": "^0.9.8",
     "fs-extra": "^11.2.0",

@@ -1,5 +1,5 @@
 const fs = require('fs');
-const createCsvWriter = require('csv-writer').createObjectCsvWriter;
+const util = require('util');
 
 async function getAccesstoken() {
   return new Promise((resolve, reject) => {
@@ -202,123 +202,6 @@ async function sortMetadata(metadata) {
   // });
 }
 
-function convertToCSV(jsonData) {
-  const csvArray = [
-    [
-      'Family',
-      'SubFamily',
-      'ObjectGroup',
-      'ObjectName',
-      'Assembly Code',
-      'Assembly Description',
-      'Description',
-      'Type Comments',
-      'Type Name',
-      'Structural Material',
-      'Material',
-    ],
-  ];
-  for (let i = 0; i < jsonData.length; i++) {
-    // Header row
-    const familyName = Object.keys(jsonData[i]).reduce((acc, key) => {
-      // console.log(key);
-      // console.log(jsonData[key]);
-      for (let l = 0; l < Object.keys(jsonData[i][key]).length; l++) {
-        const innerKey = Object.keys(jsonData[i][key])[l];
-        if (/\[.*\]/.test(innerKey)) {
-          csvArray.push([
-            key,
-            '',
-            '',
-            innerKey,
-            '',
-            '',
-            '',
-            '',
-            '',
-            '',
-            '',
-            '',
-          ]);
-        } else {
-          const subFamilyGroup = jsonData[i][key][innerKey];
-          for (let j = 0; j < subFamilyGroup.length; j++) {
-            // Get ObjectGroup
-            const objectGroupArray = subFamilyGroup[j];
-            const objectSubGroup = Object.keys(objectGroupArray);
-            for (let k = 0; k < objectSubGroup.length; k++) {
-              const objectGroup = objectSubGroup[k];
-              const objectValue = Object.values(objectGroupArray)[k];
-              for (let m = 0; m < objectValue.length; m++) {
-                const objectName = objectValue[m].name;
-                const objectProperties = objectValue[m].properties;
-                let objectAssemblyCode = '';
-                let objectAssemblyDescription = '';
-                let objectDescription = '';
-                let objectTypeComments = '';
-                let objectTypeName = '';
-                let objectStructuralMaterial = '';
-                let objectMaterial = '';
-                try {
-                  objectAssemblyCode = objectProperties['Assembly Code'];
-                } catch {
-                  objectAssemblyCode = '';
-                }
-                try {
-                  objectAssemblyDescription =
-                    objectProperties['Assembly Description'];
-                } catch {
-                  objectAssemblyDescription = '';
-                }
-                try {
-                  objectDescription = objectProperties.Description;
-                } catch {
-                  objectDescription = '';
-                }
-                try {
-                  objectTypeComments = objectProperties['Type Comments'];
-                } catch {
-                  objectTypeComments = '';
-                }
-                try {
-                  objectTypeName = objectProperties['Type Name'];
-                } catch {
-                  objectTypeName = '';
-                }
-                try {
-                  objectStructuralMaterial =
-                    objectProperties['Structural Material'];
-                } catch {
-                  objectStructuralMaterial = '';
-                }
-                try {
-                  objectMaterial = objectProperties.Material;
-                } catch {
-                  objectMaterial = '';
-                }
-                csvArray.push([
-                  key,
-                  innerKey,
-                  objectGroup,
-                  objectName,
-                  objectAssemblyCode,
-                  objectAssemblyDescription,
-                  objectDescription,
-                  objectTypeComments,
-                  objectTypeName,
-                  objectStructuralMaterial,
-                  objectMaterial,
-                ]);
-              }
-            }
-          }
-        }
-      }
-    }, []);
-  }
-  return csvArray;
-}
-
 async function extractMetadata(urn) {
   try {
     let token = await getAccesstoken(); // Get Autodesk API token
@@ -371,17 +254,11 @@ async function extractMetadata(urn) {
       }
     }
     const test2 = convertToCSV(allObjects);
+    console.log(test2);
+    const csvArray = [['Family', 'SubFamily', 'ObjectGroup', 'ObjectName', 'Assembly Code', 'Assembly Description', 'Description', 'Type Comments', 'Type Name', 'Structural Material', 'Material']];
     // Write CSV data to a file
-    // Convert data to CSV format
-    const csvContent = test2.map((row) => row.join(',')).join('\n');
-
-    // Specify the file path
-    const filePath = 'output.csv';
-
-    // Write to the CSV file
-    fs.writeFileSync(filePath, csvContent, 'utf-8');
-
-    console.log(`CSV file saved at: ${filePath}`);
+    const csvFilePath = 'output.csv';
+    // fs.writeFileSync(csvFilePath, csvData.join('\n'));
     return true;
   } catch (error) {
     console.log(error);
