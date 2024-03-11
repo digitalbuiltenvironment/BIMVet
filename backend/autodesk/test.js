@@ -225,94 +225,121 @@ function convertToCSV(jsonData) {
       // console.log(jsonData[key]);
       for (let l = 0; l < Object.keys(jsonData[i][key]).length; l++) {
         const innerKey = Object.keys(jsonData[i][key])[l];
-        if (/\[.*\]/.test(innerKey)) {
-          csvArray.push([
-            key,
-            '',
-            '',
-            innerKey,
-            '',
-            '',
-            '',
-            '',
-            '',
-            '',
-            '',
-            '',
-          ]);
-        } else {
-          const subFamilyGroup = jsonData[i][key][innerKey];
-          for (let j = 0; j < subFamilyGroup.length; j++) {
-            // Get ObjectGroup
-            const objectGroupArray = subFamilyGroup[j];
-            const objectSubGroup = Object.keys(objectGroupArray);
-            for (let k = 0; k < objectSubGroup.length; k++) {
-              const objectGroup = objectSubGroup[k];
-              const objectValue = Object.values(objectGroupArray)[k];
-              for (let m = 0; m < objectValue.length; m++) {
-                const objectName = objectValue[m].name;
-                const objectProperties = objectValue[m].properties;
-                let objectAssemblyCode = '';
-                let objectAssemblyDescription = '';
-                let objectDescription = '';
-                let objectTypeComments = '';
-                let objectTypeName = '';
-                let objectStructuralMaterial = '';
-                let objectMaterial = '';
-                try {
-                  objectAssemblyCode = objectProperties['Assembly Code'];
-                } catch {
-                  objectAssemblyCode = '';
+        try{
+          if (/\[.*\]/.test(innerKey)) {
+            csvArray.push([
+              key,
+              '',
+              '',
+              innerKey,
+              '',
+              '',
+              '',
+              '',
+              '',
+              '',
+              '',
+              '',
+            ]);
+          } else {
+            const subFamilyGroup = jsonData[i][key][innerKey];
+            for (let j = 0; j < subFamilyGroup.length; j++) {
+              // Get ObjectGroup
+              const objectGroupArray = subFamilyGroup[j];
+              const objectSubGroup = Object.keys(objectGroupArray);
+              for (let k = 0; k < objectSubGroup.length; k++) {
+                const objectGroup = objectSubGroup[k];
+                const objectValue = Object.values(objectGroupArray)[k];
+                for (let m = 0; m < objectValue.length; m++) {
+                  const objectName = objectValue[m].name;
+                  const objectProperties = objectValue[m].properties;
+                  let objectAssemblyCode = '';
+                  let objectAssemblyDescription = '';
+                  let objectDescription = '';
+                  let objectTypeComments = '';
+                  let objectTypeName = '';
+                  let objectStructuralMaterial = '';
+                  let objectMaterial = '';
+                  try {
+                    objectAssemblyCode = objectProperties['Assembly Code'];
+                    if (typeof objectAssemblyCode === 'undefined') {
+                      objectAssemblyCode = '';
+                    }
+                  } catch {
+                    objectAssemblyCode = '';
+                  }
+                  try {
+                    objectAssemblyDescription =
+                      objectProperties['Assembly Description'];
+                    if (typeof objectAssemblyDescription === 'undefined') {
+                      objectAssemblyDescription = '';
+                    }
+                  } catch {
+                    objectAssemblyDescription = '';
+                  }
+                  try {
+                    objectDescription = objectProperties.Description;
+                    if (typeof objectDescription === 'undefined') {
+                      objectDescription = '';
+                    }
+                  } catch {
+                    objectDescription = '';
+                  }
+                  try {
+                    objectTypeComments = objectProperties['Type Comments'];
+                    if (typeof objectTypeComments === 'undefined') {
+                      objectTypeComments = '';
+                    }
+                  } catch {
+                    objectTypeComments = '';
+                  }
+                  try {
+                    objectTypeName = objectProperties['Type Name'];
+                    if (typeof objectTypeName === 'undefined') {
+                      objectTypeName = '';
+                    }
+                  } catch {
+                    objectTypeName = '';
+                  }
+                  try {
+                    objectStructuralMaterial =
+                      objectProperties['Structural Material'];
+                    if (typeof objectStructuralMaterial === 'undefined') {
+                      objectStructuralMaterial = '';
+                    }
+                  } catch {
+                    objectStructuralMaterial = '';
+                  }
+                  try {
+                    objectMaterial = objectProperties.Material;
+                    if (typeof objectMaterial === 'undefined') {
+                      objectMaterial = '';
+                    }
+                  } catch {
+                    objectMaterial = '';
+                  }
+                  csvArray.push([
+                    key,
+                    innerKey,
+                    objectGroup,
+                    objectName,
+                    objectAssemblyCode,
+                    objectAssemblyDescription,
+                    objectDescription,
+                    objectTypeComments,
+                    objectTypeName,
+                    objectStructuralMaterial,
+                    objectMaterial,
+                  ]);
                 }
-                try {
-                  objectAssemblyDescription =
-                    objectProperties['Assembly Description'];
-                } catch {
-                  objectAssemblyDescription = '';
-                }
-                try {
-                  objectDescription = objectProperties.Description;
-                } catch {
-                  objectDescription = '';
-                }
-                try {
-                  objectTypeComments = objectProperties['Type Comments'];
-                } catch {
-                  objectTypeComments = '';
-                }
-                try {
-                  objectTypeName = objectProperties['Type Name'];
-                } catch {
-                  objectTypeName = '';
-                }
-                try {
-                  objectStructuralMaterial =
-                    objectProperties['Structural Material'];
-                } catch {
-                  objectStructuralMaterial = '';
-                }
-                try {
-                  objectMaterial = objectProperties.Material;
-                } catch {
-                  objectMaterial = '';
-                }
-                csvArray.push([
-                  key,
-                  innerKey,
-                  objectGroup,
-                  objectName,
-                  objectAssemblyCode,
-                  objectAssemblyDescription,
-                  objectDescription,
-                  objectTypeComments,
-                  objectTypeName,
-                  objectStructuralMaterial,
-                  objectMaterial,
-                ]);
               }
             }
           }
         }
+        catch (error) {
+          console.log(error);
+        }
+        
       }
     }, []);
   }
@@ -324,7 +351,6 @@ async function extractMetadata(urn) {
     let token = await getAccesstoken(); // Get Autodesk API token
     // console.log(token);
     const viewableObjects = await getAllViewables(token.access_token, urn); // get all Viewables
-    const viewableObject = viewableObjects.data.metadata[0];
     const allObjects = [];
 
     for (const viewableObject of viewableObjects.data.metadata) {
@@ -333,6 +359,7 @@ async function extractMetadata(urn) {
       const objectName = viewableObject.name;
       const objectRole = viewableObject.role;
       const objectGUID = viewableObject.guid;
+      // console.log(objectName, objectRole);
       try {
         let objectProperties = await getAllViewableProperties(
           token.access_token,
@@ -345,7 +372,7 @@ async function extractMetadata(urn) {
           console.log(`Extracting ${objectName} metadata...`);
 
           // Wait for 1 second before fetching object properties
-          await new Promise((resolve) => setTimeout(resolve, 1000));
+          await new Promise((resolve) => setTimeout(resolve, 500));
 
           // Fetch object properties again inside the loop
           const updatedObjectProperties = await Client.getAllViewableProperties(
@@ -373,7 +400,9 @@ async function extractMetadata(urn) {
     const test2 = convertToCSV(allObjects);
     // Write CSV data to a file
     // Convert data to CSV format
-    const csvContent = test2.map((row) => row.join(',')).join('\n');
+    const csvContent = test2
+      .map((row) => row.map((col) => `"${col}"`).join(','))
+      .join('\n');
 
     // Specify the file path
     const filePath = 'output.csv';
