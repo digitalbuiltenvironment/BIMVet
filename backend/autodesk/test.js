@@ -218,128 +218,197 @@ function convertToCSV(jsonData) {
       'Material',
     ],
   ];
+  const MCRFamily = [
+    'Casework',
+    'Doors',
+    'Glass Doors',
+    'Floors',
+    'Floors/Ramps',
+    'Slab Edges',
+    'Railing',
+    'Roofs',
+    'Roofs (Sloped Glazing)',
+    'Fascias',
+    'Gutters',
+    'Specialty Equipment',
+    'Staircase',
+    'Walls',
+    'Curtain Walls',
+    'Generic Model',
+    'Windows',
+    'Generic Models',
+    'Columns',
+    'Structural Columns',
+    'Structural Framing (Others)',
+    'Structural Framing (Horizontal Bracing)',
+    'Structural Framing (Girders)',
+    'Structural Framing (Purlins)',
+    'Cable Tray with Fittings',
+    'Cable Tray Fittings',
+    'Cable Trays Fittings',
+    'Pipes',
+    'Pipe Fittings',
+    'Generic Model',
+    'Wire',
+    'Conduit with Fittings',
+    'Conduits Fittings',
+    'Ducts',
+    'Duct Fittings',
+    'Cable Trays',
+    'Electrical Equipment',
+    'Mechanical Equipment',
+    'Electrical Fixtures',
+    'Air Terminals',
+    'Pipe Accessories',
+    'Duct Accessories',
+    'Lighting Devices',
+    'Generic Model (Surface Mounted)',
+    'Rooms',
+    'Areas - GFA',
+    'Areas - NLA',
+    'Spaces',
+    'Area',
+    'Rooms',
+    'Planting',
+    'Fixtures',
+    'Room',
+    'Spaces',
+    'Furniture',
+    'Plumbing Fixtures',
+    'Specialty Equipment',
+    'Lighting Fixtures',
+    'Fire Alarm Devices',
+    'Structural Framing',
+    'Structural Foundations',
+    'Parking',
+    'Data Devices',
+    'Site',
+  ];
   for (let i = 0; i < jsonData.length; i++) {
     // Header row
     const familyName = Object.keys(jsonData[i]).reduce((acc, key) => {
       // console.log(key);
       // console.log(jsonData[key]);
-      for (let l = 0; l < Object.keys(jsonData[i][key]).length; l++) {
-        const innerKey = Object.keys(jsonData[i][key])[l];
-        try{
-          if (/\[.*\]/.test(innerKey)) {
-            csvArray.push([
-              key,
-              '',
-              '',
-              innerKey,
-              '',
-              '',
-              '',
-              '',
-              '',
-              '',
-              '',
-              '',
-            ]);
-          } else {
-            const subFamilyGroup = jsonData[i][key][innerKey];
-            for (let j = 0; j < subFamilyGroup.length; j++) {
-              // Get ObjectGroup
-              const objectGroupArray = subFamilyGroup[j];
-              const objectSubGroup = Object.keys(objectGroupArray);
-              for (let k = 0; k < objectSubGroup.length; k++) {
-                const objectGroup = objectSubGroup[k];
-                const objectValue = Object.values(objectGroupArray)[k];
-                for (let m = 0; m < objectValue.length; m++) {
-                  const objectName = objectValue[m].name;
-                  const objectProperties = objectValue[m].properties;
-                  let objectAssemblyCode = '';
-                  let objectAssemblyDescription = '';
-                  let objectDescription = '';
-                  let objectTypeComments = '';
-                  let objectTypeName = '';
-                  let objectStructuralMaterial = '';
-                  let objectMaterial = '';
-                  try {
-                    objectAssemblyCode = objectProperties['Assembly Code'];
-                    if (typeof objectAssemblyCode === 'undefined') {
+      if (MCRFamily.includes(key)) {
+        for (let l = 0; l < Object.keys(jsonData[i][key]).length; l++) {
+          const innerKey = Object.keys(jsonData[i][key])[l];
+          try {
+            if (/\[.*\]/.test(innerKey)) {
+              csvArray.push([
+                key,
+                '',
+                '',
+                innerKey,
+                '',
+                '',
+                '',
+                '',
+                '',
+                '',
+                '',
+                '',
+              ]);
+            } else {
+              const subFamilyGroup = jsonData[i][key][innerKey];
+              for (let j = 0; j < subFamilyGroup.length; j++) {
+                // Get ObjectGroup
+                const objectGroupArray = subFamilyGroup[j];
+                const objectSubGroup = Object.keys(objectGroupArray);
+                for (let k = 0; k < objectSubGroup.length; k++) {
+                  const objectGroup = objectSubGroup[k];
+                  const objectValue = Object.values(objectGroupArray)[k];
+                  for (let m = 0; m < objectValue.length; m++) {
+                    const objectName = objectValue[m].name;
+                    const objectProperties = objectValue[m].properties;
+                    let objectAssemblyCode = '';
+                    let objectAssemblyDescription = '';
+                    let objectDescription = '';
+                    let objectTypeComments = '';
+                    let objectTypeName = '';
+                    let objectStructuralMaterial = '';
+                    let objectMaterial = '';
+                    try {
+                      objectAssemblyCode = objectProperties['Assembly Code'];
+                      if (typeof objectAssemblyCode === 'undefined') {
+                        objectAssemblyCode = '';
+                      }
+                    } catch {
                       objectAssemblyCode = '';
                     }
-                  } catch {
-                    objectAssemblyCode = '';
-                  }
-                  try {
-                    objectAssemblyDescription =
-                      objectProperties['Assembly Description'];
-                    if (typeof objectAssemblyDescription === 'undefined') {
+                    try {
+                      objectAssemblyDescription =
+                        objectProperties['Assembly Description'];
+                      if (typeof objectAssemblyDescription === 'undefined') {
+                        objectAssemblyDescription = '';
+                      }
+                    } catch {
                       objectAssemblyDescription = '';
                     }
-                  } catch {
-                    objectAssemblyDescription = '';
-                  }
-                  try {
-                    objectDescription = objectProperties.Description;
-                    if (typeof objectDescription === 'undefined') {
+                    try {
+                      objectDescription = objectProperties.Description;
+                      if (typeof objectDescription === 'undefined') {
+                        objectDescription = '';
+                      }
+                    } catch {
                       objectDescription = '';
                     }
-                  } catch {
-                    objectDescription = '';
-                  }
-                  try {
-                    objectTypeComments = objectProperties['Type Comments'];
-                    if (typeof objectTypeComments === 'undefined') {
+                    try {
+                      objectTypeComments = objectProperties['Type Comments'];
+                      if (typeof objectTypeComments === 'undefined') {
+                        objectTypeComments = '';
+                      }
+                    } catch {
                       objectTypeComments = '';
                     }
-                  } catch {
-                    objectTypeComments = '';
-                  }
-                  try {
-                    objectTypeName = objectProperties['Type Name'];
-                    if (typeof objectTypeName === 'undefined') {
+                    try {
+                      objectTypeName = objectProperties['Type Name'];
+                      if (typeof objectTypeName === 'undefined') {
+                        objectTypeName = '';
+                      }
+                    } catch {
                       objectTypeName = '';
                     }
-                  } catch {
-                    objectTypeName = '';
-                  }
-                  try {
-                    objectStructuralMaterial =
-                      objectProperties['Structural Material'];
-                    if (typeof objectStructuralMaterial === 'undefined') {
+                    try {
+                      objectStructuralMaterial =
+                        objectProperties['Structural Material'];
+                      if (typeof objectStructuralMaterial === 'undefined') {
+                        objectStructuralMaterial = '';
+                      }
+                    } catch {
                       objectStructuralMaterial = '';
                     }
-                  } catch {
-                    objectStructuralMaterial = '';
-                  }
-                  try {
-                    objectMaterial = objectProperties.Material;
-                    if (typeof objectMaterial === 'undefined') {
+                    try {
+                      objectMaterial = objectProperties.Material;
+                      if (typeof objectMaterial === 'undefined') {
+                        objectMaterial = '';
+                      }
+                    } catch {
                       objectMaterial = '';
                     }
-                  } catch {
-                    objectMaterial = '';
+                    csvArray.push([
+                      key,
+                      innerKey,
+                      objectGroup,
+                      objectName,
+                      objectAssemblyCode,
+                      objectAssemblyDescription,
+                      objectDescription,
+                      objectTypeComments,
+                      objectTypeName,
+                      objectStructuralMaterial,
+                      objectMaterial,
+                    ]);
                   }
-                  csvArray.push([
-                    key,
-                    innerKey,
-                    objectGroup,
-                    objectName,
-                    objectAssemblyCode,
-                    objectAssemblyDescription,
-                    objectDescription,
-                    objectTypeComments,
-                    objectTypeName,
-                    objectStructuralMaterial,
-                    objectMaterial,
-                  ]);
                 }
               }
             }
+          } catch (error) {
+            console.log(error);
           }
         }
-        catch (error) {
-          console.log(error);
-        }
-        
+      }
+      else {
+        console.log(key);
       }
     }, []);
   }
