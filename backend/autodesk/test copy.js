@@ -26,7 +26,6 @@ async function getAccesstoken() {
     })
       .then((response) => response.json())
       .then((data) => {
-        // console.log('Token response:', data);
         resolve(data); // Resolve the promise with the token data
       })
       .catch((error) => {
@@ -54,7 +53,6 @@ async function getAllViewables(accessToken, urlSafeUrn) {
     }
 
     const responseData = await response.json();
-    // console.log('Metadata response:', responseData);
     return responseData;
   } catch (error) {
     console.error('Error getting metadata:', error.message);
@@ -80,7 +78,6 @@ async function getAllViewableProperties(accessToken, urlSafeUrn, viewableGuid) {
     }
 
     const responseData = await response.json();
-    // console.log('Viewable properties response:', responseData);
     return responseData;
   } catch (error) {
     console.error('Error getting viewable properties:', error.message);
@@ -97,8 +94,6 @@ async function sortMetadata(metadata) {
   for (let i = 0; i < metadata.length; i++) {
     try {
       if (/\[.*\]/.test(metadata[i].name)) {
-        // checkes if the string contains brackets with content in between
-        // console.log("The string contains brackets with content in between");
       } else {
         throw new Error(
           'The string does not contain brackets with content in between'
@@ -131,18 +126,7 @@ async function sortMetadata(metadata) {
         },
       };
 
-      // console.log(modelObject);
-      // // wait for 1 second before fetching the next object
-      // await new Promise((resolve) => setTimeout(resolve, 1000));
-
       modelObjectList.push(modelObject);
-
-      // [metadata[i].properties['Identity Data']['Description'] || '']
-      // // objectProperties.data.collection[i].properties?.['Materials and Finishes']['Structural Material'] || '',
-      // [metadata[i].properties?.['Identity Data']['Type Name'] || '']
-
-      // console.log(metadata[i].name);
-      // console.log(modelObjectList);
     } catch (error) {
       // Find the folder structure
       const folderName = metadata[i].name;
@@ -165,9 +149,7 @@ async function sortMetadata(metadata) {
         newObjectGroupList = [];
         modelHigherObjectLevel = {};
       } else {
-        // console.log(folderName);
         if (modelObjectList <= 0) {
-          // console.log(folderName);
           modelHigherObjectLevel = {
             ...modelHigherObjectLevel,
             [folderName]: newObjectGroupList,
@@ -177,28 +159,13 @@ async function sortMetadata(metadata) {
           newObjectGroup = { [folderName]: modelObjectList };
           newObjectGroupList.push(newObjectGroup);
         }
-
-        // console.log(newObjectGroup);
-        // console.log(folderName);
-        // console.error(error);
       }
       modelObjectList = [];
     }
-    // await new Promise((resolve) => setTimeout(resolve, 100));
   }
-  // console.log(folderStructureData);
 
   const jsonString = JSON.stringify(folderStructureData, null, 2);
   return folderStructureData;
-  // const fileName = 'output.json';
-
-  // fs.writeFile(fileName, jsonString, 'utf8', (err) => {
-  //   if (err) {
-  //     console.error('Error writing to file:', err);
-  //   } else {
-  //     console.log('Object written to', fileName);
-  //   }
-  // });
 }
 
 function convertToCSV(jsonData) {
@@ -208,7 +175,6 @@ function convertToCSV(jsonData) {
       'SubFamily',
       'ObjectGroup',
       'ObjectName',
-      'ObjectID',
       'Assembly Code',
       'Assembly Description',
       'Description',
@@ -287,22 +253,16 @@ function convertToCSV(jsonData) {
   for (let i = 0; i < jsonData.length; i++) {
     // Header row
     const familyName = Object.keys(jsonData[i]).reduce((acc, key) => {
-      // console.log(key);
-      // console.log(jsonData[key]);
       if (MCRFamily.includes(key)) {
         for (let l = 0; l < Object.keys(jsonData[i][key]).length; l++) {
           const innerKey = Object.keys(jsonData[i][key])[l];
           try {
-            const innerKeyNameID = innerKey.split(' [');
-            const innerKeyName = innerKeyNameID[0];
-            const innerKeyID = "["+innerKeyNameID[1];
             if (/\[.*\]/.test(innerKey)) {
               csvArray.push([
                 key,
                 '',
                 '',
-                innerKeyName,
-                innerKeyID,
+                innerKey,
                 '',
                 '',
                 '',
@@ -322,9 +282,7 @@ function convertToCSV(jsonData) {
                   const objectGroup = objectSubGroup[k];
                   const objectValue = Object.values(objectGroupArray)[k];
                   for (let m = 0; m < objectValue.length; m++) {
-                    const objectNameID = objectValue[m].name.split(' [');
-                    const objectName = objectNameID[0];
-                    const objectID = "["+objectNameID[1];
+                    const objectName = objectValue[m].name;
                     const objectProperties = objectValue[m].properties;
                     let objectAssemblyCode = '';
                     let objectAssemblyDescription = '';
@@ -396,7 +354,6 @@ function convertToCSV(jsonData) {
                       innerKey,
                       objectGroup,
                       objectName,
-                      objectID,
                       objectAssemblyCode,
                       objectAssemblyDescription,
                       objectDescription,
@@ -413,8 +370,7 @@ function convertToCSV(jsonData) {
             console.log(error);
           }
         }
-      }
-      else {
+      } else {
         console.log(key);
       }
     }, []);
@@ -425,25 +381,20 @@ function convertToCSV(jsonData) {
 async function extractMetadata(urn) {
   try {
     let token = await getAccesstoken(); // Get Autodesk API token
-    // console.log(token);
     const viewableObjects = await getAllViewables(token.access_token, urn); // get all Viewables
     const allObjects = [];
 
     for (const viewableObject of viewableObjects.data.metadata) {
-      // Wait for 0.5 second before fetching another object properties
       await new Promise((resolve) => setTimeout(resolve, 500));
       const objectName = viewableObject.name;
       const objectRole = viewableObject.role;
       const objectGUID = viewableObject.guid;
-      // console.log(objectName, objectRole);
       try {
         let objectProperties = await getAllViewableProperties(
           token.access_token,
           urn,
           objectGUID
         );
-        // console.log(objectName);
-        // console.log(objectProperties);
         while (objectProperties.result === 'success') {
           console.log(`Extracting ${objectName} metadata...`);
 
@@ -466,16 +417,11 @@ async function extractMetadata(urn) {
         );
         allObjects.push(jsonMetadata);
         // Add the current row to CSV data array
-        // console.log(csvData);
-
-        // console.log(objectProperties.data.collection); // Log the final objectProperties when the loop exits
       } catch (error) {
         console.error(error);
       }
     }
     const test2 = convertToCSV(allObjects);
-    // Write CSV data to a file
-    // Convert data to CSV format
     const csvContent = test2
       .map((row) => row.map((col) => `"${col}"`).join(','))
       .join('\n');
