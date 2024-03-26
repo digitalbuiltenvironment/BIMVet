@@ -295,7 +295,7 @@ function convertToCSV(jsonData) {
           try {
             const innerKeyNameID = innerKey.split(' [');
             const innerKeyName = innerKeyNameID[0];
-            const innerKeyID = "["+innerKeyNameID[1];
+            const innerKeyID = '[' + innerKeyNameID[1];
             if (/\[.*\]/.test(innerKey)) {
               csvArray.push([
                 key,
@@ -324,7 +324,7 @@ function convertToCSV(jsonData) {
                   for (let m = 0; m < objectValue.length; m++) {
                     const objectNameID = objectValue[m].name.split(' [');
                     const objectName = objectNameID[0];
-                    const objectID = "["+objectNameID[1];
+                    const objectID = '[' + objectNameID[1];
                     const objectProperties = objectValue[m].properties;
                     let objectAssemblyCode = '';
                     let objectAssemblyDescription = '';
@@ -413,8 +413,7 @@ function convertToCSV(jsonData) {
             console.log(error);
           }
         }
-      }
-      else {
+      } else {
         console.log(key);
       }
     }, []);
@@ -422,7 +421,7 @@ function convertToCSV(jsonData) {
   return csvArray;
 }
 
-async function extractMetadata(urn) {
+async function extractMetadata(urn, outputNumber) {
   try {
     let token = await getAccesstoken(); // Get Autodesk API token
     // console.log(token);
@@ -451,7 +450,7 @@ async function extractMetadata(urn) {
           await new Promise((resolve) => setTimeout(resolve, 500));
 
           // Fetch object properties again inside the loop
-          const updatedObjectProperties = await Client.getAllViewableProperties(
+          const updatedObjectProperties = await getAllViewableProperties(
             token.access_token,
             urn,
             objectGUID
@@ -481,7 +480,7 @@ async function extractMetadata(urn) {
       .join('\n');
 
     // Specify the file path
-    const filePath = 'output.csv';
+    const filePath = 'output'+ outputNumber +'.csv';
 
     // Write to the CSV file
     fs.writeFileSync(filePath, csvContent, 'utf-8');
@@ -494,6 +493,37 @@ async function extractMetadata(urn) {
   }
 }
 
-extractMetadata(
-  'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltdmV0YnVja2V0L3Rlc3RvYmplY3QucnZ0'
-);
+// await extractMetadata(
+//   'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltdmV0YnVja2V0L3Rlc3RvYmplY3QucnZ0'
+// );
+
+extractList = [
+  'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltdmV0YnVja2V0L0FNS19UU0NfQVJfMy01JTIwTFZMX1JWVC0yMDE5XzAwMDAxLnJ2dA',
+  'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltdmV0YnVja2V0L0FNS19UU0NfQVJfNi1ST09GX1JWVC0yMDE5XzAwMDAxLnJ2dA',
+  'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltdmV0YnVja2V0L0FNS19UU0NfQVJfMS0yJTIwTFZMX1JWVC0yMDE5XzAwMDAxLnJ2dA',
+  'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltdmV0YnVja2V0L09NQzItUE9DLUJJTS1NRS1GUC1OQS1TLTAwLVJWVDIyMDAxLnJ2dA',
+  'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltdmV0YnVja2V0L09NQzItUE9DLUJJTS1NRS1TTi1OQS1TLTAwLVJWVDIyMDAxLnJ2dA',
+  'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltdmV0YnVja2V0L1NDUy1HVE0tQklNLVNULVNUTC1BTEwtQUxMLUFMTC1SVlQyMDAwMi5ydnQ',
+  'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltdmV0YnVja2V0L1NDUy1ORS1CSU0tRUwtRUctQUxMLUFMTC1BTEwtUlZUMjAwMDUucnZ0',
+  'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltdmV0YnVja2V0L1NDUy1HVE0tQklNLVNULVNUTC1BTEwtQUxMLUFMTC1SVlQyMDAwMi5ydnQ',
+  'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltdmV0YnVja2V0L1NDUy1VU1MtQklNLVNULVBDVC1BTEwtQUxMLUFMTC1SVlQyMDAwMy5ydnQ',
+  'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltdmV0YnVja2V0L1NDUy1UTEVDLUJJTS1NRS1QTC1BTEwtQUxMLUFMTC1SVlQyMDAwNi5ydnQ',
+  'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltdmV0YnVja2V0L1NDUy1XUy1CSU0tQVItRkFDLUFMTC1BTEwtQUxMLVJWVDIwMDAyLnJ2dA',
+  'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltdmV0YnVja2V0L1NDUy1CT1VTLUJJTS1BUi1OQS1BTEwtQUxMLUFMTC1SVlQyMDAwNC5ydnQ',
+  'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltdmV0YnVja2V0L1NDUy1DQy1CSU0tQVItU0lHTi1BTEwtQUxMLUFMTC1SVlQyMDAwMy5ydnQ',
+  'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltdmV0YnVja2V0L1NDUy1ERVNILUJJTS1BUi1GQUMtQUxMLUFMTC1BTEwtUlZUMjAwMDIucnZ0',
+  'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltdmV0YnVja2V0L09NQzItUE9DLUJJTS1BUi1NSVNDLU5BLVMtTkEtUlZUMjAwMDEucnZ0',
+];
+
+async function main() {
+  for (let i = 0; i < extractList.length; i++) {
+    console.log('Extracting: ' + extractList[i]);
+    await extractMetadata(extractList[i], i);
+    await new Promise((resolve) => setTimeout(resolve, 500));
+  }
+}
+
+main().catch((error) => {
+  console.error(error);
+  process.exit(1);
+});
