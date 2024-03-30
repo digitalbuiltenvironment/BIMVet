@@ -77,16 +77,15 @@ df["Features"] = (
 X = df["Features"].fillna(EMPTYCONST)
 y = df["Category"]
 
+WEIGHT_FAMILY = 8
+WEIGHT_SUBFAMILY = 2
+WEIGHT_OBJECTNAME = 2
+WEIGHT_STRUCTURALMATERIAL = 2
+WEIGHT_MATERIAL = 2
+
 
 # Custom tokenizer function with variable weights for different categories
-def custom_tokenizer(
-    text,
-    weight_family=1,
-    weight_subfamily=1,
-    weight_objectname=1,
-    weight_structuralmaterial=1,
-    weight_material=1,
-):
+def custom_tokenizer(text):
     # Tokenize the text
     tokens = text.split("|")
 
@@ -94,15 +93,15 @@ def custom_tokenizer(
     weighted_tokens = []
     for token in tokens:
         if "_*family*" in token:
-            weighted_tokens.extend([token] * weight_family)
+            weighted_tokens.extend([token] * WEIGHT_FAMILY)
         elif "_*subfamily*" in token:
-            weighted_tokens.extend([token] * weight_subfamily)
+            weighted_tokens.extend([token] * WEIGHT_SUBFAMILY)
         elif "_*objectname*" in token:
-            weighted_tokens.extend([token] * weight_objectname)
+            weighted_tokens.extend([token] * WEIGHT_OBJECTNAME)
         elif "_*structuralmaterial*" in token:
-            weighted_tokens.extend([token] * weight_structuralmaterial)
+            weighted_tokens.extend([token] * WEIGHT_STRUCTURALMATERIAL)
         elif "_*material*" in token:
-            weighted_tokens.extend([token] * weight_material)
+            weighted_tokens.extend([token] * WEIGHT_MATERIAL)
         elif token == EMPTYCONST:
             weighted_tokens.extend([token] * 0)  # Assigning a 0 weight for 'empty'
         else:
@@ -306,9 +305,13 @@ bottom_models = []
 for weights in weights_to_test:
     print("Testing weights:", weights)
     # Vectorize text data using TF-IDF with custom tokenizer and the current set of weights
-    vectorizer = TfidfVectorizer(
-        tokenizer=lambda x: custom_tokenizer(x, **weights), token_pattern=None
-    )
+    WEIGHT_FAMILY = weights["weight_family"]
+    WEIGHT_SUBFAMILY = weights["weight_subfamily"]
+    WEIGHT_OBJECTNAME = weights["weight_objectname"]
+    WEIGHT_STRUCTURALMATERIAL = weights["weight_structuralmaterial"]
+    WEIGHT_MATERIAL = weights["weight_material"]
+    
+    vectorizer = TfidfVectorizer(tokenizer=custom_tokenizer, token_pattern=None)
     X_tfidf = vectorizer.fit_transform(X)
 
     # Initialize Random Forest classifier
@@ -341,16 +344,22 @@ for weights in weights_to_test:
     # Store top 5 and bottom 2 token weights and their associated accuracies
     top_tokens = sorted(weights.items(), key=lambda x: x[1], reverse=True)[:5]
     bottom_tokens = sorted(weights.items(), key=lambda x: x[1], reverse=False)[:2]
-    top_models.append((mean_accuracy, top_tokens, param_grid, best_estimator, vectorizer))
-    bottom_models.append((mean_accuracy, bottom_tokens, param_grid, best_estimator, vectorizer))
+    top_models.append(
+        (mean_accuracy, top_tokens, param_grid, best_estimator, vectorizer)
+    )
+    bottom_models.append(
+        (mean_accuracy, bottom_tokens, param_grid, best_estimator, vectorizer)
+    )
 
     print("Weights:", weights)
     print("Mean Cross-Validation Accuracy:", mean_accuracy)
     print()
-    
+
 # Print top 5 models before saving
 print("Top 5 Models:")
-for idx, (accuracy, tokens, param_grid, best_estimator, vectorizer) in enumerate(top_models[:5], 1):
+for idx, (accuracy, tokens, param_grid, best_estimator, vectorizer) in enumerate(
+    top_models[:5], 1
+):
     print("Model", idx)
     print("Mean Cross-Validation Accuracy:", accuracy)
     print("Token Weights:")
@@ -359,9 +368,11 @@ for idx, (accuracy, tokens, param_grid, best_estimator, vectorizer) in enumerate
     print("Param Grid:")
     print(param_grid)
     print()
-    
+
 # Save the top 5 models
-for idx, (accuracy, tokens, param_grid, best_estimator, vectorizer) in enumerate(top_models[:5], 1):
+for idx, (accuracy, tokens, param_grid, best_estimator, vectorizer) in enumerate(
+    top_models[:5], 1
+):
     # Extract token weights from the model description
     tokens_str = "_".join(["{}_{}".format(token, weight) for token, weight in tokens])
     # Construct the filename based on token weights and param_grid
@@ -369,7 +380,9 @@ for idx, (accuracy, tokens, param_grid, best_estimator, vectorizer) in enumerate
     joblib.dump((best_estimator, vectorizer), filename)
 
 # Save the bottom 2 models
-for idx, (accuracy, tokens, param_grid, best_estimator, vectorizer) in enumerate(bottom_models[:2], 1):
+for idx, (accuracy, tokens, param_grid, best_estimator, vectorizer) in enumerate(
+    bottom_models[:2], 1
+):
     # Extract token weights from the model description
     tokens_str = "_".join(["{}_{}".format(token, weight) for token, weight in tokens])
     # Construct the filename based on token weights and param_grid

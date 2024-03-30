@@ -106,39 +106,50 @@ def custom_tokenizer(text):
     return weighted_tokens
 
 
-# Load the saved model and vectorizer
-loaded_model, vectorizer = joblib.load("random_forest_model.pkl")
+MODELFILES = [
+    "bottom_model_1_weight_subfamily_2_weight_structuralmaterial_3.pkl",
+    "bottom_model_2_weight_subfamily_2_weight_structuralmaterial_2.pkl",
+    "top_model_1_weight_family_8_weight_objectname_4_weight_structuralmaterial_3_weight_material_3_weight_subfamily_2.pkl",
+    "top_model_2_weight_family_8_weight_objectname_4_weight_subfamily_2_weight_structuralmaterial_2_weight_material_2.pkl",
+    "top_model_3_weight_family_8_weight_subfamily_4_weight_objectname_4_weight_structuralmaterial_2_weight_material_2.pkl",
+    "top_model_4_weight_family_10_weight_objectname_5_weight_subfamily_3_weight_structuralmaterial_2_weight_material_2.pkl",
+    "top_model_5_weight_family_8_weight_objectname_5_weight_subfamily_4_weight_structuralmaterial_3_weight_material_3.pkl",
+]
 
-# # Set the custom tokenizer function in the TfidfVectorizer
-# vectorizer.tokenizer = custom_tokenizer
 
-counter_correct = 0
-for index, row in df.iterrows():
-    # Concatenate relevant text features
-    features = create_features(row)
-    category = row["Category"]
-    # print(category)
+for modelfile in MODELFILES:
+    loaded_model, vectorizer = joblib.load(modelfile)
+    # Load the saved model and vectorizer
+    # loaded_model, vectorizer = joblib.load("random_forest_model.pkl")
 
-    # Vectorize the text features using the loaded TfidfVectorizer
-    features_tfidf = vectorizer.transform([features])
+    # # Set the custom tokenizer function in the TfidfVectorizer
+    # vectorizer.tokenizer = custom_tokenizer
 
-    # Make predictions on the vectorized data using the trained model
-    predicted_class = loaded_model.predict(features_tfidf)[0]
+    counter_correct = 0
+    for index, row in df.iterrows():
+        # Concatenate relevant text features
+        features = create_features(row)
+        category = row["Category"]
+        # print(category)
 
-    # Get the probability estimates for all classes
-    probabilities = loaded_model.predict_proba(features_tfidf)[0]
+        # Vectorize the text features using the loaded TfidfVectorizer
+        features_tfidf = vectorizer.transform([features])
 
-    # Get the index of the predicted class
-    predicted_class_index = list(loaded_model.classes_).index(predicted_class)
-    COLOR = "\033[91m"
-    if predicted_class.lower() == category.lower():
-        COLOR = "\033[92m"
-        counter_correct += 1
-    # Print the predicted category and its confidence level
-    print(
-        f"Row {index}: Predicted Category - {COLOR}{predicted_class}\033[0m, ({probabilities[predicted_class_index]}), Actual - {category}"
-    )
+        # Make predictions on the vectorized data using the trained model
+        predicted_class = loaded_model.predict(features_tfidf)[0]
 
-print(f"Number of correct predictions: {counter_correct}/{len(df)}")
-# convert to accuracy percentage
-print(f"Accuracy: {counter_correct / len(df) * 100:.2f}%")
+        # Get the probability estimates for all classes
+        probabilities = loaded_model.predict_proba(features_tfidf)[0]
+
+        # Get the index of the predicted class
+        predicted_class_index = list(loaded_model.classes_).index(predicted_class)
+        COLOR = "\033[91m"
+        if predicted_class.lower() == category.lower():
+            COLOR = "\033[92m"
+            counter_correct += 1
+        # Print the predicted category and its confidence level
+        # print(f"Row {index}: Predicted Category - {COLOR}{predicted_class}\033[0m, ({probabilities[predicted_class_index]}), Actual - {category}")
+    print(f"Model: {modelfile}")
+    print(f"Number of correct predictions: {counter_correct}/{len(df)}")
+    # convert to accuracy percentage
+    print(f"Accuracy: {counter_correct / len(df) * 100:.2f}%")
