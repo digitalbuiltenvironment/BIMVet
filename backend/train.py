@@ -4,6 +4,8 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.ensemble import RandomForestClassifier
 import joblib
 import warnings
+from sklearn.metrics import f1_score
+from sklearn.model_selection import train_test_split
 
 # Ignore specific warning
 warnings.filterwarnings(
@@ -289,17 +291,13 @@ weights_to_test = [
     },
 ]
 
-# Initialize a list to store top 5 token weights and their associated accuracies
-top_token_weights = []
-
-# Initialize a list to store mean cross-validation accuracies
-mean_accuracies = []
+# Initialize a list to store F1 scores
+f1_scores = []
 
 # Initialize a list to store param_grids
 param_grids = []
-# Initialize lists to store top 5 and bottom 2 models
-top_models = []
-bottom_models = []
+# Initialize a list to store top models with their F1 scores
+top_models_with_f1 = []
 
 # Iterate over each set of weights
 for weights in weights_to_test:
@@ -314,6 +312,9 @@ for weights in weights_to_test:
     vectorizer = TfidfVectorizer(tokenizer=custom_tokenizer, token_pattern=None)
     X_tfidf = vectorizer.fit_transform(X)
 
+    # Split data into training and testing sets
+    X_train, X_test, y_train, y_test = train_test_split(X_tfidf, y, test_size=0.2, random_state=42)
+
     # Initialize Random Forest classifier
     rf_classifier = RandomForestClassifier(random_state=42)
 
@@ -326,65 +327,38 @@ for weights in weights_to_test:
     }
 
     # Perform grid search with cross-validation
-    # cv = 3 for smaller datasets, cv = 5 for bigger
     grid_search = GridSearchCV(estimator=rf_classifier, param_grid=param_grid, cv=3)
-    grid_search.fit(X_tfidf, y)
+    grid_search.fit(X_train, y_train)
 
     # Get the best estimator from grid search
     best_estimator = grid_search.best_estimator_
 
-    # Store best param_grid
-    param_grids.append(grid_search.best_params_)
+    # Evaluate the model using F1-score on the testing set
+    y_pred = best_estimator.predict(X_test)
+    f1 = f1_score(y_test, y_pred, average='weighted')
 
-    # Evaluate the model using cross-validation
-    cross_val_scores = cross_val_score(best_estimator, X_tfidf, y, cv=5)
-    mean_accuracy = cross_val_scores.mean()
-    mean_accuracies.append(mean_accuracy)
+    # Append the top model along with its F1-score
+    top_models_with_f1.append(((weights, grid_search.best_params_, best_estimator, vectorizer), f1))
 
-    # Store top 5 and bottom 2 token weights and their associated accuracies
-    top_tokens = sorted(weights.items(), key=lambda x: x[1], reverse=True)[:5]
-    bottom_tokens = sorted(weights.items(), key=lambda x: x[1], reverse=False)[:2]
-    top_models.append(
-        (mean_accuracy, top_tokens, param_grid, best_estimator, vectorizer)
-    )
-    bottom_models.append(
-        (mean_accuracy, bottom_tokens, param_grid, best_estimator, vectorizer)
-    )
-
-    print("Weights:", weights)
-    print("Mean Cross-Validation Accuracy:", mean_accuracy)
+    # print("Weights:", weights)
+    print("F1-score on Testing Set:", f1)
     print()
 
-# Print top 5 models before saving
-print("Top 5 Models:")
-for idx, (accuracy, tokens, param_grid, best_estimator, vectorizer) in enumerate(
-    top_models[:5], 1
-):
-    print("Model", idx)
-    print("Mean Cross-Validation Accuracy:", accuracy)
-    print("Token Weights:")
-    for token, weight in tokens:
-        print("- {} (Weight: {})".format(token, weight))
-    print("Param Grid:")
-    print(param_grid)
-    print()
+# Sort the top models based on F1-score
+top_models_with_f1.sort(key=lambda x: x[1], reverse=True)
 
-# Save the top 5 models
-for idx, (accuracy, tokens, param_grid, best_estimator, vectorizer) in enumerate(
-    top_models[:5], 1
-):
+# Save the top 5 models based on F1-score
+for idx, ((weights, best_params, best_estimator, vectorizer), f1_score) in enumerate(top_models_with_f1[:5], 1):
     # Extract token weights from the model description
-    tokens_str = "_".join(["{}_{}".format(token, weight) for token, weight in tokens])
-    # Construct the filename based on token weights and param_grid
-    filename = "top_model_{}_{}.pkl".format(idx, tokens_str)
+    tokens_str = "_".join(["{}_{}".format(token, weight) for token, weight in weights.items()])
+    # Construct the filename based on token weights and best parameters
+    filename = "top_model_{}_{}_{}.pkl".format(idx, tokens_str, f1_score)
     joblib.dump((best_estimator, vectorizer), filename)
 
 # Save the bottom 2 models
-for idx, (accuracy, tokens, param_grid, best_estimator, vectorizer) in enumerate(
-    bottom_models[:2], 1
-):
+for idx, ((weights, best_params, best_estimator, vectorizer), f1_score) in enumerate(top_models_with_f1[-2:], 1):
     # Extract token weights from the model description
-    tokens_str = "_".join(["{}_{}".format(token, weight) for token, weight in tokens])
-    # Construct the filename based on token weights and param_grid
-    filename = "bottom_model_{}_{}.pkl".format(idx, tokens_str)
+    tokens_str = "_".join(["{}_{}".format(token, weight) for token, weight in weights.items()])
+    # Construct the filename based on token weights and best parameters
+    filename = "bottom_model_{}_{}_{}.pkl".format(idx, tokens_str, f1_score)
     joblib.dump((best_estimator, vectorizer), filename)

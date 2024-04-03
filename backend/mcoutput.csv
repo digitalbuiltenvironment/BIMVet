@@ -63,9 +63,13 @@ Walls,Basic Wall,LC01(F)+3KB+1T,Basic Wall,,,600MMX100MMX200MM(H) AAC BLOCK WALL
 Walls,Basic Wall,External_RC_200mm,Basic Wall,,,200MM THK RC WALL,MCR17,External_RC_200mm,Wall_Concrete,,Cast In-Situ RC Wall
 Walls,Basic Wall,Plaster+Tile-25thk.300x600 WT1931 2,Basic Wall,,,100MM(H) TILES SKIRTING,MCR17,Plaster+Tile-25thk.300x600 WT1931 2,WT-1931(v)(4),,Wall Skirting
 Walls,Basic Wall,WC-24MM,Basic Wall,C1010200,Demountable Partitions,18MM HANGING PARTITION PANEL,MCR17,WC-24MM,ADA_White,,Dry Wall
+Walls,Curtain Wall,GlassBlock,System Panel,,,,,Glazed,,Glass - Frosted,Curtain Wall
 Walls,Curtain Wall,GlassBlock,Curtain Wall,B2010148,Ext. Wall - Glass Block,190(L)MMX190(H)MMX95(W)MM GLASS BLOCK,MCR17,GlassBlock,<By Category>,,Curtain Wall
+Walls,Curtain Wall,GlassBlock,System Panel,,,,,Glazed,,Glass - Frosted,Curtain Wall
 Walls,Curtain Wall,GlassBlock,Curtain Wall,B2010148,Ext. Wall - Glass Block,190(L)MMX190(H)MMX95(W)MM GLASS BLOCK,MCR17,GlassBlock,<By Category>,,Curtain Wall
+Walls,Curtain Wall,GlassBlock,System Panel,,,,,Glazed,,Glass - Frosted,Curtain Wall
 Walls,Curtain Wall,GlassBlock,Curtain Wall,B2010148,Ext. Wall - Glass Block,190(L)MMX190(H)MMX95(W)MM GLASS BLOCK,MCR17,GlassBlock,<By Category>,,Curtain Wall
+Walls,Curtain Wall,GlassBlock,System Panel,,,,,Glazed,,Glass - Frosted,Curtain Wall
 Walls,Curtain Wall,Metal Facade - Blue,CurtainPanel,,,,,AluminiumPanel - Blue,,,Curtain Wall
 Walls,Curtain Wall,Metal Facade - Blue,Rectangular Mullion,,,,,Rectangular_Mullion_Top_Right-PF,,Metal - Steel(Navy Blue),Curtain Wall
 Walls,Curtain Wall,Metal Facade - Blue,CurtainPanel,,,,,AluminiumPanel - Blue,,,Curtain Wall
@@ -172,6 +176,160 @@ Windows,Security Room W7A,WD7 (2000x1200),Security Room W7A,,,2 TIER SILDING - 4
 Planting,,,RPC Tree - Deciduous,,,,,,,,Tree
 Planting,,,RPC Tree - Deciduous1,,,,,,,,Tree
 Planting,,,RPC Tree - Fall,,,,,,,,Tree
+Generic Models,Arup_MaintenanceZone_Rectangular,Default,Arup_MaintenanceZone_Rectangular,,,NA,MCR07,Default,,<By Category>,Generic Model (MISC)
+Generic Models,EXIT Directional 2,EXIT Directional 2,EXIT Directional 2,,,DIRECTIONAL SIGNAGE,MCR07,EXIT Directional 2,,Aluminum,Generic Model (MISC)
+Generic Models,11112_WAVELINE-220,TGW-220,11112_WAVELINE-220,,,Slotted Collection - TGW -220,MCR07,TGW-220,,"Jonite Stone (reinforced),<By Category>",Generic Model (MISC)
+Generic Models,11112_WAVELINE-220,TGW-220,11112_WAVELINE-220,,,Slotted Collection - TGW -220,MCR07,TGW-220,,"Jonite Stone (reinforced),<By Category>",Generic Model (MISC)
+Generic Models,AED_DEFIBRILLATOR_AND_BACKPACK_CABINET_14701,AED_DEFIBRILLATOR_AND_BACKPACK_CABINET_14701,AED_DEFIBRILLATOR_AND_BACKPACK_CABINET_14701,E2020200,Furniture & Accessories,AUTOMATED EXTERNAL DEFIBRILLATOR,MCR07,AED_DEFIBRILLATOR_AND_BACKPACK_CABINET_14701,,<By Category>,Generic Model (MISC)
+Generic Models,NBS_Tiso_SStlBllrds_AutomaticTrafficBollard_RB349,RB349-15,NBS_Tiso_SStlBllrds_AutomaticTrafficBollard_RB349,E1030900,Other Vehicular Equipment,TiSO traffic automatic bollards are due in part to the wide range of project applications and the simplicity of installation. This particular TiSO product has been designed and engineered to provide maximum operation durability,MCR07,RB349-15,,<By Category>,Generic Model (MISC)
+Generic Models,NBS_Tiso_SStlBllrds_AutomaticTrafficBollard_RB349,RB349-15,NBS_Tiso_SStlBllrds_AutomaticTrafficBollard_RB349,E1030900,Other Vehicular Equipment,TiSO traffic automatic bollards are due in part to the wide range of project applications and the simplicity of installation. This particular TiSO product has been designed and engineered to provide maximum operation durability,MCR07,RB349-15,,<By Category>,Generic Model (MISC)
+Generic Models,JTC Logo2,JTC Logo,JTC Logo2,,,JTC LOGO,MCR07,JTC Logo,,<By Category>,Generic Model (MISC)
+Generic Models,POC_Ceiling Access Panel,600X600 AP,POC_Ceiling Access Panel,C3030900,Other Ceiling Finishes,Access Panel Size:600x600mm,MCR07,600X600 AP,,<By Category>,Generic Model (MISC)
+Generic Models,POC_Ceiling Access Panel,600X600 AP,POC_Ceiling Access Panel,C3030900,Other Ceiling Finishes,Access Panel Size:600x600mm,MCR07,600X600 AP,,<By Category>,Generic Model (MISC)
+Generic Models,POC_Ceiling Access Panel,600X600 AP,POC_Ceiling Access Panel,C3030900,Other Ceiling Finishes,Access Panel Size:600x600mm,MCR07,600X600 AP,,<By Category>,Generic Model (MISC)
+Generic Models,Model Text,350 mm Insignia,Model Text,E2010100,Fixed Artwork,JTC MAIN ENTRANCE SIGNAGE,MCR07,350 mm Insignia,,PEDBBLES,Generic Model (MISC)
+Generic Models,Model Text,100 mm Insignia,Model Text,,,JTC MAIN ENTRANCE SIGNAGE,MCR07,100 mm Insignia,,Roofing - Standing Seam,Generic Model (MISC)
+Generic Models,Model Text,100 mm Insignia (JTC),Model Text,,,JTC MAIN ENTRANCE SIGNAGE,MCR07,100 mm Insignia (JTC),,Roofing - JTC Ocean Blue,Generic Model (MISC)
+Generic Models,Bicycle_Lady_model_10198,Bicycle_Lady_model_10198,Bicycle_Lady_model_10198,E1030200,Parking Control Equipment,BICYCLE BY OTHERS,MCR07,Bicycle_Lady_model_10198,,<By Category>,Generic Model (MISC)
+Generic Models,Lysaght Klip-Lok Optima,0.40mm_BMT,Lysaght Klip-Lok Optima,B3010100,Roof Finishes,METAL ROOFING,MCR07,0.40mm_BMT,,<By Category>,Generic Model (MISC)
+Generic Models,Lysaght Klip-Lok Optima,0.40mm_BMT 2,Lysaght Klip-Lok Optima,,,METAL ROOFING,MCR07,0.40mm_BMT 2,,<By Category>,Generic Model (MISC)
+Generic Models,Lysaght Klip-Lok Optima,0.40mm_BMT 3,Lysaght Klip-Lok Optima,,,METAL ROOFING,MCR07,0.40mm_BMT 3,,<By Category>,Generic Model (MISC)
+Generic Models,ELEC SHAFT SIGNAGE,ELEC SHAFT SIGNAGE,ELEC SHAFT SIGNAGE,,,ELEC SHAFT ROOM SIGNAGE,MCR07,ELEC SHAFT SIGNAGE,,Aluminum,Generic Model (MISC)
+Generic Models,MDF ROOM SIGNAGE,MDF ROOM SIGNAGE,MDF ROOM SIGNAGE,,,MDF ROOM ROOM SIGNAGE,MCR07,MDF ROOM SIGNAGE,,Aluminum,Generic Model (MISC)
+Generic Models,MEETING ROOM SIGNAGE,MEETING ROOM SIGNAGE,MEETING ROOM SIGNAGE,,,MEETING ROOM SIGNAGE,MCR07,MEETING ROOM SIGNAGE,,Aluminum,Generic Model (MISC)
+Generic Models,OPERATION OFFICE SIGNAGE,OPERATION OFFICE SIGNAGE,OPERATION OFFICE SIGNAGE,,,OPERATION OFFICE ROOM SIGANGE,MCR07,OPERATION OFFICE SIGNAGE,,<By Category>,Generic Model (MISC)
+Generic Models,TOILET SYMBOL,TOILET SYMBOL,TOILET SYMBOL,,,TOILET SIGANGE,MCR07,TOILET SYMBOL,,<By Category>,Generic Model (MISC)
+Generic Models,TOILET SYMBOL,TOILET SYMBOL,TOILET SYMBOL,,,TOILET SIGANGE,MCR07,TOILET SYMBOL,,<By Category>,Generic Model (MISC)
+Generic Models,PWD SYMBOL,PWD SYMBOL,PWD SYMBOL,,,ACCESSIBLE TOILET SIGNAGE,MCR07,PWD SYMBOL,,Aluminum,Generic Model (MISC)
+Generic Models,PWD SYMBOL,PWD SYMBOL,PWD SYMBOL,,,ACCESSIBLE TOILET SIGNAGE,MCR07,PWD SYMBOL,,Aluminum,Generic Model (MISC)
+Generic Models,FIRST AID ROOM SIGNAGE,FIRST AID ROOM SIGNAGE,FIRST AID ROOM SIGNAGE,,,FIRST AID ROOM SIGNAGE,MCR07,FIRST AID ROOM SIGNAGE,,Aluminum,Generic Model (MISC)
+Generic Models,FM STORE SIGNAGE,FM STORE SIGNAGE,FM STORE SIGNAGE,,,FM STORE SIGNAGE,MCR07,FM STORE SIGNAGE,,Aluminum,Generic Model (MISC)
+Generic Models,WORKMAN REST ROOM SIGNAGE,WORKMAN REST ROOM SIGNAGE,WORKMAN REST ROOM SIGNAGE,,,WORKMAN REST ROOM SIGNAGE,MCR07,WORKMAN REST ROOM SIGNAGE,,Aluminum,Generic Model (MISC)
+Generic Models,OPERATION OFFICE ELV SPACE SIGNAGE,OPERATION OFFICE ELV SPACE SIGNAGE,OPERATION OFFICE ELV SPACE SIGNAGE,,,OPERATION OFFICE SIGNAGE,MCR07,OPERATION OFFICE ELV SPACE SIGNAGE,,Aluminum,Generic Model (MISC)
+Generic Models,FM OFFICE SIGNAGE,FM OFFICE SIGNAGE,FM OFFICE SIGNAGE,,,FM OFFICE SIGANGE,MCR07,FM OFFICE SIGNAGE,,<By Category>,Generic Model (MISC)
+Generic Models,FEMALE TOILET SYMBOL SIGNAGE,FEMALE TOILET SYMBOL SIGNAGE,FEMALE TOILET SYMBOL SIGNAGE,,,FEMALE TOILET SIGNAGE,MCR07,FEMALE TOILET SYMBOL SIGNAGE,,Aluminum,Generic Model (MISC)
+Generic Models,MALE TOILET SYMBOL SIGNAGE,MALE TOILET SYMBOL SIGNAGE,MALE TOILET SYMBOL SIGNAGE,,,MALE TOILET SIGNAGE,MCR07,MALE TOILET SYMBOL SIGNAGE,,Aluminum,Generic Model (MISC)
+Generic Models,SECURITY,SECURITY,SECURITY,,,SECURITY ROOM SIGANGE,MCR07,SECURITY,,<By Category>,Generic Model (MISC)
+Generic Models,Outlet - 2 Outlet 2 Switch,Outlet - 2 Outlet 2 Switch,Outlet - 2 Outlet 2 Switch,E1090900,Other Equipment,FIRE RATED ROLLER SHUTTER SWITCH,MCR07,Outlet - 2 Outlet 2 Switch,,<By Category>,Generic Model (MISC)
+Generic Models,FIRE CONTROL MODULE,FIRE CONTROL MODULE,FIRE CONTROL MODULE,,,FIRE RATED ROLLER SHUTTER - FIRE CONTROL MODULE,MCR07,FIRE CONTROL MODULE,,<By Category>,Generic Model (MISC)
+Generic Models,Pallet_Racking_-_Victor_-_Adjustable_Beams_-_Optional_Shelving_8623,600 x 1200mm Racking,Pallet_Racking_-_Victor_-_Adjustable_Beams_-_Optional_Shelving_8623,,,NA,MCR07,600 x 1200mm Racking,,<By Category>,Generic Model (MISC)
+Generic Models,OG Box130,OG Box,OG Box130,,,NA,NA,OG Box,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 2,Generic Models 1,Generic Models 2,,,STEEL CHAIN FOR RESCUE PLATFORM,MCR07,Generic Models 1,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 3,Generic Models 1,Generic Models 3,,,STEEL CHAIN FOR RESCUE PLATFORM,MCR07,Generic Models 1,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 4,Generic Models 1,Generic Models 4,,,STEEL CHAIN FOR RESCUE PLATFORM,MCR07,Generic Models 1,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 5,Generic Models 1,Generic Models 5,E1090100,Maintenance Equipment,STEEL CHAIN FOR RESCUE PLATFORM,MCR07,Generic Models 1,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 6,Generic Models 1,Generic Models 6,,,STEEL CHAIN FOR RESCUE PLATFORM,MCR07,Generic Models 1,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 1,Generic Models 1,Generic Models 1,,,STEEL CHAIN FOR RESCUE PLATFORM,NA,Generic Models 1,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 7,Generic Models 7,Generic Models 7,,,48 DIAMETER X 2MM THK PIPE REMOVABLE RAILING,MCR07,Generic Models 7,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 8,Generic Models 1,Generic Models 8,,,STEEL CHAIN FOR RESCUE PLATFORM,MCR07,Generic Models 1,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 9,Generic Models 1,Generic Models 9,,,STEEL CHAIN FOR RESCUE PLATFORM,MCR07,Generic Models 1,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 10,Generic Models 1,Generic Models 10,,,STEEL CHAIN FOR RESCUE PLATFORM,MCR07,Generic Models 1,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 11,Generic Models 1,Generic Models 11,,,STEEL CHAIN FOR RESCUE PLATFORM,MCR07,Generic Models 1,,<By Category>,Generic Model (MISC)
+Generic Models,Furniture 2,Furniture 2,Furniture 2,,,SAFETY HOOK,MCR07,Furniture 2,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 12,Generic Models 12,Generic Models 12,,,CLAMPS DESIGNED FOR KLIPLOK ROOF,MCR07,Generic Models 12,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 13,Generic Models 13,Generic Models 13,,,KLIPLOK,MCR07,Generic Models 13,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 14,Generic Models 12,Generic Models 14,E1090100,Maintenance Equipment,CLAMPS DESIGNED FOR KLIPLOK ROOF,MCR07,Generic Models 12,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 15,Generic Models 15,Generic Models 15,,,BOLTS & NUTS,MCR07,Generic Models 15,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 16,Generic Models 12,Generic Models 16,,,CLAMPS DESIGNED FOR KLIPLOK ROOF,MCR07,Generic Models 12,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 17,Generic Models 13,Generic Models 17,,,KLIPLOK,MCR07,Generic Models 13,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 18,Generic Models 12,Generic Models 18,,,CLAMPS DESIGNED FOR KLIPLOK ROOF,MCR07,Generic Models 12,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 19,Generic Models 15,Generic Models 19,,,BOLTS & NUTS,MCR07,Generic Models 15,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 20,Generic Models 12,Generic Models 20,,,CLAMPS DESIGNED FOR KLIPLOK ROOF,MCR07,Generic Models 12,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 21,Generic Models 13,Generic Models 21,,,KLIPLOK,MCR07,Generic Models 13,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 22,Generic Models 12,Generic Models 22,,,CLAMPS DESIGNED FOR KLIPLOK ROOF,MCR07,Generic Models 12,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 23,Generic Models 15,Generic Models 23,,,BOLTS & NUTS,MCR07,Generic Models 15,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 24,Generic Models 12,Generic Models 24,,,CLAMPS DESIGNED FOR KLIPLOK ROOF,MCR07,Generic Models 12,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 25,Generic Models 13,Generic Models 25,,,KLIPLOK,MCR07,Generic Models 13,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 26,Generic Models 12,Generic Models 26,,,CLAMPS DESIGNED FOR KLIPLOK ROOF,MCR07,Generic Models 12,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 27,Generic Models 15,Generic Models 27,,,BOLTS & NUTS,MCR07,Generic Models 15,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 28,Generic Models 12,Generic Models 28,,,CLAMPS DESIGNED FOR KLIPLOK ROOF,MCR07,Generic Models 12,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 29,Generic Models 13,Generic Models 29,,,KLIPLOK,MCR07,Generic Models 13,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 30,Generic Models 12,Generic Models 30,,,CLAMPS DESIGNED FOR KLIPLOK ROOF,MCR07,Generic Models 12,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 31,Generic Models 15,Generic Models 31,,,BOLTS & NUTS,MCR07,Generic Models 15,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 32,Generic Models 12,Generic Models 32,,,CLAMPS DESIGNED FOR KLIPLOK ROOF,MCR07,Generic Models 12,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 33,Generic Models 13,Generic Models 33,,,KLIPLOK,MCR07,Generic Models 13,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 34,Generic Models 12,Generic Models 34,,,CLAMPS DESIGNED FOR KLIPLOK ROOF,MCR07,Generic Models 12,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 35,Generic Models 15,Generic Models 35,,,BOLTS & NUTS,MCR07,Generic Models 15,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 36,Generic Models 12,Generic Models 36,,,CLAMPS DESIGNED FOR KLIPLOK ROOF,MCR07,Generic Models 12,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 37,Generic Models 13,Generic Models 37,,,KLIPLOK,MCR07,Generic Models 13,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 38,Generic Models 12,Generic Models 38,,,CLAMPS DESIGNED FOR KLIPLOK ROOF,MCR07,Generic Models 12,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 39,Generic Models 15,Generic Models 39,,,BOLTS & NUTS,MCR07,Generic Models 15,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 40,Generic Models 12,Generic Models 40,,,CLAMPS DESIGNED FOR KLIPLOK ROOF,MCR07,Generic Models 12,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 41,Generic Models 13,Generic Models 41,,,KLIPLOK,MCR07,Generic Models 13,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 42,Generic Models 12,Generic Models 42,,,CLAMPS DESIGNED FOR KLIPLOK ROOF,MCR07,Generic Models 12,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 43,Generic Models 15,Generic Models 43,,,BOLTS & NUTS,MCR07,Generic Models 15,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 44,Generic Models 12,Generic Models 44,,,CLAMPS DESIGNED FOR KLIPLOK ROOF,MCR07,Generic Models 12,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 45,Generic Models 13,Generic Models 45,,,KLIPLOK,MCR07,Generic Models 13,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 46,Generic Models 12,Generic Models 46,,,CLAMPS DESIGNED FOR KLIPLOK ROOF,MCR07,Generic Models 12,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 47,Generic Models 15,Generic Models 47,,,BOLTS & NUTS,MCR07,Generic Models 15,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 48,Generic Models 12,Generic Models 48,,,CLAMPS DESIGNED FOR KLIPLOK ROOF,MCR07,Generic Models 12,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 49,Generic Models 13,Generic Models 49,,,KLIPLOK,MCR07,Generic Models 13,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 50,Generic Models 12,Generic Models 50,,,CLAMPS DESIGNED FOR KLIPLOK ROOF,MCR07,Generic Models 12,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 51,Generic Models 15,Generic Models 51,,,BOLTS & NUTS,MCR07,Generic Models 15,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 52,Generic Models 12,Generic Models 52,,,CLAMPS DESIGNED FOR KLIPLOK ROOF,MCR07,Generic Models 12,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 53,Generic Models 13,Generic Models 53,,,KLIPLOK,MCR07,Generic Models 13,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 54,Generic Models 12,Generic Models 54,,,CLAMPS DESIGNED FOR KLIPLOK ROOF,MCR07,Generic Models 12,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 55,Generic Models 15,Generic Models 55,,,BOLTS & NUTS,MCR07,Generic Models 15,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 56,Generic Models 12,Generic Models 56,,,CLAMPS DESIGNED FOR KLIPLOK ROOF,MCR07,Generic Models 12,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 57,Generic Models 13,Generic Models 57,,,KLIPLOK,MCR07,Generic Models 13,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 58,Generic Models 12,Generic Models 58,,,CLAMPS DESIGNED FOR KLIPLOK ROOF,MCR07,Generic Models 12,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 59,Generic Models 15,Generic Models 59,,,BOLTS & NUTS,MCR07,Generic Models 15,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 60,Generic Models 12,Generic Models 60,,,CLAMPS DESIGNED FOR KLIPLOK ROOF,MCR07,Generic Models 12,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 61,Generic Models 13,Generic Models 61,,,KLIPLOK,MCR07,Generic Models 13,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 62,Generic Models 12,Generic Models 62,,,CLAMPS DESIGNED FOR KLIPLOK ROOF,MCR07,Generic Models 12,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 63,Generic Models 15,Generic Models 63,,,BOLTS & NUTS,MCR07,Generic Models 15,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 64,Generic Models 12,Generic Models 64,,,CLAMPS DESIGNED FOR KLIPLOK ROOF,MCR07,Generic Models 12,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 65,Generic Models 13,Generic Models 65,,,KLIPLOK,MCR07,Generic Models 13,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 66,Generic Models 12,Generic Models 66,,,CLAMPS DESIGNED FOR KLIPLOK ROOF,MCR07,Generic Models 12,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 67,Generic Models 15,Generic Models 67,,,BOLTS & NUTS,MCR07,Generic Models 15,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 68,Generic Models 68,Generic Models 68,,,SS316 CABLE 8MM DIA,MCR07,Generic Models 68,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 69,Generic Models 69,Generic Models 69,,,SS316 CABLE 8MM DIA,MCR07,Generic Models 69,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 70,Generic Models 12,Generic Models 70,,,CLAMPS DESIGNED FOR KLIPLOK ROOF,MCR07,Generic Models 12,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 71,Generic Models 13,Generic Models 71,,,KLIPLOK,MCR07,Generic Models 13,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 72,Generic Models 12,Generic Models 72,,,CLAMPS DESIGNED FOR KLIPLOK ROOF,MCR07,Generic Models 12,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 73,Generic Models 15,Generic Models 73,,,BOLTS & NUTS,MCR07,Generic Models 15,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 74,Generic Models 12,Generic Models 74,,,CLAMPS DESIGNED FOR KLIPLOK ROOF,MCR07,Generic Models 12,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 75,Generic Models 13,Generic Models 75,,,KLIPLOK,MCR07,Generic Models 13,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 76,Generic Models 12,Generic Models 76,,,CLAMPS DESIGNED FOR KLIPLOK ROOF,MCR07,Generic Models 12,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 77,Generic Models 15,Generic Models 77,,,BOLTS & NUTS,MCR07,Generic Models 15,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 78,Generic Models 12,Generic Models 78,,,CLAMPS DESIGNED FOR KLIPLOK ROOF,MCR07,Generic Models 12,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 79,Generic Models 13,Generic Models 79,,,KLIPLOK,MCR07,Generic Models 13,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 80,Generic Models 12,Generic Models 80,,,CLAMPS DESIGNED FOR KLIPLOK ROOF,MCR07,Generic Models 12,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 81,Generic Models 15,Generic Models 81,,,BOLTS & NUTS,MCR07,Generic Models 15,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 82,Generic Models 82,Generic Models 82,,,SS316 CABLE 8MM DIA,MCR07,Generic Models 82,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 83,Generic Models 83,Generic Models 83,,,SS316 CABLE 8MM DIA,MCR07,Generic Models 83,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 84,Generic Models 83,Generic Models 84,,,SS316 CABLE 8MM DIA,MCR07,Generic Models 83,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 85,Generic Models 83,Generic Models 85,,,SS316 CABLE 8MM DIA,MCR07,Generic Models 83,,<By Category>,Generic Model (MISC)
+Generic Models,Generic Models 86,Generic Models 83,Generic Models 86,,,SS316 CABLE 8MM DIA,MCR07,Generic Models 83,,<By Category>,Generic Model (MISC)
+Generic Models,11112_WAVELINE-220-405_,TGW-220,11112_WAVELINE-220-405_,,,Slotted Collection - TGW -220,MCR07,TGW-220,,"Jonite Stone (reinforced),<By Category>",Generic Model (MISC)
+Generic Models,11112_WAVELINE-220-405_,TGW-220,11112_WAVELINE-220-405_,,,Slotted Collection - TGW -220,MCR07,TGW-220,,"Jonite Stone (reinforced),<By Category>",Generic Model (MISC)
+Generic Models,NEW,TGW-220,NEW,,,Slotted Collection - TGW -220,MCR07,TGW-220,,"Jonite Stone (reinforced),<By Category>",Generic Model (MISC)
+Generic Models,GUARD POST SIGNAGE,GUARD POST SIGNAGE,GUARD POST SIGNAGE,,,GUARD POST ROOM SIGNAGE,MCR07,GUARD POST SIGNAGE,,Aluminum,Generic Model (MISC)
+Generic Models,MALE TOILET_SYMBOL SIGNAGE,MALE TOILET_SYMBOL SIGNAGE,MALE TOILET_SYMBOL SIGNAGE,,,MALE TOILET SIGNAGE,MCR07,MALE TOILET_SYMBOL SIGNAGE,,Aluminum,Generic Model (MISC)
+Generic Models,Fire Extinguisher2,Fire Extinguisher,Fire Extinguisher2,,,FIRE EXTINGUISHER SIGNAGE,MCR07,Fire Extinguisher,,Aluminum,Generic Model (MISC)
+Generic Models,Generic Models 90,Generic Models 90,Generic Models 90,,,NA,MCR07,Generic Models 90,,<By Category>,Generic Model (MISC)
+Generic Models,NO ENTRY,NO ENTRY,NO ENTRY,,,NO ENTRY SIGNAGE,MCR07,NO ENTRY,,Aluminum,Generic Model (MISC)
+Generic Models,NO ENTRY,NO ENTRY,NO ENTRY,,,NO ENTRY SIGNAGE,MCR07,NO ENTRY,,Aluminum,Generic Model (MISC)
+Generic Models,RESTRICTED AREA,RESTRICTED AREA,RESTRICTED AREA,,,RESTRICTED AREA SIGNAGE,MCR07,RESTRICTED AREA,,Aluminum,Generic Model (MISC)
+Generic Models,RESTRICTED AREA,RESTRICTED AREA,RESTRICTED AREA,,,RESTRICTED AREA SIGNAGE,MCR07,RESTRICTED AREA,,Aluminum,Generic Model (MISC)
+Generic Models,SANITARY SEWER DUCT,SANITARY SEWER DUCT,SANITARY SEWER DUCT,,,SANITARY SEWER SIGNAGE,MCR07,SANITARY SEWER DUCT,,Aluminum,Generic Model (MISC)
+Generic Models,SANITARY SEWER DUCT,SANITARY SEWER DUCT,SANITARY SEWER DUCT,,,SANITARY SEWER SIGNAGE,MCR07,SANITARY SEWER DUCT,,Aluminum,Generic Model (MISC)
+Generic Models,Directional signage 1,Directional signage 1,Directional signage 1,,,DIRECTIONAL SIGNAGE,MCR07,Directional signage 1,,Aluminum,Generic Model (MISC)
+Generic Models,Directional signage 2,Directional signage 2,Directional signage 2,,,DIRECTIONAL SIGNAGE,MCR07,Directional signage 2,,Aluminum,Generic Model (MISC)
+Generic Models,Directional signage 3,Directional signage 3,Directional signage 3,,,ACCESSIBLE DIRECTIONAL SIGNAGE,MCR07,Directional signage 3,,Aluminum,Generic Model (MISC)
+Generic Models,Directional signage 3,Directional signage 3,Directional signage 3,,,ACCESSIBLE DIRECTIONAL SIGNAGE,MCR07,Directional signage 3,,Aluminum,Generic Model (MISC)
+Generic Models,Directional signage 3,Directional signage 3,Directional signage 3,,,ACCESSIBLE DIRECTIONAL SIGNAGE,MCR07,Directional signage 3,,Aluminum,Generic Model (MISC)
+Generic Models,Directional signage 3,Directional signage 3,Directional signage 3,,,ACCESSIBLE DIRECTIONAL SIGNAGE,MCR07,Directional signage 3,,Aluminum,Generic Model (MISC)
+Generic Models,Directional signage 4,Directional signage 4,Directional signage 4,,,ACCESSIBLE DIRECTIONAL SIGNAGE,MCR07,Directional signage 4,,Aluminum,Generic Model (MISC)
+Generic Models,LIGHTNING WARNING SIGNAGE,LIGHTNING WARNING SIGNAGE,LIGHTNING WARNING SIGNAGE,,,LIGHTNING WARNING SIGNAGE,MCR07,LIGHTNING WARNING SIGNAGE,,Aluminum,Generic Model (MISC)
+Generic Models,FE,FE,FE,,,FIRE EXTINGUISHER SIGNAGE,MCR07,FE,,Aluminum,Generic Model (MISC)
+Generic Models,FE,FE,FE,,,FIRE EXTINGUISHER SIGNAGE,MCR07,FE,,Aluminum,Generic Model (MISC)
+Generic Models,RB,RB,RB,,,EXIT REQUEST BUTTON SIGNAGE,MCR07,RB,,Aluminum,Generic Model (MISC)
+Generic Models,RB,RB,RB,,,EXIT REQUEST BUTTON SIGNAGE,MCR07,RB,,Aluminum,Generic Model (MISC)
+Generic Models,HR,HR,HR,,,HOSE REEL SIGNAGE,MCR07,HR,,Aluminum,Generic Model (MISC)
+Generic Models,PWD PARKING,PWD PARKING,PWD PARKING,,,PWD PARKING SIGNAGE,MCR07,PWD PARKING,,Metal - Aluminum,Generic Model (MISC)
+Generic Models,JANITOR,JANITOR,JANITOR,,,JANITOR ROOM SIGNAGE,MCR07,JANITOR,,Aluminum,Generic Model (MISC)
+Generic Models,VISITOR PLEASE PROCEED TO GUARDHOUSE SIGN,VISITOR PLEASE PROCEED TO GUARDHOUSE SIGN,VISITOR PLEASE PROCEED TO GUARDHOUSE SIGN,,,VISITOR PLEASE PROCEED TO GUARDHOUSE SIGNAGE,MCR07,VISITOR PLEASE PROCEED TO GUARDHOUSE SIGN,,Aluminum,Generic Model (MISC)
 Furniture,Chair-Desk,Chair-Desk,Chair-Desk,E2020200,Furniture & Accessories,MID BACK MESH CHAIR WITH ARMREST,MCR06,Chair-Desk,,Black Leather,"Furniture, Fitting"
 Furniture,Chair-Desk,Chair-Desk,Chair-Desk,E2020200,Furniture & Accessories,MID BACK MESH CHAIR WITH ARMREST,MCR06,Chair-Desk,,Black Leather,"Furniture, Fitting"
 Furniture,Desk-Guard Post,800x1500,Desk-Guard Post,E2020200,Furniture & Accessories,T2 SERIES - RECTANGULAR TABLE WITH WOODEN MODESTY PANEL,MCR06,800x1500,,Wood-ladderback chair,"Furniture, Fitting"
@@ -240,6 +398,144 @@ Specialty Equipment,Anemometer,Anemometer,Anemometer,E1090900,Other Equipment,WI
 Specialty Equipment,,,WINDSOCK_21706,,,,,,,,General Speciality Equipment Item
 Specialty Equipment,,,WINDSOCK_21706,,,,,,,,General Speciality Equipment Item
 Specialty Equipment,Bicycle Parking,Bicycle Parking,Bicycle Parking,E1030900,Other Vehicular Equipment,Double Loop Bick Rack,MCR14,Bicycle Parking,,,General Speciality Equipment Item
+Casework,PC Vent186,PC Vent,PC Vent186,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent187,PC Vent,PC Vent187,E2010200,Fixed Casework,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent197,PC Vent,PC Vent197,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent198,PC Vent,PC Vent198,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent199,PC Vent,PC Vent199,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent200,PC Vent,PC Vent200,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent201,PC Vent,PC Vent201,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent202,PC Vent,PC Vent202,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent203,PC Vent,PC Vent203,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent204,PC Vent,PC Vent204,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent209,PC Vent,PC Vent209,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent210,PC Vent,PC Vent210,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent211,PC Vent,PC Vent211,E2010200,Fixed Casework,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent212,PC Vent,PC Vent212,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent225,PC Vent,PC Vent225,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent226,PC Vent,PC Vent226,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent227,PC Vent,PC Vent227,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent228,PC Vent,PC Vent228,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent325,PC Vent,PC Vent325,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent326,PC Vent,PC Vent326,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent327,PC Vent,PC Vent327,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent328,PC Vent,PC Vent328,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent329,PC Vent,PC Vent329,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent337,PC Vent,PC Vent337,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent338,PC Vent,PC Vent338,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent339,PC Vent,PC Vent339,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent340,PC Vent,PC Vent340,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent341,PC Vent,PC Vent341,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent342,PC Vent,PC Vent342,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent343,PC Vent,PC Vent343,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent416,PC Vent,PC Vent416,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent417,PC Vent,PC Vent417,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent418,PC Vent,PC Vent418,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent419,PC Vent,PC Vent419,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent420,PC Vent,PC Vent420,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent444,PC Vent,PC Vent444,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,Countertop_Straight_with_Sink,600 mm Depth,Sink Kitchen-Double,D2010410,Sinks - Kitchen,INSERT TYPE DOUBLE BOWL SINK,MCR09,"42 x 21""""",,Stainless Steel - Alvarado - 304 - Satin,Counter/Benchtop
+Casework,Countertop_Straight_with_Sink,600 mm Depth,Countertop_Straight_with_Sink,C1030400,Fabricated Cabinets & Counters,COUNTER TOP WORKMAN RESTROOM,MCR01,600 mm Depth,,Steel,Counter/Benchtop
+Casework,PC Vent61,PC Vent,PC Vent61,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent62,PC Vent,PC Vent62,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent63,PC Vent,PC Vent63,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent64,PC Vent,PC Vent64,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent65,PC Vent,PC Vent65,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent66,PC Vent,PC Vent66,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent67,PC Vent,PC Vent67,E2010200,Fixed Casework,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent68,PC Vent,PC Vent68,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent69,PC Vent,PC Vent69,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent70,PC Vent,PC Vent70,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent71,PC Vent,PC Vent71,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent72,PC Vent,PC Vent72,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent73,PC Vent,PC Vent73,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent74,PC Vent,PC Vent74,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent75,PC Vent,PC Vent75,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent76,PC Vent,PC Vent76,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent77,PC Vent,PC Vent77,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent78,PC Vent,PC Vent78,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent79,PC Vent,PC Vent79,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent80,PC Vent,PC Vent80,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent81,PC Vent,PC Vent81,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent82,PC Vent,PC Vent82,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent83,PC Vent,PC Vent83,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent84,PC Vent,PC Vent84,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent85,PC Vent,PC Vent85,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent86,PC Vent,PC Vent86,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent87,PC Vent,PC Vent87,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent88,PC Vent,PC Vent88,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent89,PC Vent,PC Vent89,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent90,PC Vent,PC Vent90,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent91,PC Vent,PC Vent91,E2010200,Fixed Casework,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent92,PC Vent,PC Vent92,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent93,PC Vent,PC Vent93,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent94,PC Vent,PC Vent94,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent95,PC Vent,PC Vent95,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent96,PC Vent,PC Vent96,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent97,PC Vent,PC Vent97,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent98,PC Vent,PC Vent98,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent99,PC Vent,PC Vent99,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent100,PC Vent,PC Vent100,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent101,PC Vent,PC Vent101,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent102,PC Vent,PC Vent102,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent103,PC Vent,PC Vent103,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent104,PC Vent,PC Vent104,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent105,PC Vent,PC Vent105,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent106,PC Vent,PC Vent106,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent107,PC Vent,PC Vent107,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent108,PC Vent,PC Vent108,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent109,PC Vent,PC Vent109,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent110,PC Vent,PC Vent110,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent111,PC Vent,PC Vent111,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent112,PC Vent,PC Vent112,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent113,PC Vent,PC Vent113,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent114,PC Vent,PC Vent114,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent115,PC Vent,PC Vent115,E2010200,Fixed Casework,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent116,PC Vent,PC Vent116,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent117,PC Vent,PC Vent117,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent118,PC Vent,PC Vent118,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent119,PC Vent,PC Vent119,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent120,PC Vent,PC Vent120,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent121,PC Vent,PC Vent121,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent122,PC Vent,PC Vent122,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent131,PC Vent,PC Vent131,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent132,PC Vent,PC Vent132,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,Vanity Top 2,Vanity Top 1,Vanity Top 2,,,MALE TOILET COUNTER TOP,MCR01,Vanity Top 1,,<By Category>,Counter/Benchtop
+Casework,PC Vent133,PC Vent,PC Vent133,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent134,PC Vent,PC Vent134,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent135,PC Vent,PC Vent135,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent137,PC Vent,PC Vent137,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent138,PC Vent,PC Vent138,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent167,PC Vent,PC Vent167,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent168,PC Vent,PC Vent168,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent169,PC Vent,PC Vent169,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,PC Vent170,PC Vent,PC Vent170,,,PC VENT BLOCK,MCR01,PC Vent,,<By Category>,Fixed Screen/Divider
+Casework,Urinal Cover1,Urinal Cover,Urinal Cover1,C1030400,Fabricated Cabinets & Counters,URINAL MAINTENANCE LEDGE TOP COVER,MCR01,Urinal Cover,,<By Category>,Counter/Benchtop
+Casework,Vanity Top 1,Vanity Top 1,Vanity Top 1,,,MALE TOILET COUNTER TOP,MCR01,Vanity Top 1,,<By Category>,Counter/Benchtop
+Casework,Furniture 1,Furniture 1,Furniture 1,,,MALE TOILET COUNTER TOP SIDE PANEL,MCR01,Furniture 1,,<By Category>,Counter/Benchtop
+Casework,Mirror Box Up7,Mirror Box Up,Mirror Box Up7,,,MALE TOILET MIRROR,MCR01,Mirror Box Up,,<By Category>,Mirror
+Casework,Mirror Glass7,Mirror Glass,Mirror Glass7,,,MALE TOILET MIRROR,MCR01,Mirror Glass,,<By Category>,Mirror
+Casework,Mirror Box Up14,Mirror Box Up,Mirror Box Up14,,,MALE TOILET MIRROR,MCR01,Mirror Box Up,,<By Category>,Mirror
+Casework,Mirror Glass14,Mirror Glass,Mirror Glass14,,,MALE TOILET MIRROR,MCR01,Mirror Glass,,<By Category>,Mirror
+Casework,Mirror Box Up1,Mirror Box Up,Mirror Box Up1,,,TOILET MIRROR,MCR01,Mirror Box Up,,<By Category>,Mirror
+Casework,Mirror Glass1,Mirror Glass,Mirror Glass1,,,MALE TOILET MIRROR,MCR01,Mirror Glass,,<By Category>,Mirror
+Casework,Mirror Box Up2,Mirror Box Up,Mirror Box Up2,,,TOILET MIRROR,MCR01,Mirror Box Up,,<By Category>,Mirror
+Casework,Mirror Glass2,Mirror Glass,Mirror Glass2,,,TOILET MIRROR,MCR01,Mirror Glass,,<By Category>,Mirror
+Casework,Mirror Box Up3,Mirror Box Up,Mirror Box Up3,,,TOILET MIRROR,MCR01,Mirror Box Up,,<By Category>,Mirror
+Casework,Mirror Glass3,Mirror Glass,Mirror Glass3,,,TOILET MIRROR,MCR01,Mirror Glass,,<By Category>,Mirror
+Casework,Mirror Box Up4,Mirror Box Up,Mirror Box Up4,,,TOILET MIRROR,MCR01,Mirror Box Up,,<By Category>,Mirror
+Casework,Mirror Glass4,Mirror Glass,Mirror Glass4,,,TOILET MIRROR,MCR01,Mirror Glass,,<By Category>,Mirror
+Casework,Mirror Box Up5,Mirror Box Up,Mirror Box Up5,,,TOILET MIRROR,MCR01,Mirror Box Up,,<By Category>,Mirror
+Casework,Mirror Glass5,Mirror Glass,Mirror Glass5,,,TOILET MIRROR,MCR01,Mirror Glass,,<By Category>,Mirror
+Casework,Mirror Box Up6,Mirror Box Up,Mirror Box Up6,,,TOILET MIRROR,MCR01,Mirror Box Up,,<By Category>,Mirror
+Casework,Walls 1,Walls 1,Walls 1,,,WALL CAPPING,MCR01,Walls 1,,<By Category>,Fixed Screen/Divider
+Casework,workman rest room cabinetrfa,workman rest room cabinetrfa,workman rest room cabinetrfa,,,CABINET,MCR01,workman rest room cabinetrfa,,<By Category>,Fixed Screen/Divider
+Casework,pantry cabinet,pantry cabinet,pantry cabinet,,,CABINET W/ SOLID SURFACE COUNTER TOP,MCR01,pantry cabinet,,<By Category>,Cabinetry
+Casework,table,table,table,,,SOLID SURFACE COUNTER TOP,MCR01,table,,<By Category>,Cabinetry
+Casework,Furniture 3,Furniture 3,Furniture 3,,,30MM THK TIMBER SUPPORT,MCR01,Furniture 3,,<By Category>,Cabinetry
+Casework,Mirror Box Up8,Mirror Box Up,Mirror Box Up8,,,TOILET MIRROR,MCR01,Mirror Box Up,,<By Category>,Mirror
+Casework,Mirror Glass6,Mirror Glass,Mirror Glass6,,,TOILET MIRROR,MCR01,Mirror Glass,,<By Category>,Mirror
+Casework,Mirror Glass8,Mirror Glass,Mirror Glass8,,,TOILET MIRROR,MCR01,Mirror Glass,,<By Category>,Mirror
 Lighting Fixtures,,,AUS_Arup_Recessed_Rectangular,,,,,,,,Lighting Fixture
 Lighting Fixtures,,,AUS_Arup_Recessed_Rectangular,,,,,,,,Lighting Fixture
 Lighting Fixtures,,,AUS_Arup_Recessed_Rectangular,,,,,,,,Lighting Fixture
@@ -342,11 +638,29 @@ Mechanical Equipment,Arup_Direct Expansion Indoor_Cassette_Cooling_SG1,FXFQ50AVM
 Mechanical Equipment,Arup_Direct Expansion Indoor_Cassette_Cooling_SG1,FXFQ50AVM 2,Arup_Direct Expansion Indoor_Cassette_Cooling_SG1,,,Direct Expansion Indoor Cooling Cassette,,FXFQ50AVM 2,,<By Category>,Air Conditioning Unit
 Mechanical Equipment,Arup_Direct Expansion Indoor_Cassette_Cooling_SG1,FXFQ50AVM 2,Arup_Direct Expansion Indoor_Cassette_Cooling_SG1,,,Direct Expansion Indoor Cooling Cassette,,FXFQ50AVM 2,,<By Category>,Air Conditioning Unit
 Mechanical Equipment,Arup_Direct Expansion Indoor_Cassette_Cooling_SG1,FXFQ50AVM 2,Arup_Direct Expansion Indoor_Cassette_Cooling_SG1,,,Direct Expansion Indoor Cooling Cassette,,FXFQ50AVM 2,,<By Category>,Air Conditioning Unit
+Mechanical Equipment,Arup_Direct Expansion Indoor_Cassette_Cooling_SG1,PLFY-P32VEM-PA,Arup_MaintenanceZone_Rectangular,,,NA,MCR07,Default,,<By Category>,Generic Model (MISC)
+Mechanical Equipment,Arup_Direct Expansion Indoor_Cassette_Cooling_SG1,PLFY-P32VEM-PA,Arup_MaintenanceZone_Rectangular,,,NA,MCR07,Default,,<By Category>,Generic Model (MISC)
+Mechanical Equipment,Arup_Direct Expansion Indoor_Cassette_Cooling_SG1,PLFY-P32VEM-PA,Arup_MaintenanceZone_Rectangular,,,NA,MCR07,Default,,<By Category>,Generic Model (MISC)
+Mechanical Equipment,Arup_Direct Expansion Indoor_Cassette_Cooling_SG1,PLFY-P32VEM-PA,Arup_MaintenanceZone_Rectangular,,,NA,MCR07,Default,,<By Category>,Generic Model (MISC)
+Mechanical Equipment,Arup_Direct Expansion Indoor_Cassette_Cooling_SG1,PLFY-P32VEM-PA,Arup_MaintenanceZone_Rectangular,,,NA,MCR07,Default,,<By Category>,Generic Model (MISC)
 Mechanical Equipment,Arup_Direct Expansion Indoor_Cassette_Cooling_SG1,PLFY-P32VEM-PA,Arup_Direct Expansion Indoor_Cassette_Cooling_SG1,,,Direct Expansion Indoor Cooling Cassette,,PLFY-P32VEM-PA,,<By Category>,Air Conditioning Unit
+Mechanical Equipment,Arup_Direct Expansion Indoor_Cassette_Cooling_SG1,FXFQ50AVM,Arup_MaintenanceZone_Rectangular,,,NA,MCR07,Default,,<By Category>,Generic Model (MISC)
+Mechanical Equipment,Arup_Direct Expansion Indoor_Cassette_Cooling_SG1,FXFQ50AVM,Arup_MaintenanceZone_Rectangular,,,NA,MCR07,Default,,<By Category>,Generic Model (MISC)
+Mechanical Equipment,Arup_Direct Expansion Indoor_Cassette_Cooling_SG1,FXFQ50AVM,Arup_MaintenanceZone_Rectangular,,,NA,MCR07,Default,,<By Category>,Generic Model (MISC)
+Mechanical Equipment,Arup_Direct Expansion Indoor_Cassette_Cooling_SG1,FXFQ50AVM,Arup_Direct Expansion Indoor_Cassette_Cooling_SG1,,,Direct Expansion Indoor Cooling Cassette,,FXFQ50AVM,,<By Category>,Air Conditioning Unit
+Mechanical Equipment,Arup_Direct Expansion Indoor_Cassette_Cooling_SG1,FXFQ50AVM,Arup_MaintenanceZone_Rectangular,,,NA,MCR07,Default,,<By Category>,Generic Model (MISC)
+Mechanical Equipment,Arup_Direct Expansion Indoor_Cassette_Cooling_SG1,FXFQ50AVM,Arup_MaintenanceZone_Rectangular,,,NA,MCR07,Default,,<By Category>,Generic Model (MISC)
 Mechanical Equipment,Arup_Direct Expansion Indoor_Cassette_Cooling_SG1,FXFQ50AVM,Arup_Direct Expansion Indoor_Cassette_Cooling_SG1,,,Direct Expansion Indoor Cooling Cassette,,FXFQ50AVM,,<By Category>,Air Conditioning Unit
 Mechanical Equipment,Cassette Aircon,FXFQ50LUV1,Cassette Aircon,23-33 37 11,,PEU - Cassette Type,,FXFQ50LUV1,,<By Category>,Air Conditioning Unit
 Mechanical Equipment,Cassette Aircon,FXFQ50LUV1,Cassette Aircon,23-33 37 11,,PEU - Cassette Type,,FXFQ50LUV1,,<By Category>,Air Conditioning Unit
 Mechanical Equipment,Arup_Direct Expansion Indoor_Cassette_Cooling_SG2,FXFQ50AVM 3,Arup_Direct Expansion Indoor_Cassette_Cooling_SG2,,,Direct Expansion Indoor Cooling Cassette,,FXFQ50AVM 3,,<By Category>,Air Conditioning Unit
+Mechanical Equipment,M-ACESSPANEL,450x450,M-ACESSPANEL,,,Access Panel Size: 450x450,MCR07,450x450,,<By Category>,Access Control Management Equipment
+Air Terminals,,,Arup_Air Terminals_Supply Diffuser_Ceiling Rect Face Non-Ducted_SG1,,,,,,,,Air Diffuser
+Air Terminals,,,Arup_Air Terminals_Supply Diffuser_Ceiling Rect Face Non-Ducted_SG1,,,,,,,,Air Diffuser
+Air Terminals,,,FIX_AC-Fresh air louver,,,,,,,,Air Diffuser
+Air Terminals,,,FIX_AC-Fresh air louver,,,,,,,,Air Diffuser
+Air Terminals,,,FIX_AC-Fresh air louver,,,,,,,,Air Diffuser
+Ducts,Rectangular Duct,Arup_Duct_GalvanisedSteel_Flanged_RadiusElbow_ShoeBranch,Rectangular Duct,,,,"Roughness values from CIBSE Guide C Table 4.1. Fittings from UKIMEA template, based on Autodesk OOTB Content - to be checked for DW144 Compliance",Arup_Duct_GalvanisedSteel_Flanged_RadiusElbow_ShoeBranch,,<By Category>,Duct
 Fire Alarm Devices,POC_Fire Alarm Visual Indicator,POC_Fire Alarm Visual Indicator,POC_Fire Alarm Visual Indicator,,,,,POC_Fire Alarm Visual Indicator,,,Fire Alarm Fixture and Device
 Fire Alarm Devices,POC_Fire Alarm Visual Indicator,POC_Fire Alarm Visual Indicator,POC_Fire Alarm Visual Indicator,,,,,POC_Fire Alarm Visual Indicator,,,Fire Alarm Fixture and Device
 Fire Alarm Devices,POC_Fire Alarm Visual Indicator,POC_Fire Alarm Visual Indicator,POC_Fire Alarm Visual Indicator,,,,,POC_Fire Alarm Visual Indicator,,,Fire Alarm Fixture and Device
@@ -359,12 +673,44 @@ Structural Framing,PFC-Parallel Flange Channels1,PFC100x50x8.5,PFC-Parallel Flan
 Structural Framing,PFC-Parallel Flange Channels1,PFC100x50x8.5,PFC-Parallel Flange Channels1,B1020362,Steel Beams w/ Steel Joists,,,PFC100x50x8.5,Metal - Steel - 345 MPa,<By Category>,Beam
 Structural Framing,UB-Universal Beams,SB4 UB457x191x74,UB-Universal Beams,B1020362,Steel Beams w/ Steel Joists,,Steel 43-275,SB4 UB457x191x74,Metal - Steel - 345 MPa,<By Category>,Beam
 Structural Framing,UB-Universal Beams,UB533x210x92,UB-Universal Beams,B1020362,Steel Beams w/ Steel Joists,,Steel 43-275,UB533x210x92,Metal - Steel - 345 MPa,<By Category>,Beam
+Columns,PD24x6,PD24x6,PD24x6,,,,,PD24x6,,,Architectural Column
+Columns,PD24x6,PD24x6,PD24x6,,,,,PD24x6,,,Architectural Column
+Columns,PLT10x225,PLT10x225,PLT10x225,,,,,PLT10x225,,,Architectural Column
+Columns,D1,D1,D1,,,,,D1,,,Architectural Column
+Columns,D1,D1,D1,,,,,D1,,,Architectural Column
+Columns,Ã˜50x3.2,Ã˜50x3.2,Ã˜50x3.2,,,,,Ã˜50x3.2,,,Architectural Column
+Columns,Ã˜50x3.2,Ã˜50x3.2,Ã˜50x3.2,,,,,Ã˜50x3.2,,,Architectural Column
+Columns,D12,D12,D12,,,,,D12,,,Architectural Column
+Columns,SHS 75X75,SHS 75X75,SHS 75X75,,,,,SHS 75X75,,,Architectural Column
+Columns,Columns 1,Columns 1,Columns 1,,,,,Columns 1,,,Architectural Column
+Columns,Columns 2,Columns 1,Columns 2,,,,,Columns 1,,,Architectural Column
+Columns,SHS 75X9,SHS 75X75,SHS 75X9,,,,,SHS 75X75,,,Architectural Column
+Columns,Columns 3,Columns 1,Columns 3,,,,,Columns 1,,,Architectural Column
+Columns,Columns 8,Columns 4,Columns 8,,,,,Columns 4,,,Architectural Column
+Columns,Columns 9,Columns 4,Columns 9,,,,,Columns 4,,,Architectural Column
+Columns,Columns 11,Columns 4,Columns 11,,,,,Columns 4,,,Architectural Column
+Columns,Columns 12,Columns 4,Columns 12,,,,,Columns 4,,,Architectural Column
+Columns,Columns 13,Columns 4,Columns 13,,,,,Columns 4,,,Architectural Column
+Columns,Columns 14,Columns 4,Columns 14,,,,,Columns 4,,,Architectural Column
+Columns,Columns 15,Columns 4,Columns 15,,,,,Columns 4,,,Architectural Column
+Columns,Columns 16,Columns 4,Columns 16,,,,,Columns 4,,,Architectural Column
+Columns,Columns 17,Columns 4,Columns 17,,,,,Columns 4,,,Architectural Column
+Columns,Columns 18,Columns 4,Columns 18,,,,,Columns 4,,,Architectural Column
+Columns,Columns 19,Columns 4,Columns 19,,,,,Columns 4,,,Architectural Column
+Columns,Columns 20,Columns 20,Columns 20,,,,,Columns 20,,,Architectural Column
 Structural Foundations,,,FOOTING,,,,,,,,Strip Footing
 Structural Foundations,,,FOOTING,,,,,,,,Strip Footing
 Structural Foundations,,,FOOTING,,,,,,,,Strip Footing
 Structural Foundations,,,FOOTING,,,,,,,,Strip Footing
 Parking,FAA_Pedestrian_Crossing,FAA_Pedestrian_Crossing,FAA_Pedestrian_Crossing,,,,,FAA_Pedestrian_Crossing,,<By Category>,Parking
+Electrical Equipment,,,Distribution Board,,,,,,,,Distribution Board
+Electrical Equipment,,,Distribution Board,,,,,,,,Distribution Board
 Electrical Fixtures,,,GATE CONTROL BUTTOM,,,,,,,,Access Control Management Fixture and Device
+Electrical Fixtures,,,ArupSG_Isolator,,,,,,,,Power Installation Fixture and Device
+Electrical Fixtures,,,ArupSG_Isolator,,,,,,,,Power Installation Fixture and Device
+Electrical Fixtures,,,ArupSG_Isolator,,,,,,,,Power Installation Fixture and Device
+Electrical Fixtures,Lightning Early Warning System,Lightning Early Warning System,Lightning Early Warning System,80HP9800113,,WIRELESS OUTDOOR BELL BOX,,Lightning Early Warning System,,,Power Installation Fixture and Device
+Electrical Fixtures,,,2 x 13A SWITCH SOCKET OUTLET,,,,,,,,Power Installation Fixture and Device
 Pipes,,,Pipe Types,,,,,,,,Pipe
 Pipes,,,Pipe Types,,,,,,,,Pipe
 Pipes,,,Pipe Types,,,,,,,,Pipe
@@ -408,44 +754,4 @@ Structural Columns,Concrete-Round-Column,273,Concrete-Round-Column,B10,Superstru
 Structural Columns,Circular Hollow Sections-Column,CHS273x16,Circular Hollow Sections-Column,B1010250,Columns - Steel,,Steel 50-355,CHS273x16,Metal - Steel 50-355,,Structural Column
 Structural Columns,Circular Hollow Sections-Column,CHS273x16,Circular Hollow Sections-Column,B1010250,Columns - Steel,,Steel 50-355,CHS273x16,Metal - Steel 50-355,,Structural Column
 Structural Columns,Circular Hollow Sections-Column,CHS273x16,Circular Hollow Sections-Column,B1010250,Columns - Steel,,Steel 50-355,CHS273x16,Metal - Steel 50-355,,Structural Column
-Walls,Basic Wall,LC02(E),Basic Wall,B2010100,Exterior Wall Construction,600MMX100MMX200MM(H) AAC BLOCK WALL,MCR17,LC02(E),100MM THK. ALC PANEL WALL,,Precision Blockwall
-Walls,Basic Wall,RC+1P,Basic Wall,B2010100,Exterior Wall Construction,350MM THK RC WALL,MCR17,RC+1P,Concrete - Cast In Situ,,Cast In-Situ RC Wall
-Walls,Basic Wall,Plaster Finish-15thk.,Basic Wall,,,15MM THK PLASTER AND PAINT FINISHES,MCR17,Plaster Finish-15thk.,Plaster - Nippon Solitude 5035,,Wall Finish
-Walls,Basic Wall,LC01(F)+3KB+1T-300x600 HT ERMOSA (v),Basic Wall,,,600MMX100MMX200MM(H) AAC BLOCK WALL,MCR17,LC01(F)+3KB+1T-300x600 HT ERMOSA (v),100MM THK. ALC PANEL WALL,,Precision Blockwall
-Walls,Basic Wall,Plaster Finish-25thk.,Basic Wall,,,15MM THK PLASTER AND PAINT FINISHES,MCR17,Plaster Finish-25thk.,Plaster Finish,,Wall Finish
-Walls,Basic Wall,LC01(25MM-BS),Basic Wall,,,600MMX100MMX200MM(H) AAC BLOCK WALL,MCR17,LC01(25MM-BS),100MM THK. ALC PANEL WALL,,Precision Blockwall
-Walls,Basic Wall,LC01+7KB+1T (LOW WALL) (HT ERMOSA),Basic Wall,,,600MMX100MMX200MM(H) AAC BLOCK WALL,MCR17,LC01+7KB+1T (LOW WALL) (HT ERMOSA),<By Category>,,Precision Blockwall
-Walls,Curtain Wall,Metal Facade - Blue,Rectangular Mullion,,,,,Rectangular_Mullion_Center- PF,,Metal - Steel(Navy Blue),Curtain Wall
-Walls,Curtain Wall,Metal Facade - Blue - Klip Lok,Rectangular Mullion,,,,,Rectangular_Mullion_Top_Right-PF,,Metal - Steel(Navy Blue),Curtain Wall
-Doors,BCA_Dr-Resi_2Leaf,MD9 (1500x2200),BCA_Dr-Resi_2Leaf,,,1HR fire-rated metal frame metal door in spray paint finish,MCR03,MD9 (1500x2200),,,General Door Item
-Doors,RKD-IDR_Cubicle Door Placeholder_WC,600x1900mm,RKD-IDR_Cubicle Door Placeholder_WC,,,Internal Single Door,MCR03,600x1900mm,,,General Door Item
-Doors,RKD-IDR_Cubicle Door Placeholder_WC,600x1900mm,RKD-IDR_Cubicle Door Placeholder_WC,,,Internal Single Door,MCR03,600x1900mm,,,General Door Item
-Doors,Timber Door Sliding _ Single Leaf with Louver,D420 (1070x2200),Timber Door Sliding _ Single Leaf with Louver,23-17 11 15 10,,Metal frame metal slidign door in spray paint finish,MCR03,D420 (1070x2200),,,General Door Item
-Floors,Floor,FF-1 (300x600 HT LEA3009)(H),Floor,C3020430,Flooring - Tile,300X600 HT-LEA 3009,MCR04,FF-1 (300x600 HT LEA3009)(H),Floor-Screeding,HT-LEA3009,Floor Finish
-Floors,Floor,FF-3(HT-TRIBECA GRIGO R10-300x600),Floor,,,300x600MM FLOOR TILE,MCR04,FF-3(HT-TRIBECA GRIGO R10-300x600),Floor-Screeding,HT-TRIBECA GRIGO R10-300x600,Floor Finish
-Floors,Floor,100 RC SLAB,Floor,C3020490,Flooring - Other,COUNTER TOP SUPPORT,MCR04,100 RC SLAB,"Concrete, Cast In Situ(2)",Concrete - Cast In Situ,General Floor Item
-Floors,Floor,Grass (Planting Verge),Floor,B,Shell,LANDSCAPE,MCR04,Grass (Planting Verge),Grass(Planting Verge),Grass(Planting Verge),General Floor Item
-Floors,Floor,150,Floor,B1010,Floor Construction,FIRE HYDRANT  - SLAB,MCR04,150,"Concrete, Cast In Situ","Concrete, Cast In Situ",General Floor Item
-Windows,Window 2 Panel,W4 (1850x1200),Window 2 Panel,,,1 TIER SLIDING - 2 PANELS,MCR18,W4 (1850x1200),,Aluminum,Sliding Window
-Windows,Window 2 Panel,W2 (1200x1200),Window 2 Panel,,,1 TIER SLIDING - 2 PANELS,MCR18,W2 (1200x1200),,Aluminum,Sliding Window
-Windows,LOUVERED - 2 PANELS,AL4 (2000x600),LOUVERED - 2 PANELS,,,1 TIER LOUVER - 2 PANELS,MCR18,AL4 (2000x600),,Aluminum,Fixed Louvred Window
-Windows,Top hung casement double,TW2 (1500X770),Top hung casement double,,,1 TIER TOP HUNG - 2 PANELS,MCR18,TW2 (1500X770),,Aluminum,Top-Hung Window
-Windows,Louvres_3 bays,AL7 (2400X1000),Louvres_3 bays,,,1 TIER LOUVER - 3 PANELS,MCR18,AL7 (2400X1000),,Aluminum,Fixed Louvred Window
-Windows,LOUVERED - 4 PANELS,AL5 (3800x1600),LOUVERED - 4 PANELS,,,1 TIER LOUVER - 3 PANELS,MCR18,AL5 (3800x1600),,Aluminum,Fixed Louvred Window
-Windows,LOUVERED - 4 PANELS,AL2 (5000x600),LOUVERED - 4 PANELS,,,1 TIER SLIDING - 4 PANELS,MCR18,AL2 (5000x600),,Aluminum,Sliding Window
-Windows,Louvres_1 bay,AL9 (450X450),Louvres_1 bay,,,1 TIER LOUVER - 1 PANELS,MCR18,AL9 (450X450),,Aluminum,Fixed Louvred Window
-Windows,Security Room W7A,WD7 (2000x1200),Security Room W7A,,,2 TIER SILDING - 4 PANELS,MCR18,WD7 (2000x1200),,Aluminum,Sliding Window
-Planting,,,RPC Tree - Deciduous1,,,,,,,,Tree
-Furniture,Desk-Guard Post,800x1500,Desk-Guard Post,E2020200,Furniture & Accessories,T2 SERIES - RECTANGULAR TABLE WITH WOODEN MODESTY PANEL,MCR06,800x1500,,Wood-ladderback chair,"Furniture, Fitting"
-Furniture,Table_with_8_ladderback_chairs_4708 (1),740X1180X750,Table_with_8_ladderback_chairs_4708 (1),,,DINNING TABLE,MCR06,740X1180X750,,WOOD,Furniture System
-Furniture,Low Cabinet_Guard Post,Low Cabinet_Guard Post,Low Cabinet_Guard Post,,,PEDESTAL DRAWER,MCR06,Low Cabinet_Guard Post,,Steel,"Furniture, Fitting"
-Plumbing Fixtures,WASH BASIN LU3310A ,AR_SAN-001_440 x 350mm,WASH BASIN LU3310A,C1030210,Bath & Toilet Accessories - Commercial,UNDERCOUNTER LAVATORY,MCR09,AR_SAN-001_440 x 350mm,,Steel,Basin
-Plumbing Fixtures,LOUIS-Grab Bar-LGF7010,STAINLESS STEEL SWING-UP GRAB BAR,LOUIS-Grab Bar-LGF7010,,,STAINLESS STEEL SWING UP GRAB BAR,MCR09,STAINLESS STEEL SWING-UP GRAB BAR,,Stainless Steel,General Plumbing Fixture Item
-Plumbing Fixtures,LOUIS-Grab Bar-LGL75L80,LOUIS-Grab Bars-LGL75L80,LOUIS-Grab Bar-LGL75L80,,,HANDICAP GRAB BAR,MCR09,LOUIS-Grab Bars-LGL75L80,,Stainless Steel,General Plumbing Fixture Item
-Plumbing Fixtures,RIGEL WH2105BP WALL HUNG WC,RIGEL WH2105BP WALL HUNG WC,RIGEL WH2105BP WALL HUNG WC,,,PEDESTAL WATER CLOSET,MCR09,RIGEL WH2105BP WALL HUNG WC,,Water Closet - Ceramic,Water Closet
-Plumbing Fixtures,Sanitary-Equipment_Duravit_Urinal-Ben_084737,084737 White Alpin,Sanitary-Equipment_Duravit_Urinal-Ben_084737,,,WALL HUNG URINAL,MCR09,084737 White Alpin,,Water Closet - Ceramic,Urinal
-Plumbing Fixtures,TOTO-Flush Valve-TEF75LSV3,TEF75LSV3_E.BOX ON,TOTO-Flush Valve-TEF75LSV3,,,SENSE FLUSH VALVE - CONCEALED BOX,MCR09,TEF75LSV3_E.BOX ON,,Steel,Water Closet
-Plumbing Fixtures,ASH_ArmitageShanks_Sinks_Stewart,"S6006 - Stewart Inset Sink, Single Bowl - Right Hand Drainer",ASH_ArmitageShanks_Sinks_Stewart,C1030200,Bath & Toilet Accessories,"Stewart inset sink, single bowl, right hand drainer",MCR09,"S6006 - Stewart Inset Sink, Single Bowl - Right Hand Drainer",,Stainless Steel,Tapware
-Plumbing Fixtures,TP_Holder_Jumbo_Double_7195,TP_Holder_Jumbo_Double_7195,TP_Holder_Jumbo_Double_7195,,,"SURFACE MOUNTED 9 TWIN ROLL DOUBLE PAPER HOLDER""",MCR09,TP_Holder_Jumbo_Double_7195,,ABS CASING,General Plumbing Fixture Item
-Lighting Fixtures,,,UFO,,,,,,,,Lighting Fixture
-Pipe Fittings,M_Bend - PVC - Sch 40 - DWV,Standard,M_Bend - PVC - Sch 40 - DWV,,,,,Standard,,<By Category>,Pipe Fittings
+Data Devices,,,Data outlet,,,,,,,,Wireless Network Fixture and Device
