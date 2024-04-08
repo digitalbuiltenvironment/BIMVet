@@ -1,0 +1,904 @@
+Family,SubFamily,ObjectGroup,ObjectName,Assembly Code,Assembly Description,Description,Type Comments,Type Name,Structural Material,Material
+Walls,Basic Wall,TS_150mm Thk. PC Non-Structural Wall,Basic Wall,,,WALL : 150mm Thk. Precast Non-Structural Wall,(BS 3.2) Precast Concrete Wall with Skim Coat,TS_150mm Thk. PC Non-Structural Wall,TS_PC Wall,
+Walls,Basic Wall,TS_150mm Thk. RC Non-Structural Wall (CIS),Basic Wall,,,WALL : 150mm Thk. RC Non-Structural Wall,,TS_150mm Thk. RC Non-Structural Wall (CIS),TS_RC Wall,
+Walls,Basic Wall,TS_150mm Thk. PC Non-Structural Wall (FRS 2hr),Basic Wall,,,WALL : 150mm Thk. Precast Non-Structural Wall with 2hr Fire Rating,,TS_150mm Thk. PC Non-Structural Wall (FRS 2hr),TS_PC Wall (w/ FR),
+Walls,Basic Wall,TS_150mm Thk. LW Concrete Wall (FRS 2hr),Basic Wall,,,WALL : 150mm Thk. Lightweight Precast Concrete Wall with 2hr Fire Rating,,TS_150mm Thk. LW Concrete Wall (FRS 2hr),TS_LW Wall (w/ FR),
+Walls,Basic Wall,TS_150mm Thk. PC Structural Wall (Hanger),Basic Wall,,,WALL : 150mm Thk. PC Structural Hanger Wall,"(BS 3.3) Precast Concrete Wall with Plastering, Tile/Stone Finishes",TS_150mm Thk. PC Structural Wall (Hanger),TS_PC Hanger Wall,
+Walls,Basic Wall,TS_300mm Thk. RC Structural Wall (CIS),Basic Wall,,,WALL : 300mm Thk. RC Structural Wall,,TS_300mm Thk. RC Structural Wall (CIS),TS_RC Core Wall,
+Walls,Basic Wall,TS_200mm Thk. LW Concrete Wall (FRS 2hr),Basic Wall,,,WALL : 200mm Thk. Lightweight Precast Concrete Wall with 2HR Fire Rating,,TS_200mm Thk. LW Concrete Wall (FRS 2hr),TS_LW Wall (w/ FR),
+Walls,Basic Wall,TS_150mm Thk. PC Parapet Wall (PP2-2),Basic Wall,,,WALL : 250mm Thk. Precast Parapet Wall (PP1),(BS 3.2) Precast Concrete Wall with Skim Coat,TS_150mm Thk. PC Parapet Wall (PP2-2),TS_PC Parapet (120/150/250),
+Walls,Basic Wall,TS_150mm Thk. RC Planter Wall,Basic Wall,,,WALL : 150mm Thk. RC Planter Wall,,TS_150mm Thk. RC Planter Wall,TS_PW,
+Walls,Basic Wall,TS_75mm Thk. PC Non-Structural Wall (FRS 2hr),Basic Wall,,,WALL : 150mm Thk. Precast Non-Structural Wall with 2hr Fire Rating,,TS_75mm Thk. PC Non-Structural Wall (FRS 2hr),TS_PC Wall (w/ FR),
+Walls,Basic Wall,TS_200mm Thk. RC Non-Structural Wall (CIS),Basic Wall,,,WALL : 200mm Thk. RC Non-Structural Wall,,TS_200mm Thk. RC Non-Structural Wall (CIS),TS_RC Wall,
+Walls,Basic Wall,TS_300mm Thk. ESS Wall (EW1),Basic Wall,,,WALL : 300mm Thk. RC ESS Wall,,TS_300mm Thk. ESS Wall (EW1),TS_RC Core Wall,
+Walls,Basic Wall,TS_200mm Thk. RC Kerb Wall,Basic Wall,,,WALL : 200mm Thk. RC Kerb Wall,"(BS 3.3) Precast Concrete Wall with Plastering, Tile/Stone Finishes",TS_200mm Thk. RC Kerb Wall,TS_RC Kerb Wall,
+Walls,Basic Wall,TS_75mm Thk. LW Concrete Wall,Basic Wall,,,WALL : 100mm Thk. Lightweight Precast Concrete Wall with 2hr Fire Rating,,TS_75mm Thk. LW Concrete Wall,TS_LW Wall (w/ FRS),
+Walls,Basic Wall,TS_200mm Thk. RC Planter Wall (with PW),Basic Wall,,,WALL : 200mm Thk. RC Planter Wall,,TS_200mm Thk. RC Planter Wall (with PW),TS_RC Planter Wall,
+Walls,Basic Wall,TS_200mm Thk. RC Structural Wall (CIS),Basic Wall,,,WALL : 200mm Thk. RC Structural Wall,,TS_200mm Thk. RC Structural Wall (CIS),TS_RC Core Wall,
+Walls,Basic Wall,TS_150mm Thk. LW Concrete Wall (STC 55),Basic Wall,,,WALL : Lightweight Precast Concrete Wall with STC 55,,TS_150mm Thk. LW Concrete Wall (STC 55),TS_LW Wall (STC 55),
+Walls,Basic Wall,TS_600mm Thk. RC Structural Wall (Stump),Basic Wall,,,WALL : 600mm Thk. RC Wall Stump,,TS_600mm Thk. RC Structural Wall (Stump),TS_RC Stump,
+Walls,Basic Wall,TS_400mm Thk. RC Structural Wall (CIS),Basic Wall,,,WALL : 400mm Thk. RC Structural Wall,,TS_400mm Thk. RC Structural Wall (CIS),TS_RC Core Wall,
+Walls,Basic Wall,TS_150mm Thk. PC Parapet Wall (PP2-1),Basic Wall,,,WALL : 150mm Thk. Preacst Parapet Wall,(BS 3.2) Precast Concrete Wall with Skim Coat,TS_150mm Thk. PC Parapet Wall (PP2-1),TS_PC Parapet (120/150/250),
+Walls,Basic Wall,TS_150mm Thk. PC Parapet Wall (with Coping),Basic Wall,,,WALL : 150mm Thk. PC Parapet Wall with Coping,(BS 5.2) Cast In-Situ Reinforced Concrete Wall with Skim Coat,TS_150mm Thk. PC Parapet Wall (with Coping),TS_PC Parapet (120/150/250),
+Walls,Basic Wall,TS_100mm Thk. PC Parapet Wall,Basic Wall,,,WALL : 100mm Thk. PC Parapet Wall,(BS 3.2) Precast Concrete Wall with Skim Coat,TS_100mm Thk. PC Parapet Wall,TS_PC Parapet (100),
+Walls,Basic Wall,TS_15mm Thk. Homogenous Tile,Basic Wall,,,WALL : 15mm Thk. Homogeneous Wall Tiles (300x600),,TS_15mm Thk. Homogenous Tile,TS_Homogenous Tile,
+Walls,Basic Wall,TS_100mm Thk. LW Concrete Wall (FRS 2hr),Basic Wall,,,WALL : 100mm Thk. Lightweight Precast Concrete Wall with 2hr Fire Rating,,TS_100mm Thk. LW Concrete Wall (FRS 2hr),TS_LW Wall (w/ FR),
+Walls,Basic Wall,TS_300mm Thk. RC Non-Structural Wall (CIS),Basic Wall,,,WALL : 300mm Thk. RC Non-Structural Wall,(BS 5.2) Cast In-Situ Reinforced Concrete Wall with Skim Coat,TS_300mm Thk. RC Non-Structural Wall (CIS),TS_RC Wall,
+Walls,Basic Wall,TS_15mm Thk. Homogenous Tile - Cliffstone Ice,Basic Wall,,,WALL : 15mm Thk. Homogeneous Wall Tiles,,TS_15mm Thk. Homogenous Tile - Cliffstone Ice,TS_FT-01(Cliffstone Ice),
+Walls,Basic Wall,TS_400mm Thk. PC Structural Wall,Basic Wall,,,WALL : 400mm Thk. PC Structural Wall,,TS_400mm Thk. PC Structural Wall,TS_PC Core Wall,
+Walls,Basic Wall,TS_200mm Thk. PC Structural Wall,Basic Wall,,,WALL : 200mm Thk. PC Structural Wall,(BS 3.2) Precast Concrete Wall with Skim Coat,TS_200mm Thk. PC Structural Wall,TS_PC Core Wall,
+Walls,Basic Wall,TS_300mm Thk. PC Structural Wall,Basic Wall,,,WALL : 300mm Thk. PC Structural Wall,,TS_300mm Thk. PC Structural Wall,TS_PC Core Wall,
+Walls,Basic Wall,TS_500mm Thk. RC Structural Wall (Stump),Basic Wall,,,WALL : 500mm Thk. RC Wall Stump,,TS_500mm Thk. RC Structural Wall (Stump),TS_RC Stump,
+Walls,Basic Wall,TS_400mm Thk. RC Structural Wall (Stump),Basic Wall,,,WALL : 400mm Thk. RC Structural Wall Stump,,TS_400mm Thk. RC Structural Wall (Stump),TS_RC Wall,
+Walls,Basic Wall,TS_300mm Thk. PC Non-Structural Wall,Basic Wall,,,WALL : 300mm Thk. PC Non-Structural Wall,,TS_300mm Thk. PC Non-Structural Wall,TS_PC Wall,
+Walls,Basic Wall,TS_500mm Thk. RC Structural Wall (CIS),Basic Wall,,,WALL : 500mm Thk. RC Structural Wall,,TS_500mm Thk. RC Structural Wall (CIS),TS_RC Core Wall,
+Walls,Basic Wall,TS_250mm Thk. PC Parapet Wall (PP1-1),Basic Wall,,,WALL : 250mm Thk. Precast Parapet Wall (PP1),(BS 3.2) Precast Concrete Wall with Skim Coat,TS_250mm Thk. PC Parapet Wall (PP1-1),TS_PC Parapet (120/150/250),
+Walls,Basic Wall,TS_250mm Thk. PC Parapet Wall (Ramp),Basic Wall,,,WALL : 250mm Thk. PC Parapet Wall at Ramp,(BS 3.2) Precast Concrete Wall with Skim Coat,TS_250mm Thk. PC Parapet Wall (Ramp),TS_PC Parapet (120/150/250),
+Walls,Basic Wall,TS_250mm Thk. RC Non-Structural Wall (CIS),Basic Wall,,,WALL : 250mm Thk. RC Non-Structural Wall,,TS_250mm Thk. RC Non-Structural Wall (CIS),TS_RC Wall,
+Walls,Basic Wall,TS_150mm Thk. RC Trench Wall (EW2),Basic Wall,,,WALL : 150mm Thk. RC Trench Wall,"(BS 3.3) Precast Concrete Wall with Plastering, Tile/Stone Finishes",TS_150mm Thk. RC Trench Wall (EW2),TS_RC Wall,
+Walls,Basic Wall,TS_75mm Thk. RC Non-Structural Wall (CIS),Basic Wall,,,WALL : 75mm Thk. RC Non-Structural Wall,(BS 5.2) Cast In-Situ Reinforced Concrete Wall with Skim Coat,TS_75mm Thk. RC Non-Structural Wall (CIS),TS_RC Wall,
+Walls,Basic Wall,TS_5mm Thk. Skim Coat Finish,Basic Wall,,,WALL : 5mm Thk. Skimcoat Finish,,TS_5mm Thk. Skim Coat Finish,<By Category>,
+Walls,Basic Wall,TS_10mm Thk. Skim Coat Finish,Basic Wall,,,WALL : 10mm Thk. Skimcoat Finish,,TS_10mm Thk. Skim Coat Finish,TS_Skim Coat,
+Walls,Basic Wall,TS_300mm Thk. Detention Tank Wall,Basic Wall,,,WALL : 300mm Thk. RC Detention Tank Wall,(BS 5.2) Cast In-Situ Reinforced Concrete Wall with Skim Coat,TS_300mm Thk. Detention Tank Wall,TS_RC Wall,
+Walls,Basic Wall,TS_5mm Thk. Skim Coat Finish (Navy Blue),Basic Wall,,,WALL : 5mm Thk. Skimcoat Finish,,TS_5mm Thk. Skim Coat Finish (Navy Blue),<By Category>,
+Walls,Basic Wall,TS_15mm Thk. Vinyl Tile,Basic Wall,,,WALL : 15mm Thk. Vinyl Wall Tiles,,TS_15mm Thk. Vinyl Tile,TS_FT-04(Vinyl Tiles),
+Walls,Basic Wall,TS_25mm Thk. Pebble Wash Finish,Basic Wall,,,WALL : 25mm Thk. Pebble Wash Finish (PW),NC,TS_25mm Thk. Pebble Wash Finish,TS_PW,
+Walls,Basic Wall,TS_175mm Thk. RC Non-Structural Wall (CIS),Basic Wall,,,WALL : 175mm Thk. RC Non-Structural Wall,,TS_175mm Thk. RC Non-Structural Wall (CIS),TS_RC Wall,
+Walls,Basic Wall,TS_150mm Thk. RC Kerb Wall,Basic Wall,,,WALL : 150mm Thk. RC Kerb Wall,(BS 5.2) Cast In-Situ Reinforced Concrete Wall with Skim Coat,TS_150mm Thk. RC Kerb Wall,TS_RC Kerb Wall,
+Walls,Basic Wall,TS_150mm Thk. PC Parapet Wall_Type F,Basic Wall,,,WALL : 150mm Thk. Preacst Parapet Wall,(BS 3.2) Precast Concrete Wall with Skim Coat,TS_150mm Thk. PC Parapet Wall_Type F,TS_Parapet Wall,
+Walls,Basic Wall,TS_120mm Thk. PC Parapet Wall_Type B.1 (with Coping),Basic Wall,,,WALL : 120mm Thk. PC Parapet Wall,(BS 5.2) Cast In-Situ Reinforced Concrete Wall with Skim Coat,TS_120mm Thk. PC Parapet Wall_Type B.1 (with Coping),TS_PC Parapet (120/150/250),
+Walls,Basic Wall,TS_150mm Thk. RC Structural Wall (CIS),Basic Wall,,,WALL : 150mm Thk. RC Structural Wall,,TS_150mm Thk. RC Structural Wall (CIS),TS_RC Wall,
+Walls,Basic Wall,TS_15mm Thk. Homogenous Tile - Berlin Platinum,Basic Wall,,,WALL : 15mm Thk. Homogeneous Wall Tiles,,TS_15mm Thk. Homogenous Tile - Berlin Platinum,TS_FT-01(Berlin Platinum),
+Walls,Basic Wall,TS_15mm Thk. Homogenous Tile - Cliffstone Grigio,Basic Wall,,,WALL : 15mm Thk. Homogeneous Wall Tiles,,TS_15mm Thk. Homogenous Tile - Cliffstone Grigio,TS_FT-01(Cliffstone Grigio),
+Walls,Basic Wall,TS_100mm Thk. RC Non-Structural Wall (CIS),Basic Wall,,,WALL : 100mm Thk. RC Non-Structural Wall,(BS 5.2) Cast In-Situ Reinforced Concrete Wall with Skim Coat,TS_100mm Thk. RC Non-Structural Wall (CIS),TS_RC Wall,
+Walls,Basic Wall,TS_Toilet Cubicle Wall (with Headrail),Basic Wall,,,WALL : Toilet Partition Wall,NC,TS_Toilet Cubicle Wall (with Headrail),TS_Phenolic (Toilet),
+Walls,Basic Wall,TS_Toilet Cubicle Wall,Basic Wall,,,WALL : Toilet Partition Wall,NC,TS_Toilet Cubicle Wall,TS_Phenolic (Toilet),
+Walls,Basic Wall,TS_Modesty Panel,Basic Wall,,,WALL : Toilet Partition Wall,NC,TS_Modesty Panel,TS_Phenolic (Toilet),
+Walls,Basic Wall,TS_100mm Thk. RC Kerb Wall,Basic Wall,,,WALL : 100mm Thk. RC Kerb Wall,(BS 5.2) Cast In-Situ Reinforced Concrete Wall with Skim Coat,TS_100mm Thk. RC Kerb Wall,TS_RC Kerb Wall,
+Walls,Basic Wall,TS_300mm Thk. RC Wall (Stump),Basic Wall,,,WALL : 300mm Thk. RC Wall Stump,,TS_300mm Thk. RC Wall (Stump),TS_RC Stump,
+Walls,Basic Wall,TS_200mm Thk. RC Structural Wall (Stump),Basic Wall,,,WALL : 200mm Thk. RC Structural Wall Stump,,TS_200mm Thk. RC Structural Wall (Stump),TS_RC Stump,
+Walls,Basic Wall,TS_75mm Thk. LW Concrete Wall (FRS 2hr),Basic Wall,,,WALL : 100mm Thk. Lightweight Precast Concrete Wall with 2hr Fire Rating,,TS_75mm Thk. LW Concrete Wall (FRS 2hr),TS_LW Wall (w/ FR),
+Walls,Basic Wall,TS_12mm Thk. Ductile Concrete Wall (With Profile),Basic Wall,,,WALL : 12mm Thk. Ductile Concrete Wall with Profile,(BS 3.2) Precast Concrete Wall with Skim Coat,TS_12mm Thk. Ductile Concrete Wall (With Profile),TS_Ductile Concrete,
+Walls,Basic Wall,TS_20mm Thk. Homogenous Tile (PBU) - Cliffstone Ice,Basic Wall,,,WALL : 20mm Thk. Homogeneous Wall Tiles,,TS_20mm Thk. Homogenous Tile (PBU) - Cliffstone Ice,TS_FT-01(Cliffstone Ice),
+Walls,Basic Wall,TS_150mm Thk. PC Parapet Wall,Basic Wall,,,WALL : 150mm Thk. Preacst Parapet Wall,(BS 3.2) Precast Concrete Wall with Skim Coat,TS_150mm Thk. PC Parapet Wall,TS_PC Parapet (120/150/250),
+Walls,Basic Wall,TS_60mm Thk. LW Concrete Wall,Basic Wall,,,WALL : 60mm Thk. Lightweight Precast Concrete Wall,,TS_60mm Thk. LW Concrete Wall,TS_LW Wall,
+Walls,Basic Wall,TS_20mm Thk. Concrete Wall,Basic Wall,,,WALL : 20mm Thk. Ductile Concrete Wall,(BS 3.2) Precast Concrete Wall with Skim Coat,TS_20mm Thk. Concrete Wall,TS_Ductile Concrete,
+Walls,Basic Wall,TS_20mm Thk. Ductile Concrete Wall,Basic Wall,,,WALL : 20mm Thk. Ductile Concrete Wall,(BS 3.2) Precast Concrete Wall with Skim Coat,TS_20mm Thk. Ductile Concrete Wall,TS_Ductile Concrete,
+Walls,Basic Wall,TS_15mm Thk. Homogenous Tile - Lavastone Bone,Basic Wall,,,WALL : 15mm Thk. Homogeneous Wall Tiles,,TS_15mm Thk. Homogenous Tile - Lavastone Bone,TS_FT-01(Lavastone Bone),
+Walls,Basic Wall,TS_15mm Thk. Homogenous Tile - Slate Grigio,Basic Wall,,,WALL : 15mm Thk. Homogeneous Wall Tiles,,TS_15mm Thk. Homogenous Tile - Slate Grigio,TS_FT-01(Slate Grigio),
+Walls,Basic Wall,TS_15mm Thk. Timber Skirting,Basic Wall,,,WALL : 15mm Thk. Timber Skirting Wall,NC,TS_15mm Thk. Timber Skirting,<By Category>,
+Walls,Basic Wall,TS_16mm Thk. Gypsum Panel,Basic Wall,,,WALL : 16mm Thk. Gypsum Panel,(BS 3.2) Precast Concrete Wall with Skim Coat,TS_16mm Thk. Gypsum Panel,TS_Gypsum Panel,
+Walls,Basic Wall,TS_50mm Thk. Ductile Concrete Wall,Basic Wall,,,WALL : 50mm Thk. Ductile Concrete Wall,(BS 3.2) Precast Concrete Wall with Skim Coat,TS_50mm Thk. Ductile Concrete Wall,TS_Ductile Concrete,
+Walls,Basic Wall,TS_92mm Thk. RC Kerb Wall,Basic Wall,,,WALL : 92mm Thk. RC Kerb Wall,(BS 3.2) Precast Concrete Wall with Skim Coat,TS_92mm Thk. RC Kerb Wall,TS_RC Kerb Wall,
+Walls,Basic Wall,TS_50mm Thk. RC Kerb Wall,Basic Wall,,,WALL : 50mm Thk. RC Kerb Wall,(BS 3.2) Precast Concrete Wall with Skim Coat,TS_50mm Thk. RC Kerb Wall,TS_RC Kerb Wall,
+Walls,Basic Wall,TS_50mm Thk. Pebble Wash Finish,Basic Wall,,,WALL : 50mm Thk. Pebble Wash Finish (EA1),NC,TS_50mm Thk. Pebble Wash Finish,TS_EA1,
+Walls,Basic Wall,TS_15mm Thk. Ceiling Pelmet (CP-01),Basic Wall,,,WALL : 15mm Thk. Moisture Resistant Plaster Board,,TS_15mm Thk. Ceiling Pelmet (CP-01),TS_CP-01A,
+Walls,Basic Wall,TS_PBU Ceiling,Basic Wall,,,WALL : 8mm Thk Fiber Cement Panel PBU Ceiling,Ceiling,TS_PBU Ceiling,<By Category>,
+Walls,Basic Wall,TS_200mm Thk. Parapet Wall,Basic Wall,,,,(BS 5.2) Cast In-Situ Reinforced Concrete Wall with Skim Coat,TS_200mm Thk. Parapet Wall,TS_Parapet Wall,
+Walls,Basic Wall,TS_100mm Thk. Drywalll (FRS 2hr),Basic Wall,,,WALL : 100mm Thk. Drywall with 2hr Fire Rating,,TS_100mm Thk. Drywalll (FRS 2hr),TS_Drywall (w/ FR),
+Walls,Basic Wall,TS_150mm Thk. Drywall,Basic Wall,,,WALL : 150mm Thk. Drywall with 2hr Fire Rating,,TS_150mm Thk. Drywall,TS_Drywall,
+Walls,Basic Wall,TS_100mm Thk. Drywall,Basic Wall,,,WALL : 100mm Thk. Drywall,,TS_100mm Thk. Drywall,TS_Drywall,
+Walls,Basic Wall,TS_180mm Thk. RC Structural Wall (CIS),Basic Wall,,,WALL : 300mm Thk. RC Structural Wall,,TS_180mm Thk. RC Structural Wall (CIS),TS_RC Core Wall,
+Walls,Basic Wall,TS_325mm Thk. RC Structural Wall (CIS),Basic Wall,,,WALL : 300mm Thk. RC Structural Wall,,TS_325mm Thk. RC Structural Wall (CIS),TS_RC Core Wall,
+Walls,Basic Wall,TS_2mm Aluminium Panel (Powder Coated),Basic Wall,,,WALL : 2mm Thk. Powdercoated Aluminum Panel,,TS_2mm Aluminium Panel (Powder Coated),TS_Aluminum,
+Walls,Basic Wall,TS_50mm Thk. RC Non-Structural Wall (CIS),Basic Wall,,,WALL : 100mm Thk. RC Non-Structural Wall,(BS 5.2) Cast In-Situ Reinforced Concrete Wall with Skim Coat,TS_50mm Thk. RC Non-Structural Wall (CIS),TS_RC Wall,
+Walls,Basic Wall,TS_120mm Thk. PC Non-Structural Wall,Basic Wall,,,WALL : 150mm Thk. Precast Non-Structural Wall,(BS 3.2) Precast Concrete Wall with Skim Coat,TS_120mm Thk. PC Non-Structural Wall,TS_PC Wall,
+Walls,Basic Wall,TS_15mm Thk. 300x600 Ceramic Glazed Tiles,Basic Wall,,,WALL : 15mm Thk. Homogeneous Wall Tiles (300x600),,TS_15mm Thk. 300x600 Ceramic Glazed Tiles,TS_600x300 Ceramic Glazed,
+Walls,Basic Wall,TS_75mm Thk. Drywall,Basic Wall,,,WALL : 150mm Thk. Drywall with 2hr Fire Rating,,TS_75mm Thk. Drywall,TS_Drywall,
+Walls,TS_Accent Wall 04,TS_East Grand Staircase Accent Wall 02,TS_Accent Wall 04,,,,,TS_East Grand Staircase Accent Wall 02,<By Category>,
+Walls,TS_Accent Wall 03,TS_East Grand Staircase Accent Wall 01,TS_Accent Wall 03,,,,,TS_East Grand Staircase Accent Wall 01,<By Category>,
+Walls,Curtain Wall,TS_Fence (TBC),CP_Chain Link fence,,,,,Chain Link fence,,
+Walls,Curtain Wall,TS_Fence (TBC),TS_Fence,,,Door : Fence Gate,,TS_Fence_FG-1,,
+Walls,Curtain Wall,TS_Fence (TBC),Curtain Wall,B2020200,Curtain Walls,WALL : Fence,,TS_Fence (TBC),<By Category>,
+Walls,Curtain Wall,TS_Fence (TBC),System Panel,,,,,SP_Perforated_ JTC Ocean Blue,,Perforated steel_ JTC Ocean Blue
+Walls,Curtain Wall,TS_Curtain Wall Storefront (TBC),System Panel,,,,,TS_Glass Canopy (Glaze),,TS_Glass(Canopy)
+Walls,Curtain Wall,TS_Curtain Wall Storefront (TBC),TS_Glass Panel,,,Door : Glass Panel Door,GD2,TS_Glass Panel_GD21,,
+Walls,Curtain Wall,TS_Curtain Wall Storefront (TBC),System Panel,,,,,SP_Perforated_ JTC Ocean Blue,,Perforated steel_ JTC Ocean Blue
+Walls,Curtain Wall,TS_Curtain Wall Storefront (TBC),Curtain Wall,,,WALL : Curtain Wall,(BS 2.1) Curtain Wall / Full Height Glass Partition,TS_Curtain Wall Storefront (TBC),<By Category>,
+Walls,Curtain Wall,TS_Curtain Wall Storefront (TBC),System Panel,,,,,TS_Glass Wall,,TS_Glass
+Walls,Curtain Wall,TS_Canteen Screen (TBC),Rectangular Mullion,,,,,TS_100x75 Alum. Trellis Canteen,,TS_Stainless Steel Satin
+Walls,Curtain Wall,TS_Canteen Screen (TBC),Rectangular Mullion,,,,,Alum. Screen Canteen Bracing,,TS_Stainless Steel Satin
+Walls,Curtain Wall,TS_Canteen Screen (TBC),Curtain Wall,,,WALL : Curtain Wall Canteen Screen,,TS_Canteen Screen (TBC),<By Category>,
+Walls,Curtain Wall,TS_Curtain Wall Training (TBC),System Panel,,,,,SP_Perforated_ JTC Ocean Blue,,Perforated steel_ JTC Ocean Blue
+Walls,Curtain Wall,TS_Curtain Wall Training (TBC),Rectangular Mullion,,,,,Rectangular_Mullion 50x100,,Aluminium
+Walls,Curtain Wall,TS_Curtain Wall Training (TBC),Curtain Wall,,,WALL : Curtain Wall,,TS_Curtain Wall Training (TBC),<By Category>,
+Walls,Curtain Wall,TS_Type-C Facade (Expanded Metal Mesh),System Panel,,,,,TS_Expanded Metal Mesh Panel (Type C Light Grey),,TS_Facade Mesh (Light Grey)
+Walls,Curtain Wall,TS_Type-C Facade (Expanded Metal Mesh),Rectangular Mullion,,,,,TS_Horizontal Rectangular Mullion (100x50),,TS_Aluminun Powder Coat(Dark Grey)
+Walls,Curtain Wall,TS_Type-C Facade (Expanded Metal Mesh),Rectangular Mullion,,,,,TS_Vertical Rectangular Mullion (100x50),,TS_Aluminun Powder Coat(Dark Grey)
+Walls,Curtain Wall,TS_Type-C Facade (Expanded Metal Mesh),Curtain Wall,,,WALL : Curtain Wall,,TS_Type-C Facade (Expanded Metal Mesh),<By Category>,
+Walls,Curtain Wall,TS_Type-B Facade (Expanded Metal Mesh),System Panel,,,,,TS_Expanded Metal Mesh Panel (Type B Light Grey),,TS_Facade Mesh (Light Grey)
+Walls,Curtain Wall,TS_Type-B Facade (Expanded Metal Mesh),Rectangular Mullion,,,,,TS_Horizontal Rectangular Mullion (100x100),,TS_Aluminun Powder Coat(Dark Grey)
+Walls,Curtain Wall,TS_Type-B Facade (Expanded Metal Mesh),Rectangular Mullion,,,,,TS_Vertical Rectangular Mullion (50x70),,TS_Aluminun Powder Coat(Dark Grey)
+Walls,Curtain Wall,TS_Type-B Facade (Expanded Metal Mesh),Rectangular Mullion,,,,,TS_Vertical Rectangular Mullion (50x100),,TS_Aluminun Powder Coat(Dark Grey)
+Walls,Curtain Wall,TS_Type-B Facade (Expanded Metal Mesh),Curtain Wall,,,WALL : Curtain Wall,,TS_Type-B Facade (Expanded Metal Mesh),<By Category>,
+Walls,Curtain Wall,TS_Type-B Facade (Expanded Metal Mesh),System Panel,,,,,TS_Expanded Metal Mesh Panel (Type B Grey),,TS_Facade Mesh (Grey)
+Walls,Curtain Wall,TS_Type-B Facade (Expanded Metal Mesh),System Panel,,,,,TS_Expanded Metal Mesh Panel (Type B Dark Grey),,TS_Facade Mesh (Dark Grey)
+Walls,Curtain Wall,TS_Facade (SW),System Panel,,,,,TS_Perforated Panel (30%),,TS_Perforated steel 30% (Light Grey)
+Walls,Curtain Wall,TS_Facade (SW),Rectangular Mullion,,,,,TS_Horizontal Rectangular Mullion (100x150),,TS_Aluminun Powder Coat(Dark Grey)
+Walls,Curtain Wall,TS_Facade (SW),Rectangular Mullion,,,,,TS_Vertical Rectangular Mullion (100x150),,TS_Aluminun Powder Coat(Dark Grey)
+Walls,Curtain Wall,TS_Facade (SW),System Panel,,,,,TS_Perforated Panel (50%),,TS_Perforated steel 50% (Light Grey)
+Walls,Curtain Wall,TS_Facade (SW),Curtain Wall,,,WALL : Curtain Wall,,TS_Facade (SW),<By Category>,
+Walls,Curtain Wall,TS_Expanded Metal Mesh Facade Support,Rectangular Mullion,,,,,TS_Vertical Rectangular Mullion (80x100),,TS_Aluminun Powder Coat(Dark Grey)
+Walls,Curtain Wall,TS_Expanded Metal Mesh Facade Support,Curtain Wall,,,WALL : Curtain Wall,,TS_Expanded Metal Mesh Facade Support,<By Category>,
+Walls,Curtain Wall,TS_Expanded Metal Mesh Facade Support,System Panel,,,,,TS_Expanded Metal Mesh Panel (Type B Grey),,TS_Facade Mesh (Grey)
+Walls,Curtain Wall,TS_Type-A Facade (Expanded Metal Mesh),System Panel,,,,,TS_Expanded Metal Mesh Panel (Type A Grey),,TS_Facade Mesh (Grey)
+Walls,Curtain Wall,TS_Type-A Facade (Expanded Metal Mesh),Rectangular Mullion,,,,,TS_Horizontal Rectangular Mullion (70x100),,TS_Aluminun Powder Coat(Dark Grey)
+Walls,Curtain Wall,TS_Type-A Facade (Expanded Metal Mesh),Rectangular Mullion,,,,,TS_Vertical Rectangular Mullion (70x100),,TS_Aluminun Powder Coat(Dark Grey)
+Walls,Curtain Wall,TS_Type-A Facade (Expanded Metal Mesh),Curtain Wall,,,WALL : Curtain Wall,,TS_Type-A Facade (Expanded Metal Mesh),<By Category>,
+Walls,Curtain Wall,TS_Type-A Facade (Expanded Metal Mesh),System Panel,,,,,TS_Expanded Metal Mesh Panel (Type A Light Grey),,TS_Facade Mesh (Light Grey)
+Walls,Curtain Wall,TS_Curtain Wall Type 373-03M(No Feature),TS_Curtain Panel Type 373-03M (No Feature),,,,,TS_Curtain Panel Type 373-03M (No Feature),,
+Walls,Curtain Wall,TS_Curtain Wall Type 373-03M(No Feature),Rectangular Mullion,,,,,TS_Vertical Rectangular Mullion  373-03M (100x200),,TS_Aluminun Powder Coat
+Walls,Curtain Wall,TS_Curtain Wall Type 373-03M(No Feature),Curtain Wall,,,WALL : Curtain Wall,,TS_Curtain Wall Type 373-03M(No Feature),<By Category>,
+Walls,Curtain Wall,TS_Curtain Wall Type 373-04,TS_Curtain Panel Type 373-04,,,,,TS_Curtain Panel Type 373-04,,
+Walls,Curtain Wall,TS_Curtain Wall Type 373-04,Rectangular Mullion,,,,,TS_Vertical Rectangular Mullion 373-04 (100x80),,TS_Aluminun Powder Coat
+Walls,Curtain Wall,TS_Curtain Wall Type 373-04,Curtain Wall,,,WALL : Curtain Wall,,TS_Curtain Wall Type 373-04,<By Category>,
+Walls,Curtain Wall,TS_Curtain Wall Type 373-04,TS_Curtain Panel Type 373-04 (No Feature),,,,,TS_Curtain Panel Type 373-04 (No Feature),,
+Walls,Curtain Wall,TS_Curtain Wall Type 373-RF,TS_Curtain Panel Type 373-RF,,,,,TS_Curtain Panel Type 373-RF,,
+Walls,Curtain Wall,TS_Curtain Wall Type 373-RF,Rectangular Mullion,,,,,TS_Vertical Rectangular Mullion 373-RF (100x80),,TS_Aluminun Powder Coat
+Walls,Curtain Wall,TS_Curtain Wall Type 373-RF,Curtain Wall,,,WALL : Curtain Wall,,TS_Curtain Wall Type 373-RF,<By Category>,
+Walls,Curtain Wall,TS_Curtain Wall Type 371-03M_L,System Panel,,,,,SP_Perforated_ JTC Ocean Blue,,Perforated steel_ JTC Ocean Blue
+Walls,Curtain Wall,TS_Curtain Wall Type 371-03M_L,Rectangular Mullion,,,,,TS_Vertical Rectangular Mullion  371-03M (150x150),,TS_Aluminun Powder Coat
+Walls,Curtain Wall,TS_Curtain Wall Type 371-03M_L,Curtain Wall,,,WALL : Curtain Wall,,TS_Curtain Wall Type 371-03M_L,<By Category>,
+Walls,Curtain Wall,TS_Curtain Wall Type 371-03M_C,TS_Curtain Panel Type 371-03M (No Feature),,,,,TS_Curtain Panel Type 371-03M (No Feature),,
+Walls,Curtain Wall,TS_Curtain Wall Type 371-03M_C,Rectangular Mullion,,,,,TS_Vertical Rectangular Mullion  371-03M (50x100),,TS_Aluminun Powder Coat
+Walls,Curtain Wall,TS_Curtain Wall Type 371-03M_C,Curtain Wall,,,WALL : Curtain Wall,,TS_Curtain Wall Type 371-03M_C,<By Category>,
+Walls,Curtain Wall,TS_Curtain Wall Type 371-03M_C,TS_Curtain Panel Type 373-03M (No Feature),,,,,TS_Curtain Panel Type 373-03M (No Feature),,
+Walls,Curtain Wall,TS_Curtain Wall Type 371-03M-A,TS_Curtain Panel Type 371-03M-A,,,,,TS_Curtain Panel Type 371-03M-A,,
+Walls,Curtain Wall,TS_Curtain Wall Type 371-03M-A,Curtain Wall,,,WALL : Curtain Wall,,TS_Curtain Wall Type 371-03M-A,<By Category>,
+Walls,Curtain Wall,TS_Aerofoil Type 1,TS_Aerofoil Type 1 With Right Support,,,,,TS_Aerofoil Type 1 With Right Support,,
+Walls,Curtain Wall,TS_Aerofoil Type 1,TS_Aerofoil Type 1,,,,,TS_Aerofoil Type 1,,
+Walls,Curtain Wall,TS_Aerofoil Type 1,TS_Aerofoil Type 1 With Left Support,,,,,TS_Aerofoil Type 1 With Left Support,,
+Walls,Curtain Wall,TS_Aerofoil Type 1,Curtain Wall,,,WALL : Curtain Wall,,TS_Aerofoil Type 1,<By Category>,
+Walls,Curtain Wall,TS_Aerofoil Type 1,TS_Aerofoil Type 1 With Left Support GLYF,,,,,TS_Aerofoil Type 1 With Left Support GLYF,,
+Walls,Curtain Wall,TS_Aerofoil Type 2,TS_Aerofoil Type 2 With Right Support,,,,,TS_Aerofoil Type 2 With Right Support,,
+Walls,Curtain Wall,TS_Aerofoil Type 2,TS_Aerofoil Type 2,,,,,TS_Aerofoil Type 2,,
+Walls,Curtain Wall,TS_Aerofoil Type 2,TS_Aerofoil Type 2 With Left Support,,,,,TS_Aerofoil Type 2 With Left Support,,
+Walls,Curtain Wall,TS_Aerofoil Type 2,Curtain Wall,,,WALL : Curtain Wall,,TS_Aerofoil Type 2,<By Category>,
+Walls,Curtain Wall,TS_Aerofoil Type 2,TS_Aerofoil Right Support,,,,,TS_Aerofoil Right Support,,
+Walls,Curtain Wall,TS_Curtain Wall Type 371-02-A,TS_Curtain Panel Type 371-02,,,,,TS_Curtain Panel Type 371-02,,
+Walls,Curtain Wall,TS_Curtain Wall Type 371-02-A,Rectangular Mullion,,,,,TS_Vertical Rectangular Mullion  371-02 (50x150),,TS_Aluminun Powder Coat
+Walls,Curtain Wall,TS_Curtain Wall Type 371-02-A,Curtain Wall,,,WALL : Curtain Wall,,TS_Curtain Wall Type 371-02-A,<By Category>,
+Walls,Curtain Wall,TS_Facade (SE),System Panel,,,,,TS_Perforated Panel (30%),,TS_Perforated steel 30% (Light Grey)
+Walls,Curtain Wall,TS_Facade (SE),Rectangular Mullion,,,,,TS_Horizontal Rectangular Mullion (100x150),,TS_Aluminun Powder Coat(Dark Grey)
+Walls,Curtain Wall,TS_Facade (SE),Rectangular Mullion,,,,,TS_Vertical Rectangular Mullion (100x150),,TS_Aluminun Powder Coat(Dark Grey)
+Walls,Curtain Wall,TS_Facade (SE),System Panel,,,,,TS_Perforated Panel (50%),,TS_Perforated steel 50% (Light Grey)
+Walls,Curtain Wall,TS_Facade (SE),Curtain Wall,,,WALL : Curtain Wall,,TS_Facade (SE),<By Category>,
+Walls,TS_Accent Wall 01,TS_Biz Hub Foyer Accent Wall 01,TS_Accent Wall 01,,,,,TS_Biz Hub Foyer Accent Wall 01,<By Category>,
+Walls,TS_Accent Wall 02,TS_Biz Hub Foyer Accent Wall 02,TS_Accent Wall 02,,,,,TS_Biz Hub Foyer Accent Wall 02,TS_Aluminum,
+Walls,TS_Ramp Parapet Wall Void L01-12,TS_Wall Void,TS_Ramp Parapet Wall Void L01-12,,,WALL : Ramp Parapet Wall Void,,TS_Wall Void,<By Category>,
+Walls,TS_Ramp Parapet Wall Void L02-13,TS_Wall Void,TS_Ramp Parapet Wall Void L02-13,,,WALL : Ramp Parapet Wall Void,,TS_Wall Void,<By Category>,
+Walls,TS_Ramp Parapet Wall Void L04-15,TS_Wall Void,TS_Ramp Parapet Wall Void L04-15,,,WALL : Ramp Parapet Wall Void,,TS_Wall Void,<By Category>,
+Walls,TS_Ramp Parapet Wall Void L05-15,TS_Wall Void,TS_Ramp Parapet Wall Void L05-15,,,WALL : Ramp Parapet Wall Void,,TS_Wall Void,<By Category>,
+Walls,TS_Ramp Parapet Wall Void L06-15,TS_Wall Void,TS_Ramp Parapet Wall Void L06-15,,,WALL : Ramp Parapet Wall Void,,TS_Wall Void,<By Category>,
+Walls,TS_Ramp Parapet Wall Void L03-13,TS_Wall Void,TS_Ramp Parapet Wall Void L03-13,,,WALL : Ramp Parapet Wall Void,,TS_Wall Void,<By Category>,
+Walls,TS_Wall at Ramp Block (Bin Center),TS_Wall at Ramp Block (Bin Center),TS_Wall at Ramp Block (Bin Center),,,,,TS_Wall at Ramp Block (Bin Center),<By Category>,
+Walls,TS_Accent Wall 1,TS_East Grand Staircase Accent Wall 02,TS_Accent Wall 1,,,,,TS_East Grand Staircase Accent Wall 02,<By Category>,
+Walls,TS_Accent Wall 2,TS_East Grand Staircase Accent Wall 02,TS_Accent Wall 2,,,,,TS_East Grand Staircase Accent Wall 02,<By Category>,
+Floors,Floor,TS_500mm Thk. Slab (CIS),Floor,,,FLOOR : 500mm Thk. Cast In-Situ Slab,,TS_500mm Thk. Slab (CIS),TS_CIS Slab,<By Category>
+Floors,Floor,TS_Green,Floor,,,FLOOR : Green,,TS_Green,<By Category>,<By Category>
+Floors,Floor,TS_200mm Thk. Slab (CIS),Floor,,,FLOOR : 200mm Thk. Cast In-Situ Slab,,TS_200mm Thk. Slab (CIS),TS_CIS Slab,<By Category>
+Floors,Floor,TS_300mm Thk. Slab (CIS),Floor,,,FLOOR : 300mm Thk. Cast In-Situ Slab,,TS_300mm Thk. Slab (CIS),TS_CIS Slab,<By Category>
+Floors,Floor,TS_150mm Thk. Slab (CIS),Floor,,,FLOOR : 150mm thk. Cast In-Situ Slab,,TS_150mm Thk. Slab (CIS),TS_CIS Slab,<By Category>
+Floors,Floor,TS_175mm Thk. Slab (CIS),Floor,,,FLOOR : 175mm Thk. Cast In-Situ Slab,,TS_175mm Thk. Slab (CIS),TS_CIS Slab,<By Category>
+Floors,Floor,TS_100mm Thk. Slab (CIS),Floor,,,FLOOR : 100mm Thk. Cast In-Situ Slab,,TS_100mm Thk. Slab (CIS),TS_CIS Slab,<By Category>
+Floors,Floor,TS_350mm Thk. Slab (CIS),Floor,,,FLOOR : 350mm Thk. Cast In-Situ Slab,,TS_350mm Thk. Slab (CIS),TS_CIS Slab,<By Category>
+Floors,Floor,TS_245mm Thk. Plank Slab (PC),Floor,,,FLOOR : 245mm Thk. PC Plank Slab,,TS_245mm Thk. Plank Slab (PC),TS_CIS Slab,<By Category>
+Floors,Floor,TS_250mm Thk. Slab (CIS),Floor,,,FLOOR : 250mm Thk. Cast In-Situ Slab,,TS_250mm Thk. Slab (CIS),TS_CIS Slab,<By Category>
+Floors,Floor,TS_150mm Thk. Bondek Slab,Floor,,,FLOOR : 150mm Thk. Bondek Slab,,TS_150mm Thk. Bondek Slab,TS_CIS Slab,<By Category>
+Floors,Floor,TS_150mm Thk. PC Plank Slab + CIS,Floor,,,FLOOR : 150mm Thk. PC Plank Slab + Cast In-Situ,,TS_150mm Thk. PC Plank Slab + CIS,TS_CIS Slab,<By Category>
+Floors,Floor,TS_150mm Thk. Steel Floor,Floor,,,FLOOR : 150mm Thk. Steel Floor (Bondek Slab),,TS_150mm Thk. Steel Floor,TS_Steel (Bondek),<By Category>
+Floors,Floor,TS_100mm Thk. Concrete Topping (FC-02),Floor,,,FLOOR : Coloured Concrete with Non-Metallic Hardener and Dust-Proofing Compound,FF,TS_100mm Thk. Concrete Topping (FC-02),TS_FC-02,<By Category>
+Floors,Floor,TS_20mm Thk. Homogeneous Tile (FT-01) - Slate Grigio,Floor,,,"FLOOR : Heavy Duty, Non-Slip 300x600x9mm Thk. Homogeneous Tiles",FF,TS_20mm Thk. Homogeneous Tile (FT-01) - Slate Grigio,<By Category>,<By Category>
+Floors,Floor,TS_20mm Thk. Homogeneous Tile (FT-01),Floor,,,"FLOOR : Heavy Duty, Non-Slip 300x600x9mm Thk. Homogeneous Tiles",FF,TS_20mm Thk. Homogeneous Tile (FT-01),<By Category>,<By Category>
+Floors,Floor,TS_20mm Homogeneous Tile (FT-01),Floor,,,"FLOOR : Heavy Duty, Non-Slip 300x600x9mm Thk. Homogeneous Tiles",FF,TS_20mm Homogeneous Tile (FT-01),TS_Tile Finish 300X600,<By Category>
+Floors,Floor,TS_300x600x9mm Thk. Homogeneous Tiles,Floor,,,"FLOOR : Heavy Duty, Non-Slip 300x600x9mm Thk. Homogeneous Floor Tiles",FF,TS_300x600x9mm Thk. Homogeneous Tiles,TS_Tile Finish,<By Category>
+Floors,Floor,TS_20mm Thk. Homogeneous Tile (FT-01) - PY6600B,Floor,,,"FLOOR : Heavy Duty, Non-Slip 300x600x9mm Thk. Homogeneous Tiles",FF,TS_20mm Thk. Homogeneous Tile (FT-01) - PY6600B,<By Category>,<By Category>
+Floors,Floor,TS_HCS + 90mm Topping,Floor,,,FLOOR : HCS Slab,,TS_HCS + 90mm Topping,TS_CIS Slab,<By Category>
+Floors,Floor,TS_500mm Thk. PTS Slab,Floor,,,FLOOR : 500mm Thk. Post-Tensioned Slab,,TS_500mm Thk. PTS Slab,TS_PC Slab,<By Category>
+Floors,Floor,TS_200mm Thk. Slab (PC),Floor,,,FLOOR : CEMENT SCREED WITH MONOLITHIC NON-METALLIC HARDENER WITH HARDENING AND DUST-PROOFING COMPOUND,,TS_200mm Thk. Slab (PC),TS_PC Slab,<By Category>
+Floors,Floor,TS_400mm Thk. Slab (CIS),Floor,,,FLOOR : 400mm Thk. Cast In-Situ Slab,,TS_400mm Thk. Slab (CIS),TS_CIS Slab,<By Category>
+Floors,Floor,TS_450mm Thk. Slab (CIS),Floor,,,FLOOR : 450mm Thk. Cast In-Situ Slab,,TS_450mm Thk. Slab (CIS),TS_CIS Slab,<By Category>
+Floors,Floor,TS_450mm Thk. Slab (PTS),Floor,,,FLOOR : 450mm Thk. Post-Tensioned Slab,,TS_450mm Thk. Slab (PTS),TS_PC Slab,<By Category>
+Floors,Floor,TS_150mm Thk. Steel Cover,Floor,,,FLOOR : 130mm Thk. Steel Cover,,TS_150mm Thk. Steel Cover,TS_Stainless Steel,<By Category>
+Floors,Floor,TS_300mm Thk. Slab - ESS Ramp (CIS),Floor,,,FLOOR : 300mm Thk. Cast In-Situ Slab for ESS Ramp,,TS_300mm Thk. Slab - ESS Ramp (CIS),TS_CIS Slab,<By Category>
+Floors,Floor,TS_5mm Thk. Vinyl Tile (FT-04_2),Floor,,,FLOOR : 5mm Thk. Vinyl Tile,FF,TS_5mm Thk. Vinyl Tile (FT-04_2),<By Category>,<By Category>
+Floors,Floor,TS_20mm Thk. Homogeneous Tile (FT-01) - Lavastone Bone,Floor,,,"FLOOR : Heavy Duty, Non-Slip 300x600x9mm Thk. Homogeneous Tiles",FF,TS_20mm Thk. Homogeneous Tile (FT-01) - Lavastone Bone,<By Category>,<By Category>
+Floors,Floor,TS_50mm Thk. Concrete Topping,Floor,,,FLOOR : 50mm Thk. Concrete Topping,FF,TS_50mm Thk. Concrete Topping,TS_Concrete Topping,<By Category>
+Floors,Floor,TS_30mm Thk. Concrete Topping,Floor,,,FLOOR : 30mm Thk. Concrete Topping,FF,TS_30mm Thk. Concrete Topping,TS_Concrete Topping,<By Category>
+Floors,Floor,TS_100mm Thk. Slab (RC Plinth),Floor,,,FLOOR : 100mm Thk. RC Plinth Slab,,TS_100mm Thk. Slab (RC Plinth),TS_RC Plinth,<By Category>
+Floors,Floor,TS_80mm Thk. Concrete Topping,Floor,,,FLOOR : 80mm Thk. Concrete Topping,FF,TS_80mm Thk. Concrete Topping,TS_Concrete Topping,<By Category>
+Floors,Floor,TS_100mm Thk. Concrete Topping,Floor,,,FLOOR : 100mm Thk. Concrete Topping,FF,TS_100mm Thk. Concrete Topping,TS_Concrete Topping,<By Category>
+Floors,Floor,TS_5mm Thk. Finish (FC-01),Floor,,,FLOOR : Cement Screed with Monolithic Non-Metallic Hardener with Hardening and Dust-Proofing Compound,FF,TS_5mm Thk. Finish (FC-01),TS_FC-01,<By Category>
+Floors,Floor,TS_20mm Thk. Finish (FA-01),Floor,,,FLOOR : Exposed Aggregate Finish,FF,TS_20mm Thk. Finish (FA-01),TS_FA-01,<By Category>
+Floors,Floor,TS_50mm Thk. Slab (FA-01),Floor,,,FLOOR : Exposed Aggregate Finish,FF,TS_50mm Thk. Slab (FA-01),TS_FA-01,<By Category>
+Floors,Floor,TS_380mm Thk. Mass Concrete Topping,Floor,,,FLOOR : 380mm Thk. Mass Concrete Topping,,TS_380mm Thk. Mass Concrete Topping,TS_Mass Concrete,<By Category>
+Floors,Floor,TS_100mm Thk. Concrete Topping (FE-01),Floor,,,"FLOOR : 100mm Thk Concrete Topping in Cement Screed with Monolithic Non-Metallic Hardener, w/ Solvent-Free, High-Build, Anit-Slip Heavy Duty Epoxy Resin Flooring Coating, Broadcast w/ Anti-Skid Grains",FF,TS_100mm Thk. Concrete Topping (FE-01),TS_FE-01,<By Category>
+Floors,Floor,TS_20mm THK. Homogeneous Tile (FT-02) - Cliffstone Grigio,Floor,,,"FLOOR : Heavy Duty, Non-Slip 300x900x9mm Thk. Homogeneous Tiles",FF,TS_20mm THK. Homogeneous Tile (FT-02) - Cliffstone Grigio,TS_FT-02(Cliffstone Grigio),<By Category>
+Floors,Floor,TS_9mm Homogeneous Tile w/ 11mm adhesive (FT-01),Floor,,,FLOOR : 9mm Thk. Homogeneous Tiles with 11mm Adhesive,FF,TS_9mm Homogeneous Tile w/ 11mm adhesive (FT-01),TS_Tile Finish 300X600,<By Category>
+Floors,Floor,TS_100mm Thk. Concrete Topping (FC-01),Floor,,,FLOOR : 100mm Thk. Concrete Topping in Cement Screed with Monolithic Non-Metallic Hardener with Hardening and Dust-Proof Compound,FF,TS_100mm Thk. Concrete Topping (FC-01),TS_FC-01,<By Category>
+Floors,Floor,TS_20mm Thk. Finish (FC-01),Floor,,,FLOOR : Cement Screed with Monolithic Non-Metallic Hardener with Hardening and Dust-Proof Compound,FF,TS_20mm Thk. Finish (FC-01),TS_FC-01,<By Category>
+Floors,Floor,TS_20mm Thk. Finish (EA1),Floor,,,FLOOR : Exposed Aggregate with Stainless Steel Brass Strip Separator,FF,TS_20mm Thk. Finish (EA1),TS_EA1,<By Category>
+Floors,Floor,TS_200mm Thk. Slab (RC Plinth),Floor,,,FLOOR : 200mm Thk. RC Plinth Slab,,TS_200mm Thk. Slab (RC Plinth),TS_RC Plinth,<By Category>
+Floors,Floor,TS_150mm Thk. Concrete Topping,Floor,,,FLOOR : 130mm Thk. Concrete Topping,FF,TS_150mm Thk. Concrete Topping,TS_CIS Slab,<By Category>
+Floors,Floor,TS_20mm THK. Homogeneous Tile (FT-02),Floor,,,"FLOOR : Heavy Duty, Non-Slip 300x900x9mm Thk. Homogeneous Tiles",FF,TS_20mm THK. Homogeneous Tile (FT-02),TS_Tile Finish 600X600,<By Category>
+Floors,Floor,TS_15mm Thk. Steel Floor,Floor,,,FLOOR : 15mm Thk Steel Floor,,TS_15mm Thk. Steel Floor,TS_Steel Floor,<By Category>
+Floors,Floor,TS_20mm Thk. Finish (EA3),Floor,,,FLOOR : Exposed Aggregate with Stainless Steel Brass Strip Separator,FF,TS_20mm Thk. Finish (EA3),TS_EA3,<By Category>
+Floors,Floor,TS_100mm Thk. Slab (FA-01),Floor,,,,FF,TS_100mm Thk. Slab (FA-01),TS_FA-01,<By Category>
+Floors,Floor,TS_30mm Thk. Solid Surface,Floor,,,FLOOR : 30mm Thk. Solid Surface,FF,TS_30mm Thk. Solid Surface,TS_FC-01,<By Category>
+Floors,Floor,TS_20mm Thk. Homogeneous Tile (FT-01) - Berlin Series Grigio,Floor,,,"FLOOR : Heavy Duty, Non-Slip 300x600x9mm Thk. Homogeneous Tiles",FF,TS_20mm Thk. Homogeneous Tile (FT-01) - Berlin Series Grigio,<By Category>,<By Category>
+Floors,Floor,TS_50mm Thk. Steel Floor,Floor,,,FLOOR : 50mm Thk. Steel Floor,,TS_50mm Thk. Steel Floor,TS_Steel Floor,<By Category>
+Floors,Floor,TS_10mm Carpet Tile (FT-03),Floor,,,FLOOR : Carpet Tile,FF,TS_10mm Carpet Tile (FT-03),TS_Carpet Tile Finish,<By Category>
+Floors,Floor,TS_20mm Carpet Tile (FT-03),Floor,,,FLOOR : Carpet Tile,FF,TS_20mm Carpet Tile (FT-03),TS_Carpet Tile Finish,<By Category>
+Floors,Floor,TS_20mm Thk. Solid Surface,Floor,,,FLOOR : 35mm Thk. Solid Surface,FF,TS_20mm Thk. Solid Surface,TS_Solid Surface (Cistern),<By Category>
+Floors,Floor,TS_5mm Thk. Finish (FC-02),Floor,,,FLOOR : Coloured Concrete with Non-Metallic Hardener and Dust-Proofing Compound,FF,TS_5mm Thk. Finish (FC-02),TS_FC-02,<By Category>
+Floors,Floor,TS_5mm Thk. Finish (FP-02),Floor,,,FLOOR : Interlocking Grass Paver,FF,TS_5mm Thk. Finish (FP-02),TS_FP-02,<By Category>
+Floors,Floor,TS_20mm Thk. Homogeneous Ramp Tile (FT-01),Floor,,,"FLOOR : Heavy Duty, Non-Slip 300x600x9mm Thk. Homogeneous Tiles",FF,TS_20mm Thk. Homogeneous Ramp Tile (FT-01),<By Category>,<By Category>
+Floors,Floor,TS_20mm Thk. Finish (EA2),Floor,,,FLOOR : Exposed Aggregate with Stainless Steel Brass Strip Separator,FF,TS_20mm Thk. Finish (EA2),TS_EA2,<By Category>
+Floors,Floor,TS_20mm Thk. Finish (PW),Floor,,,FLOOR : Pebblewash with Stainless Steel Brass Strip Separator,FF,TS_20mm Thk. Finish (PW),TS_PW,<By Category>
+Floors,Floor,TS_20mm Thk. Finish (GR3),Floor,,,FLOOR : 600x600 Granite in Flamed Finish,FF,TS_20mm Thk. Finish (GR3),TS_GR3,<By Category>
+Floors,Floor,TS_20mm Thk. Finish (GR2),Floor,,,"FLOOR : 600x600 Granite Tile, Honed Finish",FF,TS_20mm Thk. Finish (GR2),TS_GR2,<By Category>
+Floors,Floor,TS_20mm Thk. Finish (GR1),Floor,,,FLOOR : 600x600 Granite in Bush Hammered Finish,FF,TS_20mm Thk. Finish (GR1),TS_GR1,<By Category>
+Floors,Floor,TS_200mm Thk. Landscape Bench,Floor,,,FLOOR : 200mm Thk. Cast In-Situ Slab,,TS_200mm Thk. Landscape Bench,TS_PW,<By Category>
+Floors,Floor,TS_5mm Thk. Finish (FE-01),Floor,,,FLOOR : CEMENT SCREED WITH MONOLITHIC NON-METALLIC HARDENER WITH HARDENING AND DUST-PROOFING COMPOUND,FF,TS_5mm Thk. Finish (FE-01),TS_FE-01,<By Category>
+Floors,Floor,TS_250mm Thk. Slab (CIS-Non Variable),Floor,,,FLOOR : 250mm Thk. Cast In-Situ Slab,,TS_250mm Thk. Slab (CIS-Non Variable),TS_CIS Slab,<By Category>
+Floors,Floor,TS_505mm Thk. Mass Concrete Topping,Floor,,,FLOOR : CEMENT SCREED WITH MONOLITHIC NON-METALLIC HARDENER WITH HARDENING AND DUST-PROOFING COMPOUND,,TS_505mm Thk. Mass Concrete Topping,Concrete - Cast In Situ,<By Category>
+Floors,Floor,TS_65mm Thk. PBU RC Slab,Floor,,,FLOOR : 200mm Thk. Prefabricated Bathroom Unit RC Slab,Grade C40/50,TS_65mm Thk. PBU RC Slab,TS_PBU RC Slab,<By Category>
+Floors,Floor,TS_55mm Thk. PBU RC Slab,Floor,,,FLOOR : 200mm Thk. Prefabricated Bathroom Unit RC Slab,Grade C40/50,TS_55mm Thk. PBU RC Slab,TS_PBU RC Slab,<By Category>
+Floors,Floor,TS_30mm Thk. PBU Homogeneous Tile (FT-01) - Slate Grigio,Floor,,,"FLOOR : Heavy Duty, Non-Slip 300x900x9mm Thk. Homogeneous Tiles",FF,TS_30mm Thk. PBU Homogeneous Tile (FT-01) - Slate Grigio,<By Category>,<By Category>
+Floors,Floor,TS_50mm Thk. Finish (EA1),Floor,,,FLOOR : Exposed Aggregate with Stainless Steel Brass Strip Separator,FF,TS_50mm Thk. Finish (EA1),TS_EA1,<By Category>
+Floors,Floor,TS_75mm Thk. Concrete Topping,Floor,,,FLOOR : 75mm Thk. Concrete Topping,FF,TS_75mm Thk. Concrete Topping,TS_Concrete Topping,<By Category>
+Floors,Floor,TS_5mm Expanded Mesh,Floor,,,FLOOR : 5mm Thk. Expanded Mesh,FF,TS_5mm Expanded Mesh,TS_Galvanized Steel (Dark Grey),<By Category>
+Floors,Floor,TS_150mm Thk. AC Ledge,Floor,,,FLOOR : 150mm Thk. AC Ledge Slab,,TS_150mm Thk. AC Ledge,TS_PC Slab,<By Category>
+Floors,Floor,TS_40mm Thk. Concrete Topping,Floor,,,FLOOR : 40mm Thk. Concrete Topping,FF,TS_40mm Thk. Concrete Topping,TS_Concrete Topping,<By Category>
+Floors,Floor,TS_400mm Thk. Slab (PTS),Floor,,,,,TS_400mm Thk. Slab (PTS),TS_PC Slab,<By Category>
+Floors,Floor,TS_375mm Thk. Slab (CIS),Floor,,,FLOOR : 375mm Thk. Cast In-Situ Slab,,TS_375mm Thk. Slab (CIS),TS_CIS Slab,<By Category>
+Floors,Floor,TS_450mm Thk. Slab (CIS) Flat Base Ramp,Floor,,,FLOOR : 450mm Thk. Cast In-Situ Slab,,TS_450mm Thk. Slab (CIS) Flat Base Ramp,TS_CIS Slab,<By Category>
+Floors,Floor,TS_25mm Thk. Finish (EA2),Floor,,,FLOOR : Exposed Aggregate with Stainless Steel Brass Strip Separator,FF,TS_25mm Thk. Finish (EA2),TS_EA2,<By Category>
+Floors,Floor,TS_60mm Thk. Concrete Topping (FC-02),Floor,,,FLOOR : Coloured Concrete with Non-Metallic Hardener and Dust-Proofing Compound,FF,TS_60mm Thk. Concrete Topping (FC-02),TS_FC-02,<By Category>
+Floors,Floor,TS_150mm Thk. Slab (RC Plinth),Floor,,,FLOOR : 100mm Thk. RC Plinth Slab,,TS_150mm Thk. Slab (RC Plinth),TS_RC Plinth,<By Category>
+Floors,Floor,TS_60mm Thk. Concrete Topping,Floor,,,FLOOR : 60mm Thk. Concrete Topping,FF,TS_60mm Thk. Concrete Topping,TS_Concrete Topping,<By Category>
+Floors,Floor,TS_100mm Thk. Finish (FP-02),Floor,,,FLOOR : Interlocking Grass Paver,FF,TS_100mm Thk. Finish (FP-02),TS_FP-02,<By Category>
+Floors,Floor,TS_130mm Thk. Concrete Topping,Floor,,,FLOOR : 130mm Thk. Concrete Topping,FF,TS_130mm Thk. Concrete Topping,TS_CIS Slab,<By Category>
+Floors,Floor,TS_Ramp Headroom Clearance,Floor,,,FLOOR : M&E Headroom Clearance,M&E Headroom Clearance,TS_Ramp Headroom Clearance,TS_Ramp Headroom Clearance,<By Category>
+Floors,Floor,TS_75mm Thk. Slab (CIS),Floor,,,FLOOR : 100mm Thk. Cast In-Situ Slab,,TS_75mm Thk. Slab (CIS),TS_CIS Slab,<By Category>
+Floors,Floor,TS_200mm Thk. CIS Slab,Floor,,,FLOOR : 200mm Thk. Cast In Situ Slab,Grade C40/50,TS_200mm Thk. CIS Slab,TS_CIS Slab,<By Category>
+Floors,Floor,TS_75mm Thk. PC Slab,Floor,,,FLOOR : 65mm Thk. Prefabricated Bathroom Unit RC Slab,Grade C40/50,TS_75mm Thk. PC Slab,TS_PC Slab,<By Category>
+Floors,Floor,TS_50mm Thk. Finish (EA2),Floor,,,FLOOR : Exposed Aggregate with Stainless Steel Brass Strip Separator,FF,TS_50mm Thk. Finish (EA2),TS_EA2,<By Category>
+Floors,Floor,TS_40mm Thk. Finish (FP-02),Floor,,,FLOOR : Interlocking Grass Paver,FF,TS_40mm Thk. Finish (FP-02),TS_FP-02,<By Category>
+Floors,TS_Slab Haunching,TS_Slab Haunching,TS_Slab Haunching,,,,,TS_Slab Haunching,<By Category>,<By Category>
+Parking,TS_Lorry Park,Lorry A - 7500x3000 (w/o marking),TS_Lorry Park,,,AN : 3000x7500 Lorry Park Lot_A,LORRY LOT,Lorry A - 7500x3000 (w/o marking),,
+Parking,TS_Lorry Park,Lorry B - 14000x3300,TS_Lorry Park,,,AN : 3300x14000 Lorry Park Lot_B,,Lorry B - 14000x3300,,
+Parking,TS_Car Park,Car Park (4800x2400),TS_Car Park,,,AN : 2400x4800 Car Park Lot w/ Stopper,,Car Park (4800x2400),,
+Parking,TS_Car Park,Car Park (5400x2400),TS_Car Park,,,AN : 2400x5400 Car Park Lot w/ Stopper,,Car Park (5400x2400),,
+Parking,,,TS_Gantry,,,,,,,
+Parking,TS_Handicap Parking Lot,Handicap Parking Lot - 4800x3600,TS_Handicap Parking Lot,,,AN : 3600x4800 Handicapped Parking Lot,,Handicap Parking Lot - 4800x3600,,
+Parking,,,TS_Motorycyle Park,,,,,,,
+Parking,TS_EV Car Park,EV Car Park (4800x2400),TS_EV Car Park,,,AN : 2400x4800 Car Park Lot w/ Stopper,,EV Car Park (4800x2400),,
+Roofs,Basic Roof,TS_Lightweight Metal Roofing,Basic Roof,,,,,TS_Lightweight Metal Roofing,,<By Category>
+Roofs,Basic Roof,TS_72mm Thick Canopy Roofing,Basic Roof,,,,,TS_72mm Thick Canopy Roofing,,<By Category>
+Structural Columns,TS_CIS Column,400x2200,TS_CIS Column,,,,,400x2200,TS_CIS Column,
+Structural Columns,TS_CIS Column,400x3000,TS_CIS Column,,,,,400x3000,TS_CIS Column,
+Structural Columns,TS_CIS Column,900x600,TS_CIS Column,,,,,900x600,TS_CIS Column,
+Structural Columns,TS_CIS Column,600x600,TS_CIS Column,,,,,600x600,TS_CIS Column,
+Structural Columns,TS_CIS Column,900x2500,TS_CIS Column,,,,,900x2500,TS_CIS Column,
+Structural Columns,TS_CIS Column,900x3000,TS_CIS Column,,,,,900x3000,TS_CIS Column,
+Structural Columns,TS_CIS Column,900x2200,TS_CIS Column,,,,,900x2200,TS_CIS Column,
+Structural Columns,TS_CIS Column,900x3900,TS_CIS Column,,,,,900x3900,TS_CIS Column,
+Structural Columns,TS_CIS Column,600x1800,TS_CIS Column,,,,,600x1800,TS_CIS Column,
+Structural Columns,TS_CIS Column,900x900,TS_CIS Column,,,,,900x900,TS_CIS Column,
+Structural Columns,TS_CIS Column,200x400,TS_CIS Column,,,,,200x400,TS_CIS Column,
+Structural Columns,TS_CIS Column,300x300,TS_CIS Column,,,,,300x300,TS_CIS Column,
+Structural Columns,TS_CIS Column,400x1800,TS_CIS Column,,,,,400x1800,TS_CIS Column,
+Structural Columns,TS_CIS Column,400x900,TS_CIS Column,,,,,400x900,TS_CIS Column,
+Structural Columns,TS_CIS Column,300x600,TS_CIS Column,,,,,300x600,TS_CIS Column,
+Structural Columns,TS_CIS Column,250x200,TS_CIS Column,,,,,250x200,TS_CIS Column,
+Structural Columns,TS_CIS Column,250x150,TS_CIS Column,,,,,250x150,TS_CIS Column,
+Structural Columns,TS_CIS Column,400x150,TS_CIS Column,,,,,400x150,TS_CIS Column,
+Structural Columns,TS_CIS Column,150x300,TS_CIS Column,,,,,150x300,TS_CIS Column,
+Structural Columns,TS_CIS Column,150x150,TS_CIS Column,,,,,150x150,TS_CIS Column,
+Structural Columns,TS_PC Column,900x900,TS_PC Column,,,,,900x900,TS_PC Column,
+Structural Columns,TS_PC Column,900x2500,TS_PC Column,,,,,900x2500,TS_PC Column,
+Structural Columns,TS_PC Column,900x2200,TS_PC Column,,,,,900x2200,TS_PC Column,
+Structural Columns,TS_PC Column,900x3000,TS_PC Column,,,,,900x3000,TS_PC Column,
+Structural Columns,TS_PC Column,900x3900,TS_PC Column,,,,,900x3900,TS_PC Column,
+Structural Columns,TS_PC Column,600x1800,TS_PC Column,,,,,600x1800,TS_PC Column,
+Structural Columns,TS_PC Column,600x2500,TS_PC Column,,,,,600x2500,TS_PC Column,
+Structural Columns,TS_PC Column,200x400,TS_PC Column,,,,,200x400,TS_PC Column,
+Structural Columns,TS_PC Column,300x825,TS_PC Column,,,,,300x825,TS_PC Column,
+Structural Columns,TS_PC Column,300x600,TS_PC Column,,,,,300x600,TS_PC Column,
+Structural Columns,TS_PC Column,300x900,TS_PC Column,,,,,300x900,TS_PC Column,
+Structural Columns,TS_PC Column,150x1510,TS_PC Column,,,,,150x1510,TS_PC Column,
+Structural Columns,TS_PC Column,300x300,TS_PC Column,,,,,300x300,TS_PC Column,
+Structural Columns,TS_PC Column,900x600,TS_PC Column,,,,,900x600,TS_PC Column,
+Structural Columns,TS_PC Column,300x475,TS_PC Column,,,,,300x475,TS_PC Column,
+Structural Columns,TS_PC Column,300x450,TS_PC Column,,,,,300x450,TS_PC Column,
+Structural Columns,TS_PC Column,150x500,TS_PC Column,,,,,150x500,TS_PC Column,
+Structural Columns,TS_CIS Stump,1100x2700,TS_CIS Stump,,,,,1100x2700,TS_CIS Stump,
+Structural Columns,TS_CIS Stump,1000x2400,TS_CIS Stump,,,,,1000x2400,TS_CIS Stump,
+Structural Columns,TS_CIS Stump,1100x2400,TS_CIS Stump,,,,,1100x2400,TS_CIS Stump,
+Structural Columns,TS_CIS Stump,400x900,TS_CIS Stump,,,,,400x900,TS_CIS Stump,
+Structural Columns,TS_CIS Stump,2000x3200,TS_CIS Stump,,,,,2000x3200,TS_CIS Stump,
+Structural Columns,TS_CIS Stump,1100x800,TS_CIS Stump,,,,,1100x800,TS_CIS Stump,
+Structural Columns,TS_CIS Stump,1100x4100,TS_CIS Stump,,,,,1100x4100,TS_CIS Stump,
+Structural Columns,TS_CIS Stump,1100x3200,TS_CIS Stump,,,,,1100x3200,TS_CIS Stump,
+Structural Columns,TS_CIS Stump,1100x1100,TS_CIS Stump,,,,,1100x1100,TS_CIS Stump,
+Structural Columns,TS_CIS Stump,1925x2400,TS_CIS Stump,,,,,1925x2400,TS_CIS Stump,
+Structural Columns,TS_CIS Stump,2025x3200,TS_CIS Stump,,,,,2025x3200,TS_CIS Stump,
+Structural Columns,TS_CIS Stump,2025x2400,TS_CIS Stump,,,,,2025x2400,TS_CIS Stump,
+Structural Columns,TS_CIS Stump,800x2000,TS_CIS Stump,,,,,800x2000,TS_CIS Stump,
+Structural Columns,TS_CIS Stump,800x2700,TS_CIS Stump,,,,,800x2700,TS_CIS Stump,
+Structural Columns,TS_CIS Stump,1500x3100,TS_CIS Stump,,,,,1500x3100,TS_CIS Stump,
+Structural Columns,TS_CIS Stump,800x1900,TS_CIS Stump,,,,,800x1900,TS_CIS Stump,
+Structural Columns,TS_CIS Stump,1625x2000,TS_CIS Stump,,,,,1625x2000,TS_CIS Stump,
+Structural Columns,TS_CIS Stump,1425x2000,TS_CIS Stump,,,,,1425x2000,TS_CIS Stump,
+Structural Columns,TS_CIS Stump,1100x3000,TS_CIS Stump,,,,,1100x3000,TS_CIS Stump,
+Structural Columns,TS_CIS Stump,600x600,TS_CIS Stump,,,,,600x600,TS_CIS Stump,
+Structural Columns,TS_CIS Stump,1100x4550,TS_CIS Stump,,,,,1100x4550,TS_CIS Stump,
+Structural Columns,TS_CIS Stump,400x400,TS_CIS Stump,,,,,400x400,TS_CIS Stump,
+Structural Columns,TS_CIS Stump,500x500,TS_CIS Stump,,,,,500x500,TS_CIS Stump,
+Structural Columns,TS_CIS Stump,1100x2300,TS_CIS Stump,,,,,1100x2300,TS_CIS Stump,
+Structural Columns,TS_CIS Stump,1025x2325,TS_CIS Stump,,,,,1025x2325,TS_CIS Stump,
+Structural Columns,TS_CIS Stump,1025x3200,TS_CIS Stump,,,,,1025x3200,TS_CIS Stump,
+Structural Columns,TS_CIS Stump,1100x2225,TS_CIS Stump,,,,,1100x2225,TS_CIS Stump,
+Structural Columns,TS_CIS Stump,1100x700,TS_CIS Stump,,,,,1100x700,TS_CIS Stump,
+Structural Columns,TS_CIS Stump,2025x2700,TS_CIS Stump,,,,,2025x2700,TS_CIS Stump,
+Structural Columns,TS_SHS,250x250x10,TS_SHS,,,,,250x250x10,TS_Steel Beam,
+Structural Columns,TS_SHS,250x250x10,TS_SHS,,,,,250x250x10,TS_Galvanized Steel,
+Structural Columns,TS_SHS,250x150x10,TS_SHS,,,,,250x150x10,TS_Galvanized Steel,
+Structural Columns,TS_SHS,125x50x3,TS_SHS,,,,,125x50x3,TS_Galvanized Steel,
+Structural Columns,TS_SHS,50x50x6,TS_SHS,,,,,50x50x6,TS_Galvanized Steel,
+Structural Columns,TS_SHS,100x100x6,TS_SHS,,,,,100x100x6,TS_Galvanized Steel,
+Structural Columns,TS_SHS,50x75x3,TS_SHS,,,,,50x75x3,TS_Galvanized Steel,
+Structural Columns,TS_CIS Curved Column_2,600x1800,TS_CIS Curved Column_2,,,,,600x1800,TS_CIS Column,
+Structural Columns,TS_CIS Curved Column_2,600x1800,TS_CIS Curved Column_2,,,,,600x1800,TS_PC Column,
+Structural Columns,TS_CIS Curved Column,600x1800,TS_CIS Curved Column,,,,,600x1800,TS_CIS Column,
+Structural Columns,TS_PC Curved Column_2,600x1800,TS_PC Curved Column_2,,,,,600x1800,TS_PC Column,
+Structural Columns,TS_PC Curved Column,600x1800,TS_PC Curved Column,,,,,600x1800,TS_PC Column,
+Structural Columns,TS_PC Curved Column_3,600x4600,TS_PC Curved Column_3,,,,,600x4600,TS_PC Column,
+Structural Columns,TS_CIS Stump_Curved2,600x1800,TS_CIS Stump_Curved2,,,,,600x1800,TS_CIS Stump,
+Structural Columns,TS_CIS Stump_Curved,600x1800,TS_CIS Stump_Curved,,,,,600x1800,TS_CIS Stump,
+Structural Columns,TS_CIS Stump_Curved4,600x1800,TS_CIS Stump_Curved4,,,,,600x1800,TS_CIS Stump,
+Structural Columns,TS_CIS Stump_Curved3,600x4600,TS_CIS Stump_Curved3,,,,,600x4600,TS_CIS Stump,
+Structural Columns,TS_Trapezoid Column,300 x 600,TS_Trapezoid Column,,,,,300 x 600,TS_CIS Column,
+Structural Columns,TS_Irregular Column,300x300,TS_Irregular Column,,,,,300x300,TS_CIS Column,
+Structural Columns,TS_Universal Column,305x305,TS_Universal Column,,,,,305x305,TS_Galvanized Steel,
+Structural Columns,TS_Universal Column,305x305,TS_Universal Column,,,,,305x305,TS_Galvanized Steel (Dark Grey),
+Structural Columns,TS_Universal Column,305x305,TS_Universal Column,,,,,305x305,TS_Steel Column,
+Structural Columns,TS_Universal Column,203x203,TS_Universal Column,,,,,203x203,TS_Galvanized Steel,
+Structural Columns,TS_Universal Column,152x152,TS_Universal Column,,,,,152x152,TS_Steel Column,
+Structural Columns,TS_Universal Column,152x89,TS_Universal Column,,,,,152x89,"Steel, 45-345",
+Doors,TS_MDV1,MDV1,TS_MDV1,,,"Door : Swing Door, Hot Dipped Galvanized Steel With Spray Paint",,MDV1,,
+Doors,TS_MD3,MD3,TS_MD3,,,"Door : Swing Door, Hot Dipped Galvanized Steel With Spray Paint",,MD3,,
+Doors,TS_RS1A,RS1A,TS_RS1A,23-17 11 10,,"Door : Roller Shutter, Hot Dipped Galvanized Steel With Pre-Coated Paint",,RS1A,,
+Doors,TS_RS2A,RS2A,TS_RS2A,23-17 11 10,,"Door : Roller Shutter, Hot Dipped Galvanized Steel With Pre-Coated Paint",,RS2A,,
+Doors,TS_FDV2,FDV2,TS_FDV2,,,"Door : Swing Door, Hot Dipped Galvanized Steel With Spray Paint",,FDV2,,
+Doors,TS_RS1C,RS1C,TS_RS1C,23-17 11 10,,"Door : Roller Shutter, Hot Dipped Galvanized Steel With Pre-Coated Paint",,RS1C,,
+Doors,TS_RS2B,RS2B,TS_RS2B,23-17 11 10,,"Door : Roller Shutter, Hot Dipped Galvanized Steel With Pre-Coated Paint",,RS2B,,
+Doors,TS_Access Panel_Type 1,TS_Access Panel (395x595),TS_Access Panel_Type 1,,,"Door : Swing Door, Hot Dipped Galvanized Steel With Spray Paint",,TS_Access Panel (395x595),,
+Doors,TS_Access Panel_Type 1,TS_Access Panel (1000x800),TS_Access Panel_Type 1,,,"Door : Swing Door, Hot Dipped Galvanized Steel With Spray Paint",,TS_Access Panel (1000x800),,
+Doors,TS_Access Panel_Type 1,TS_Access Panel (860x860),TS_Access Panel_Type 1,,,"Door : Swing Door, Hot Dipped Galvanized Steel With Spray Paint",,TS_Access Panel (860x860),,
+Doors,TS_Access Panel_Type 1,TS_Access Panel (595x595),TS_Access Panel_Type 1,,,"Door : Swing Door, Hot Dipped Galvanized Steel With Spray Paint",,TS_Access Panel (595x595),,
+Doors,TS_FD3,FD3,TS_FD3,,,"Door : Swing Door, Hot Dipped Galvanized Steel With Spray Paint",,FD3,,
+Doors,TS_FD3,FD3A,TS_FD3,,,"Door : Swing Door, Hot Dipped Galvanized Steel With Spray Paint",,FD3A,,
+Doors,TS_FD3B,FD3B,TS_FD3B,,,"Door : Swing Door, Hot Dipped Galvanized Steel With Spray Paint",,FD3B,,
+Doors,TS_ALD2,ALD2,TS_ALD2,,,"Door : Swing Door, Aluminum Powder Coat",,ALD2,,
+Doors,TS_ALD1,ALD1,TS_ALD1,,,"Door : Swing Door, Aluminum Powder Coat",,ALD1,,
+Doors,TS_FDV1,FDV1,TS_FDV1,,,"Door : Swing Door, Hot Dipped Galvanized Steel With Spray Paint",,FDV1,,
+Doors,TS_FDV2A,FDV2A,TS_FDV2A,,,"Door : Swing Door, Hot Dipped Galvanized Steel With Spray Paint",,FDV2A,,
+Doors,TS_MDL1,MDL1,TS_MDL1,,,"Door : Swing Door, Hot Dipped Galvanized Steel With Spray Paint",,MDL1,,
+Doors,TS_MDL1,MDL1,TS_Grab Bar Cubicle (Vertical),,,PF : Cubicle Handicapped Vertical Grab Bar,,Vertical,,<By Category>
+Doors,TS_FD2,FD2,TS_FD2,,,"Door : Swing Door, Hot Dipped Galvanized Steel With Spray Paint",,FD2,,
+Doors,TS_FD2A,FD2A,TS_FD2A,,,"Door : Swing Door, Hot Dipped Galvanized Steel With Spray Paint",,FD2A,,
+Doors,,,TS_Fire Lift Signage,,,,,,,
+Doors,,,TS_Handicap Logo,,,,,,,
+Doors,TS_Fire Lift Door-(Opt1),Fire Lift Door,TS_Fire Lift Door Jamb,,,*Fire Lift Door Jamb,,TS_Fire Lift Door Jamb,,
+Doors,TS_Fire Lift Door-(Opt1),Fire Lift Door,TS_Fire Lift Door-(Opt1),,,Door : Fire Lift Door,,Fire Lift Door,,
+Doors,,,TS_Passenger Lift Signage,,,,,,,
+Doors,TS_Passenger Lift Door-(Opt1),TS_Passenger Lift Signage [83441981],TS_Fire Lift Door Jamb,,,*Fire Lift Door Jamb,,TS_Fire Lift Door Jamb,,
+Doors,TS_Passenger Lift Door-(Opt1),Passenger Lift Door,TS_Passenger Lift Door-(Opt1),,,Door : Fire Lift Door,,Passenger Lift Door,,
+Doors,TS_MD2,MD2,TS_MD2,,,"Door : Swing Door, Hot Dipped Galvanized Steel With Spray Paint",,MD2,,
+Doors,TS_FDV1a,FDV1a,TS_FDV1a,,,"Door : Swing Door, Hot Dipped Galvanized Steel With Spray Paint",,FDV1a,,
+Doors,TS_MDV3,MDV3,TS_MDV3,,,"Door : Swing Door, Hot Dipped Galvanized Steel With Spray Paint",,MDV3,,
+Doors,TS_RS1B,RS1B,TS_RS1B,23-17 11 10,,"Door : Roller Shutter, Hot Dipped Galvanized Steel With Pre-Coated Paint",,RS1B,,
+Doors,TS_FD1,FD1,TS_FD1,,,"Door : Swing Door, Hot Dipped Galvanized Steel With Spray Paint",,FD1,,
+Doors,TS_FDV1d,FDV1d,TS_FDV1d,,,"Door : Swing Door, Hot Dipped Galvanized Steel With Spray Paint",,FDV1d,,
+Doors,,,TS_Fire Lift Switch,,,,,,,
+Doors,,,TS_Hall Button,,,,,,,
+Doors,TS_Fire Lift Door (with FL Switch)-(Opt1),TS_Fire Lift Signage [83945699],TS_Fire Lift Door Jamb,,,*Fire Lift Door Jamb,,TS_Fire Lift Door Jamb,,
+Doors,TS_Fire Lift Door (with FL Switch)-(Opt1),Fire Lift Door,TS_Fire Lift Door (with FL Switch)-(Opt1),,,Door : Fire Lift Door,,Fire Lift Door,,
+Doors,TS_GD1,GD1,TS_GD1,,,"Door : Swing Door, Hot Dipped Galvanized Steel With Spray Paint",,GD1,,
+Doors,TS_Passenger  Lift Door S.O,Passenger Lift Door S.O.,TS_Passenger  Lift Door S.O,,,Structural Opening,,Passenger Lift Door S.O.,,
+Doors,TS_Toilet Ambulant Cubicle Door(with opening),Ambulant Cubicle Door (840x2100),TS_Grab Bar Cubicle (Vertical),,,PF : Cubicle Handicapped Vertical Grab Bar,,Vertical,,<By Category>
+Doors,TS_Toilet Ambulant Cubicle Door(with opening),Ambulant Cubicle Door (840x2100),TS_Toilet Ambulant Cubicle Door(with opening),,,Door : Toilet Ambulant Cubicle Door,,Ambulant Cubicle Door (840x2100),,
+Doors,TS_Toilet Cubicle Door(with opening),Cubicle Door (600x2100),TS_Toilet Cubicle Door(with opening),,,Door : Toilet Cubicle Door,,Cubicle Door (600x2100),,
+Doors,TS_BD1,BD1,TS_BD1,,,"Door : Bi-Fold Door, Acrylic",,BD1,,
+Doors,TS_FDV1c,FDV1c,TS_FDV1c,,,"Door : Swing Door, Hot Dipped Galvanized Steel With Spray Paint",,FDV1c,,
+Doors,TS_F1A,F1A,TS_F1A,,,"Door : Swing Door, Hot Dipped Galvanized Steel With Spray Paint",,F1A,,
+Doors,TS_F1A,F1A(b),TS_F1A,,,"Door : Swing Door, Hot Dipped Galvanized Steel With Spray Paint",,F1A(b),,
+Doors,TS_F1A,F1A(c),TS_F1A,,,"Door : Swing Door, Hot Dipped Galvanized Steel With Spray Paint",,F1A(c),,
+Doors,TS_Toilet Cubicle Door,Cubicle Door (840x2300),TS_Grab Bar Cubicle (Vertical),,,PF : Cubicle Handicapped Vertical Grab Bar,,Vertical,,<By Category>
+Doors,TS_Toilet Cubicle Door,Cubicle Door (840x2300),TS_Toilet Cubicle Door,,,Door : Toilet Cubicle Door,,Cubicle Door (840x2300),,
+Doors,TS_Toilet Cubicle Door,Cubicle Door (600x2300),TS_Toilet Cubicle Door,,,Door : Toilet Cubicle Door,,Cubicle Door (600x2300),,
+Doors,TS_Cargo Lift Door1,LD 3 cargo,TS_Cargo Lift Door1,,,Door : Cargo Lift Door,,LD 3 cargo,,
+Doors,TS_Cargo Lift Door1,LD 4 cargo,TS_Cargo Lift Door1,,,Door : Cargo Lift Door,,LD 4 cargo,,
+Doors,TS_Cargo Lift Door1,LD 2 cargo,TS_Cargo Lift Door1,,,Door : Cargo Lift Door,,LD 2 cargo,,
+Doors,TS_Cargo Lift Door1,LD 1 cargo,TS_Cargo Lift Door1,,,Door : Cargo Lift Door,,LD 1 cargo,,
+Doors,TS_Access Hatch,Access Hatch,TS_Access Hatch,23-17 11 10,,Door : Galvanised Mild Steel Mounted Access Panel,,Access Hatch,,
+Doors,TS_AD (SR),AD (SR),TS_AD (SR),,,"Door : Swing Door, Hot Dipped Galvanized Steel With Spray Paint",,AD (SR),,
+Doors,TS_AD (SR),ADa (SR),TS_AD (SR),,,"Door : Swing Door, Hot Dipped Galvanized Steel With Spray Paint",,ADa (SR),,
+Doors,TS_AD (SR1),AD (SR1),TS_AD (SR1),,,"Door : Swing Door, Hot Dipped Galvanized Steel With Spray Paint",,AD (SR1),,
+Doors,TS_AD1A,AD1A,TS_AD1A,,,"Door : Swing Door, Aluminum Powder Coat",,AD1A,,
+Doors,TS_ALD2c,ALD2c,TS_ALD2c,,,"Door : Swing Door, Aluminum Powder Coat",,ALD2c,,
+Doors,TS_ALD2a,ALD2a,TS_ALD2a,,,"Door : Swing Door, Aluminum Powder Coat",,ALD2a,,
+Doors,TS_Cargo Lift Door,TS_Cargo Lift 06,TS_Cargo Lift Door,,,Door : Cargo Lift Door,,TS_Cargo Lift 06,,
+Doors,TS_Cargo Lift Door,TS_Cargo Lift 05,TS_Cargo Lift Door,,,Door : Cargo Lift Door,,TS_Cargo Lift 05,,
+Doors,TS_FDV1b,FDV1b,TS_FDV1b,,,"Door : Swing Door, Hot Dipped Galvanized Steel With Spray Paint",,FDV1b,,
+Windows,TS_Glass Block (640x1200),TS_Glass Block (640x1200),TS_Glass Block (640x1200),,,GLASS BLOCK,,TS_Glass Block (640x1200),,
+Windows,TS_Glass Block (600x1800),TS_Glass Block (600x1800),TS_Glass Block (600x1800),,,GLASS BLOCK,,TS_Glass Block (600x1800),,
+Windows,,,TS_Glass Block (600x2800),,,,,,,
+Windows,TS_Louver Window - Type A,Louver Window (1000x2800),TS_Louver Window - Type A,,,Horizontal Louver Blade Window,,Louver Window (1000x2800),,
+Windows,TS_Louver Window - Type A,Louver Window (600X2800),TS_Louver Window - Type A,,,Horizontal Louver Blade Window,,Louver Window (600X2800),,
+Windows,TS_Louver Window (350x3600) - Type C,TS_Louver Window (350x3600) - Type C,TS_Louver Window (350x3600) - Type C,,,Horizontal Louver Blade Window,,TS_Louver Window (350x3600) - Type C,,
+Windows,TS_Louver Window (600x1800) - Type B,TS_Louver Window (600x1800) - Type B,TS_Louver Window (600x1800) - Type B,,,,,TS_Louver Window (600x1800) - Type B,,
+Windows,TS_Louver Window - Type D,TS_Louver Window (600x2000),TS_Louver Window - Type D,,,Window : Horizontal Louver Blade Window,,TS_Louver Window (600x2000),,
+Windows,TS_Louver Window - Type D,TS_Louver Window (500x2000),TS_Louver Window - Type D,,,Window : Horizontal Louver Blade Window,,TS_Louver Window (500x2000),,
+Windows,TS_Louver Window - Type D,TS_Louver Window (300x600),TS_Louver Window - Type D,,,Window : Horizontal Louver Blade Window,,TS_Louver Window (300x600),,
+Windows,TS_Louver Window - Type D,TS_Louver Window (800x10000),TS_Louver Window - Type D,,,Horizontal Louver Blade Window,,TS_Louver Window (800x10000),,
+Windows,TS_Louver Window - Type D,TS_Louver Window (800x2500),TS_Louver Window - Type D,,,Window : Horizontal Louver Blade Window,,TS_Louver Window (800x2500),,
+Windows,TS_Louver Window - Type D,TS_Louver Window (2840x1140),TS_Louver Window - Type D,,,Window : Horizontal Louver Blade Window,,TS_Louver Window (2840x1140),,
+Windows,TS_Louver Window - Type D,TS_Louver Window (1900x3300),TS_Louver Window - Type D,,,WINDOW : Horizontal Louver Blade Window,,TS_Louver Window (1900x3300),,
+Windows,TS_AL Screen (1500x2050) - Type A,TS_AL Screen (1500x2050) - Type A,TS_AL Screen (1500x2050) - Type A,,,Aluminum Screen,,TS_AL Screen (1500x2050) - Type A,,
+Windows,TS_AL Screen (2210x2000) - Type A1,TS_AL Screen (2210x2000) - Type A,TS_AL Screen (2210x2000) - Type A1,,,WINDOW : Aluminum Screen,,TS_AL Screen (2210x2000) - Type A,,
+Windows,TS_ASW15,TS_ASW15,TS_ASW15,,,Aluminum Frame Fixed Top Hung & Sliding Window,,TS_ASW15,,
+Windows,TS_ASW7a,ASW7a,TS_ASW7a,,,Aluminum Frame Sliding Glass Window,,ASW7a,,
+Windows,TS_ASW7,TS_ASW7,TS_ASW7,,,Aluminum Frame Sliding Glass Window,,TS_ASW7,,
+Windows,TS_ATW5,TS_ATW5,TS_ATW5,,,Aluminum Frame Fixed Top Hung Window,,TS_ATW5,,
+Windows,TS_ATW3,TS_ATW3,TS_ATW3,,,Aluminum Frame Fixed Top Hung Window,,TS_ATW3,,
+Windows,TS_GLW3,TS_GLW3,TS_GLW3,,,Aluminum Frame Fixed Top Hung Window,,TS_GLW3,,
+Windows,TS_ATW4m,TS_ATW4m,TS_ATW4m,,,Aluminum Frame Fixed Top Hung Window,,TS_ATW4m,,
+Windows,TS_AL Screen (850x2050) - Type A,TS_AL Screen (850x2050) - Type A,TS_AL Screen (850x2050) - Type A,,,Aluminum Screen,,TS_AL Screen (850x2050) - Type A,,
+Windows,TS_GLW5,TS_GLW5,TS_GLW5,,,Aluminum Frame Fixed Top Hung Window,,TS_GLW5,,
+Windows,TS_ASW10,TS_ASW10,TS_ASW10,,,Aluminum Frame Sliding Glass Window,,TS_ASW10,,
+Windows,TS_ATW1,TS_ATW1,TS_ATW1,,,Aluminum Frame Fixed Top Hung Window,,TS_ATW1,,
+Windows,TS_ATW1,TS_ATW1a,TS_ATW1,,,Window : Aluminum Frame Fixed Top Hung Window,,TS_ATW1a,,
+Windows,TS_ASW10m,TS_ASW10m,TS_ASW10m,,,Aluminum Frame Sliding Glass Window,,TS_ASW10m,,
+Windows,TS_ASW5,TS_ASW5,TS_ASW5,,,Aluminum Frame Sliding Glass Window,,TS_ASW5,,
+Windows,TS_ASW6,TS_ASW6,TS_ASW6,,,Aluminum Frame Sliding Glass Window,,TS_ASW6,,
+Windows,TS_ATW2,TS_ATW2,TS_ATW2,,,Aluminum Frame Fixed Top Hung Window,,TS_ATW2,,
+Windows,TS_ACW2,TS_ACW2,TS_ACW2,,,Window : Aluminum Frame Fixed Top Hung and Casement Window,NWindow,TS_ACW2,,
+Windows,TS_ACW2F2,TS_ACW2F2,TS_ACW2F2,,,Window : Aluminum Frame Fixed Top Hung and Casement Window,NWindow,TS_ACW2F2,,
+Windows,TS_ACW2F1,TS_ACW2F1,TS_ACW2F1,,,Window : Aluminum Frame Fixed Top Hung and Casement Window,NWindow,TS_ACW2F1,,
+Windows,TS_ACW1F1,ACW1F1,TS_ACW1F1,,,Window : Aluminum Frame Fixed Top Hung and Casement Window,,ACW1F1,,
+Windows,TS_ASW2,TS_ASW2,TS_ASW2,,,Window : Aluminum Frame Fixed Top Hung and Sliding Window,,TS_ASW2,,
+Windows,TS_ACW3,TS_ACW3,TS_ACW3,,,Window : Aluminum Frame Fixed Top Hung and Casement Window,,TS_ACW3,,
+Windows,WN-_-EV4,42A,WN-_-EV4,,,,42A,42A,,
+Windows,TS_ATW6,TS_ATW6,TS_ATW6,,,Aluminum Frame Fixed Top Hung Window,,TS_ATW6,,
+Windows,TS_ASW9m,TS_ASW9m,TS_ASW9m,,,Aluminum Frame Sliding Glass Window,,TS_ASW9m,,
+Windows,TS_ACW1,TS_ACW1,TS_ACW1,,,Window : Aluminum Frame Fixed Top Hung and Casement Window,,TS_ACW1,,
+Windows,TS_AL Screen (3370x2000) - Type B,TS_AL Screen (3370x2000) - Type B,TS_AL Screen (3370x2000) - Type B,,,Window : Aluminum Screen,,TS_AL Screen (3370x2000) - Type B,,
+Windows,TS_AL Screen (3300x2000) - Type B,TS_AL Screen (3300x2000) - Type B,TS_AL Screen (3300x2000) - Type B,,,WINDOW : Aluminum Screen,,TS_AL Screen (3300x2000) - Type B,,
+Windows,TS_AL Screen (3320x2000) - Type B,TS_AL Screen (3320x2000) - Type B,TS_AL Screen (3320x2000) - Type B,,,WINDOW : Aluminum Screen,,TS_AL Screen (3320x2000) - Type B,,
+Windows,TS_ASW1,TS_ASW1,TS_ASW1,,,Aluminum Frame Sliding Glass Window,,TS_ASW1,,
+Windows,TS_ASW1m,TS_ASW1m,TS_ASW1m,,,Aluminum Frame Sliding Glass Window,,TS_ASW1m,,
+Windows,TS_AL Screen (3270x2000) - Type B,TS_AL Screen (3270x2000) - Type B,TS_AL Screen (3270x2000) - Type B,,,Window : Aluminum Screen,,TS_AL Screen (3270x2000) - Type B,,
+Windows,TS_ACW1F2,TS_ACW1F2,TS_ACW1F2,,,Window : Aluminum Frame Fixed Top Hung and Casement Window,,TS_ACW1F2,,
+Windows,TS_ASW8,TS_ASW8,TS_ASW8,,,Aluminum Frame Sliding Glass Window,,TS_ASW8,,
+Windows,,,TS_Vent Block (1240x1040),,,,,,,
+Windows,,,TS_Vent Block (1640x640),,,,,,,
+Windows,,,TS_Vent Block (1240x1040)-1,,,,,,,
+Windows,TS_AL Screen (1000x2000) - Type A,TS_AL Screen (1000x2000) - Type A,TS_AL Screen (1000x2000) - Type A,,,Aluminum Screen,,TS_AL Screen (1000x2000) - Type A,,
+Windows,TS_ASW4,TS_ASW4,TS_ASW4,,,Window : Aluminum Frame Fixed Top Hung and Sliding Window,,TS_ASW4,,
+Windows,TS_ATW4,TS_ATW4,TS_ATW4,,,Aluminum Frame Fixed Top Hung Window,,TS_ATW4,,
+Generic Models,GM_Glass_Block_Unit_1,GM_Glass_Block_Unit_1,GM_Glass_Block_Unit_1,,,,,GM_Glass_Block_Unit_1,,<By Category>
+Generic Models,TS_Wall Finish 01,TS_Wall Finish 01,TS_Wall Finish 01,,,,,TS_Wall Finish 01,,<By Category>
+Generic Models,Road Reflective Pole,Road Reflective Pole,Road Reflective Pole,,,,,Road Reflective Pole,,<By Category>
+Generic Models,TS_Wall Finish Framing 07,TS_Wall Finish Framing 07,TS_Wall Finish Framing 07,,,,,TS_Wall Finish Framing 07,,<By Category>
+Generic Models,TS_Wall Finish 06,TS_Wall Finish 06,TS_Wall Finish 06,,,,,TS_Wall Finish 06,,<By Category>
+Generic Models,TS_Wall Finish 05,TS_Wall Finish 05,TS_Wall Finish 05,,,,,TS_Wall Finish 05,,<By Category>
+Generic Models,TS_Wall Finish 07,TS_Wall Finish 07,TS_Wall Finish 07,,,,,TS_Wall Finish 07,,<By Category>
+Generic Models,TS_Wall Finish 04,TS_Wall Finish 04,TS_Wall Finish 04,,,,,TS_Wall Finish 04,,<By Category>
+Generic Models,TS_Void,Void,TS_Void,,,,,Void,,<By Category>
+Generic Models,TS_L2 Headroom Clearance,TS_L2 Headroom Clearance,TS_L2 Headroom Clearance,,,GENERIC : TRANSPARENT BOX AT DRIVEWAY,,TS_L2 Headroom Clearance,,<By Category>
+Generic Models,TS_Void (Circle),Void,TS_Void (Circle),,,,,Void,,<By Category>
+Generic Models,TS_Catladder at ESS,450mm Width,TS_Catladder at ESS,,,,,450mm Width,,"<By Category>,<By Category>"
+Generic Models,TS_Wall Finish Framing 01,TS_Wall Finish Framing 01,TS_Wall Finish Framing 01,,,,,TS_Wall Finish Framing 01,,<By Category>
+Generic Models,TS_Wall Finish Framing 04,TS_Wall Finish Framing 04,TS_Wall Finish Framing 04,,,,,TS_Wall Finish Framing 04,,<By Category>
+Generic Models,TS_Wall Finish Framing 05,TS_Wall Finish Framing 05,TS_Wall Finish Framing 05,,,,,TS_Wall Finish Framing 05,,<By Category>
+Generic Models,TS_Wall Finish 08,TS_Wall Finish 08,TS_Wall Finish 08,,,,,TS_Wall Finish 08,,<By Category>
+Generic Models,TS_Wall Finish Framing 06,TS_Wall Finish Framing 06,TS_Wall Finish Framing 06,,,,,TS_Wall Finish Framing 06,,<By Category>
+Generic Models,TS_Wall Finish Framing 08,TS_Wall Finish Framing 08,TS_Wall Finish Framing 08,,,,,TS_Wall Finish Framing 08,,<By Category>
+Generic Models,TS_Depression Component,Depression Component,TS_Depression Component,,,,,Depression Component,,<By Category>
+Generic Models,TS_Catladder at ESS (without frame),450x100,TS_Catladder at ESS (without frame),,,,,450x100,,"<By Category>,<By Category>"
+Generic Models,TS_Wall Finish Framing 02,TS_Wall Finish Framing 02,TS_Wall Finish Framing 02,,,,,TS_Wall Finish Framing 02,,<By Category>
+Generic Models,TS_Wall Finish Framing 03,TS_Wall Finish Framing 03,TS_Wall Finish Framing 03,,,,,TS_Wall Finish Framing 03,,<By Category>
+Generic Models,TS_Lift Supervisory Panel,LIFT SUPERVISORY PANEL,TS_Lift Supervisory Panel,,,,,LIFT SUPERVISORY PANEL,,<By Category>
+Generic Models,TS_Canopy Plate FB,TS_Canopy Plate FB,TS_Canopy Plate FB,,,,,TS_Canopy Plate FB,,<By Category>
+Generic Models,TS_TieRod Canopy,TS_TieRod Canopy,TS_TieRod Canopy,,,,,TS_TieRod Canopy,,"TS_Aluminun Powder Coat,<By Category>"
+Plumbing Fixtures,TS_Pedestal Water Closet,WP2915BF,TS_Pedestal Water Closet,,,PF : Pedestal Water Closet (Model : WP2915BF),MCR09-10,WP2915BF,,<By Category>
+Plumbing Fixtures,TS_Grab Bar Set (Water Closet),RL-GB1011-H,TS_Grab Bar Accessible (Vertical),SA-06,,PF : Handicapped Vertical Grab Bar (Model : GB620),,GB620,,<By Category>
+Plumbing Fixtures,TS_Grab Bar Set (Water Closet),RL-GB1011-H,TS_Grab Bar (L-Shaped),SA-06,,PF : Grab Bar (Model : GB830),,GB830,,<By Category>
+Plumbing Fixtures,TS_Grab Bar Set (Water Closet),RL-GB1011-H,TS_Grab Bar (Swing-up),SA-06,,PF : Grab Bar (Model : RL-GB700-H),,RL-GB700-H,,<By Category>
+Plumbing Fixtures,TS_Grab Bar Set (Water Closet),RL-GB1011-H,TS_Grab Bar Set (Water Closet),,,PF : Grab Bar Set for Water Closet (Model : RL-GB1011-H),,RL-GB1011-H,,<By Category>
+Plumbing Fixtures,TS_Double Bowl SS Sink w Drainer,HOS500DEP (Insert Type),TS_Double Bowl SS Sink w Drainer,,,PF : Double Bowl SS Sinkwith Drainer (Model : HOS500DEP),MCR09-06,HOS500DEP (Insert Type),,"TS_Stainless Steel Satin,Stainless Steel"
+Plumbing Fixtures,TS_Wall Hung Lavatory,LH11095,TS_Wall Hung Lavatory,,,PF : Wall-Hung Lavatory (Model : LH11095),MCR09-02,LH11095,,<By Category>
+Plumbing Fixtures,TS_Wall Hung Lavatory(B -Units),LH109,TS_Wall Hung Lavatory(B -Units),,,PF : Wall Hung Lavatory for B-Units (Model : LH109),MCR09-02,LH109,,<By Category>
+Plumbing Fixtures,TS_Wall Mounted Hose Coupling Bib Tap,W3-K-SA210L,TS_Wall Mounted Hose Coupling Bib Tap,,,PF : Wall Mounted Hose Coupling Bib Tap (Model : W3-K-SA210L),MCR09-07,W3-K-SA210L,,"TS_Stainless Steel Satin,Brass Chrome"
+Plumbing Fixtures,TS_Urinal,UH03BP-G,TS_Urinal,,,PF : Urinal (Model : UH03BP-G),MCR09-09,UH03BP-G,,"Vitreous China,<By Category>"
+Plumbing Fixtures,TS_Wall Mounted Mop Sink,KM02,TS_Wall Mounted Mop Sink,SA-01,,PF : Wall Mounted Mop Sink (Model : KM02),MCR09-06,KM02,,Vitreous China
+Plumbing Fixtures,TS_Manual Soap Dispenser,SD117,TS_Manual Soap Dispenser,E1020810,Medical Furniture & Equipment,PF : Manual Soap Dispenser (Model : SD117),ok (comment to be deleted),SD117,,<By Category>
+Plumbing Fixtures,TS_FT (150x150),150 mm,TS_FT (150x150),,,PF : 150 x 150mm Floor Trap,,150 mm,,<By Category>
+Plumbing Fixtures,TS_Ambulant Cubicle Grab Bar,R-GB650-H,TS_Ambulant Cubicle Grab Bar,,,PF : Ambulant Cubicle Grab Bar for Water Closet (Model : R-GB650-H),,R-GB650-H,,<By Category>
+Plumbing Fixtures,TS_WC Sense Flush Valve,AFS101CFLSTDF,TS_WC Sense Flush Valve,,,PF : Water Closet Sensor Flush Valve (Model : AFS101CFLSTDF),,AFS101CFLSTDF,,<By Category>
+Plumbing Fixtures,TS_RC Sump,RC Sump(1000X800),TS_RC Sump,,,,,RC Sump(1000X800),,<By Category>
+Plumbing Fixtures,TS_Twin Roll Double Paper Holder,R-PH130G,TS_Twin Roll Double Paper Holder,,,PF : Twin Roll Double Paper Holder (Model : R-PH130G),,R-PH130G,,<By Category>
+Plumbing Fixtures,TS_Sit-On Lavatory,LS8090,TS_Sit-On Lavatory,,,PF : Above Counter Basin (Model : LS8090),MCR09-02,LS8090,,<By Category>
+Plumbing Fixtures,TS_Deck Mounted Sensor Tap,W3-R-ST103SSN,TS_Deck Mounted Sensor Tap,,,PF : Deck Mounted Sensor Tap (Model : W3-R-ST103SSN),MCR09-07,W3-R-ST103SSN,,Polished Brass with Chrome
+Plumbing Fixtures,TS_Urinal Flush Valve,W3-R-AFS202CLTV1,TS_Urinal Flush Valve,,,PF : Urinal Flush Valve (Model : W3-R-AFS202CLTV1),,W3-R-AFS202CLTV1,,<By Category>
+Plumbing Fixtures,TS_Urinal Grab Bar,RL-GB10146-H,TS_Vertical Grab Bar,,,PF : Handicapped Vertical Grab Bar for Urinal (Model : GB600),,GB600,,<By Category>
+Plumbing Fixtures,TS_Urinal Grab Bar,RL-GB10146-H,TS_Urinal Grab Bar,,,PF : Urinal Grab Bar (Model : RL-GB10146-H),,RL-GB10146-H,,<By Category>
+Plumbing Fixtures,TS_FW,50mm,TS_FW,,,PF : Floor Waste,,50mm,,<By Category>
+Plumbing Fixtures,TS_Water Closet (PBU),W3-R-WC9707P,TS_Water Closet (PBU),,,PF : Closed Coupled Water Closet (Model : W3-R-WC9707P),,W3-R-WC9707P,,<By Category>
+Plumbing Fixtures,TS_Handicapped Wall-Hung Water Closet,WH5086BP,TS_Handicapped Wall-Hung Water Closet,SA-01,,PF : Handicapped Wall-Hung Water Closet (Model : WH5086BP),MCR09-10,WH5086BP,,<By Category>
+Plumbing Fixtures,TS_Grab Bar (Door),Door Pull Handle,TS_Grab Bar (Door),,,PF : Door Handicapped Horizontal Grab Bar,,Door Pull Handle,,"TS_Stainless Steel,<By Category>"
+Plumbing Fixtures,TS_Sensor Hand Dryer,AHD101P,TS_Sensor Hand Dryer,,,PF : Sensor Hand Dryer (Model : AHD101P),,AHD101P,,<By Category>
+Plumbing Fixtures,TS_Wall Mounted Paper Towel Dispenser,TD157,TS_Wall Mounted Paper Towel Dispenser,,,PF : Wall Mounted Paper Tower Dispenser (Model : TD157),,TD157,,<By Category>
+Plumbing Fixtures,TS_Grab Bar (Cubicle),RL-GB610-H,TS_Grab Bar (Cubicle),,,PF : Cubicle Handicapped Horizontal Grab Bar (Model : RL-GB610-H),,RL-GB610-H,,<By Category>
+Plumbing Fixtures,TS_Shower Head,W3-R-SH08,TS_Shower Head,,,PF : Wall Mounted Shower Head (Model : W3-R-SH08),,W3-R-SH08,,<By Category>
+Plumbing Fixtures,TS_Surface Mounted Soap Holder,R-SH120,TS_Surface Mounted Soap Holder,,,PF : Surface Mounted Soap Holder (Model : R-SH120),ok (comment to be deleted),R-SH120,,<By Category>
+Plumbing Fixtures,TS_Wall Mounted Self-Closing Delay Action Valve,W3-R-SCT2016,TS_Wall Mounted Self-Closing Delay Action Valve,SA-11,,PF : Wall Mounted Self-Closing Delay Action Valve (Model : W3-R-SCT2016),,W3-R-SCT2016,,<By Category>
+Plumbing Fixtures,TS_Surface Mounted Single Paper Holder,R-PH101A,TS_Surface Mounted Single Paper Holder,,,PF : Surface Mounted Single Paper Holder (Model : R-PH101A),,R-PH101A,,<By Category>
+Plumbing Fixtures,TS_Floor Standing Waste Receptacle,WR5155,TS_Floor Standing Waste Receptacle,,,PF : Floor Standing Waste Receptacle,,WR5155,,<By Category>
+Plumbing Fixtures,TS_Deck Mounted Self-Closing Delay Action Tap,W3-R-SCT2014,TS_Deck Mounted Self-Closing Delay Action Tap,,,PF : Deck Mounted Self-Closing Delay Action Tap (Model : W3-R-SCT-2014),MCR09-07,W3-R-SCT2014,,"TS_Stainless Steel Satin,Polished Brass with Chrome"
+Plumbing Fixtures,TS_Robe Hook,BA103,TS_Robe Hook,,,PF : Robe Hook (Model : BA 103),,BA103,,<By Category>
+Plumbing Fixtures,TS_Hand Bidet Sprayer with Hose,K-SA8110 + W3-K-SA219L,TS_Hand Bidet Sprayer with Hose,23-31 23-10,,PF : Hand Bidet Spray with Metallic PVC Hose (Model : K-SA8110 + W3-K-SA219L),MCR09-04,K-SA8110 + W3-K-SA219L,,<By Category>
+Plumbing Fixtures,TS_Hair Dryer,NR-HDY822413,TS_Hair Dryer,,,PF : Hair Dryer (Model : NR-HDY822413),,NR-HDY822413,,<By Category>
+Plumbing Fixtures,TS_Deck Mounted Lever Handle Sink Tap,W3-K-SA7003L,TS_Deck Mounted Lever Handle Sink Tap,,,PF : Deck Mounted Lever Handle Sink Tap (Model : W3-K-SA7003L),,W3-K-SA7003L,,"TS_Stainless Steel Satin,<By Category>"
+Plumbing Fixtures,TS_Deck Mounted Pillar Handle Basin Tap,W3-K-SA507L,TS_Deck Mounted Pillar Handle Basin Tap,,,PF : Sink Tap,,W3-K-SA507L,,<By Category>
+Casework,CWJ-MIRR,300W*900H,CWJ-MIRR,,,CW : Tilted Mirror,MCR01-06-01-01,300W*900H,,<By Category>
+Casework,CWJ-TMB-CTBT,600W*2460L*250H,CWJ-TMB-CTBT,,,CW : Vanity Countertop,MCR01-02-01-04,600W*2460L*250H,,<By Category>
+Casework,CWJ-TMB-CTBT,600W*2845L*250H,CWJ-TMB-CTBT,,,CW : Vanity Countertop,MCR01-02-01-06,600W*2845L*250H,,<By Category>
+Casework,CWJ-TMB-CTBT,600W*7235L*250H,CWJ-TMB-CTBT,,,CW : Vanity Countertop,MCR01-02-01-13,600W*7235L*250H,,<By Category>
+Casework,CWJ-TMB-CTBT,600W*5000L*250H,CWJ-TMB-CTBT,,,CW : Vanity Countertop,MCR01-02-01-10,600W*5000L*250H,,<By Category>
+Casework,CWJ-TMB-CTBT,600W*4005L*250H,CWJ-TMB-CTBT,,,CW : Vanity Countertop,MCR01-02-01-09,600W*4005L*250H,,<By Category>
+Casework,CWJ-TMB-CTBT,600W*5350L*250H,CWJ-TMB-CTBT,,,CW : Vanity Countertop,MCR01-02-01-11,600W*5350L*250H,,<By Category>
+Casework,CWJ-TMB-CTBT,600W*2500L*250H,CWJ-TMB-CTBT,,,CW : Vanity Countertop,MCR01-02-01-05,600W*2500L*250H,,<By Category>
+Casework,CWJ-TMB-CTBT,600W*3565L*250H,CWJ-TMB-CTBT,,,CW : Vanity Countertop,MCR01-02-01-08,600W*3565L*250H,,<By Category>
+Casework,CWJ-TMB-CTBT,600W*900L*250H,CWJ-TMB-CTBT,,,CW : Vanity Countertop,MCR01-02-01-01,600W*900L*250H,,<By Category>
+Casework,CWJ-TMB-CTBT,600W*2865L*250H,CWJ-TMB-CTBT,,,CW : Vanity Countertop,MCR01-02-01-07,600W*2865L*250H,,<By Category>
+Casework,CWJ-TMB-CTBT,600W*1550L*250H,CWJ-TMB-CTBT,,,CW : Vanity Countertop,MCR01-02-01-02,600W*1550L*250H,,<By Category>
+Casework,CWJ-TMB-CTBT,600W*2000L*250H,CWJ-TMB-CTBT,,,CW : Vanity Countertop,MCR01-02-01-03,600W*2000L*250H,,<By Category>
+Casework,CWJ-TMB-CTBT,600W*6200L*250H,CWJ-TMB-CTBT,,,CW : Vanity Countertop,MCR01-02-01-12,600W*6200L*250H,,<By Category>
+Casework,CWJ-MIRR-01,2460*1200,CWJ-MIRR-01,,,CW : Mirror,MCR01-06-01-14,2460*1200,,<By Category>
+Casework,CWJ-MIRR-01,2835*1200,CWJ-MIRR-01,,,CW : Mirror,MCR01-06-01-08,2835*1200,,<By Category>
+Casework,CWJ-MIRR-01,5015x1204,CWJ-MIRR-01,,,CW : Mirror,MCR01-06-01-12,5015x1204,,<By Category>
+Casework,CWJ-MIRR-01,4005x1204,CWJ-MIRR-01,,,CW : Mirror,MCR01-06-01-11,4005x1204,,<By Category>
+Casework,CWJ-MIRR-01,2860*1200,CWJ-MIRR-01,,,CW : Mirror,MCR01-06-01-09,2860*1200,,<By Category>
+Casework,CWJ-MIRR-01,1550*1200,CWJ-MIRR-01,,,CW : Mirror,MCR01-06-01-04,1550*1200,,<By Category>
+Casework,CWJ-MIRR-01,2000*1200,CWJ-MIRR-01,,,CW : Mirror,MCR01-06-01-05,2000*1200,,<By Category>
+Casework,CWJ-MIRR-01,2110*900,CWJ-MIRR-01,,,CW : Mirror,MCR01-06-01-06,2110*900,,<By Category>
+Casework,CWJ-MIRR-01,3565*1200,CWJ-MIRR-01,,,CW : Mirror,MCR01-06-01-10,3565*1200,,<By Category>
+Casework,CWJ-MIRR-01,2520*1200,CWJ-MIRR-01,,,CW : Mirror,MCR01-06-01-07,2520*1200,,<By Category>
+Casework,CWJ-MIRR-01,900*1200,CWJ-MIRR-01,,,CW : Mirror,MCR01-06-01-03,900*1200,,<By Category>
+Casework,CWJ-MIRR-01,7235x1204,CWJ-MIRR-01,,,CW : Mirror,MCR01-06-01-16,7235x1204,,<By Category>
+Casework,CWJ-MIRR-01,6200x1204,CWJ-MIRR-01,,,CW : Mirror,MCR01-06-01-15,6200x1204,,<By Category>
+Casework,CWJ-MIRR-01,5310*1204,CWJ-MIRR-01,,,CW : Mirror,MCR01-06-01-13,5310*1204,,<By Category>
+Casework,CWJ-MIRR-03,600*1000,CWJ-MIRR-03,C1030200,Bath & Toilet Accessories,CW : 600 x 1000mm PBU Mirror,MCR01-06-01-02,600*1000,,<By Category>
+Casework,CWJ-TMB-CBNT-01,600W*2350H,CWJ-TMB-CBNT-01,,,"CW : Built-in with Open Shelves, Kitchen",MCR01-01-01-01,600W*2350H,,<By Category>
+Casework,CWJ-TMB-CBNT-02,450W*900L*1800H,CWJ-TMB-CBNT-02,,,CW : 900(L) x 450(W) x 1800(H) Tall Cabinet,MCR01-01-01-02,450W*900L*1800H,,<By Category>
+Casework,CWJ-TMB-CBNT-02,450W*750L*800H,CWJ-TMB-CBNT-02,,,CW : 900(L) x 450(W) x 1800(H) Tall Cabinet,MCR01-01-01-10,450W*750L*800H,,<By Category>
+Casework,CWJ-TMB-CBNT-03,500W*830L*3300H,CWJ-TMB-CBNT-03,,,CW : 840(L) x 500(W) x 330(H) Built-in Cabinet,MCR01-01-01-03,500W*830L*3300H,,<By Category>
+Casework,CWJ-TMB-CBNT-04,500W*3014L*3300H,CWJ-TMB-CBNT-04,,,CW : 3014(L) x 500(W) x 3300(H) Built-in Cabinet,MCR01-01-01-04,500W*3014L*3300H,,<By Category>
+Casework,CWJ-TMB-CBNT-04,500W*3096L*3300H,CWJ-TMB-CBNT-04,,,CW : 3096(L) x 500(W) x 3300(H) Built-in Cabinet,MCR01-01-01-06,500W*3096L*3300H,,<By Category>
+Casework,CWJ-TMB-CBNT-05,500W*840L*3300H,CWJ-TMB-CBNT-05,,,CW : 840(L) x 500(W) x 330(H) Built-in Cabinet,MCR01-01-01-05,500W*840L*3300H,,<By Category>
+Casework,CWJ-TMB-CBNT-06,500W*6000L*3180H,CWJ-TMB-CBNT-06,,,CW : 6000(L) x 500(W) x 3180(H) Built-in Cabinet,MCR01-01-01-07,500W*6000L*3180H,,<By Category>
+Casework,CWJ-TMB-CBNT-07,600W*1800L*850H,CWJ-TMB-CBNT-07,,,CW : Built-in Kitchen Cabinet with Open Shelves,MCR01-01-01-08,600W*1800L*850H,,<By Category>
+Casework,CWJ-TMB-CBNT-08,600W*3015L*2350H,CWJ-TMB-CBNT-08,,,"Cabinet : Built-in with Open Shelves, Kitchen",MCR01-01-01-09,600W*3015L*2350H,,<By Category>
+Casework,CWJ-TMB-CBNT-09,600W*2400L*2350H,CWJ-TMB-CBNT-09,,,"CW : Built-in, Kitchen",MCR01-01-01-11,600W*2400L*2350H,,<By Category>
+Casework,CWJ-LTBX,3500W*1050H,CWJ-LTBX,,,CW : 10x6 Letter Box,MCR01-05-01-01,3500W*1050H,,<By Category>
+Specialty Equipment,,,TS_Detectable Surface,,,,,,,
+Specialty Equipment,,,TS_Studded Band_01,,,,,,,
+Specialty Equipment,,,TS_Studded Band_03,,,,,,,
+Specialty Equipment,,,TS_FAP Ledge 1400x1800 (w Operable Railing),,,,,,,
+Specialty Equipment,,,TS_FAP Ledge 1400x1800,,,,,,,
+Specialty Equipment,TS_Loading Dock Equipment,2200x2330,TS_Loading Dock Equipment,E1030300,Loading Dock Equipment,SPECIALTY EQUIPMENT : Loading Dock Equipment,,2200x2330,,
+Specialty Equipment,TS_Loading Bay Equipment (2200x2330),2200x2330,TS_Loading Bay Equipment (2200x2330),E1030300,Loading Dock Equipment,McGuire Loading Dock Product as Specified,,2200x2330,,
+Specialty Equipment,,,TS_Studded Band_02,,,,,,,
+Specialty Equipment,,,TS_Studded Band_04,,,,,,,
+Specialty Equipment,,,TS_Studded Band_05,,,,,,,
+Specialty Equipment,,,TS_Studded Band_06,,,,,,,
+Specialty Equipment,TS_Leg Partition,Leg Partition,TS_Leg Partition,,,Water Closet Accessories : Water Closet Sense Flush Valve (Concealed Box),,Leg Partition,,
+Specialty Equipment,TS_Hall Indicator,TS_Hall Indicator,TS_Hall Indicator,23-23 11 11 21 10,,Indicator : Hall Indicator,,TS_Hall Indicator,,
+Specialty Equipment,,,TS_Hall Button,,,,,,,
+Specialty Equipment,TS_PWD,1400x900,TS_PWD,,,,,1400x900,,
+Specialty Equipment,,,TS_Stair Level Signage,,,,,,,
+Specialty Equipment,,,TS_Door Staircase Signage1,,,,,,,
+Specialty Equipment,TS_Stair Nosing,Nosing,TS_Stair Nosing,,,,,Nosing,,
+Specialty Equipment,TS_Warning Indicator,300x300,TS_Warning Indicator,,,Detectable Tile,,300x300,,
+Specialty Equipment,TS_Stair Nosing (External),Nosing,TS_Stair Nosing (External),,,,,Nosing,,
+Specialty Equipment,TS_Glass Block,Glass Block (200x200),TS_Glass Block,,,,,Glass Block (200x200),,
+Specialty Equipment,,,TS_Access Panel (Ceiling),,,,,,,
+Specialty Equipment,TS_Signage (Female Toilet),TS_Signage (Female Toilet),TS_Signage (Female Toilet),23-23 11 11 21 10,,Button : Landing call station Integrated Intercom,,TS_Signage (Female Toilet),,
+Specialty Equipment,TS_Signage (Male Toilet),TS_Signage (Male Toilet),TS_Signage (Male Toilet),23-23 11 11 21 10,,Button : Landing call station Integrated Intercom,,TS_Signage (Male Toilet),,
+Specialty Equipment,,,TS_Signage (Ambulant),,,,,,,
+Specialty Equipment,TS_Operable Wall_BIZHUB,Bizhub Operable Wall,TS_Operable Wall_BIZHUB,,,,,Bizhub Operable Wall,,
+Specialty Equipment,TS_Operable Wall_Training Room,Training Room Operable Wall,TS_Operable Wall_Training Room,,,,,Training Room Operable Wall,,
+Specialty Equipment,,,TS_Concrete Remover Covers,,,,,,,
+Specialty Equipment,TS_Signage (SAT12),SAT12,TS_Signage (SAT12),,,,,SAT12,,
+Specialty Equipment,TS_Signage (SAT01),Type 1,TS_Signage (SAT01),,,,,Type 1,,<By Category>
+Specialty Equipment,TS_Signage (SAT22),Type 1,TS_Signage (SAT22),,,,,Type 1,,
+Specialty Equipment,TS_Digital Directory,INT05,TS_Digital Directory,,,,,INT05,,
+Specialty Equipment,,,TS_Canopy Gusset Plate4,,,,,,,
+Specialty Equipment,,,TS_Canopy Gusset Plate5,,,,,,,
+Specialty Equipment,,,TS_Canopy Gusset Plate2,,,,,,,
+Specialty Equipment,,,TS_Canopy Gusset Plate3,,,,,,,
+Specialty Equipment,,,TS_Canopy Gusset Plate6,,,,,,,
+Specialty Equipment,,,TS_Canopy Gusset Plate7,,,,,,,
+Specialty Equipment,,,TS_Canopy Gusset Plate8,,,,,,,
+Specialty Equipment,,,TS_Canopy Gusset Plate9,,,,,,,
+Specialty Equipment,,,TS_Canopy Gusset Plate16,,,,,,,
+Specialty Equipment,,,TS_Canopy Gusset Plate17,,,,,,,
+Specialty Equipment,,,TS_Canopy Gusset Plate10,,,,,,,
+Specialty Equipment,,,TS_Canopy Gusset Plate11,,,,,,,
+Specialty Equipment,,,TS_Canopy Gusset Plate12,,,,,,,
+Specialty Equipment,,,TS_Canopy Gusset Plate13,,,,,,,
+Specialty Equipment,,,TS_Canopy Gusset Plate14,,,,,,,
+Specialty Equipment,,,TS_Canopy Gusset Plate15,,,,,,,
+Specialty Equipment,,,TS_Canopy Gusset Plate18,,,,,,,
+Specialty Equipment,,,TS_Canopy Gusset Plate19,,,,,,,
+Specialty Equipment,,,TS_Canopy Gusset Plate20,,,,,,,
+Specialty Equipment,,,TS_Canopy Gusset Plate21,,,,,,,
+Specialty Equipment,,,TS_Canopy Gusset Plate22,,,,,,,
+Specialty Equipment,,,TS_Canopy Gusset Plate23,,,,,,,
+Specialty Equipment,,,TS_Canopy Gusset Plate24,,,,,,,
+Specialty Equipment,,,TS_Canopy Gusset Plate25,,,,,,,
+Specialty Equipment,,,TS_Canopy Gusset Plate26,,,,,,,
+Specialty Equipment,,,TS_Canopy Gusset Plate27,,,,,,,
+Structural Framing,TS_PC Beam,3300x800,TS_PC Beam,,,,Grade C40/50,3300x800,TS_PC Beam,
+Structural Framing,TS_PC Beam,500x800,TS_PC Beam,,,,Grade C40/50,500x800,TS_PC Beam,
+Structural Framing,TS_PC Beam,2100x800,TS_PC Beam,,,,Grade C40/50,2100x800,TS_PC Beam,
+Structural Framing,TS_PC Beam,4400x800,TS_PC Beam,,,,Grade C40/50,4400x800,TS_PC Beam,
+Structural Framing,TS_PC Beam,800x800,TS_PC Beam,,,,Grade C40/50,800x800,TS_PC Beam,
+Structural Framing,TS_PC Beam,2650x800,TS_PC Beam,,,,Grade C40/50,2650x800,TS_PC Beam,
+Structural Framing,TS_PC Beam,1000x800,TS_PC Beam,,,,Grade C40/50,1000x800,TS_PC Beam,
+Structural Framing,TS_PC Beam,3000x850,TS_PC Beam,,,,Grade C40/50,3000x850,TS_PC Beam,
+Structural Framing,TS_PC Beam,2500x850,TS_PC Beam,,,,Grade C40/50,2500x850,TS_PC Beam,
+Structural Framing,TS_PC Beam,2500x800,TS_PC Beam,,,,Grade C40/50,2500x800,TS_PC Beam,
+Structural Framing,TS_PC Beam,3000x800,TS_PC Beam,,,,Grade C40/50,3000x800,TS_PC Beam,
+Structural Framing,TS_PC Beam,900x800,TS_PC Beam,,,,Grade C40/50,900x800,TS_PC Beam,
+Structural Framing,TS_PC Beam,2200x800,TS_PC Beam,,,,Grade C40/50,2200x800,TS_PC Beam,
+Structural Framing,TS_PC Beam,2200x750,TS_PC Beam,,,,Grade C40/50,2200x750,TS_PC Beam,
+Structural Framing,TS_PC Beam,900x750,TS_PC Beam,,,,Grade C40/50,900x750,TS_PC Beam,
+Structural Framing,TS_PC Beam,2450x800,TS_PC Beam,,,,Grade C40/50,2450x800,TS_PC Beam,
+Structural Framing,TS_PC Beam,1500x750,TS_PC Beam,,,,Grade C40/50,1500x750,TS_PC Beam,
+Structural Framing,TS_PC Beam,1875x800,TS_PC Beam,,,,Grade C40/50,1875x800,TS_PC Beam,
+Structural Framing,TS_PC Beam,400x1200,TS_PC Beam,,,,Grade C40/50,400x1200,TS_PC Beam,
+Structural Framing,TS_PC Beam,400x800,TS_PC Beam,,,,Grade C40/50,400x800,TS_PC Beam,
+Structural Framing,TS_PC Beam,600x750,TS_PC Beam,,,,Grade C40/50,600x750,TS_PC Beam,
+Structural Framing,TS_PC Beam,900x1000,TS_PC Beam,,,,Grade C40/50,900x1000,TS_PC Beam,
+Structural Framing,TS_PC Beam,300x500,TS_PC Beam,,,,Grade C40/50,300x500,TS_PC Beam,
+Structural Framing,TS_PC Beam,200x500,TS_PC Beam,,,,Grade C40/50,200x500,TS_PC Beam,
+Structural Framing,TS_PC Beam,300x800,TS_PC Beam,,,,Grade C40/50,300x800,TS_PC Beam,
+Structural Framing,TS_PC Beam,600x800,TS_PC Beam,,,,Grade C40/50,600x800,TS_PC Beam,
+Structural Framing,TS_PC Beam,1450x800,TS_PC Beam,,,,Grade C40/50,1450x800,TS_PC Beam,
+Structural Framing,TS_PC Beam,1800x1000,TS_PC Beam,,,,Grade C40/50,1800x1000,TS_PC Beam,
+Structural Framing,TS_PC Beam,300x600,TS_PC Beam,,,,Grade C40/50,300x600,TS_PC Beam,
+Structural Framing,TS_PC Beam,200x150,TS_PC Beam,,,,Grade C40/50,200x150,TS_PC Beam,
+Structural Framing,TS_PC Beam,450x800,TS_PC Beam,,,,Grade C40/50,450x800,TS_PC Beam,
+Structural Framing,TS_PC Beam,400x750,TS_PC Beam,,,,Grade C40/50,400x750,TS_PC Beam,
+Structural Framing,TS_PC Beam,500x500,TS_PC Beam,,,,Grade C40/50,500x500,TS_PC Beam,
+Structural Framing,TS_PC Beam,600x1000,TS_PC Beam,,,,Grade C40/50,600x1000,TS_PC Beam,
+Structural Framing,TS_PC Beam,900x500,TS_PC Beam,,,,Grade C40/50,900x500,TS_PC Beam,
+Structural Framing,TS_PC Beam,900x550,TS_PC Beam,,,,Grade C40/50,900x550,TS_PC Beam,
+Structural Framing,TS_PC Beam,450x550,TS_PC Beam,,,,Grade C40/50,450x550,TS_PC Beam,
+Structural Framing,TS_PC Beam,825x500,TS_PC Beam,,,,Grade C40/50,825x500,TS_PC Beam,
+Structural Framing,TS_PC Beam,900x600,TS_PC Beam,,,,Grade C40/50,900x600,TS_PC Beam,
+Structural Framing,TS_PC Beam,300x700,TS_PC Beam,,,,Grade C40/50,300x700,TS_PC Beam,
+Structural Framing,TS_PC Beam,600x1100,TS_PC Beam,,,,Grade C40/50,600x1100,TS_PC Beam,
+Structural Framing,TS_PC Beam,1500x800,TS_PC Beam,,,,Grade C40/50,1500x800,TS_PC Beam,
+Structural Framing,TS_PC Beam,1800x800,TS_PC Beam,,,,Grade C40/50,1800x800,TS_PC Beam,
+Structural Framing,TS_PC Beam,1500x1200,TS_PC Beam,,,,Grade C40/50,1500x1200,TS_PC Beam,
+Structural Framing,TS_PC Beam,300x200,TS_PC Beam,,,,Grade C40/50,300x200,TS_PC Beam,
+Structural Framing,TS_PC Beam,150X450,TS_PC Beam,,,,Grade C40/50,150X450,TS_PC Beam,
+Structural Framing,TS_PC Reduced Beam,1450/1125x800,TS_PC Reduced Beam,,,,Grade C40/50,1450/1125x800,TS_PC Beam,
+Structural Framing,TS_PC Reduced Beam,1450/1125x900,TS_PC Reduced Beam,,,,Grade C40/50,1450/1125x900,TS_PC Beam,
+Structural Framing,TS_PC Reduced Beam,2200/1875x800,TS_PC Reduced Beam,,,,Grade C40/50,2200/1875x800,TS_PC Beam,
+Structural Framing,TS_PC Reduced Beam,825/500x500,TS_PC Reduced Beam,,,,Grade C40/50,825/500x500,TS_PC Beam,
+Structural Framing,TS_PC Drop Beam,2100x800/900,TS_PC Drop Beam,,,,,2100x800/900,<By Category>,
+Structural Framing,TS_PC Drop Beam,400x750/1200,TS_PC Drop Beam,,,,,400x750/1200,TS_PC Beam,
+Structural Framing,TS_PC Drop Beam,3300x800/900,TS_PC Drop Beam,,,,,3300x800/900,<By Category>,
+Structural Framing,TS_CIS Beam,600x750,TS_CIS Beam,,,,Grade C40/50,600x750,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,1500x750,TS_CIS Beam,,,,Grade C40/50,1500x750,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,1200x800,TS_CIS Beam,,,,Grade C40/50,1200x800,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,1450x750,TS_CIS Beam,,,,Grade C40/50,1450x750,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,900x750,TS_CIS Beam,,,,Grade C40/50,900x750,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,600x800,TS_CIS Beam,,,,Grade C40/50,600x800,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,450x800,TS_CIS Beam,,,,Grade C40/50,450x800,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,1200x750,TS_CIS Beam,,,,Grade C40/50,1200x750,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,200x2150,TS_CIS Beam,,,,Grade C40/50,200x2150,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,200x2000,TS_CIS Beam,,,,Grade C40/50,200x2000,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,300x2150,TS_CIS Beam,,,,Grade C40/50,300x2150,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,900x1000,TS_CIS Beam,,,,Grade C40/50,900x1000,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,600x1000,TS_CIS Beam,,,,Grade C40/50,600x1000,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,1625x1200,TS_CIS Beam,,,,Grade C40/50,1625x1200,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,1000x1200,TS_CIS Beam,,,,Grade C40/50,1000x1200,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,900x1300,TS_CIS Beam,,,,Grade C40/50,900x1300,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,600x1350,TS_CIS Beam,,,,Grade C40/50,600x1350,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,600x1500,TS_CIS Beam,,,,Grade C40/50,600x1500,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,600x2250,TS_CIS Beam,,,,Grade C40/50,600x2250,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,600x1400,TS_CIS Beam,,,,Grade C40/50,600x1400,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,900x1350,TS_CIS Beam,,,,Grade C40/50,900x1350,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,300x500,TS_CIS Beam,,,,Grade C40/50,300x500,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,900x1250,TS_CIS Beam,,,,Grade C40/50,900x1250,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,500x2150,TS_CIS Beam,,,,Grade C40/50,500x2150,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,1200x1000,TS_CIS Beam,,,,Grade C40/50,1200x1000,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,300x1500,TS_CIS Beam,,,,Grade C40/50,300x1500,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,900x1500,TS_CIS Beam,,,,Grade C40/50,900x1500,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,400x1500,TS_CIS Beam,,,,Grade C40/50,400x1500,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,900x500,TS_CIS Beam,,,,Grade C40/50,900x500,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,1500x1250,TS_CIS Beam,,,,Grade C40/50,1500x1250,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,600x1250,TS_CIS Beam,,,,Grade C40/50,600x1250,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,200x500,TS_CIS Beam,,,,Grade C40/50,200x500,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,300x1150,TS_CIS Beam,,,,Grade C40/50,300x1150,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,1000x2000,TS_CIS Beam,,,,Grade C40/50,1000x2000,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,200x935,TS_CIS Beam,,,,Grade C40/50,200x935,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,200x600,TS_CIS Beam,,,,Grade C40/50,200x600,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,200x300,TS_CIS Beam,,,,,200x300,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,200x1650,TS_CIS Beam,,,,Grade C40/50,200x1650,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,600x1800,TS_CIS Beam,,,,Grade C40/50,600x1800,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,400x1200,TS_CIS Beam,,,,Grade C40/50,400x1200,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,200x1250,TS_CIS Beam,,,,Grade C40/50,200x1250,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,900x1200,TS_CIS Beam,,,,Grade C40/50,900x1200,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,300x700,TS_CIS Beam,,,,Grade C40/50,300x700,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,900x650,TS_CIS Beam,,,,Grade C40/50,900x650,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,500x500,TS_CIS Beam,,,,Grade C40/50,500x500,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,900x800,TS_CIS Beam,,,,Grade C40/50,900x800,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,300x600,TS_CIS Beam,,,,Grade C40/50,300x600,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,900x600,TS_CIS Beam,,,,Grade C40/50,900x600,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,450x550,TS_CIS Beam,,,,Grade C40/50,450x550,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,300x650,TS_CIS Beam,,,,Grade C40/50,300x650,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,500x550,TS_CIS Beam,,,,Grade C40/50,500x550,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,600x500,TS_CIS Beam,,,,Grade C40/50,600x500,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,150x600,TS_CIS Beam,,,,,150x600,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,300x450,TS_CIS Beam,,,,Grade C40/50,300x450,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,600x1100,TS_CIS Beam,,,,Grade C40/50,600x1100,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,2200x800,TS_CIS Beam,,,,Grade C40/50,2200x800,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,300x800,TS_CIS Beam,,,,Grade C40/50,300x800,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,300x900,TS_CIS Beam,,,,,300x900,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,1000x800,TS_CIS Beam,,,,Grade C40/50,1000x800,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,1800x800,TS_CIS Beam,,,,Grade C40/50,1800x800,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,1450x800,TS_CIS Beam,,,,Grade C40/50,1450x800,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,900x700,TS_CIS Beam,,,,Grade C40/50,900x700,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,750x500,TS_CIS Beam,,,,Grade C40/50,750x500,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,400x1000,TS_CIS Beam,,,,Grade C40/50,400x1000,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,200x475,TS_CIS Beam,,,,,200x475,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,200x725,TS_CIS Beam,,,,,200x725,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,1100x250,TS_CIS Beam,,,,Grade C40/50,1100x250,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,300x775,TS_CIS Beam,,,,,300x775,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,300x550,TS_CIS Beam,,,,Grade C40/50,300x550,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,500x650,TS_CIS Beam,,,,Grade C40/50,500x650,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,600x1150,TS_CIS Beam,,,,Grade C40/50,600x1150,TS_CIS Beam,
+Structural Framing,TS_CIS Beam,400x550,TS_CIS Beam,,,,Grade C40/50,400x550,TS_CIS Beam,
+Structural Framing,TS_Tapered Beam,600x800-750,TS_Tapered Beam,,,,Grade C40/50,600x800-750,TS_CIS Beam,
+Structural Framing,TS_Tapered Beam,400x1400-1160,TS_Tapered Beam,,,,Grade C40/50,400x1400-1160,TS_CIS Beam,
+Structural Framing,TS_Tapered Beam,400x1200-1500,TS_Tapered Beam,,,,Grade C40/50,400x1200-1500,TS_CIS Beam,
+Structural Framing,TS_Tapered Beam,400x1400-1500,TS_Tapered Beam,,,,Grade C40/50,400x1400-1500,TS_CIS Beam,
+Structural Framing,TS_Tapered Beam,400x1165-1065,TS_Tapered Beam,,,,Grade C40/50,400x1165-1065,TS_CIS Beam,
+Structural Framing,TS_Tapered Beam,400x1500-1200,TS_Tapered Beam,,,,Grade C40/50,400x1500-1200,TS_CIS Beam,
+Structural Framing,TS_Tapered Beam,400x1200-1400,TS_Tapered Beam,,,,Grade C40/50,400x1200-1400,TS_CIS Beam,
+Structural Framing,TS_Double Drop Beam,600X1000/750,TS_Double Drop Beam,,,,,600X1000/750,<By Category>,
+Structural Framing,TS_Double Drop Beam,600x800/2250,TS_Double Drop Beam,,,,Grade C40/50,600x800/2250,TS_CIS Beam,
+Structural Framing,TS_Double Drop Beam,1000x800/2000,TS_Double Drop Beam,,,,Grade C40/50,1000x800/2000,TS_CIS Beam,
+Structural Framing,TS_CIS Beam (ESS),600x1500,TS_CIS Beam (ESS),,,,Grade C40/50,600x1500,TS_CIS Beam,
+Structural Framing,TS_CIS Beam (ESS),900x250,TS_CIS Beam (ESS),,,,Grade C40/50,900x250,TS_CIS Beam,
+Structural Framing,TS_CIS Beam (ESS),600x2250,TS_CIS Beam (ESS),,,,Grade C40/50,600x2250,TS_CIS Beam,
+Structural Framing,TS_Drop Beam,900x2000/2250,TS_Drop Beam,,,,Grade C40/50,900x2000/2250,<By Category>,
+Structural Framing,TS_Drop Beam,900x800/2000,TS_Drop Beam,,,,Grade C40/50,900x800/2000,TS_CIS Beam,
+Structural Framing,TS_Drop Beam,900x800/2000,TS_Drop Beam,,,,Grade C40/50,900x800/2000,<By Category>,
+Structural Framing,TS_Drop Beam,450x600-700,TS_Drop Beam,,,7HB,Grade C40/50,450x600-700,TS_CIS Beam,
+Structural Framing,TS_Drop Beam,600x2000/800,TS_Drop Beam,,,,Grade C40/50,600x2000/800,TS_CIS Beam,
+Structural Framing,TS_Drop Beam,900x1250/2000,TS_Drop Beam,,,,Grade C40/50,900x1250/2000,TS_CIS Beam,
+Structural Framing,TS_Drop Beam,600x1250/1500,TS_Drop Beam,,,,Grade C40/50,600x1250/1500,TS_CIS Beam,
+Structural Framing,TS_Drop Beam,300x600/700,TS_Drop Beam,,,,,300x600/700,<By Category>,
+Structural Framing,TS_SB1,305x165,TS_SB1,,,,TBC,305x165,TS_Steel Beam,
+Structural Framing,TS_SB2,356x203,TS_SB2,,,,TBC,356x203,TS_Steel Beam,
+Structural Framing,TS_RHS,RHS 120x60x4,TS_RHS,,,,TBC,RHS 120x60x4,Metal - Steel - 345 MPa,
+Structural Framing,TS_RHS,RHS 50x75x3,TS_RHS,,,,TBC,RHS 50x75x3,Metal - Steel - 345 MPa,
+Structural Framing,TS_RHS,RHS 75x75x6,TS_RHS,,,,TBC,RHS 75x75x6,Metal - Steel - 345 MPa,
+Structural Framing,TS_RHS,RHS 50x50x6,TS_RHS,,,,TBC,RHS 50x50x6,Metal - Steel - 345 MPa,
+Structural Framing,TS_RHS,RHS 100x50x6,TS_RHS,,,,TBC,RHS 100x50x6,TS_Aluminun Powder Coat,
+Structural Framing,TS_RHS,RHS 100x100x6,TS_RHS,,,,TBC,RHS 100x100x6,TS_Aluminun Powder Coat,
+Structural Framing,TS_RHS,RHS 200x100x8,TS_RHS,,,,TBC,RHS 200x100x8,TS_Aluminun Powder Coat,
+Structural Framing,TS_RHS,RHS 150x100x6,TS_RHS,,,,TBC,RHS 150x100x6,TS_Aluminun Powder Coat,
+Structural Framing,TS_RHS,60x60x6.3,TS_RHS,,,,TBC,60x60x6.3,TS_Aluminun Powder Coat,
+Structural Framing,TS_RHS,RHS 250x150x12.5,TS_RHS,,,,TBC,RHS 250x150x12.5,TS_Aluminun Powder Coat,
+Structural Framing,TS_RHS,RHS 250x150x8,TS_RHS,,,,TBC,RHS 250x150x8,TS_Aluminun Powder Coat,
+Structural Framing,TS_Scupper Drain,Scupper Drain,TS_Scupper Drain,,,SCUPPER DRAIN,,Scupper Drain,<By Category>,
+Structural Framing,TS_Haunch Beam,1200x1500/800,TS_Haunch Beam,,,,,1200x1500/800,<By Category>,
+Structural Framing,TS_Haunch Beam,900x1200/750,TS_Haunch Beam,,,,,900x1200/750,TS_CIS Beam,
+Structural Framing,TS_Concealed Drain (Int),TS_600mm Wide Drain,TS_Concealed Drain (Int),,,900mm (INTERNAL CLEAR) WIDE DRAIN WITH HEAVY DUTY GRATING,,TS_600mm Wide Drain,<By Category>,
+Structural Framing,TS_Concealed Drain (Ramp End),TS_600mm Wide Drain,TS_Concealed Drain (Ramp End),,,900mm (INTERNAL CLEAR) WIDE DRAIN WITH HEAVY DUTY GRATING,,TS_600mm Wide Drain,<By Category>,
+Structural Framing,TS_Reduced Beam,1000/1625x1200,TS_Reduced Beam,,,,Grade C40/50,1000/1625x1200,TS_PC Beam,
+Structural Framing,TS_Landscape Cut-Off Drain,350mm Wide X 300mm High,TS_Landscape Cut-Off Drain,,,,TBC,350mm Wide X 300mm High,<By Category>,
+Structural Framing,TS_Landscape Cut-Off Drain,350mm Wide X 120mm High,TS_Landscape Cut-Off Drain,,,,TBC,350mm Wide X 120mm High,<By Category>,
+Structural Framing,TS_Deep Channel,350mm Wide X 300mm High,TS_Deep Channel,,,,TBC,350mm Wide X 300mm High,<By Category>,
+Structural Framing,TS_Deep Channel,350mm Wide X 160mm High,TS_Deep Channel,,,,,350mm Wide X 160mm High,<By Category>,
+Structural Framing,TS_Plinth 600mm High,Plinth,TS_Plinth 600mm High,,,,,Plinth,<By Category>,
+Structural Framing,TS_Corbel Beam (Bot),375/150x650/200 2,TS_Corbel Beam (Bot),,,,Grade C40/50,375/150x650/200 2,TS_CIS Beam,
+Structural Framing,TS_Corbel Beam (Bot),300/150x650/200,TS_Corbel Beam (Bot),,,,Grade C40/50,300/150x650/200,TS_CIS Beam,
+Structural Framing,TS_Corbel Beam (Top),300/125x600/200,TS_Corbel Beam (Top),,,,Grade C40/50,300/125x600/200,TS_CIS Beam,
+Structural Framing,C-Channels,TS_RSC 380X100X62,C-Channels,,,,,TS_RSC 380X100X62,<By Category>,
+Structural Framing,C-Channels,TS_RSC 380X100X62,C-Channels,,,,,TS_RSC 380X100X62,TS_Galvanized Steel (Dark Grey),
+Structural Framing,C-Channels,TS_RSC 300X90X43.8,C-Channels,,,,,TS_RSC 300X90X43.8,<By Category>,
+Structural Framing,C-Channels,250X80X8,C-Channels,,,,,250X80X8,TS_Steel Beam,
+Structural Framing,C-Channels,TS_RSC 300X90X38.1,C-Channels,,,,,TS_RSC 300X90X38.1,TS_Steel Column,
+Structural Framing,TS_Beam (2B33)1,TS_Beam (2B33),TS_Beam (2B33)1,,,,,TS_Beam (2B33),<By Category>,
+Structural Framing,TS_Drain Slab Haunching Type A,TS_350mm Drain Slab Haunch,TS_Drain Slab Haunching Type A,,,Slab Haunch : Drain,,TS_350mm Drain Slab Haunch,TS_CIS Slab,
+Structural Framing,TS_Drain Slab Haunching Type B,TS_350mm Drain Slab Haunch,TS_Drain Slab Haunching Type B,,,Slab Haunch : Drain,,TS_350mm Drain Slab Haunch,TS_CIS Slab,
+Structural Framing,TS_Drain Slab Haunching Type B,TS_650mm Drain Slab Haunch,TS_Drain Slab Haunching Type B,,,Slab Haunch : Drain,,TS_650mm Drain Slab Haunch,TS_CIS Slab,
+Structural Framing,TS_Drain Haunching,TS_350mm Wide Drain,TS_Drain Haunching,,,350mm WIDE DRAIN WITH HEAVY DUTY GRATING,,TS_350mm Wide Drain,<By Category>,
+Structural Framing,TS_Pipe Slab Haunching (Multi No Slope),TS_100mm Pipe Slab Haunch,TS_Pipe Slab Haunching (Multi No Slope),,,Slab Haunch : Drain,,TS_100mm Pipe Slab Haunch,TS_CIS Slab,
+Structural Framing,TS_Pipe Slab Haunching (Multi No Slope),TS_150mm Pipe Slab Haunch,TS_Pipe Slab Haunching (Multi No Slope),,,Slab Haunch : Drain,,TS_150mm Pipe Slab Haunch,TS_CIS Slab,
+Structural Framing,TS_Angle Bar,L25x15x3,TS_Angle Bar,,,,,L25x15x3,Metal - Steel - 345 MPa,
+Structural Framing,TS_Pipe Slab Haunching (Single No Slope),TS_100mm Pipe Slab Haunch,TS_Pipe Slab Haunching (Single No Slope),,,Slab Haunch : Drain,,TS_100mm Pipe Slab Haunch,TS_CIS Slab,
+Structural Framing,TS_Pipe Slab Haunching (Single No Slope),TS_300mm Pipe Slab Haunch,TS_Pipe Slab Haunching (Single No Slope),,,Slab Haunch : Drain,,TS_300mm Pipe Slab Haunch,TS_CIS Slab,
+Structural Framing,TS_Pipe Slab Haunching (Single No Slope),TS_150mm Pipe Slab Haunch,TS_Pipe Slab Haunching (Single No Slope),,,Slab Haunch : Drain,,TS_150mm Pipe Slab Haunch,TS_CIS Slab,
+Structural Framing,TS_Pipe Slab Haunching (Single Sloping),TS_300mm Drain Slab Haunch,TS_Pipe Slab Haunching (Single Sloping),,,Slab Haunch : Drain,,TS_300mm Drain Slab Haunch,TS_CIS Slab,
+Structural Framing,TS_Pipe Slab Haunching (Single Sloping),TS_150mm Drain Slab Haunch,TS_Pipe Slab Haunching (Single Sloping),,,Slab Haunch : Drain,,TS_150mm Drain Slab Haunch,TS_CIS Slab,
+Structural Framing,TS_Grating,1600mm Wide,TS_Grating,,,,,1600mm Wide,<By Category>,
+Structural Framing,TS_Grating,800mm Wide,TS_Grating,,,,,800mm Wide,<By Category>,
+Structural Framing,TS_Grating,1450mm Wide,TS_Grating,,,,,1450mm Wide,<By Category>,
+Structural Framing,TS_Grating,1000mm Wide,TS_Grating,,,,,1000mm Wide,<By Category>,
+Structural Framing,TS_Grating,600mm Wide,TS_Grating,,,,,600mm Wide,<By Category>,
+Structural Framing,TS_Grating,1400mm Wide,TS_Grating,,,,,1400mm Wide,<By Category>,
+Structural Framing,TS_Grating,1643mm Wide,TS_Grating,,,,,1643mm Wide,<By Category>,
+Structural Framing,TS_Grating,1447mm Wide,TS_Grating,,,,,1447mm Wide,<By Category>,
+Structural Framing,TS_Grating,904mm Wide,TS_Grating,,,,,904mm Wide,<By Category>,
+Structural Framing,TS_Grating,1544mm Wide,TS_Grating,,,,,1544mm Wide,<By Category>,
+Structural Framing,TS_Grating,1644mm Wide,TS_Grating,,,,,1644mm Wide,<By Category>,
+Structural Framing,TS_Grating,815mm Wide,TS_Grating,,,,,815mm Wide,<By Category>,
+Structural Framing,TS_Grating,824mm Wide,TS_Grating,,,,,824mm Wide,<By Category>,
+Structural Framing,TS_Universal Beams,305x305x96.9,TS_Universal Beams,,,,,305x305x96.9,"Steel, 45-345",
+Structural Framing,TS_Universal Beams,305x305x96.9,TS_Universal Beams,,,,,305x305x96.9,TS_Steel Column,
+Structural Framing,TS_Universal Beams,152x89x16,TS_Universal Beams,,,,,152x89x16,TS_Steel Column,
+Structural Framing,TS_Universal Beams,152x89x16,TS_Universal Beams,,,,,152x89x16,TS_Steel Beam,
+Structural Framing,TS_Universal Beams,203x203x71,TS_Universal Beams,,,,,203x203x71,TS_Steel Beam,
+Structural Framing,TS_Universal Beams,254x146x31.1,TS_Universal Beams,,,,,254x146x31.1,TS_Steel Beam,
+Structural Framing,TS_Universal Beams,254x146x31.1,TS_Universal Beams,,,,,254x146x31.1,"Steel, 45-345",
+Structural Framing,TS_Universal Beams,152x152x23,TS_Universal Beams,,,,,152x152x23,TS_Steel Column,
+Structural Framing,TS_Universal Beams,120x80x8,TS_Universal Beams,,,,,120x80x8,TS_Steel Column,
+Structural Framing,TS_Universal Beams,160x80x10,TS_Universal Beams,,,,,160x80x10,TS_Steel Column,
+Structural Framing,TS_Drain Slab Haunching Type B.1,TS_3030mm Drain Slab Haunch,TS_Drain Slab Haunching Type B.1,,,Slab Haunch : Drain,,TS_3030mm Drain Slab Haunch,TS_CIS Slab,
+Structural Framing,TS_Structural Framing 1,Structural Framing 1,TS_Structural Framing 1,,,,,Structural Framing 1,<By Category>,
+Structural Framing,TS_Structural Framing 2,Structural Framing 1,TS_Structural Framing 2,,,,,Structural Framing 1,<By Category>,
+Structural Framing,TS_Concealed Drain (Ext),TS_600mm Wide Drain,TS_Concealed Drain (Ext),,,900mm (INTERNAL CLEAR) DRAIN WITH HEAVY DUTY GRATING AT 6M C/C,,TS_600mm Wide Drain,<By Category>,
+Structural Framing,TS_Vehicular Grating Only,Grating Only,TS_Vehicular Grating Only,,,,Grating,Grating Only,TS - Drain Grating,
+Structural Framing,TS_Beam Corbel,TS_Beam Corbel,TS_Beam Corbel,,,,,TS_Beam Corbel,<By Category>,
+Structural Framing,TS_Beam Corbel1,TS_Beam Corbel,TS_Beam Corbel1,,,,,TS_Beam Corbel,<By Category>,
+Structural Framing,TS_Structural Framing 3,Structural Framing 3,TS_Structural Framing 3,,,,,Structural Framing 3,<By Category>,
+Structural Framing,TS_Structural Framing 4,Structural Framing 4,TS_Structural Framing 4,,,,,Structural Framing 4,<By Category>,
+Structural Framing,TS_Structural Framing 5,Structural Framing 5,TS_Structural Framing 5,,,,,Structural Framing 5,<By Category>,
+Furniture,TS_Furn_BicycleRack (Temp),BicycleRack,TS_Furn_BicycleRack (Temp),,,Bicycle Rack : Double Tier,,BicycleRack,,<By Category>
+Furniture,TS_Locker,Locker (5 Panels),TS_Lock,,,Locker : 5 Panels,,Locker (5 Panels),,<By Category>
+Furniture,TS_Locker,Locker (5 Panels),TS_Locker,,,Locker : 5 Panels,,Locker (5 Panels),,<By Category>
+Furniture,TS_Table,1800(L) x 1000(W) x 750(H),TS_Table,,,Workstation : 990Dx1485Wx750H,,1800(L) x 1000(W) x 750(H),,<By Category>
+Furniture,TS_Chair,Chair,TS_Chair,,,Chair : Workstation,,Chair,,<By Category>
+Furniture,TS_Workstation,1800(L) x 800(W) x 750(W),TS_Workstation,,,"Table : Workstation, 1800(L)x800(W)x750(W)",,1800(L) x 800(W) x 750(W),,<By Category>
+Furniture,TS_Workstation,1200(L) x 800(W) x 750(W),TS_Workstation,,,"Table : Workstation, 1200(L)x800(W)x750(W)",,1200(L) x 800(W) x 750(W),,<By Category>
+Furniture,TS_Meeting Chair,Chair,TS_Meeting Chair,,,Chair : Meeting,,Chair,,<By Category>
+Furniture,TS_Meeting Table,1800(L)x1000(W)x750(H),TS_Meeting Table,,,"Table : Meeting, 1800(L)x1000(W)x750(H)",,1800(L)x1000(W)x750(H),,<By Category>
+Furniture,TS_Working Table,1000(L) x 600(W) x 750(W),TS_Working Table,,,"Table : Working (Janitor), 1000(L)x600(W)x750(W)",,1000(L) x 600(W) x 750(W),,<By Category>
+Furniture,TS_Bench,1000(L) x 300(W) x 500(H),TS_Bench,,,Bench : 1000(L)x300(W)x500(W),,1000(L) x 300(W) x 500(H),,<By Category>
+Furniture,TS_Conference Table,6600(L)x1200(W)x750(H),TS_Conference Table,,,"Table : Meeting, 1800(L)x1000(W)x750(H)",,6600(L)x1200(W)x750(H),,<By Category>
+Furniture,TS_Lounge Table,900(DIA)x750(H),TS_Lounge Table,,,"Table : Meeting, 1800(L)x1000(W)x750(H)",,900(DIA)x750(H),,<By Category>
+Furniture,TS_Training Chair,Chair,TS_Training Chair,,,Chair : Training,,Chair,,<By Category>
+Furniture,TS_Training Table (A),1200(L) x 600(W) x 750(W),TS_Training Table (A),,,"Table : Training, 1200(L)x600(W)x750(W)",,1200(L) x 600(W) x 750(W),,<By Category>
+Furniture,TS_Training Table (B),1800(L) x 600(W) x 750(W),TS_Training Table (B),,,"Table : Training, 1800(L)x600(W)x750(W)",,1800(L) x 600(W) x 750(W),,<By Category>
+Furniture,TS_Refrigerator,Refrigerator,TS_Refrigerator,,,Fridge,,Refrigerator,,<By Category>
+Furniture,TS_White Board,White Board,TS_White Board,,,White Board,,White Board,,TS_White Board 1
+Furniture,TS_Projector Screen (PS1),Projector Screen,TS_Projector Screen (PS1),,,Projector Screen,,Projector Screen,,TS_White Board 1
+Furniture,TS_Chair.v2,Chair,TS_Chair.v2,,,Chair : Workstation,,Chair,,<By Category>
+Slab Edges,Slab Edge,TS_Slab Edge (DT1),Slab Edge,,,,,TS_Slab Edge (DT1),,AISI 304 stainless steel_Mediclinics_Satin
+Fire Alarm Devices,,,DFP_LIFT HOMING,,,,,,,
+Pipes,,,Pipe Types,,,,,,,
+Structural Foundations,Foundation Slab,RAFT FOOTING (300mm),Foundation Slab,,,,,RAFT FOOTING (300mm),TS_Cast In Situ,
+Mechanical Equipment,DFP_HOSE REEL WITH CABINET,HOSE REEL WITH CABINET,DFP_HOSE REEL WITH CABINET,,,,,HOSE REEL WITH CABINET,,

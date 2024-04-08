@@ -25,9 +25,9 @@ def create_features(row):
 
     catObjectName = row["ObjectName"]
     if pd.isna(catSubFamily):
-        catSubFamily = EMPTYCONST
+        catObjectName = EMPTYCONST
     else:
-        catSubFamily = catSubFamily + "_*objectname*"
+        catObjectName = catObjectName + "_*objectname*"
 
     catAssemblyCode = (
         row["Assembly Code"] if not pd.isna(row["Assembly Code"]) else EMPTYCONST
@@ -39,9 +39,11 @@ def create_features(row):
         else EMPTYCONST
     )
 
-    catDescription = (
-        row["Description"] if not pd.isna(row["Description"]) else EMPTYCONST
-    )
+    catDescription = row["Description"]
+    if pd.isna(catSubFamily):
+        catDescription = EMPTYCONST
+    else:
+        catDescription = catDescription + "_*description*"
 
     catTypeComments = (
         row["Type Comments"] if not pd.isna(row["Type Comments"]) else EMPTYCONST
@@ -51,15 +53,15 @@ def create_features(row):
 
     catStructuralMaterial = row["Structural Material"]
     if pd.isna(catSubFamily):
-        catSubFamily = EMPTYCONST
+        catStructuralMaterial = EMPTYCONST
     else:
-        catSubFamily = catSubFamily + "_*structuralmaterial*"
+        catStructuralMaterial = catStructuralMaterial + "_*structuralmaterial*"
 
     catMaterial = row["Material"]
     if pd.isna(catSubFamily):
-        catSubFamily = EMPTYCONST
+        catMaterial = EMPTYCONST
     else:
-        catSubFamily = catSubFamily + "_*material*"
+        catMaterial = catMaterial + "_*material*"
 
     row["Features"] = "{}|{}|{}|{}|{}|{}|{}|{}|{}|{}|{}".format(
         catFamily,

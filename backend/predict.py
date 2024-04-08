@@ -1,5 +1,6 @@
 import joblib
 import pandas as pd
+import os
 
 EMPTYCONST = "*empty*"
 # Load data
@@ -25,9 +26,9 @@ def create_features(row):
 
     catObjectName = row["ObjectName"]
     if pd.isna(catSubFamily):
-        catSubFamily = EMPTYCONST
+        catObjectName = EMPTYCONST
     else:
-        catSubFamily = catSubFamily + "_*objectname*"
+        catObjectName = catObjectName + "_*objectname*"
 
     catAssemblyCode = (
         row["Assembly Code"] if not pd.isna(row["Assembly Code"]) else EMPTYCONST
@@ -39,9 +40,11 @@ def create_features(row):
         else EMPTYCONST
     )
 
-    catDescription = (
-        row["Description"] if not pd.isna(row["Description"]) else EMPTYCONST
-    )
+    catDescription = row["Description"]
+    if pd.isna(catSubFamily):
+        catDescription = EMPTYCONST
+    else:
+        catDescription = catDescription + "_*description*"
 
     catTypeComments = (
         row["Type Comments"] if not pd.isna(row["Type Comments"]) else EMPTYCONST
@@ -51,15 +54,15 @@ def create_features(row):
 
     catStructuralMaterial = row["Structural Material"]
     if pd.isna(catSubFamily):
-        catSubFamily = EMPTYCONST
+        catStructuralMaterial = EMPTYCONST
     else:
-        catSubFamily = catSubFamily + "_*structuralmaterial*"
+        catStructuralMaterial = catStructuralMaterial + "_*structuralmaterial*"
 
     catMaterial = row["Material"]
     if pd.isna(catSubFamily):
-        catSubFamily = EMPTYCONST
+        catMaterial = EMPTYCONST
     else:
-        catSubFamily = catSubFamily + "_*material*"
+        catMaterial = catMaterial + "_*material*"
 
     row["Features"] = "{}|{}|{}|{}|{}|{}|{}|{}|{}|{}|{}".format(
         catFamily,
@@ -106,16 +109,13 @@ def custom_tokenizer(text):
     return weighted_tokens
 
 
-MODELFILES = [
-    "bottom_model_1_weight_subfamily_2_weight_structuralmaterial_3.pkl",
-    "bottom_model_2_weight_subfamily_2_weight_structuralmaterial_2.pkl",
-    "top_model_1_weight_family_8_weight_objectname_4_weight_structuralmaterial_3_weight_material_3_weight_subfamily_2.pkl",
-    "top_model_2_weight_family_8_weight_objectname_4_weight_subfamily_2_weight_structuralmaterial_2_weight_material_2.pkl",
-    "top_model_3_weight_family_8_weight_subfamily_4_weight_objectname_4_weight_structuralmaterial_2_weight_material_2.pkl",
-    "top_model_4_weight_family_10_weight_objectname_5_weight_subfamily_3_weight_structuralmaterial_2_weight_material_2.pkl",
-    "top_model_5_weight_family_8_weight_objectname_5_weight_subfamily_4_weight_structuralmaterial_3_weight_material_3.pkl",
-]
+# Get list of files in current directory
+files = [f for f in os.listdir(".") if os.path.isfile(f)]
+MODELFILES = [f for f in files if f.lower().endswith(".pkl")]
 
+if len(MODELFILES) == 0:
+    print("No model files found.")
+    exit()
 
 for modelfile in MODELFILES:
     loaded_model, vectorizer = joblib.load(modelfile)

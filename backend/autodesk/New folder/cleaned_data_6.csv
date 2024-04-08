@@ -1,0 +1,182 @@
+Family,SubFamily,ObjectGroup,ObjectName,Assembly Code,Assembly Description,Description,Type Comments,Type Name,Structural Material,Material
+Structural Framing,Rectangular and Square Hollow Sections,RHS200x150x6 Lintel,Rectangular and Square Hollow Sections,,,,,RHS200x150x6 Lintel,Metal - Steel - 345 MPa,
+Structural Framing,Rectangular and Square Hollow Sections,SHS75x75x4,Rectangular and Square Hollow Sections,,,,,SHS75x75x4,Metal - Steel - 345 MPa,
+Structural Framing,Rectangular and Square Hollow Sections,SHS50x50x3,Rectangular and Square Hollow Sections,,,,,SHS50x50x3,Metal - Steel - 345 MPa,
+Structural Framing,L-Angles,L50x50x3,L-Angles,,,,,L50x50x3,Metal - Steel - 345 MPa,
+Structural Framing,L-Angles,L38x38x3 2,L-Angles,,,,,L38x38x3 2,Metal - Steel - 345 MPa,
+Structural Framing,L-Angles,L38x38x3-bracket,L-Angles,,,,,L38x38x3-bracket,Metal - Steel - 345 MPa,
+Structural Framing,L-Angles,L75x50x3,L-Angles,,,,,L75x50x3,Metal - Steel - 345 MPa,
+Structural Framing,L-Angles,L38x38x3-RUNNERS,L-Angles,,,,,L38x38x3-RUNNERS,Metal - Steel - 345 MPa,
+Structural Framing,L-Angles,L75x50x6 bracket,L-Angles,,,,,L75x50x6 bracket,Metal - Steel - 345 MPa,
+Structural Framing,L-Angles,L150x75x6_angle bar bracket top,L-Angles,,,,,L150x75x6_angle bar bracket top,Metal - Steel - 345 MPa,
+Structural Framing,L-Angles,L38x38x3 BRACKET 2,L-Angles,,,,,L38x38x3 BRACKET 2,Metal - Steel - 345 MPa,
+Structural Framing,L-Angles,L38x38x3-bracket 2,L-Angles,,,,,L38x38x3-bracket 2,Metal - Steel - 345 MPa,
+Structural Framing,L-Angles,L75x75x6_angle bar bracket,L-Angles,,,,,L75x75x6_angle bar bracket,Metal - Steel - 345 MPa,
+Structural Framing,L-Angles,L75x150x6_angle bar bracket 2,L-Angles,,,,,L75x150x6_angle bar bracket 2,Metal - Steel - 345 MPa,
+Structural Framing,L-Angles,L50x50x3-trimmed,L-Angles,,,,,L50x50x3-trimmed,Metal - Steel - 345 MPa,
+Structural Framing,C-Channels,60x30x2.3T bracket,C-Channels,,,,,60x30x2.3T bracket,Metal - Steel - 345 MPa,
+Walls,Curtain Wall,WALL-CLAD-3THK_-,Solid Panel_P1,,,,,WALL-CLAD-3THK,,3mmT Aluminum bent panel (RAL 9006)
+Walls,Curtain Wall,WALL-CLAD-3THK_-,Curtain Wall,,,,,WALL-CLAD-3THK_-,<By Category>,
+Walls,Curtain Wall,WALL-CW-142THK,Glazing 1bb,,,,,WALL-CW-24THK,,24mmT DGU glazing
+Walls,Curtain Wall,WALL-CW-142THK,Rectangular Mullion,,,,,WALL-CW-50THK.,,Aluminoum profile extrusion mullion (RAL 7016)
+Walls,Curtain Wall,WALL-CW-142THK,Rectangular Mullion,,,,,WALL-CW-50THK,,Aluminoum profile extrusion mullion (RAL 7016)
+Walls,Curtain Wall,WALL-CW-142THK,Glazing 1b,,,,,WALL-CW-24THK,,24mmT DGU glazing
+Walls,Curtain Wall,WALL-CW-142THK,Glazing 1bbb,,,,,WALL-CW-24THK,,24mmT DGU glazing
+Walls,Curtain Wall,WALL-CW-142THK,Backpan-1b,,,,,WALL-CW-520THK,,3mmT Aluminium bent panel (RAL 7016)
+Walls,Curtain Wall,WALL-CW-142THK,Spring-BTS-80,,,,,BTS80 EMB EN4,,
+Walls,Curtain Wall,WALL-CW-142THK,DR-GDI-GLS-2P_,,,,,995W+995W*2470H,,
+Walls,Curtain Wall,WALL-CW-142THK,Curtain Wall,,,,,WALL-CW-142THK,<By Category>,
+Walls,Curtain Wall,WALL-CW-142THK,Glazing 1e,,,,,WALL-CW-25.52THK,,25.52mmT DGU glazing
+Walls,Curtain Wall,WALL-CLAD-3THK,WALL-CLAD-3THK,,,,,WALL-CLAD-3THK,,3mmT Aluminum bent panel (RAL 9006)
+Walls,Curtain Wall,WALL-CLAD-3THK,Curtain Wall,,,,,WALL-CLAD-3THK,<By Category>,
+Walls,Curtain Wall,WALL-CLAD-3THK,Solid Panel_P3,,,,,WALL-CLAD-3THK,,3mmT Aluminum bent panel (RAL 9006)
+Walls,Curtain Wall,WALL-CLAD-3THK,Solid Panel_P2,,,,,WALL-CLAD-3THK,,3mmT Aluminum bent panel (RAL 9006)
+Walls,Curtain Wall,"WALL-CLAD-25THK,.",Aluminium panel 4ee,,,,,WALL-CLAD-25THK,,3mmT aluminium bent panel (RAL7004)
+Walls,Curtain Wall,"WALL-CLAD-25THK,.",Curtain Wall,,,,,"WALL-CLAD-25THK,.",<By Category>,
+Walls,Curtain Wall,WALL-CLAD-100THK..,Aluminium panel 3bb,,,,,WALL-CLAD-100THK,,3mmT aluminium bent panel (RAL7004)
+Walls,Curtain Wall,WALL-CLAD-100THK..,Curtain Wall,,,,,WALL-CLAD-100THK..,<By Category>,
+Walls,Curtain Wall,WALL-CLAD-100THK..,Aluminium panel 3bb,,,,,WALL-CLAD-100THK,,3mmT Aluminium bent panel (RAL 7016)
+Walls,Curtain Wall,WALL-CW-15THK_.,SEALANT 1a,,,,,WALL-CW-15THK_.,,Joint Sealant Matching color to (RAL 7016)
+Walls,Curtain Wall,WALL-CW-15THK_.,Curtain Wall,,,,,WALL-CW-15THK_.,<By Category>,
+Walls,Curtain Wall,RF-GRI-375THK...,cladding1ee,,,,,RF-GRI-375THK,,4mmT aluminium composite panel (RAL7004)
+Walls,Curtain Wall,RF-GRI-375THK...,Curtain Wall,,,,,RF-GRI-375THK...,<By Category>,
+Walls,Curtain Wall,RF-GRI-375THK..,cladding1b,,,,,RF-GRI-375THK,,4mmT aluminium composite panel (RAL7004)
+Walls,Curtain Wall,RF-GRI-375THK..,Curtain Wall,,,,,RF-GRI-375THK..,<By Category>,
+Walls,Curtain Wall,RF-GRI-375THK....,cladding1ff,,,,,RF-GRI-375THK,,4mmT aluminium composite panel (RAL7004)
+Walls,Curtain Wall,RF-GRI-375THK....,Curtain Wall,,,,,RF-GRI-375THK....,<By Category>,
+Walls,Curtain Wall,"RF-GRI-375THK,",cladding1hh,,,,,RF-GRI-375THK,,4mmT aluminium composite panel (RAL7004)
+Walls,Curtain Wall,"RF-GRI-375THK,",Curtain Wall,,,,,"RF-GRI-375THK,",<By Category>,
+Walls,Curtain Wall,WALL-CW-15THK,Panel void,,,,,WALL-CW-15THK,,Aluminum profile pressure plate cover (RAL 7016)
+Walls,Curtain Wall,WALL-CW-15THK,Rectangular Mullion,,,,,WALL-CW-15THK,,Aluminum profile pressure plate cover (RAL 7016)
+Walls,Curtain Wall,WALL-CW-15THK,Curtain Wall,,,,,WALL-CW-15THK,<By Category>,
+Walls,Curtain Wall,WALL-CW-15THK,Rectangular Mullion,,,,,WALL-CW-15THK,,Aluminium profile extrusion pressure plate (RAL7004)
+Walls,Curtain Wall,RF-GRI-409THK,cladding1aa,,,,,RF-GRI-409THK,,4mmT aluminium composite panel (RAL7004)
+Walls,Curtain Wall,RF-GRI-409THK,cladding1aaa,,,,,RF-GRI-409THK,,4mmT aluminium composite panel (RAL7004)
+Walls,Curtain Wall,RF-GRI-409THK,Curtain Wall,,,,,RF-GRI-409THK,<By Category>,
+Walls,Curtain Wall,"RF-GRI-375THK,.",cladding1gg,,,,,RF-GRI-375THK,,4mmT aluminium composite panel (RAL7004)
+Walls,Curtain Wall,"RF-GRI-375THK,.",Curtain Wall,,,,,"RF-GRI-375THK,.",<By Category>,
+Walls,Curtain Wall,RF-GRI-375THK,cladding1cc,,,,,RF-GRI-375THK,,4mmT aluminium composite panel (RAL7004)
+Walls,Curtain Wall,RF-GRI-375THK,Curtain Wall,,,,,RF-GRI-375THK,<By Category>,
+Walls,Curtain Wall,RF-GRI-375THK.,cladding1dd,,,,,RF-GRI-375THK,,4mmT aluminium composite panel (RAL7004)
+Walls,Curtain Wall,RF-GRI-375THK.,Curtain Wall,,,,,RF-GRI-375THK.,<By Category>,
+Walls,Curtain Wall,WALL-CLAD-300THK,Aluminium panel 2d,,,,,WALL-CLAD-300THK,,3mmT aluminium bent panel (RAL7004)
+Walls,Curtain Wall,WALL-CLAD-300THK,Curtain Wall,,,,,WALL-CLAD-300THK,<By Category>,
+Walls,Curtain Wall,WALL-CLAD-25THK..,Aluminium panel 4ff,,,,,WALL-CLAD-25THK,,3mmT aluminium bent panel (RAL7004)
+Walls,Curtain Wall,WALL-CLAD-25THK..,Curtain Wall,,,,,WALL-CLAD-25THK..,<By Category>,
+Walls,Curtain Wall,WALL-CLAD-25THK.,Aluminium panel 4ff,,,,,WALL-CLAD-25THK,,3mmT aluminium bent panel (RAL7004)
+Walls,Curtain Wall,WALL-CLAD-25THK.,Curtain Wall,,,,,WALL-CLAD-25THK.,<By Category>,
+Walls,Curtain Wall,"WALL-CLAD-25THK,",Aluminium panel 4d,,,,,WALL-CLAD-25THK,,3mmT aluminium bent panel (RAL7004)
+Walls,Curtain Wall,"WALL-CLAD-25THK,",Curtain Wall,,,,,"WALL-CLAD-25THK,",<By Category>,
+Walls,Curtain Wall,"WALL-CLAD-300THK,",Aluminium panel 2e,,,,,WALL-CLAD-300THK,,3mmT aluminium bent panel (RAL7004)
+Walls,Curtain Wall,"WALL-CLAD-300THK,",Curtain Wall,,,,,"WALL-CLAD-300THK,",<By Category>,
+Walls,Curtain Wall,WALL-CLAD-300THK..,Aluminium panel 2a,,,,,WALL-CLAD-300THK,,3mmT aluminium bent panel (RAL7004)
+Walls,Curtain Wall,WALL-CLAD-300THK..,Curtain Wall,,,,,WALL-CLAD-300THK..,<By Category>,
+Walls,Curtain Wall,WALL-CLADD-100THK,Aluminium panel 3a,,,,,WALL-CLAD-100THK,,3mmT aluminium bent panel (RAL7004)
+Walls,Curtain Wall,WALL-CLADD-100THK,Curtain Wall,,,,,WALL-CLADD-100THK,<By Category>,
+Walls,Curtain Wall,WALL-CLADD-100THK,Aluminium panel 3a,,,,,WALL-CLAD-100THK,,3mmT Aluminium bent panel (RAL 7016)
+Walls,Curtain Wall,WALL-CLAD-3THK_,Solid Panel_P4,,,,,WALL-CLAD-3THK,,3mmT Aluminum bent panel (RAL 9006)
+Walls,Curtain Wall,WALL-CLAD-3THK_,Curtain Wall,,,,,WALL-CLAD-3THK_,<By Category>,
+Walls,Curtain Wall,WALL-CLAD-3THK.,Solid Panel_P3b,,,,,WALL-CLAD-3THK,,3mmT Aluminum bent panel (RAL 9006)
+Walls,Curtain Wall,WALL-CLAD-3THK.,Curtain Wall,,,,,WALL-CLAD-3THK.,<By Category>,
+Walls,Curtain Wall,WALL-CW-20THK,Screw fixing,,,,,WALL-CW-20THK,,#8x50mmL S/S S316 Panhead ST. Screw
+Walls,Curtain Wall,WALL-CW-20THK,Screw fixing 1a,,,,,WALL-CW-20THK,,#8x50mmL S/S S316 Panhead ST. Screw
+Walls,Curtain Wall,WALL-CW-20THK,Rectangular Mullion,,,,,WALL-CW-20THK,,Aluminium profile extrusion pressure plate (RAL7004)
+Walls,Curtain Wall,WALL-CW-20THK,Curtain Wall,,,,,WALL-CW-20THK,<By Category>,
+Walls,Curtain Wall,WALL-CW-20THK,Rectangular Mullion,,,,,WALL-CW-20THK,,Aluminum profile pressure plate cover (RAL 7016)
+Walls,Curtain Wall,WALL-CLAD-250THK,aluminum flashing,,,,,WALL-CLAD-250THK,,3mmT aluminium bent panel (RAL7004)
+Walls,Curtain Wall,WALL-CLAD-250THK,Curtain Wall,,,,,WALL-CLAD-250THK,<By Category>,
+Walls,Curtain Wall,WALL-CLAD-250THK,aluminum flashing,,,,,WALL-CLAD-250THK,,3mmT Aluminium bent panel (RAL 7016)
+Walls,Curtain Wall,wall-clad-250thk.,aluminum flashing-end,,,,,WALL-CLAD-250THK,,3mmT Aluminium bent panel (RAL 7016)
+Walls,Curtain Wall,wall-clad-250thk.,Curtain Wall,,,,,wall-clad-250thk.,<By Category>,
+Walls,Curtain Wall,wall-clad-250thk.,aluminum flashing-end,,,,,WALL-CLAD-250THK,,3mmT Aluminum bent panel (RAL 7016)
+Walls,Curtain Wall,RF-GRI-1.2THK,linkway pressure plate,,,,,RF-GRI-1.2THK,,Aluminium profile extrusion pressure plate (RAL7004)
+Walls,Curtain Wall,RF-GRI-1.2THK,Curtain Wall,,,,,RF-GRI-1.2THK,<By Category>,
+Walls,Curtain Wall,WALL-CLAD-300THK.,Aluminium panel 2c,,,,,WALL-CLAD-300THK,,3mmT aluminium bent panel (RAL7004)
+Walls,Curtain Wall,WALL-CLAD-300THK.,Curtain Wall,,,,,WALL-CLAD-300THK.,<By Category>,
+Walls,Curtain Wall,WALL-CLAD-300THK.,Aluminium panel 2c,,,,,WALL-CLAD-300THK,,3mmT Aluminium bent panel (RAL 7016)
+Walls,Curtain Wall,WALL-CW-1.5THK,Angle flashing,,,,,WALL-CW-1.5THK,,1.5mmT Aluminium bent panel
+Walls,Curtain Wall,WALL-CW-1.5THK,Curtain Wall,,,,,WALL-CW-1.5THK,<By Category>,
+Walls,Curtain Wall,WALL-CLAD-25THK,Aluminium panel 4hh,,,,,WALL-CLAD-25THK,,3mmT aluminium bent panel (RAL7004)
+Walls,Curtain Wall,WALL-CLAD-25THK,Curtain Wall,,,,,WALL-CLAD-25THK,<By Category>,
+Walls,Curtain Wall,RF-GRI-4TH,Composite panel 1a,,,,,RF-GRI-4THK,,4mmT aluminium composite panel (RAL7004)
+Walls,Curtain Wall,RF-GRI-4TH,Curtain Wall,,,,,RF-GRI-4TH,<By Category>,
+Walls,Curtain Wall,RF-GRI-4TH,Composite panel 1b,,,,,RF-GRI-4THK,,4mmT aluminium composite panel (RAL7004)
+Walls,Curtain Wall,"WALL-CW-18THK,",Inner Backer rod 1,,,,,WALL-CW-18THK,,Backer Rod
+Walls,Curtain Wall,"WALL-CW-18THK,",Curtain Wall,,,,,"WALL-CW-18THK,",<By Category>,
+Walls,Curtain Wall,WALL-CW-12THK,outer sealant,,,,,WALL-CW-12THK,,Joint Sealant Matching color to (RAL 7016)
+Walls,Curtain Wall,WALL-CW-12THK,Curtain Wall,,,,,WALL-CW-12THK,<By Category>,
+Walls,Curtain Wall,WALL-CW-12THK,Inner sealant 1,,,,,WALL-CW-12THK,,Joint Sealant Matching color to (RAL 7016)
+Walls,Curtain Wall,WALL-CW-50THK,Mullion Copping profile,,,,,WALL-CW-50THK,,Aluminum profile capping (RAL 7016)
+Walls,Curtain Wall,WALL-CW-50THK,Curtain Wall,,,,,WALL-CW-50THK,<By Category>,
+Walls,Curtain Wall,RF-RGI-4THK,Composite panel 2,,,,,RF-GRI-4THK,,4mmT aluminium composite panel (RAL7004)
+Walls,Curtain Wall,RF-RGI-4THK,Curtain Wall,,,,,RF-RGI-4THK,<By Category>,
+Walls,Curtain Wall,RF-RGI-4THK.,Composite panel 3,,,,,RF-GRI-4THK,,4mmT aluminium composite panel (RAL7004)
+Walls,Curtain Wall,RF-RGI-4THK.,Curtain Wall,,,,,RF-RGI-4THK.,<By Category>,
+Walls,Curtain Wall,RF-GRI-4THK,Composite panel 4,,,,,FR-GRI-4THK,,4mmT aluminium composite panel (RAL7004)
+Walls,Curtain Wall,RF-GRI-4THK,Curtain Wall,,,,,RF-GRI-4THK,<By Category>,
+Walls,Curtain Wall,WALL-CW-12THK.,Inner sealant 1,,,,,WALL-CW-12THK,,Joint Sealant Matching color to (RAL 7016)
+Walls,Curtain Wall,WALL-CW-12THK.,Curtain Wall,,,,,WALL-CW-12THK.,<By Category>,
+Walls,Curtain Wall,WALL-CW-1.5THK.,outer channel flashing,,,,,WALL-CW-1.5THK,,1.5mmT Aluminium bent panel
+Walls,Curtain Wall,WALL-CW-1.5THK.,Curtain Wall,,,,,WALL-CW-1.5THK.,<By Category>,
+Walls,Curtain Wall,WALL-CW-18THK,outer backer rod,,,,,WALL-CW-18THK,,Backer Rod
+Walls,Curtain Wall,WALL-CW-18THK,Curtain Wall,,,,,WALL-CW-18THK,<By Category>,
+Walls,Curtain Wall,louvre clip,LOUVRE SCREEN CLIP,,,,,LOUVRE SCREEN CLIP,,<By Category>
+Walls,Curtain Wall,louvre clip,Curtain Wall,,,,,louvre clip,<By Category>,
+Walls,Curtain Wall,DR-GDI-MT-LOUV_1310W*2129H,Cylinder_70mm,,,,,ProfileCylinder_70mmSingle_PC-121210,,
+Walls,Curtain Wall,DR-GDI-MT-LOUV_1310W*2129H,DR-GDI-MT-LOUV_1P_,,,,,1310W*2129H,,
+Walls,Curtain Wall,DR-GDI-MT-LOUV_1310W*2129H,Curtain Wall,,,,,DR-GDI-MT-LOUV_1310W*2129H,<By Category>,
+Walls,Curtain Wall,Louvre Screen-P3,Clip Louvre Blade 1c,,,,,Clip Louvre Blade 1c,,<By Category>
+Walls,Curtain Wall,Louvre Screen-P3,Curtain Wall,,,,,Louvre Screen-P3,<By Category>,
+Walls,Curtain Wall,Louvre Screen-P4,Clip Louvre Blade 1d,,,,,Clip Louvre Blade 1d,,<By Category>
+Walls,Curtain Wall,Louvre Screen-P4,Curtain Wall,,,,,Louvre Screen-P4,<By Category>,
+Walls,Curtain Wall,Louvre Screen-P5,Clip Louvre Blade 1e,,,,,Clip Louvre Blade 1e,,<By Category>
+Walls,Curtain Wall,Louvre Screen-P5,Curtain Wall,,,,,Louvre Screen-P5,<By Category>,
+Walls,Curtain Wall,Louvre Screen-P2b1,Clip Louvre Blade 1b1,,,,,Clip Louvre Blade 1b1,,<By Category>
+Walls,Curtain Wall,Louvre Screen-P2b1,Curtain Wall,,,,,Louvre Screen-P2b1,<By Category>,
+Walls,Curtain Wall,Louvre Screen-P1,Clip Louvre Blade 1a,,,,,Clip Louvre Blade 1a,,<By Category>
+Walls,Curtain Wall,Louvre Screen-P1,Curtain Wall,,,,,Louvre Screen-P1,<By Category>,
+Walls,Curtain Wall,Louvre Screen-P6,Clip Louvre Blade 1f,,,,,Clip Louvre Blade 1f,,<By Category>
+Walls,Curtain Wall,Louvre Screen-P6,Curtain Wall,,,,,Louvre Screen-P6,<By Category>,
+Walls,Curtain Wall,Louvre Screen-P7,Clip Louvre Blade 1g,,,,,Clip Louvre Blade 1g,,<By Category>
+Walls,Curtain Wall,Louvre Screen-P7,Curtain Wall,,,,,Louvre Screen-P7,<By Category>,
+Walls,Curtain Wall,Louvre Screen-P2,Clip Louvre Blade 1b,,,,,Clip Louvre Blade 1b,,<By Category>
+Walls,Curtain Wall,Louvre Screen-P2,Curtain Wall,,,,,Louvre Screen-P2,<By Category>,
+Walls,Curtain Wall,RF-GRI-4TH..,Composite panel 1T,,,,,RF-GRI-4THK,,4mmT aluminium composite panel (RAL7004)
+Walls,Curtain Wall,RF-GRI-4TH..,Curtain Wall,,,,,RF-GRI-4TH..,<By Category>,
+Walls,Curtain Wall,RF-GRI-3THk,angle flashing-linkway,,,,,RF-GRI-3THK,,38x38x3mmT aluminium angle flashing (RAL7004)(1)
+Walls,Curtain Wall,RF-GRI-3THk,Curtain Wall,,,,,RF-GRI-3THk,<By Category>,
+Walls,Curtain Wall,RF-GRI-3THk,angle flashing-linkway,,,,,RF-GRI-3THK,,<By Category>
+Walls,Curtain Wall,RF-GRI-4THK...,Composite panel F1,,,,,RF-GRI-4THK,,4mmT aluminium composite panel (RAL7004)
+Walls,Curtain Wall,RF-GRI-4THK...,Curtain Wall,,,,,RF-GRI-4THK...,<By Category>,
+Walls,Curtain Wall,RF-GRI-4THK.,Composite panel F2,,,,,RF-GRI-4THK,,4mmT aluminium composite panel (RAL7004)
+Walls,Curtain Wall,RF-GRI-4THK.,Curtain Wall,,,,,RF-GRI-4THK.,<By Category>,
+Walls,Curtain Wall,RF-GRI-4THK..,Composite panel F3,,,,,RF-GRI-4THK,,4mmT aluminium composite panel (RAL7004)
+Walls,Curtain Wall,RF-GRI-4THK..,Curtain Wall,,,,,RF-GRI-4THK..,<By Category>,
+Doors,DR-GDI-MT-LOUV-2P_.,568W+568W*2100H,DR-GDI-MT-LOUV-2P_.,AD3,,,,568W+568W*2100H,,
+Doors,DR-GDI-MT-LOUV-2P_,868W+868W*2900,DR-GDI-MT-LOUV-2P_,AD2,,,,868W+868W*2900,,
+Doors,DR-GDI-MT-1P_,1200W*1500H,DR-GDI-MT-1P_,AD1,,,,1200W*1500H,,
+Windows,WD-LW-3P-FP_4000W*1600H_1,2848W*2850H,WD-LW-3P-FP_4000W*1600H_1,,,,,2848W*2850H,,Aluminum profile extrusion louvre (RAL7012)
+Windows,WD-LW-3P-FP_2848W*1600H,2848W*1600H,WD-LW-3P-FP_2848W*1600H,,,,,2848W*1600H,,Aluminum profile extrusion louvre (RAL7012)
+Windows,WD-LW-3P-FP_4000W*1600H_2,4000W*1600H,WD-LW-3P-FP_4000W*1600H_2,B2020110,Windows - Aluminum,,,4000W*1600H,,Aluminum profile extrusion louvre (RAL7012)
+Windows,WD-LW-4P-FP_6202W*1600H,6202W*1600H,WD-LW-4P-FP_6202W*1600H,,,,,6202W*1600H,,Aluminum profile extrusion louvre (RAL7012)
+Windows,WD-LW-4P-FP_6202W*1600H,6202W*1600H,WD-LW-4P-FP_6202W*1600H,,,,,6202W*1600H,,Alumunium extrusion Powder coated
+Windows,WD-LW-1P-FP_400W*600H,400W*600H,WD-LW-1P-FP_400W*600H,,,,TO COMPLY WITH SPPG REQUIREMENT,400W*600H,,Aluminum profile extrusion louvre (RAL7012)
+Windows,WD-LW-1P-FP_1200W*600H,1200W*600H,WD-LW-1P-FP_1200W*600H,,,,TO COMPLY WITH SPPG REQUIREMENT,1200W*600H,,Aluminum profile extrusion louvre (RAL7012)
+Windows,WD-LW-1P-FP_1800W*600H,1800W*600H,WD-LW-1P-FP_1800W*600H,,,,TO COMPLY WITH SPPG REQUIREMENT,1800W*600H,,Aluminum profile extrusion louvre (RAL7012)
+Windows,WD-LW-1P-FP_2200W*1600H,2200W*1600H,WD-LW-1P-FP_2200W*1600H,,,,,2200W*1600H,,Alumunium extrusion Powder coated
+Windows,WD-LW-1P-FP_2200W*1600H,2200W*1600H,WD-LW-1P-FP_2200W*1600H,,,,,2200W*1600H,,Aluminum profile extrusion louvre (RAL7012)
+Windows,WD-GWDI-7P_SL_5380W*1625H,5380W*1625H,WD-GWDI-7P_SL_5380W*1625H,,,,,5380W*1625H,,Aluminum Euro-profile extrusion (RAL7012)
+Windows,WD-GWDI-7P_SL_5380W*1625H,5380W*1625H,WD-GWDI-7P_SL_5380W*1625H,,,,,5380W*1625H,,Aluminum profile extrusion louvre (RAL7012)
+Generic Models,,,canopy panel system 01,,,,,,,
+Generic Models,,,canopy panel system 02,,,,,,,
+Generic Models,,,canopy panel system 03,,,,,,,
+Generic Models,,,canopy panel system 04,,,,,,,
+Generic Models,,,canopy panel system 05,,,,,,,
+Structural Columns,Rectangular and Square Hollow Tubes-Column,Aluminum 38x38x2.3 RHS,Rectangular and Square Hollow Tubes-Column,,,,,Aluminum 38x38x2.3 RHS,Metal - Steel - 345 MPa,
+Structural Columns,Rectangular and Square Hollow Tubes-Column,TUB 75x75x4,Rectangular and Square Hollow Tubes-Column,,,,,TUB 75x75x4,Metal - Steel - 345 MPa,
+Structural Columns,Rectangular and Square Hollow Tubes-Column,Aluminum 50x25x2 RHS,Rectangular and Square Hollow Tubes-Column,,,,,Aluminum 50x25x2 RHS,Metal - Steel - 345 MPa,
+Structural Columns,Rectangular and Square Hollow Tubes-Column,RHS 100x50x3-STIFFENER 2,Rectangular and Square Hollow Tubes-Column,,,,,RHS 100x50x3-STIFFENER 2,Metal - Steel - 345 MPa,
+Walls,Basic Wall,Exterior - generic wall,Basic Wall,,,,,Exterior - generic wall,"Concrete, Cast In Situ",
+Walls,Basic Wall,Exterior - generic wall 3,Basic Wall,,,,,Exterior - generic wall 3,Metal Stud Layer,
+Roofs,,,Basic Roof,,,,,,,
+Generic Models,,,Wall Base Bracket,,,,,,,
