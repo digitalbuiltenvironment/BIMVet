@@ -1,0 +1,66 @@
+Family,SubFamily,ObjectGroup,ObjectName,Assembly Code,Assembly Description,Description,Type Comments,Type Name,Structural Material,Material
+Air Terminals,,,FD_AIRG_FLXV-ExhaustAirGrille,,,,,,,
+Air Terminals,,,FD_AIRG_FLXV-FreshAirGrille,,,,,,,
+Air Terminals,,,FD_AIRG_FLXV-Exhaust side grille,,,,,,,
+Air Terminals,,,FD_AIRG_FLXV-FreshSideGrille,,,,,,,
+Air Terminals,,,FD_AIRG_FLXV_FreshAirLouver,,,,,,,
+Air Terminals,,,FD_AIRG_FLXV_ExhaustAirLouver,,,,,,,
+Ducts,Rectangular Duct,SR-DUCT-SMD-EAD_Rectangular Taps,Rectangular Duct,D3060.30,Exhaust Air,,EAD,SR-DUCT-SMD-EAD_Rectangular Taps,,Metal - Nippon - Galvanized Steel
+Ducts,Rectangular Duct,SR-DUCT-SMD-FAD_Rectangular Taps,Rectangular Duct,D3060.40,Outside Air,,FAD,SR-DUCT-SMD-FAD_Rectangular Taps,,Metal - Nippon - Galvanized Steel
+Ducts,Rectangular Duct,SR-Refrigent Pipe Trunking,Rectangular Duct,D3060.10,Supply Air,,Refrigent Pipe Trunking,SR-Refrigent Pipe Trunking,,Metal - Nippon - Galvanized Steel
+Ducts,Rectangular Duct,SR-Refrigent Pipe Trunking,Rectangular Duct,D3060.10,Supply Air,,Refrigent Pipe Trunking,SR-Refrigent Pipe Trunking,,Unipls_uPVC
+Ducts,Rectangular Duct,SR-Cable Trunking,Rectangular Duct,D3060.30,Exhaust Air,,TRK,SR-Cable Trunking,,Metal - LIPKO - Galvanized
+Duct Fittings,SR-DUCT_Elbow rectangular radius,0.6 W,SR-DUCT_Elbow rectangular radius,,,,,0.6 W,,Metal - Nippon - Galvanized Steel
+Duct Fittings,SR-DUCT_Elbow rectangular radius,0.6 W,SR-DUCT_Elbow rectangular radius,,,,,0.6 W,,<By Category>
+Duct Fittings,SR-DUCT_-Junction rectangular,Standard,SR-DUCT_-Junction rectangular,,,,,Standard,,Metal - Nippon - Galvanized Steel
+Duct Fittings,SR-DUCT_-Junction rectangular,Standard,SR-DUCT_-Junction rectangular,,,,,Standard,,<By Category>
+Duct Fittings,SR-DUCT_Transition rectangular to round angle,120 Degree,SR-DUCT_Transition rectangular to round angle,,,,,120 Degree,,Metal - Nippon - Galvanized Steel
+Duct Fittings,SR-DUCT_Transition rectangular to round angle,120 Degree,SR-DUCT_Transition rectangular to round angle,,,,,120 Degree,,<By Category>
+Duct Fittings,SR-DUCT_Transition rectangular to round angle,45 Degree,SR-DUCT_Transition rectangular to round angle,,,,,45 Degree,,Metal - Nippon - Galvanized Steel
+Duct Fittings,SR-DUCT_Transition rectangular to round angle,45 Degree,SR-DUCT_Transition rectangular to round angle,,,,,45 Degree,,<By Category>
+Duct Fittings,SR-DUCT_Transition rectangular angle,60 Degree,SR-DUCT_Transition rectangular angle,,,,,60 Degree,,Metal - Nippon - Galvanized Steel
+Duct Fittings,SR-DUCT_Transition rectangular angle,60 Degree,SR-DUCT_Transition rectangular angle,,,,,60 Degree,,<By Category>
+Duct Fittings,SR-DUCT_Transition rectangular angle,120 Degree,SR-DUCT_Transition rectangular angle,,,,,120 Degree,,Metal - Nippon - Galvanized Steel
+Duct Fittings,SR-DUCT_Transition rectangular angle,120 Degree,SR-DUCT_Transition rectangular angle,,,,,120 Degree,,<By Category>
+Duct Fittings,SR-DUCT_Transition rectangular angle,90 Degree,SR-DUCT_Transition rectangular angle,,,,,90 Degree,,Metal - Nippon - Galvanized Steel
+Duct Fittings,SR-DUCT_Transition rectangular angle,45 Degree,SR-DUCT_Transition rectangular angle,,,,,45 Degree,,Metal - Nippon - Galvanized Steel
+Duct Fittings,SR-DUCT_Elbow-rectangular mitered,Standard,SR-DUCT_Elbow-rectangular mitered,,,,TRK,Standard,,Metal - Nippon - Galvanized Steel
+Duct Fittings,SR-DUCT_Elbow-rectangular mitered,Standard,SR-DUCT_Elbow-rectangular mitered,,,,TRK,Standard,,<By Category>
+Duct Fittings,SR-DUCT_Rectangular Endcap - Standard,Standard,SR-DUCT_Rectangular Endcap - Standard,,,,,Standard,,Metal - Nippon - Galvanized Steel
+Duct Fittings,SR-DUCT_Rectangular Endcap - Standard,Standard,SR-DUCT_Rectangular Endcap - Standard,,,,,Standard,,<By Category>
+Duct Fittings,SR-DUCT_Rectangular Transition,45 Degree,SR-DUCT_Rectangular Transition,,,,,45 Degree,,<By Category>
+Duct Fittings,SR-DUCT_Rectangular to Round Transition,15 Degree,SR-DUCT_Rectangular to Round Transition,,,,,15 Degree,,<By Category>
+Duct Accessories,FD-Damper-FireDamper,FD-Damper-FireDamper 800W*400H,FD-Damper-FireDamper,D3050.50,HVAC Air Distribution,,FD,FD-Damper-FireDamper 800W*400H,,CA1 - Leeden - Galvanized
+Duct Accessories,FD-Damper-FireDamper,FD-Damper-FireDamper 600W*500H,FD-Damper-FireDamper,D3050.50,HVAC Air Distribution,,FD,FD-Damper-FireDamper 600W*500H,,<By Category>
+Duct Accessories,FD-Damper-FireDamper,FD-Damper-FireDamper 600W*1500H,FD-Damper-FireDamper,D3050.50,HVAC Air Distribution,,FD,FD-Damper-FireDamper 600W*1500H,,<By Category>
+Duct Accessories,FD-Duct Accessories-CircularSilencer,FD-Duct Accessories-CircularSilencer-710DIA,FD-Duct Accessories-CircularSilencer,,,,MV FAN SILENCER,FD-Duct Accessories-CircularSilencer-710DIA,,<By Category>
+Duct Accessories,FD-Duct Accessories-CircularSilencer,FD-Duct Accessories-CircularSilencer-500DIA,FD-Duct Accessories-CircularSilencer,,,,MV FAN SILENCER,FD-Duct Accessories-CircularSilencer-500DIA,,<By Category>
+Duct Accessories,FD-Duct Accessories-CircularSilencer,FD-Duct Accessories-CircularSilencer-900DIA ,FD-Duct Accessories-CircularSilencer,,,,MV FAN SILENCER,FD-Duct Accessories-CircularSilencer-900DIA ,,<By Category>
+Duct Accessories,FD-Duct Accessories-CircularSilencer,FD-Duct Accessories-CircularSilencer-400DIA,FD-Duct Accessories-CircularSilencer,,,,MV FAN SILENCER,FD-Duct Accessories-CircularSilencer-400DIA,,<By Category>
+Duct Accessories,FD-Duct Accessories-CircularSilencer,FD-Duct Accessories-CircularSilencer-900DIA,FD-Duct Accessories-CircularSilencer,,,,MV FAN SILENCER,FD-Duct Accessories-CircularSilencer-900DIA,,<By Category>
+Duct Accessories,FD-MeteringMonitoringAndControlDevice-Thermostat,Thermostat,FD-MeteringMonitoringAndControlDevice-Thermostat,,,,THERMOSTAT,Thermostat,,<By Category>
+Duct Accessories,FD-Damper-VolumeControlDamper,FD-Damper-VolumeControlDamper 150W*150H,FD-Damper-VolumeControlDamper,D3050.50,HVAC Air Distribution,,VCD,FD-Damper-VolumeControlDamper 150W*150H,,VCD-PB - Leeden - Galvanized
+Mechanical Equipment,EQS-FanCoilUnit(FCU)-CeilingCassettle-4.7kW,CEILING CASSETTE,EQS-FanCoilUnit(FCU)-CeilingCassettle-4.7kW,,,,N.A,CEILING CASSETTE,,
+Mechanical Equipment,EQS-AirConditioningUnit-CondensingUnit - 4.7kW,RAV-GE1801AP-SG,EQS-AirConditioningUnit-CondensingUnit - 4.7kW,,,,N.A,RAV-GE1801AP-SG,,
+Mechanical Equipment,,,EQP-Fan-AXFA,,,,,,,
+Cable Trays,Cable Tray without Fittings,SR-CTY-SBCT,Cable Tray without Fittings,,,,CT,SR-CTY-SBCT,,Metal - LIPKO - Galvanized
+Cable Tray Fittings,,,SR-CTY-SBCT_CTY-Horizontal Bend,,,,,,,
+Cable Tray Fittings,,,SR-CTY-SBCT_Channel Reducer,,,,,,,
+Pipes,Pipe Types,CRF_REFPIPE-DNE COPPER,Pipe Types,,,,REFP,CRF_REFPIPE-DNE COPPER,,Metal - DNE - Copper
+Pipes,Pipe Types,CRF_REFPIPE-DNE COPPER,Pipe Types,,,,REFP,,,Metal - DNE - Copper
+Pipes,Pipe Types,CRF_CDP_uPVC,Pipe Types,,,,CDP,CRF_CDP_uPVC,,Unipls_uPVC
+Pipes,Pipe Types,CRF_CDP_uPVC,Pipe Types,,,,CDP,,,Unipls_uPVC
+Pipe Fittings,,,CRF_PF_NC_Elbow - Generic,,,,,,,
+Pipe Fittings,,,CRF_PF_Tee - Generic,,,,,,,
+Floors,Floor,Generic 150mm,Floor,,,,,Generic 150mm,<By Category>,
+Generic Models,,,GM-SUPPORT-ANGLE BAR (CEILING-BASED),,,,,,,
+Generic Models,,,GM-SUPPORT-UNISTRUT (CEILING-BASED),,,,,,,
+Generic Models,,,GM-PURLIN SUPPORT - PARALLEL PURLIN,,,,,,,
+Generic Models,,,GM-PURLIN SUPPORT,,,,,,,
+Generic Models,,,GM-PURLIN SUPPORT - C BRACKET,,,,,,,
+Generic Models,,,GM-SUPPORT-PIPE BRACKET TYPE A,,,,,,,
+Generic Models,,,GM-SUPPORT-ANGLE BAR(PURLIIN),,,,,,,
+Generic Models,,,GM_Opening,,,,,,,
+Generic Models,,,GM-C CHANNEL,,,,,,,
+Generic Models,,,SPA-CA-450W*450L*2750H,,,,,,,
+Electrical Equipment,,,EQS-ControlPanel-MV FAN,,,,,,,

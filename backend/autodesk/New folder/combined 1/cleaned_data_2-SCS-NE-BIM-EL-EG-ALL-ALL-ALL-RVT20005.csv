@@ -1,0 +1,119 @@
+Family,SubFamily,ObjectGroup,ObjectName,Assembly Code,Assembly Description,Description,Type Comments,Type Name,Structural Material,Material
+Lighting Fixtures,FND-LIGH-LED-LL01,Type 1,FND-LIGH-LED-LL01,,,,,Type 1,,
+Lighting Fixtures,FND-LIGH-LED-COFL01,Type 1,FND-LIGH-LED-COFL01,,,,,Type 1,,
+Lighting Fixtures,FND-LIGH-LED-DL01,Type 1,FND-LIGH-LED-DL01,,,,,Type 1,,
+Lighting Fixtures,FND-LIGH-LED-WP01,TYPE 1,FND-LIGH-LED-WP01,,,,,TYPE 1,,
+Lighting Fixtures,FND-LIGH-LED-SC01,Type 1,FND-LIGH-LED-SC01,,,,,Type 1,,
+Lighting Fixtures,FND-LIGH-LED-HB01,Type 1,FND-LIGH-LED-HB01,,,,,Type 1,,
+Lighting Fixtures,FND-LIGH-LED-WP02,TYPE 1,FND-LIGH-LED-WP02,,,,,TYPE 1,,
+Lighting Fixtures,FND-LIGH-LED-LL02,Type 1,FND-LIGH-LED-LL02,,,,,Type 1,,
+Lighting Fixtures,FND-LIGH-LED-FL01,Type 1,FND-LIGH-LED-FL01,,,,,Type 1,,
+Lighting Fixtures,FND-LIGH-LED-WG01,Type 1,FND-LIGH-LED-WG01,D5040.50,Lighting Fixtures,,,Type 1,,
+Lighting Fixtures,FND-LIGH-LED-ST01,TYPE 1,FND-LIGH-LED-ST01,,,,,TYPE 1,,
+Lighting Fixtures,FND-LIGH-LED-LL03,Type 1,FND-LIGH-LED-LL03,,,,,Type 1,,
+Lighting Fixtures,FND-LIGH-LED-HB02,Type 1,FND-LIGH-LED-HB02,,,,,Type 1,,
+Lighting Fixtures,FND-LIGH-LED-DL01A,Type 1,FND-LIGH-LED-DL01A,,,,,Type 1,,
+Lighting Fixtures,FND-LIGH-LED-EM01,Type 1,FND-LIGH-LED-EM01,,,,,Type 1,,
+Lighting Fixtures,FND-LIGH-LED-WP03,Type 1,FND-LIGH-LED-WP03,,,,,Type 1,,
+Lighting Fixtures,FND-LIGH-LED-WP04,TYPE 1,FND-LIGH-LED-WP04,,,,,TYPE 1,,
+Electrical Fixtures,,,FND-POIN-AERC-MC-1x13A,,,,,,,
+Electrical Fixtures,,,FND-POIN-AERC-ISOL,,,,,,,
+Electrical Fixtures,,,FND-POIN-AERC-MC01-2x13A,,,,,,,
+Electrical Fixtures,,,FND-POIN-AERC-WP-1x13A,,,,,,,
+Electrical Fixtures,,,1 NO ISOLATOR ON UNISTURT,,,,,,,
+Electrical Fixtures,,,EMERGENCY CALL BUTTON,,,,,,,
+Electrical Fixtures,,,EMERGENCY OVERDOOR LIGHT,,,,,,,
+Electrical Fixtures,,,EMERGENCY BUZZER,,,,,,,
+Electrical Fixtures,,,63A ISOLATOR,,,,,,,
+Cable Trays,Cable Tray with Fittings,SR-CLR-KDT-800,Cable Tray with Fittings,D5030.10,Branch Wiring System,,,SR-CLR-KDT-800,,Steel
+Cable Trays,Cable Tray with Fittings,SR-CTY-VTCT-ELECT,Cable Tray with Fittings,,,,,SR-CTY-VTCT-ELECT,,Steel
+Cable Trays,Cable Tray with Fittings,SR-CT-SBCT-ELV,Cable Tray with Fittings,D5030.10,Branch Wiring System,,,SR-CT-SBCT-ELV,,Steel
+Pipes,Pipe Types,UG_HD uPVC,Pipe Types,D5020.10,Electrical Service,,,UG_HD uPVC,,uPVC
+Pipes,Pipe Types,UG_HD uPVC,Pipe Types,D5020.10,Electrical Service,,,,,uPVC
+Pipes,Pipe Types,TEL_HD uPVC,Pipe Types,D4010.10,Water-Based Fire-Suppression,,,TEL_HD uPVC,,uPVC
+Pipes,Pipe Types,TEL_HD uPVC,Pipe Types,D4010.10,Water-Based Fire-Suppression,,,,,uPVC
+Pipe Fittings,FIT_PI-Elbow welded,UG_HD uPVC,FIT_PI-Elbow welded,,,,,UG_HD uPVC,,uPVC
+Pipe Fittings,FIT_PI-Elbow welded,UG_HD uPVC,FIT_PI-Elbow welded,,,,,,,uPVC
+Cable Tray Fittings,FIT_CTY-Horizontal Bend1,SR-CTY-VTCT-ELECT,FIT_CTY-Horizontal Bend1,,,,,SR-CTY-VTCT-ELECT,,Steel
+Cable Tray Fittings,FIT_CTY-Vertical Outside Bend1,SR-CTY-VTCT-ELECT,FIT_CTY-Vertical Outside Bend1,,,,,SR-CTY-VTCT-ELECT,,Steel
+Cable Tray Fittings,FIT_CTY-Horizontal Tee,SR-CTY-VTCT-ELECT,FIT_CTY-Horizontal Tee,,,,,SR-CTY-VTCT-ELECT,,Steel
+Cable Tray Fittings,FIT_CTY-Vertical Inside Bend1,SR-CTY-VTCT-ELECT,FIT_CTY-Vertical Inside Bend1,,,,,SR-CTY-VTCT-ELECT,,Steel
+Cable Tray Fittings,FIT_CL-Horizontal tee,300mm Radius,FIT_CL-Horizontal tee,,,,,300mm Radius,,Steel
+Cable Tray Fittings,FIT_CTY-Horizontal Bend,SR-CT-SBCT-ELV,FIT_CTY-Horizontal Bend,,,,,SR-CT-SBCT-ELV,,Steel
+Cable Tray Fittings,FIT_CTY-Vertical outside bend,SR-CT-SBCT-ELV,FIT_CTY-Vertical outside bend,,,,,SR-CT-SBCT-ELV,,Steel
+Cable Tray Fittings,FIT_CTY-Reducer,Standard,FIT_CTY-Reducer,,,,,Standard,,Steel
+Cable Tray Fittings,FIT_CTY-Vertical inside bend,SR-CT-SBCT-ELV,FIT_CTY-Vertical inside bend,,,,,SR-CT-SBCT-ELV,,Steel
+Cable Tray Fittings,FIT_CTY-Horizontal Cross,Horizontal Cross,FIT_CTY-Horizontal Cross,,,,,Horizontal Cross,,Steel
+Structural Framing,MIS UG UNIT 2,MIS UG UNIT 2,MIS UG UNIT 2,,,,,MIS UG UNIT 2,<By Category>,
+Structural Framing,MIS UG UNIT 1,MIS UG UNIT 1,MIS UG UNIT 1,,,,,MIS UG UNIT 1,<By Category>,
+Structural Framing,FCC TO CSR UNIT 2,FCC TO CSR UNIT 2,FCC TO CSR UNIT 2,,,,,FCC TO CSR UNIT 2,<By Category>,
+Structural Framing,FCC UNIT 2,FCC UNIT 2,FCC UNIT 2,,,,,FCC UNIT 2,<By Category>,
+Structural Framing,FUTURE UG UNIT 2,FUTURE UG UNIT 2,FUTURE UG UNIT 2,,,,,FUTURE UG UNIT 2,<By Category>,
+Structural Framing,FCC TO RISER UNIT 2,FCC TO RISER UNIT 2,FCC TO RISER UNIT 2,,,,,FCC TO RISER UNIT 2,<By Category>,
+Structural Framing,BEND UNIT 2,BEND UNIT 2,BEND UNIT 2,,,,,BEND UNIT 2,<By Category>,
+Structural Framing,gate at fcc unit 1,gate at fcc unit 1,gate at fcc unit 1,,,,,gate at fcc unit 1,<By Category>,
+Structural Framing,gate at fcc unit 2,gate at fcc unit 2,gate at fcc unit 2,,,,,gate at fcc unit 2,<By Category>,
+Structural Framing,pipe for street light,pipe for street light,pipe for street light,,,,,pipe for street light,<By Category>,
+Structural Framing,Structural Framing,Structural Framing,Structural Framing,,,,,Structural Framing,<By Category>,
+Lighting Devices,,,FND-LIGH-SWIT-MC01,,,,,,,
+Lighting Devices,,,FMD-LIGH-SENS-01,,,,,,,
+Lighting Devices,,,FND-LIGH-SWIT-WP01,,,,,,,
+Lighting Devices,,,FND-LIGH-SWIT-MC02,,,,,,,
+Lighting Devices,,,FND-LIGH-SENS-02,,,,,,,
+Generic Models,SIGN-GSI-335x235,EXIT LIGHT,SIGN-GSI-335x235,,,,,EXIT LIGHT,,ACRYLIC (EXIT SIGN)
+Generic Models,HANGER,HANGER,HANGER,,,,,HANGER,,Steel
+Generic Models,HANGER-2,HANGER-2,HANGER-2,,,,,HANGER-2,,Steel
+Generic Models,UNISTRUT,UNISTRUT,UNISTRUT,,,,,UNISTRUT,,Steel
+Generic Models,SIGN-GSI-325x235,EXIT LIGHT WITH MTG,SIGN-GSI-325x235,,,,,EXIT LIGHT WITH MTG,,ACRYLIC (EXIT SIGN)
+Generic Models,SIGN-GSI-325x235-2,2 DIRECTIONAL EXIT LIGHT WITH MTG,SIGN-GSI-325x235-2,,,,,2 DIRECTIONAL EXIT LIGHT WITH MTG,,ACRYLIC (EXIT SIGN)
+Generic Models,SIGN-GSI-370x250,EXIT LIGHT - BOXSTER,SIGN-GSI-370x250,,,,,EXIT LIGHT - BOXSTER,,ACRYLIC (EXIT SIGN)
+Generic Models,Rectangular wall opening,Rectangular wall opening,Rectangular wall opening,,,,,Rectangular wall opening,,<By Category>
+Electrical Equipment,,,EQP-MDTS-EMSB-GPD,,,,,,,
+Electrical Equipment,,,EQP-MDTS-GPD-01,,,,,,,
+Electrical Equipment,,,EQP-SSB-GPD,,,,,,,
+Electrical Equipment,,,EQP-GEST-STBG,,,,,,,
+Electrical Equipment,,,OG BOX,,,,,,,
+Electrical Equipment,,,SOLAR PANEL,,,,,,,
+Specialty Equipment,,,FND_LPFD_LITP_01,,,,,,,
+Specialty Equipment,,,FND-LPFD-LITB,,,,,,,
+Specialty Equipment,,,B -CONNECTOR-F,,,,,,,
+Specialty Equipment,,,FND-LPFD-PIT(300x300),,,,,,,
+Specialty Equipment,,,LTNG CANOPY 1-1,,,,,,,
+Specialty Equipment,,,LTNG DC 2 - CANOPY 1,,,,,,,
+Specialty Equipment,,,LTNG WALKWAY 01,,,,,,,
+Specialty Equipment,,,FND-LPFD-LIEB,,,,,,,
+Specialty Equipment,,,FND-LPFD-PIT(300x300)_2,,,,,,,
+Generic Models,TRIANGLE SUPPORT,TRIANGLE SUPPORT,TRIANGLE SUPPORT,,,,,TRIANGLE SUPPORT,,Steel
+Electrical Equipment,,,EQP-MDTS-GPD-02,,,,,,,
+Specialty Equipment,,,FND_LPFD_LITP_02,,,,,,,
+Specialty Equipment,,,FND_LPFD_LIRD,,,,,,,
+Specialty Equipment,,,LTNG 02,,,,,,,
+Specialty Equipment,,,LTNG TAPE WITH REBAR,,,,,,,
+Specialty Equipment,,,LTNG GL5/L,,,,,,,
+Specialty Equipment,,,LTNG GL6/L,,,,,,,
+Specialty Equipment,,,LTNG GL 7/L,,,,,,,
+Specialty Equipment,,,LTNG GL 4/L,,,,,,,
+Specialty Equipment,,,LTNG GL 3/L,,,,,,,
+Specialty Equipment,,,LTNG 12,,,,,,,
+Specialty Equipment,,,LTNG GL B/6,,,,,,,
+Specialty Equipment,,,LTNG GL B/7,,,,,,,
+Specialty Equipment,,,REBAR,,,,,,,
+Specialty Equipment,,,LTNG GH UNIT 1,,,,,,,
+Specialty Equipment,,,LTNG GH UNIT 2,,,,,,,
+Specialty Equipment,,,LTNG GH UNIT 3,,,,,,,
+Specialty Equipment,BOLT&NUT,STANDARD,BOLT&NUT,,,,,STANDARD,,
+Generic Models,FLOOR MOUNTED UNISTRUT,FLOOR MOUNTED UNISTRUT,FLOOR MOUNTED UNISTRUT,,,,,FLOOR MOUNTED UNISTRUT,,Steel
+Generic Models,UNISTRUT TYPE3,UNISTRUT TYPE3,UNISTRUT TYPE3,,,,,UNISTRUT TYPE3,,Steel
+Specialty Equipment,,,LTNG CANOPY - UNIT 2 - B,,,,,,,
+Generic Models,UNISTRUT TYPE2,UNISTRUT TYPE2,UNISTRUT TYPE2,,,,,UNISTRUT TYPE2,,Steel
+Specialty Equipment,,,LTNG WALKWAY 1,,,,,,,
+Generic Models,TC_MX2-1300Wx2400L,MX2,TC_MX2-1300Wx2400L,,,,,MX2,,Concrete
+Generic Models,SR_CPEC_110D(2x4NOS)HDuPVC_TEL03,UNDERGRD TEL-PIPE UNIT 1 & UNIT 2,SR_CPEC_110D(2x4NOS)HDuPVC_TEL03,,,,,UNDERGRD TEL-PIPE UNIT 1 & UNIT 2,,Concrete
+Generic Models,SR_CPEC_150D(2x5NOS)_HDuPVC-PG02,UNDERGRD PG-PIPE UNIT 2,SR_CPEC_150D(2x5NOS)_HDuPVC-PG02,,,,,UNDERGRD PG-PIPE UNIT 2,,Concrete
+Generic Models,SR_CPEC_110D(2x4NOS)_HDuPVC_TEL02,UNDERGRD TEL-PIPE UNIT 2,SR_CPEC_110D(2x4NOS)_HDuPVC_TEL02,,,,,UNDERGRD TEL-PIPE UNIT 2,,Concrete
+Generic Models,PURLIN SUPPORT-C BRACKET,PURLIN SUPPORT-C BRACKET,PURLIN SUPPORT-C BRACKET,,,,,PURLIN SUPPORT-C BRACKET,,Steel
+Generic Models,SR_CPEC_110D(2x4NIS)_HDuPVC_TEL01,UNDERGRD TEL-PIPE UNIT 1,SR_CPEC_110D(2x4NIS)_HDuPVC_TEL01,,,,,UNDERGRD TEL-PIPE UNIT 1,,Concrete
+Generic Models,CLAMP,STANDARD,CLAMP,,,,,STANDARD,,Steel
+Generic Models,SR_CPEC_150D(1NO)_HDuPVC_PG02,UNDERGRD PG-PIPE UNIT 2,SR_CPEC_150D(1NO)_HDuPVC_PG02,,,,,UNDERGRD PG-PIPE UNIT 2,,Concrete
+Generic Models,SR_CPEC_150D(2x5NOS)_HDuPVC_PG01,UNDERGRD PG-PIPE UNIT 1,SR_CPEC_150D(2x5NOS)_HDuPVC_PG01,,,,,UNDERGRD PG-PIPE UNIT 1,,Concrete
+Generic Models,SR_CPEC_150D(1NO)_HDuPVC_PG01,UNDERGRD PG-PIPE UNIT 1,SR_CPEC_150D(1NO)_HDuPVC_PG01,,,,,UNDERGRD PG-PIPE UNIT 1,,Concrete

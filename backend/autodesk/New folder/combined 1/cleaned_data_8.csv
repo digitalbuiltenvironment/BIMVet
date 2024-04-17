@@ -1,0 +1,163 @@
+Family,SubFamily,ObjectGroup,ObjectName,Assembly Code,Assembly Description,Description,Type Comments,Type Name,Structural Material,Material
+Pipes,,,Pipe Types,,,,,,,
+Generic Models,Wall mounting bracket,Wall mounting bracket,Wall mounting bracket,,,,,Wall mounting bracket,,
+Generic Models,pipe bracket,pipe bracket,pipe bracket,,,,,pipe bracket,,
+Generic Models,Pipe bracket-small,Pipe bracket-small,Pipe bracket-small,,,,,Pipe bracket-small,,
+Generic Models,Pipe brackets3 - Face based,Pipe brackets3 - Face based,Pipe brackets3 - Face based,,,,,Pipe brackets3 - Face based,,
+Generic Models,Pipe Clip,Pipe Clip,Pipe Clip,,,,,Pipe Clip,,Stainless Steel AISI 304
+Generic Models,Pipe bracket1 adjustable(MT) -face based,Pipe bracket1 adjustable(MT) -face based,Pipe bracket1 adjustable(MT) -face based,,,,,Pipe bracket1 adjustable(MT) -face based,,
+Generic Models,Pipe brackets2 - Face based,Pipe brackets2 - Face based,Pipe brackets2 - Face based,,,,,Pipe brackets2 - Face based,,
+Generic Models,Pipe Clip1,Pipe Clip1,Pipe Clip1,,,,,Pipe Clip1,,Stainless Steel AISI 304
+Pipe Fittings,,,Arup_Pipe Fitting Elbow_Mild Steel Threaded,,,,,,,
+Pipe Fittings,,,Arup_Pipe Fitting Tee_Galvanised Malleable Iron Threaded,,,,,,,
+Pipe Fittings,,,Arup_Pipe Fitting Reducer_Condentric_Carbon Steel Butt Welded,,,,,,,
+Pipe Fittings,,,Arup_Pipe Fitting Reducer_Galvanised Malleable Iron Threaded,,,,,,,
+Pipe Fittings,,,Arup_Pipe Fitting Coupling_Cast Iron Hub,,,,,,,
+Pipe Fittings,,,Arup-PF-Tee Generic-AIRAH Kt2,,,,,,,
+Pipe Fittings,,,Arup_Pipe Fitting Cap_Cast Iron Hub,,,,,,,
+Pipe Fittings,,,ArupSG_Elbow Reducing - Threaded - MI - Class 150,,,,,,,
+Pipe Fittings,,,ArupSG_M__Tee Reducing - Threaded,,,,,,,
+Pipe Fittings,,,Arup-PF-Elbow Generic -AIRAH Kt2,,,,,,,
+Pipe Fittings,,,"S TRAP -100mm(270,280)",,,,,,,
+Pipe Fittings,Elbow DI -Socket Type,90.00°,Elbow DI -Socket Type,,,"Ductile Iron, Elbow, BSEN 545",,90.00°,,<By Category>
+Pipe Fittings,Elbow DI -Socket Type,90.00°,Elbow DI -Socket Type,,,"Ductile Iron, Elbow, BSEN 545",,,,<By Category>
+Pipe Fittings,,,Arup_Pipe Fitting Flange_Galvanised Flanged,,,,,,,
+Pipe Fittings,,,Arup_Pipe Fitting Elbow_Mild Steel Threaded1,,,,,,,
+Pipe Fittings,,,M_Elbow - Flanged - CS - Class 150,,,,,,,
+Pipe Fittings,,,Arup_Pipe Fitting Cap_Galvanised Flanged,,,,,,,
+Pipe Fittings,,,M_Reducer - Flanged - CS - Class 150,,,,,,,
+Pipe Fittings,,,Arup_Pipe Fitting Flange_Galvanised Puddle Flange,,,,,,,
+Pipe Fittings,,,Bottle Trap,,,,,,,
+Pipe Fittings,,,Arup_Pipe Fitting Elbow_Stainless Steel Press Fit,,,,,,,
+Pipe Fittings,,,M_Tee Reducing Vent - PVC - Sch 40 - DWV,,,,,,,
+Pipe Fittings,,,Arup_Pipe Fitting Tee_Carbon Steel Butt Welded,,,,,,,
+Pipe Fittings,,,M_Tee - Flanged - CS - Class 150,,,,,,,
+Pipe Fittings,,,Arup_Pipe Fitting Elbow_High-Density Polyethylene Butt Welded,,,,,,,
+Pipe Fittings,,,Arup_Pipe Fitting Elbow_Stainless Steel Flanged,,,,,,,
+Pipe Fittings,,,Arup_Pipe Fitting Tee_Reducing_ABS Solvent Welded,,,,,,,
+Pipe Fittings,,,Arup_Pipe Fitting Reducer_Concentric_High-Density Polyethylene Butt Welded,,,,,,,
+Pipe Fittings,,,M_Tee Reducing Sanitary - PVC - Sch 40 - DWV,,,,,,,
+Pipe Fittings,,,M_Bend - PVC - Sch 40 - DWV,,,,,,,
+Pipe Fittings,,,M_Cap - PVC - Sch 40 - DWV,,,,,,,
+Pipe Fittings,,,M_Tee Vent - PVC - Sch 40 - DWV,,,,,,,
+Pipe Fittings,,,M_Reducer - PVC - Sch 40 - DWV,,,,,,,
+Pipe Fittings,,,Arup_Pipe Fitting Reducer_Stainless Steel Press Fit,,,,,,,
+Pipe Fittings,,,Arup_Pipe Fitting Tee_Reducing_Stainless Steel Press Fit,,,,,,,
+Pipe Fittings,,,Arup_Pipe Fitting Elbow_Polyvinyl Chloride Chlorinated Solvent Welded,,,,,,,
+Pipe Fittings,,,Arup_Pipe Fitting Elbow_Carbon Steel Butt Welded,,,,,,,
+Pipe Fittings,,,Arup-PF-Union Generic-AIRAH Kt2,,,,,,,
+Pipe Fittings,,,Arup_Pipe Fitting Cap_Polyvinyl Chloride Chlorinated Solvent Welded,,,,,,,
+Pipe Fittings,,,Arup_Pipe Fitting Elbow_Copper Press Fit,,,,,,,
+Pipe Fittings,,,Arup_Pipe Fitting Reducer_Copper Press Fit,,,,,,,
+Pipe Fittings,,,Arup_Pipe Fitting Cap_Copper Brazed,,,,,,,
+Pipe Fittings,,,Arup_Pipe Fitting Coupling_Stainless Steel Press Fit,,,,,,,
+Pipe Fittings,,,Arup_Pipe Fitting Stop End_Copper Press Fit,,,,,,,
+Pipe Fittings,,,Arup_Pipe Fitting Tee_High-Density Polyethylene Butt Welded,,,,,,,
+Pipe Fittings,,,Arup_Pipe Fitting Reducer_Copper Brazed,,,,,,,
+Pipe Fittings,,,Arup_Pipe Fitting Cap_High-Density Polyethylene Butt Welded,,,,,,,
+Pipe Fittings,,,M_Bend Double - PVC - Sch 40 - DWV,,,,,,,
+Pipe Fittings,,,Arup_Pipe Fitting Tee_Reducing_Copper Press Fit,,,,,,,
+Pipe Fittings,,,M_Wye Combination with 8th Bend - PVC - Sch 40 - DWV,,,,,,,
+Pipe Fittings,,,M_Tee Reducing Double Sanitary - PVC - Sch 40 - DWV,,,,,,,
+Pipe Fittings,,,Arup_Pipe Fitting Reducer_Galvanised Flanged,,,,,,,
+Pipe Fittings,,,M_Tee Sanitary - PVC - Sch 40 - DWV,,,,,,,
+Pipe Fittings,,,Arup_Pipe Fitting Coupling_Copper Press Fit,,,,,,,
+Pipe Fittings,,,Arup_Pipe Fitting Cap_Galvanised Malleable Threaded,,,,,,,
+Pipe Fittings,,,ArupSG_M_Blind - Flanged,,,,,,,
+Pipe Fittings,,,Arup_Pipe Fitting Joint_High-Density Polyethylene Butt Welded,,,,,,,
+Pipe Accessories,,,Arup_Meter_Water_SG,,,,,,,
+Pipe Accessories,Arup-PA-Isolation-Valve_ - 20-200 mm - Flanged,25 mm,Arup-PA-Isolation-Valve_ - 20-200 mm - Flanged,,,,,25 mm,,
+Pipe Accessories,Arup-PA-Isolation-Valve_UG Hydrant Pit_ - 20-200 mm - Flanged,100mm PUB,Arup-PA-Isolation-Valve_UG Hydrant Pit_ - 20-200 mm - Flanged,,,,,100mm PUB,,
+Pipe Accessories,Arup-PA-Isolation-Valve_UG Hydrant Pit_ - 20-200 mm - Flanged,150 mm,Arup-PA-Isolation-Valve_UG Hydrant Pit_ - 20-200 mm - Flanged,,,,,150 mm,,
+Pipe Accessories,Ball Valve - 50-150 mm,25 mm,Ball Valve - 50-150 mm,,,,,25 mm,,
+Pipe Accessories,Arup-PA-Silent Check Valve - 20-200 mm - Flanged1,100 mm,Arup-PA-Silent Check Valve - 20-200 mm - Flanged1,,,,,100 mm,,
+Pipe Accessories,Arup-PA-Silent Check Valve - 20-200 mm - Flanged1,75 mm,Arup-PA-Silent Check Valve - 20-200 mm - Flanged1,,,,,75 mm,,
+Pipe Accessories,Check Valve - 50-300 mm - Flanged2,100,Check Valve - 50-300 mm - Flanged2,,,,,100,,
+Pipe Accessories,Check Valve - 50-300 mm - Flanged2,150 mm,Check Valve - 50-300 mm - Flanged2,,,,,150 mm,,
+Pipe Accessories,Arup-PA-Gate Valve - 50-150 mm - Flanged2,150 mm,Arup-PA-Gate Valve - 50-150 mm - Flanged2,,,,,150 mm,,
+Pipe Accessories,Arup-PA-Gate Valve - 50-150 mm - Flanged2,100 mm,Arup-PA-Gate Valve - 50-150 mm - Flanged2,,,GATE VALVE,GATE VALVE,100 mm,,
+Pipe Accessories,,,Arup_Waterless Waste Valve_SG,,,,,,,
+Pipe Accessories,Arup-PA-Gate Valve - 50-150 mm - Flanged_OMC1,15mm,Arup-PA-Gate Valve - 50-150 mm - Flanged_OMC1,,,,,15mm,,
+Pipe Accessories,Arup-PA-Gate Valve - 50-150 mm - Flanged_OMC1,50 mm,Arup-PA-Gate Valve - 50-150 mm - Flanged_OMC1,,,,,50 mm,,
+Pipe Accessories,Arup-PA-Gate Valve - 50-150 mm - Flanged_OMC1,100 mm,Arup-PA-Gate Valve - 50-150 mm - Flanged_OMC1,,,GATE VALVE,GATE VALVE,100 mm,,
+Pipe Accessories,Arup-PA-Gate Valve - 50-150 mm - Flanged_OMC1,32 mm,Arup-PA-Gate Valve - 50-150 mm - Flanged_OMC1,,,,,32 mm,,
+Pipe Accessories,Arup-PA-Gate Valve - 50-150 mm - Flanged_OMC1,28,Arup-PA-Gate Valve - 50-150 mm - Flanged_OMC1,,,,,28,,
+Pipe Accessories,Arup-PA-Gate Valve - 50-150 mm - Flanged_OMC1,65mm,Arup-PA-Gate Valve - 50-150 mm - Flanged_OMC1,,,GATE VALVE,GATE VALVE,65mm,,
+Pipe Accessories,Arup-PA-Gate Valve - 50-150 mm - Flanged_OMC1,150 mm,Arup-PA-Gate Valve - 50-150 mm - Flanged_OMC1,,,GATE VALVE,GATE VALVE,150 mm,,
+Pipe Accessories,Arup-PA-Gate Valve - 50-150 mm - Flanged_OMC1,22,Arup-PA-Gate Valve - 50-150 mm - Flanged_OMC1,,,,,22,,
+Pipe Accessories,Check Valve - 50-300 mm - Flanged_OMC1,15 mm,Check Valve - 50-300 mm - Flanged_OMC1,,,,,15 mm,,
+Pipe Accessories,Check Valve - 50-300 mm - Flanged_OMC1,28,Check Valve - 50-300 mm - Flanged_OMC1,,,,,28,,
+Pipe Accessories,Check Valve - 50-300 mm - Flanged_OMC1,65mm,Check Valve - 50-300 mm - Flanged_OMC1,,,,,65mm,,
+Pipe Accessories,Arup-PA-Gate Valve - 20-200 mm - Flanged2,150 mm 3,Arup-PA-Gate Valve - 20-200 mm - Flanged2,,,,,150 mm 3,,
+Pipe Accessories,Check Valve - 50-300 mm - Flanged_OMC2,80mm,Check Valve - 50-300 mm - Flanged_OMC2,,,CHECK VALVE,,80mm,,
+Pipe Accessories,Check Valve - 50-300 mm - Flanged_OMC2,65mm,Check Valve - 50-300 mm - Flanged_OMC2,,,,,65mm,,
+Pipe Accessories,Arup-PA-Gate Valve - 50-150 mm - Flanged_OMC2,80 mm,Arup-PA-Gate Valve - 50-150 mm - Flanged_OMC2,,,ISOLATION VALVE,,80 mm,,
+Pipe Accessories,AUS_Arup_Strainer_50-500 mm_Flanged,50mm,AUS_Arup_Strainer_50-500 mm_Flanged,,,,,50mm,,
+Pipe Accessories,FPS-SPR-GCL-M_Plumbing - Ball Float Valve1,FPS-VVE-KEL-Ball Float Valve 65-150 mm 2,FPS-SPR-GCL-M_Plumbing - Ball Float Valve1,,,,,FPS-VVE-KEL-Ball Float Valve 65-150 mm 2,,
+Pipe Accessories,,,Arup_Vent_Cowl_SG,,,,,,,
+Pipe Accessories,,,Pipe Opening,,,,,,,
+Pipe Accessories,M_Ball Valve - 25mm,50 mm,M_Ball Valve - 25mm,,,,,50 mm,,
+Pipe Accessories,FLEX PIPE,50 mm,FLEX PIPE,,,,,50 mm,,
+Pipe Accessories,FLEX PIPE,80 mm,FLEX PIPE,,,,,80 mm,,
+Pipe Accessories,Pressure Gauge,80 mm,Pressure Gauge,,,,,80 mm,,
+Plumbing Fixtures,Arup_Manhole_Circular_SG,Combined Water ø1050,Arup_MaintenanceZone_Rectangular,,,,,Default,,
+Plumbing Fixtures,Arup_Manhole_Circular_SG,Combined Water ø1050,Arup_Manhole_Circular_SG,,,Circular Manhole,Inspection Chamber,Combined Water ø1050,,<By Category>
+Plumbing Fixtures,Arup_Manhole_Rectangular_SG2,IC 900x700,Arup_MaintenanceZone_Rectangular,,,,,Default,,
+Plumbing Fixtures,Arup_Manhole_Rectangular_SG2,IC 900x700,Arup_Manhole_Rectangular_SG2,,,Rectangular Manhole,Inspection Chamber,IC 900x700,,<By Category>
+Plumbing Fixtures,Arup_Manhole_Rectangular_SG2,900x700,Arup_MaintenanceZone_Rectangular,,,,,Default,,
+Plumbing Fixtures,Arup_Manhole_Rectangular_SG2,900x700,Arup_Manhole_Rectangular_SG2,,,Rectangular Manhole,Inspection Chamber,900x700,,<By Category>
+Plumbing Fixtures,AUS_Arup_Floor Waste,Floor Trap,AUS_Arup_Floor Waste,,,FT,FT,Floor Trap,,<By Category>
+Plumbing Fixtures,Arup_Manhole_Rectangular_SG3,900x700 3,Arup_MaintenanceZone_Rectangular,,,,,Default,,
+Plumbing Fixtures,Arup_Manhole_Rectangular_SG3,900x700 3,Arup_Manhole_Rectangular_SG3,,,Rectangular Manhole,,900x700 3,,<By Category>
+Plumbing Fixtures,Arup_Manhole_Rectangular_SG3,IC 900x700_,Arup_MaintenanceZone_Rectangular,,,,,Default,,
+Plumbing Fixtures,Arup_Manhole_Rectangular_SG3,IC 900x700_,Arup_Manhole_Rectangular_SG3,,,Rectangular Manhole,Inspection Chamber,IC 900x700_,,<By Category>
+Plumbing Fixtures,Arup_Manhole_Rectangular_SG4,IC 1350x900,Arup_MaintenanceZone_Rectangular,,,,,Default,,
+Plumbing Fixtures,Arup_Manhole_Rectangular_SG4,IC 1350x900,Arup_Manhole_Rectangular_SG4,,,Rectangular Manhole,,IC 1350x900,,<By Category>
+Plumbing Fixtures,Arup_Manhole_Rectangular_SG4,900x700,Arup_MaintenanceZone_Rectangular,,,,,Default,,
+Plumbing Fixtures,Arup_Manhole_Rectangular_SG4,900x700,Arup_Manhole_Rectangular_SG4,,,Rectangular Manhole,Inspection Chamber,900x700,,<By Category>
+Plumbing Fixtures,Arup_Tap_Bib_SG,BT1,Arup_MaintenanceZone_Round,,,,,Default,,
+Plumbing Fixtures,Arup_Tap_Bib_SG,BT1,Arup_Tap_Bib_SG,,,Bib Tap,Wall Mounted Hose Coupling Bib Tap,BT1,,<By Category>
+Plumbing Fixtures,Arup_Tap_Bib_SG,BT3,Arup_MaintenanceZone_Round,,,,,Default,,
+Plumbing Fixtures,Arup_Tap_Bib_SG,BT3,Arup_Tap_Bib_SG,,,Bib Tap,Wall Mounted Hose Coupling Bib Tap,BT3,,<By Category>
+Plumbing Fixtures,Arup_Tap_Bib_SG,BT4,Arup_MaintenanceZone_Round,,,,,Default,,
+Plumbing Fixtures,Arup_Tap_Bib_SG,BT4,Arup_Tap_Bib_SG,,,Bib Tap,Wall Mounted Hose Coupling Bib Tap,BT4,,<By Category>
+Plumbing Fixtures,Arup_Tap_Bib_SG,BT7,Arup_MaintenanceZone_Round,,,,,Default,,
+Plumbing Fixtures,Arup_Tap_Bib_SG,BT7,Arup_Tap_Bib_SG,,,Bib Tap,Wall Mounted Hose Coupling Bib Tap,BT7,,<By Category>
+Plumbing Fixtures,Arup_Tap_Bib_SG,BT6,Arup_MaintenanceZone_Round,,,,,Default,,
+Plumbing Fixtures,Arup_Tap_Bib_SG,BT6,Arup_Tap_Bib_SG,,,Bib Tap,Wall Mounted Hose Coupling Bib Tap,BT6,,<By Category>
+Plumbing Fixtures,Arup_Tap_Bib_SG,BT8,Arup_MaintenanceZone_Round,,,,,Default,,
+Plumbing Fixtures,Arup_Tap_Bib_SG,BT8,Arup_Tap_Bib_SG,,,Bib Tap,Wall Mounted Hose Coupling Bib Tap,BT8,,<By Category>
+Plumbing Fixtures,Arup_Tap_Bib_SG,BT2,Arup_MaintenanceZone_Round,,,,,Default,,
+Plumbing Fixtures,Arup_Tap_Bib_SG,BT2,Arup_Tap_Bib_SG,,,Bib Tap,Wall Mounted Hose Coupling Bib Tap,BT2,,<By Category>
+Plumbing Fixtures,Arup_Tap_Bib_SG,BT5,Arup_MaintenanceZone_Round,,,,,Default,,
+Plumbing Fixtures,Arup_Tap_Bib_SG,BT5,Arup_Tap_Bib_SG,,,Bib Tap,Wall Mounted Hose Coupling Bib Tap,BT5,,<By Category>
+Plumbing Fixtures,P&S_Floor Waste,Floor Waste 50mm,P&S_Floor Waste,,,FW,FW,Floor Waste 50mm,,<By Category>
+Plumbing Fixtures,AP (600x600),600 X 600,AP (600x600),,,,,600 X 600,,<By Category>
+Plumbing Fixtures,Tap Point,Ø15mm,Tap Point,,,,Bib Tap,Ø15mm,,<By Category>
+Plumbing Fixtures,CONTROL PANEL PSP1,PSP CONTROL PANEL1,CONTROL PANEL PSP1,SP-CP-1,,500(L)X250(W)X700(H),CONTROL PANEL,PSP CONTROL PANEL1,,<By Category>
+Plumbing Fixtures,P&S_Floor Trap,Floor Waste 50mm,P&S_Floor Trap,,,FT,FT,Floor Waste 50mm,,<By Category>
+Plumbing Fixtures,NEwater CONTROL PANEL PSP,PSP CONTROL PANEL,NEwater CONTROL PANEL PSP,NW-CP,,500(L)X250(W)X700(H),CONTROL PANEL,PSP CONTROL PANEL,,<By Category>
+Plumbing Fixtures,CONTROL PANEL PSP2,PSP CONTROL PANEL,CONTROL PANEL PSP2,,,500(L)X250(W)X700(H),CONTROL PANEL,PSP CONTROL PANEL,,<By Category>
+Plumbing Fixtures,WATER LEVEL INDICATOR NEWATER,NEWATER WATER LEVEL,WATER LEVEL INDICATOR NEWATER,,,IL:00000,TL:000,NEWATER WATER LEVEL,,<By Category>
+Mechanical Equipment,,,Family1,,,,,,,
+Mechanical Equipment,,,AUS_Arup_MASS_Massing Plant_Cylinder_Mechanical,,,,,,,
+Mechanical Equipment,,,PL_Water Tank 1m x 1m,,,,,,,
+Mechanical Equipment,,,ArupSG_ME_Plinth1,,,,,,,
+Mechanical Equipment,,,PSP-ME-Pump Plinth1,,,,,,,
+Mechanical Equipment,SJ_ME_Sump Pump Small,SP-4,SJ_ME_Sump Pump Small,,,Seepage Discharge Pump,Discharge Pump,SP-4,,
+Mechanical Equipment,SJ_ME_Sump Pump Small,SP-3,SJ_ME_Sump Pump Small,,,Seepage Discharge Pump,Discharge Pump,SP-3,,
+Mechanical Equipment,SJ_ME_Sump Pump Small,SP-2,SJ_ME_Sump Pump Small,,,Seepage Discharge Pump,Discharge Pump,SP-2,,
+Mechanical Equipment,SJ_ME_Sump Pump Small,SP-1,SJ_ME_Sump Pump Small,,,Seepage Discharge Pump,Discharge Pump,SP-1,,
+Mechanical Equipment,,,ArupSG_ME_ MPA Service Pit Cover,,,,,,,
+Mechanical Equipment,,,PSP-ME-Sump Pit,,,,,,,
+Mechanical Equipment,Sump Pit Chequer Plate Cover,1000x1000,Sump Pit Chequer Plate Cover,,,,,1000x1000,,
+Mechanical Equipment,Sump Pit Chequer Plate Cover,2100x1200,Sump Pit Chequer Plate Cover,,,,,2100x1200,,
+Mechanical Equipment,,,ArupSG_ME_Tank Skip base,,,,,,,
+Mechanical Equipment,1)Plumbing_Pumps,Booster Pump NM-BP-1,1)Plumbing_Pumps,NW-BP-01,,Newater Booster Pump,Newater Booster Pump(NW-BP-01),Booster Pump NM-BP-1,,
+Mechanical Equipment,1)Plumbing_Pumps,Booster Pump NM-BP-2,1)Plumbing_Pumps,NW-BP-02,,Newater Booster Pump,Newater Booster Pump(NW-BP-02),Booster Pump NM-BP-2,,
+Mechanical Equipment,,,Pump Skip base,,,,,,,
+Mechanical Equipment,,,PSP-ME-L36 Tank Ladder,,,,,,,
+Walls,Basic Wall,Wall 100mm thk,Basic Wall,,,,,Wall 100mm thk,<By Category>,
+Electrical Equipment,,,Float Valve switch for sump pit,,,,,,,
+Cable Tray Fittings,Arup_Basket_Bend Vertical Inside,BasketComms,Arup_Basket_Bend Vertical Inside,,,Cable Basket Vertical Inside Bend,,BasketComms,,"<By Category>,<By Category>"
+Cable Trays,Cable Tray with Fittings,Arup_Basket_Comms,Cable Tray with Fittings,,,,,Arup_Basket_Comms,,"<By Category>,<By Category>"

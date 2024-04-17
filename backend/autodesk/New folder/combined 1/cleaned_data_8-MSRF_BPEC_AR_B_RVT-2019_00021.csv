@@ -1,0 +1,451 @@
+Family,SubFamily,ObjectGroup,ObjectName,Assembly Code,Assembly Description,Description,Type Comments,Type Name,Structural Material,Material
+Generic Models,FT01-L1a,NL-WD-LW-3P-FP-3070W*3350H,FT01-L1a,,,3070 X 3350,Louver,NL-WD-LW-3P-FP-3070W*3350H,,Aluminum
+Generic Models,FT01-L1a,NL-WD-LW-3P-FP-2575W*3350H,FT01-L1a,,,2575 X 3350,Louver,NL-WD-LW-3P-FP-2575W*3350H,,Aluminum
+Generic Models,FT01-LV4SBL,NL-WD-LW-3P-FP-2951W*3350H,FT01-LV4SBL,,,2951 X 3350,Louver,NL-WD-LW-3P-FP-2951W*3350H,,Aluminum
+Generic Models,FT01-LV4SBL,NL-WD-LW-3P-FP-2953W*3200H,FT01-LV4SBL,,,2953 X 3200,Louver,NL-WD-LW-3P-FP-2953W*3200H,,Aluminum
+Generic Models,FT01-LV4SBL,NL-WD-LW-3P-FP-2944W*2370H,FT01-LV4SBL,,,2944 X 2370,Louver,NL-WD-LW-3P-FP-2944W*2370H,,Aluminum
+Generic Models,FT01-LV4SBL,NL-WD-LW-3P-FP-2944W*1860H,FT01-LV4SBL,,,2944 X 1860,Louver,NL-WD-LW-3P-FP-2944W*1860H,,Aluminum
+Generic Models,FT02-LV1,NL-WD-LW-1P-FP-1050W*2750H,FT02-LV1,,,1050 X 2750,Louver,NL-WD-LW-1P-FP-1050W*2750H,,Aluminum
+Generic Models,FT02-LV1,NL-WD-LW-1P-FP-750W*2750H,FT02-LV1,,,750 X 2750,Louver,NL-WD-LW-1P-FP-750W*2750H,,Aluminum
+Generic Models,FT02-LV1,NL-WD-LW-1P-FO-1378W*885H,FT02-LV1,,,1378 X 885,Louver,NL-WD-LW-1P-FO-1378W*885H,,Aluminum
+Generic Models,FT02-LV2,NL-WD-LW-1P-FP-1050W*2750H,FT02-LV2,,,1050 X 2750,Louver,NL-WD-LW-1P-FP-1050W*2750H,,Aluminum
+Generic Models,FT02-LV2,NL-WD-LW-1P-FP-1050W*2900H,FT02-LV2,,,1050 X 2900,Louver,NL-WD-LW-1P-FP-1050W*2900H,,Aluminum
+Generic Models,FT02-LV2,NL-WD-LW-1P-FP-1300W*3251H,FT02-LV2,,,1300 x 3251,Louver,NL-WD-LW-1P-FP-1300W*3251H,,Aluminum
+Generic Models,FT02-LV2,NL-WD-LW-1P-FP-750W*2900H,FT02-LV2,,,750 X 2900,Louver,NL-WD-LW-1P-FP-750W*2900H,,Aluminum
+Generic Models,FT02-LV2,NL-WD-LW-1P-FP-1050W*2285H,FT02-LV2,,,1050 X 2285,Louver,NL-WD-LW-1P-FP-1050W*2285H,,Aluminum
+Generic Models,FT02-LV2,NL-WD-LW-1P-FP-1050W*1760H,FT02-LV2,,,1050 X 1760,Louver,NL-WD-LW-1P-FP-1050W*1760H,,Aluminum
+Generic Models,FT02-LV2,NL-WD-LW-1P-FP-1050W*2300H,FT02-LV2,,,1050 X 2300,Louver,NL-WD-LW-1P-FP-1050W*2300H,,Aluminum
+Generic Models,FT02-LV2,NL-WD-LW-1P-FP-1050W*1775H,FT02-LV2,,,1050 X 1775,Louver,NL-WD-LW-1P-FP-1050W*1775H,,Aluminum
+Generic Models,FT02-L1,NL-WD-LW-1P-FP-2030W*1081H,FT02-L1,,,2030 x 1081,Louver,NL-WD-LW-1P-FP-2030W*1081H,,Aluminum
+Generic Models,FT02-L1,NL-WD-LW-1P-FP-500W*500H,FT02-L1,,,500 x 500,Louver,NL-WD-LW-1P-FP-500W*500H,,Aluminum
+Generic Models,FT02-L1,NL-WD-LW-1P-FP-950W*1400H,FT02-L1,,,950 x 1400,Louver,NL-WD-LW-1P-FP-950W*1400H,,<By Category>
+Generic Models,FT02-LV10B,NL-WD-LW-1P-FP-1300W*3700H,FT02-LV10B,,,1300 X 3700,Louver,NL-WD-LW-1P-FP-1300W*3700H,,Aluminum
+Generic Models,FT01-LV1,NL-WD-LW-3P-FP-3115W*2300H,FT01-LV1,,,3115 X 2300,Louver,NL-WD-LW-3P-FP-3115W*2300H,,Aluminum
+Generic Models,FT01-LV1,NL-WD-LW-3P-FP-3160W*2300,FT01-LV1,,,3160 X 2300,Louver,NL-WD-LW-3P-FP-3160W*2300,,Aluminum
+Generic Models,FT01-LV1,NL-WD-LW-3P-FP-2715W*2300H,FT01-LV1,,,2715 X 2300,Louver,NL-WD-LW-3P-FP-2715W*2300H,,Aluminum
+Generic Models,FT01-LV2-S-FAP2,NL-WD-LW-3P-FP/SL-3160W*2300H,FT01-LV2-S-FAP2,,,3160 X 2300,Louver  with FAP Window,NL-WD-LW-3P-FP/SL-3160W*2300H,,Aluminum
+Generic Models,FT01-LV2-S,NL-WD-LW-3P-FP/SL-3160W*2300H,FT01-LV2-S,,,3160 X 2300,Louver  with Glass Window,NL-WD-LW-3P-FP/SL-3160W*2300H,,Aluminum
+Generic Models,FT01-LV2-S,NL-WD-LW-3P-FP/SL-3470W*2300H,FT01-LV2-S,,,3470 X 2300,Louver  with Glass Window,NL-WD-LW-3P-FP/SL-3470W*2300H,,Aluminum
+Generic Models,FT01-LV2-S-FAP,NL-WD-LW-3P-FP/SL-3160W*2300H,FT01-LV2-S-FAP,,,3160 X 2300,Louver  with FAP Window,NL-WD-LW-3P-FP/SL-3160W*2300H,,Aluminum
+Generic Models,FT01-LV2-S-FAP,NL-WD-LW-3P-FP/SL-3230W*2300H,FT01-LV2-S-FAP,,,3230 X 2300,Louver  with FAP Window,NL-WD-LW-3P-FP/SL-3230W*2300H,,Aluminum
+Generic Models,FT01-LV4,NL-WD-LW-3P-FP-3070W*3200H,FT01-LV4,,,3070 X 3200,Louver,NL-WD-LW-3P-FP-3070W*3200H,,Aluminum
+Generic Models,FT01-LV4,NL-WD-LW-3P-FP-2580W*3200H,FT01-LV4,,,2580 X 3200,Louver,NL-WD-LW-3P-FP-2580W*3200H,,Aluminum
+Generic Models,FT01-LV4,NL-WD-LW-FP-3070H*2370W,FT01-LV4,,,3070 X 2370,Louver,NL-WD-LW-FP-3070H*2370W,,Aluminum
+Generic Models,FT01-LV4,NL-WD-LW-3P-FP-2580W*2370H,FT01-LV4,,,2580 X 2370,Louver,NL-WD-LW-3P-FP-2580W*2370H,,Aluminum
+Generic Models,FT01-LV4,NL-WD-LW-3P-FP-3070W*1860H,FT01-LV4,,,3070 X 1860,Louver,NL-WD-LW-3P-FP-3070W*1860H,,Aluminum
+Generic Models,FT01-LV4,NL-WD-LW-FP-2580W*1680H,FT01-LV4,,,2580 X 1860,Louver,NL-WD-LW-FP-2580W*1680H,,Aluminum
+Generic Models,FT01-LV3,NL-WD--LW-FP-2630H*1037H,FT01-LV3,,,2360 X 1037,Louver,NL-WD--LW-FP-2630H*1037H,,Aluminum
+Generic Models,FT01-LV3,NL-WD-LW-2P-FP-2900W*1037H,FT01-LV3,,,2990 X 1037,Louver,NL-WD-LW-2P-FP-2900W*1037H,,Aluminum
+Generic Models,FT01-LV3,NL-WD-LW-2P-FP-2745W*1037H,FT01-LV3,,,2745 X 1037,Louver,NL-WD-LW-2P-FP-2745W*1037H,,Aluminum
+Generic Models,FT01-LV3,NL-WD-LW-2P-FP-2745W*900H,FT01-LV3,,,2745 X 900,Louver,NL-WD-LW-2P-FP-2745W*900H,,Aluminum
+Generic Models,FT01-LV3,NL-WD-LW-2P-FP-2550W*1900H,FT01-LV3,,,2550 X 1900,Louver,NL-WD-LW-2P-FP-2550W*1900H,,Aluminum
+Generic Models,FT01-LV3,FT01-LV3H,FT01-LV3,,,1820 X 300,Louver,FT01-LV3H,,Aluminum
+Generic Models,FT01-FW,NL-WD-1P-FP-2630W*1042H,FT01-FW,,,2630 X 1042,Glass Window,NL-WD-1P-FP-2630W*1042H,,Glass
+Generic Models,FT01-LV14,NL-WD-LW-1P-FP-2030W*2115H,FT01-LV14,,,2030 X 2115,Louver,NL-WD-LW-1P-FP-2030W*2115H,,Aluminum
+Generic Models,FT01-LV1A,NL-WD-LW-FP-3115W*2230H,FT01-LV1A,,,3115 X 2230,Louver,NL-WD-LW-FP-3115W*2230H,,Aluminum
+Generic Models,FT01-LV2-SA,NL-WD-LW-3P-FP/SL-3160W*2230H,FT01-LV2-SA,,,3160 X 2230,Louver  with Glass Window,NL-WD-LW-3P-FP/SL-3160W*2230H,,Aluminum
+Generic Models,FT01-LV2-S-FAP-A,NL-WD-LW-3P-FP/SL-3160W*2230H,FT01-LV2-S-FAP-A,,,3160 X 2230,Louver  with FAP Window,NL-WD-LW-3P-FP/SL-3160W*2230H,,Aluminum
+Generic Models,FT01-LV2-S-FAP-A,NL-WD-LW-3P-FP/SL-3470W*2230H,FT01-LV2-S-FAP-A,,,3470 X 2230,Louver  with FAP Window,NL-WD-LW-3P-FP/SL-3470W*2230H,,Aluminum
+Generic Models,FT01-LV2-S-FAP-A,NL-WD-LW-3P-FP/SL-3225W*2230H,FT01-LV2-S-FAP-A,,,3225 X 2230,Louver  with FAP Window,NL-WD-LW-3P-FP/SL-3225W*2230H,,Aluminum
+Generic Models,FT01-LV1B,NL-WD-LW-3P-FP-3160W*2230H,FT01-LV1B,,,3160 X 2230,Louver,NL-WD-LW-3P-FP-3160W*2230H,,Aluminum
+Generic Models,FT01-LV1B,NL-WD-LW-3P-FP-2670W*2230H,FT01-LV1B,,,2670 X 2230,Louver,NL-WD-LW-3P-FP-2670W*2230H,,Aluminum
+Generic Models,FT02-LV17,NL-WD-LW-1P-FP-1050W*1760H,FT02-LV17,,,1050 X 1760,Louver,NL-WD-LW-1P-FP-1050W*1760H,,Aluminum
+Generic Models,FT02-LV17,NL-WD-LW-1P-FP-1050W*2285H,FT02-LV17,,,1050 X 2285,Louver,NL-WD-LW-1P-FP-1050W*2285H,,Aluminum
+Generic Models,FT02-FAP-2,NL-WD-LW-1P-FP/SH-1050W*2900H,FT02-FAP-2,,,1050 X 2900,Louver  with FAP Window,NL-WD-LW-1P-FP/SH-1050W*2900H,,Aluminum
+Generic Models,FT02-FW2,NL-WD-LW-1P-FP-1050W*2900H,FT02-FW2,,,1050 X 2900,Louver  with Glass Window,NL-WD-LW-1P-FP-1050W*2900H,,Aluminum
+Generic Models,FT02-FW5,NL-WD-LW-1P-1050W*2900H,FT02-FW5,,,1050 X 2900,Louver  with Glass Window,NL-WD-LW-1P-1050W*2900H,,Aluminum
+Generic Models,FT02-FW5,NL-WD-LW-1P-FP-1050W*2750H,FT02-FW5,,,1050 X 2750,Louver  with Glass Window,NL-WD-LW-1P-FP-1050W*2750H,,Aluminum
+Generic Models,FT02-FW1,NL-WD-LW-1P-FP-1050W*2750H,FT02-FW1,,,1050 X 2750,Louver  with Glass Window,NL-WD-LW-1P-FP-1050W*2750H,,Aluminum
+Generic Models,FT02-FW5A,NL-WD-LW-1P-FP-1050W*2900H,FT02-FW5A,,,1050 X 2900,Louver  with Glass Window,NL-WD-LW-1P-FP-1050W*2900H,,Aluminum
+Generic Models,FT02-FW5A,NL-WD-LW-1P-FP-1050W*2750H,FT02-FW5A,,,1050 X 2750,Louver  with Glass Window,NL-WD-LW-1P-FP-1050W*2750H,,Aluminum
+Generic Models,FT02-FAP-1,NL-WD-LW-1P-FP/SH-1050W*2750H,FT02-FAP-1,,,1050 X 2750,Louver  with FAP Window,NL-WD-LW-1P-FP/SH-1050W*2750H,,Aluminum
+Generic Models,FT02-FAP-3,NL-WD-LW-1P-FP/SH-1050W*2300H,FT02-FAP-3,,,1050 X 2300,Louver  with FAP Window,NL-WD-LW-1P-FP/SH-1050W*2300H,,Aluminum
+Generic Models,ST-9A,9A-0,ST-9A,,,1900X1500,Louver,9A-0,,Aluminum
+Generic Models,ST-9A,9A-01-03W,ST-9A,,,1900X1500,Louver,9A-01-03W,,Aluminum
+Generic Models,ST-9A,9A-1M-01W,ST-9A,,,1900X1500,Louver,9A-1M-01W,,Aluminum
+Generic Models,ST-9A,9A-02-01W,ST-9A,,,1900X1500,Louver,9A-02-01W,,Aluminum
+Generic Models,ST-9A,9A-02-03W,ST-9A,,,1900X1500,Louver,9A-02-03W,,Aluminum
+Generic Models,ST-9A,9A-02-05W,ST-9A,,,1900X1500,Louver,9A-02-05W,,Aluminum
+Generic Models,ST-9A,9A-2M-01W,ST-9A,,,1900X1500,Louver,9A-2M-01W,,Aluminum
+Generic Models,ST-9A,9A-T-01W,ST-9A,,,1900X1500,Louver,9A-T-01W,,Aluminum
+Generic Models,ST-9A,9A-01-06W,ST-9A,,,1900X1500,Louver,9A-01-06W,,Aluminum
+Generic Models,ST-9A,9A-T-03W,ST-9A,,,1900X1500,Louver,9A-T-03W,,Aluminum
+Generic Models,ST-9A,9A-TM-01W,ST-9A,,,1900X1500,Louver,9A-TM-01W,,Aluminum
+Generic Models,ST-9A,NL-WD-LW-2P-FP-1950W*1100H,ST-9A,,,1950 X 1100,Louver,NL-WD-LW-2P-FP-1950W*1100H,,Aluminum
+Generic Models,ST-9A,9A-T-05W,ST-9A,,,950 x 1500,Louver,9A-T-05W,,Aluminum
+Generic Models,CS2,NL-WD-1P-FP/SH-3200W*2624W,CS2,,,3200 X 2624,Glass Window,NL-WD-1P-FP/SH-3200W*2624W,,Glass
+Generic Models,CS2,NL-WD-1P-FP-3200W*2624H,CS2,,,3200 X 2624,Glass Window,NL-WD-1P-FP-3200W*2624H,,Glass
+Generic Models,CS2,NL-WD-1P-FP-2740W*2624H,CS2,,,2740 X 2624,Glass Window,NL-WD-1P-FP-2740W*2624H,,Glass
+Generic Models,CS2,NL-WD-1P-FP-3200W*2380H,CS2,,,3200 X 2380,Glass Window,NL-WD-1P-FP-3200W*2380H,,Glass
+Generic Models,CS2,NL-WD-1P-FP-2740W*2380H,CS2,,,2740 X 2380,Glass Window,NL-WD-1P-FP-2740W*2380H,,Glass
+Generic Models,CS,NL-WD-1P-FP/SH-2630W*3350H,CS,,,2630 X 3350,Glass Window,NL-WD-1P-FP/SH-2630W*3350H,,Glass
+Generic Models,CS,NL-WD-1P-FP/SH-3200W*2380H,CS,,,3200 X 2380,Glass Window,NL-WD-1P-FP/SH-3200W*2380H,,Glass
+Generic Models,CS,NL-WD-1P-FP/SH-2380W*3350H,CS,,,2380 X 3350,Glass Window,NL-WD-1P-FP/SH-2380W*3350H,,Glass
+Generic Models,ST-9A-01,ST-09-01,ST-9A-01,,,1275 x 650,Louver,ST-09-01,,Aluminum
+Generic Models,ST-9A-01,9A-01-08W,ST-9A-01,,,1225X600,Louver,9A-01-08W,,Aluminum
+Generic Models,ST-9A-01,9A-01-09W,ST-9A-01,,,1225X600,Louver,9A-01-09W,,Aluminum
+Generic Models,ST-9A-01,NL-WD-LW-1P-FP-1250W*1950H,ST-9A-01,,,1250 x 1950,Louver,NL-WD-LW-1P-FP-1250W*1950H,,Aluminum
+Generic Models,FT03,FT03-5M-1,FT03,,,,,FT03-5M-1,,<By Category>
+Generic Models,FT03,FT03-5M-2,FT03,,,FT03 - 6280X1205,,FT03-5M-2,,<By Category>
+Generic Models,FT03,FT03-5M-3,FT03,,,FT03 -4475X1025,,FT03-5M-3,,<By Category>
+Generic Models,FT03,FT03-5M-5,FT03,,,FT03-1205X4225,,FT03-5M-5,,<By Category>
+Generic Models,FT03,FT03-5M-7,FT03,,,FT03-1205X5200,,FT03-5M-7,,<By Category>
+Generic Models,FT03,FT03-5M-8A,FT03,,,FT03-1205X5555,,FT03-5M-8A,,<By Category>
+Generic Models,FT03,FT03-5M-7a,FT03,,,FT03-1205X5200,,FT03-5M-7a,,<By Category>
+Generic Models,FT03,FT03-5M-8,FT03,,,FT03-1205X5200,,FT03-5M-8,,<By Category>
+Generic Models,FT03,FT03-5M-4,FT03,,,FT03-1205X4212,,FT03-5M-4,,<By Category>
+Generic Models,FT03,FT03-5M-11,FT03,,,FT03-1205X2410,,FT03-5M-11,,<By Category>
+Generic Models,FT03,FT03-5M-10,FT03,,,FT03-1205X5200,,FT03-5M-10,,<By Category>
+Generic Models,FT03,FT03-5M-13,FT03,,,FT03-1205X1375,,FT03-5M-13,,<By Category>
+Generic Models,FT03,FT03-5M-14,FT03,,,FT03-1205X4975,,FT03-5M-14,,<By Category>
+Generic Models,FT03-1,FT03-1-13a,FT03-1,,,FT03-1495X1375,,FT03-1-13a,,<By Category>
+Generic Models,FT03-1,FT03-1-7a,FT03-1,,,FT03-1495x5200,,FT03-1-7a,,<By Category>
+Generic Models,FT03-1,FT03-1-8a,FT03-1,,,FT03-1495x5200,,FT03-1-8a,,<By Category>
+Generic Models,FT03-1,FT03-1-14a,FT03-1,,,FT03-1495x4975,,FT03-1-14a,,<By Category>
+Generic Models,FT03- 2,FT03-5M-1,FT03- 2,,,FT03 -4620X1205,,FT03-5M-1,,<By Category>
+Generic Models,FT03- 2,FT03-5M-1 2,FT03- 2,,,FT03 -4620X1205,,FT03-5M-1 2,,<By Category>
+Generic Models,FT03- 2,FT03-5M-1 3,FT03- 2,,,FT03 -4620X1205,,FT03-5M-1 3,,<By Category>
+Generic Models,FT01-LV3SBL,NL-WD-LW-2P-FP-2630W*1037H,FT01-LV3SBL,,,2630 X 1037,Louver,NL-WD-LW-2P-FP-2630W*1037H,,Aluminum
+Generic Models,G-1M-1,SBLV-0036,G-1M-1,,,1245 x 3400,Louver,SBLV-0036,,Aluminum
+Generic Models,G-1M-1,SBLV-039,G-1M-1,,,1228X3130,Louver,SBLV-039,,Aluminum
+Generic Models,G-1M-1,SBLV-040,G-1M-1,,,1228X3130,Louver,SBLV-040,,Aluminum
+Generic Models,G-1M-1,SBLV-047,G-1M-1,,,1239 x 3400,Louver,SBLV-047,,Aluminum
+Generic Models,G-1M-1,SBLV-014,G-1M-1,,,1014X2770,Louver,SBLV-014,,Aluminum
+Generic Models,G-1M-1,SBLV-013,G-1M-1,,,1303 x 3040,Louver,SBLV-013,,Aluminum
+Generic Models,G-1M-1,SBLV-054,G-1M-1,,,1220 x 3040,Louver,SBLV-054,,Aluminum
+Generic Models,G-1M-1,SBLV-056,G-1M-1,,,1264 x 3040,Louver,SBLV-056,,Aluminum
+Generic Models,G-1M-1,SBLV-061,G-1M-1,,,1304 x 3040,Louver,SBLV-061,,Aluminum
+Generic Models,G-1M-1,SBLV-053,G-1M-1,,,610X2770,Louver,SBLV-053,,Aluminum
+Generic Models,G-1M-1,SBLV-034,G-1M-1,,,1305 x 3400,Louver,SBLV-034,,Aluminum
+Generic Models,G-1M-1,SBLV-057,G-1M-1,,,1304 x 3400,Louver,SBLV-057,,Aluminum
+Generic Models,G-1M-1,SBLV-007,G-1M-1,,,1268 x 2900,Louver,SBLV-007,,Aluminum
+Generic Models,G-1M-1,SBLV-024,G-1M-1,,,1329 x 3400,Louver,SBLV-024,,Aluminum
+Generic Models,G-1M-1,SBLV-023,G-1M-1,,,1379 x 3400,Louver,SBLV-023,,Aluminum
+Generic Models,G-1M-1,SBLV-025,G-1M-1,,,1080.5 x 3000,Louver,SBLV-025,,Aluminum
+Generic Models,G-1M-1,SBLV-027,G-1M-1,,,968.8x2900,Louver,SBLV-027,,Aluminum
+Generic Models,G-1M-1,SBLV-060,G-1M-1,,,1304 x 3550,Louver,SBLV-060,,Aluminum
+Generic Models,G-1M-1,SBLV-059,G-1M-1,,,1304 x 3400,Louver,SBLV-059,,Aluminum
+Generic Models,G-1M-1,SBLV-038,G-1M-1,,,1228X3130,Louver,SBLV-038,,Aluminum
+Generic Models,G-1M-1,SBLV-0035,G-1M-1,,,1295 x 3400,Louver,SBLV-0035,,Aluminum
+Generic Models,G-1M-1,SBLV-042A,G-1M-1,,,1244 x 3400,Louver,SBLV-042A,,Aluminum
+Generic Models,G-1M-1,SBLV-0035A,G-1M-1,,,1295 x 3400,Louver,SBLV-0035A,,Aluminum
+Generic Models,G-1M-1,SBLV-005,G-1M-1,,,1303 x 3400,Louver,SBLV-005,,Aluminum
+Generic Models,G-1M-1,SBLV-048,G-1M-1,,,1264 x3550,Louver,SBLV-048,,Aluminum
+Generic Models,G-1M-1,SBLV-005A,G-1M-1,,,1014 x 3420,Louver,SBLV-005A,,Aluminum
+Generic Models,G-1M-1,SBLV-016,G-1M-1,,,1014 x 3420,Louver,SBLV-016,,Aluminum
+Generic Models,G-1M-1,SBLV-016A,G-1M-1,,,1014 x 3420,Louver,SBLV-016A,,Aluminum
+Generic Models,G-1M-1,SBLV-006A,G-1M-1,,,1014 x 3420,Louver,SBLV-006A,,Aluminum
+Generic Models,G-1M-1,SBLV-049,G-1M-1,,,1305 x 3550,Louver,SBLV-049,,Aluminum
+Generic Models,G-1M-1,SBLV-051,G-1M-1,,,1238 x3550,Louver,SBLV-051,,Aluminum
+Generic Models,G-1M-1,SBLV-052,G-1M-1,,,1264 x3550,Louver,SBLV-052,,Aluminum
+Generic Models,G-1M-1,SBLV-050,G-1M-1,,,1014 x 3650,Louver,SBLV-050,,Aluminum
+Generic Models,G-1M-1,SBLV-009A,G-1M-1,,,1093 x 3550,Louver,SBLV-009A,,Aluminum
+Generic Models,G-1M-1,SBLV-010A,G-1M-1,,,1244 x 3550,Louver,SBLV-010A,,Aluminum
+Generic Models,G-1M-1,SBLV-011A,G-1M-1,,,1244 x 3550,Louver,SBLV-011A,,Aluminum
+Generic Models,G-1M-1,SBLV-012A,G-1M-1,,,1289 x 3550,Louver,SBLV-012A,,Aluminum
+Generic Models,G-1M-1,SBLV-012,G-1M-1,,,1303 x 3150,Louver,SBLV-012,,Aluminum
+Generic Models,G-1M-1,SBLV-011,G-1M-1,,,1268 x 3150,Louver,SBLV-011,,Aluminum
+Generic Models,G-1M-1,SBLV-010,G-1M-1,,,1268 x 3550,Louver,SBLV-010,,Aluminum
+Generic Models,G-1M-1,SBLV-009,G-1M-1,,,1303 x 3550,Louver,SBLV-009,,Aluminum
+Generic Models,G-1M-1,SBLV-032,G-1M-1,,,1157 x 3400,Louver,SBLV-032,,Aluminum
+Generic Models,G-1M-1,SBLV-032A,G-1M-1,,,1220 x 3400,Louver,SBLV-032A,,Aluminum
+Generic Models,G-1M-1,SBLV-033A,G-1M-1,,,1257 x 3400,Louver,SBLV-033A,,Aluminum
+Generic Models,G-1M-1,SBLV-033,G-1M-1,,,1215 x 3400,Louver,SBLV-033,,Aluminum
+Generic Models,G-1M-1,SBLV-065,G-1M-1,,,1416 x 3040,Louver,SBLV-065,,Aluminum
+Generic Models,G-1M-1,SBLV-063,G-1M-1,,,1379 x 3550,Louver,SBLV-063,,Aluminum
+Generic Models,G-1M-1,SBLV-062,G-1M-1,,,1379 x 3400,Louver,SBLV-062,,Aluminum
+Generic Models,G-1M-1,SBLV-064,G-1M-1,,,1416 x 3550,Louver,SBLV-064,,Aluminum
+Generic Models,G-1M-1,SBLV-055,G-1M-1,,,1239 x 3040,Louver,SBLV-055,,Aluminum
+Generic Models,G-1M-1,SBLV-006,G-1M-1,,,1267 x 3400,Louver,SBLV-006,,Aluminum
+Generic Models,G-1M-1,SBLV-008,G-1M-1,,,1303 x 2900,Louver,SBLV-008,,Aluminum
+Generic Models,G-1M-1,SBLV-046,G-1M-1,,,1219 x 3400,Louver,SBLV-046,,Aluminum
+Generic Models,G-1M-1,SBLV-0037,G-1M-1,,,1314 x 3400,Louver,SBLV-0037,,Aluminum
+Generic Models,G-1M-1,SBLV-045,G-1M-1,,,1239 x 3400,Louver,SBLV-045,,Aluminum
+Generic Models,G-1M-1,SBLV-023A,G-1M-1,,,1395 x 3400,Louver,SBLV-023A,,Aluminum
+Generic Models,G-1M-1,SBLV-026,G-1M-1,,,1097 x 3000,Louver,SBLV-026,,Aluminum
+Generic Models,FT04-RV,MESH-011,FT04-RV,,,FT04-1200x3650,,MESH-011,,<By Category>
+Generic Models,FT04-RV,MESH-005,FT04-RV,,,FT04-1200X2790,,MESH-005,,<By Category>
+Generic Models,FT04-RV,MESH-002,FT04-RV,,,FT04-1200X2790,,MESH-002,,<By Category>
+Generic Models,FT04-RV,FT04-RV 1 (1200*3550),FT04-RV,,,FT04-1200x3650,,FT04-RV 1 (1200*3550),,<By Category>
+Generic Models,FT04-RV,MESH-020,FT04-RV,,,FT04-1200X3400,,MESH-020,,<By Category>
+Generic Models,FT04-RVEND_L,MESH-015,FT04-RVEND_L,,,FT04-967X3650,,MESH-015,,<By Category>
+Generic Models,FT04-RVEND_L,MESH-029,FT04-RVEND_L,,,FT04-870X2790,,MESH-029,,<By Category>
+Generic Models,FT04-RVEND_L,MESH-025,FT04-RVEND_L,,,FT04-835X2790,,MESH-025,,<By Category>
+Generic Models,FT04-RVEND_L,FT04-RV 1 (1165*3550),FT04-RVEND_L,,,FT04-1165X3550,,FT04-RV 1 (1165*3550),,<By Category>
+Generic Models,FT04-RVEND_L,MESH-001,FT04-RVEND_L,,,FT04-1165X2790,,MESH-001,,<By Category>
+Generic Models,FT04-RVEND_L,MESH-006,FT04-RVEND_L,,,FT04-1120X2790,,MESH-006,,<By Category>
+Generic Models,FT04-RVEND_L,FT04-RV 1 (1120*3650),FT04-RVEND_L,,,FT041120X3650,,FT04-RV 1 (1120*3650),,<By Category>
+Generic Models,FT04-RVEND_L,MESH-035,FT04-RVEND_L,,,FT04-890X3650,,MESH-035,,<By Category>
+Generic Models,FT04-RVEND_L,MESH-014,FT04-RVEND_L,,,FT04-1165X3650,,MESH-014,,<By Category>
+Generic Models,FT04-RVEND_L,MESH-033,FT04-RVEND_L,,,FT04-1200X3400,,MESH-033,,<By Category>
+Generic Models,FT04-RVEND_R,MESH-004,FT04-RVEND_R,,,FT04-773X3400,,MESH-004,,<By Category>
+Generic Models,FT04-RVEND_R,MESH-028,FT04-RVEND_R,,,FT04-1270X3650,,MESH-028,,<By Category>
+Generic Models,FT04-RVEND_R,MESH-022,FT04-RVEND_R,,,FT04-773X3400,,MESH-022,,<By Category>
+Generic Models,FT04-RVEND_R,MESH-027,FT04-RVEND_R,,,FT04-1270X3650,,MESH-027,,<By Category>
+Generic Models,FT04-RVEND_R,MESH-026,FT04-RVEND_R,,,FT04-773X3400,,MESH-026,,<By Category>
+Generic Models,FT04-RVEND_R,MESH-030,FT04-RVEND_R,,,FT04-773X3400,,MESH-030,,<By Category>
+Generic Models,FT04-RVEND_R,MESH-024,FT04-RVEND_R,,,FT04-773X3400,,MESH-024,,<By Category>
+Generic Models,FT04-RVEND_R,MESH-032,FT04-RVEND_R,,,FT04-773X3400,,MESH-032,,<By Category>
+Generic Models,FT07,FT07,FT07,,,,,FT07,,<By Category>
+Generic Models,FT07,FT07A,FT07,,,,,FT07A,,<By Category>
+Generic Models,FT07F,FT07F,FT07F,,,,,FT07F,,<By Category>
+Generic Models,FT06,FT06A,FT06,,,,,FT06A,,<By Category>
+Generic Models,FT07-11,FT07-2,FT07-11,,,,,FT07-2,,<By Category>
+Generic Models,FT07-1,FT07-1,FT07-1,,,,,FT07-1,,<By Category>
+Generic Models,RHS FRAME,RHS 1,RHS FRAME,,,2640X2790,,RHS 1,,<By Category>
+Generic Models,FT09B,FT09B,FR5,,,,,FR5,,<By Category>
+Generic Models,FT09B,FT09B,FT09B,,,,,FT09B,,<By Category>
+Generic Models,FT09-1,FT09E,FR5a,,,,,FR5a,,<By Category>
+Generic Models,FT09-1,FT09E,FT09-1,,,,,FT09E,,<By Category>
+Generic Models,FT09,FT09A,FR5,,,,,FR5,,<By Category>
+Generic Models,FT09,FT09A,FT09,,,,,FT09A,,<By Category>
+Generic Models,FT09C,FT09C,FR5,,,,,FR5,,<By Category>
+Generic Models,FT09C,FT09C,FR7,,,,,FR7,,<By Category>
+Generic Models,FT09C,FT09C,FT09C,,,,,FT09C,,<By Category>
+Generic Models,FT09D,FT09D,FR7,,,,,FR7,,<By Category>
+Generic Models,FT09D,FT09D,FT09D,,,,,FT09D,,<By Category>
+Generic Models,FT02-LV4,FT02-A,FT02-LV4,,,1050X2900,,FT02-A,,<By Category>
+Generic Models,FTO9-CL1,FTO9-CL,FTO9-CL1,,,,,FTO9-CL,,<By Category>
+Generic Models,FT09-CL1,FT09-CL-1,FT09-CL1,,,,,FT09-CL-1,,<By Category>
+Generic Models,FT09-CL2,FT09-CL-2,FT09-CL2,,,,,FT09-CL-2,,<By Category>
+Generic Models,FTO09-CL1,FTO09-CL-3,FTO09-CL1,,,,,FTO09-CL-3,,<By Category>
+Generic Models,FT09-CL3,FT09-CL-4,FT09-CL3,,,,,FT09-CL-4,,<By Category>
+Generic Models,FT09-CL4,FT09-CL-4,FT09-CL4,,,,,FT09-CL-4,,<By Category>
+Generic Models,FT09-CL5,FT09-CL-4,FT09-CL5,,,,,FT09-CL-4,,<By Category>
+Generic Models,FT09-CL6,FT09-CL-4,FT09-CL6,,,,,FT09-CL-4,,<By Category>
+Generic Models,FT07 GC,FT07 GC,FT07 GC,,,,,FT07 GC,,<By Category>
+Generic Models,FT07E,FT07E,FT07E,,,,,FT07E,,<By Category>
+Generic Models,cladd 1,cladd 13,cladd 1,,,,,cladd 13,,<By Category>
+Generic Models,FT09C1,FT09C1,FR5a,,,,,FR5a,,<By Category>
+Generic Models,FT09C1,FT09C1,FR7a,,,,,FR7a,,<By Category>
+Generic Models,FT09C1,FT09C1,FT09C1,,,,,FT09C1,,<By Category>
+Generic Models,FTO09-CL2,FTO09-CL-3,FTO09-CL2,,,,,FTO09-CL-3,,<By Category>
+Generic Models,PANEL 2,PANEL 2,PANEL 2,,,,,PANEL 2,,<By Category>
+Generic Models,DH-SUPPORT,DH-SUPPORT,DH-SUPPORT,,,,,DH-SUPPORT,,<By Category>
+Generic Models,DH-SUPPORT,DH-SUPPORT 2,DH-SUPPORT,,,,,DH-SUPPORT 2,,<By Category>
+Generic Models,FT02-LV-FAP,FT02-LV-FAP,FT02-LV-FAP,,,1050 X 2900,FAP Window,FT02-LV-FAP,,Aluminum
+Generic Models,FAP PANEL,NL-WD-P-1P-1050W*2900,FAP PANEL,,,1050 x 2900,FAP Window,NL-WD-P-1P-1050W*2900,,Glass
+Generic Models,FT03_FAP,FT03_FAP,FT03_FAP,,,,FAP Window,FT03_FAP,,Aluminum
+Generic Models,FT07 GC-COR,FT07 GC-COR,FT07 GC-COR,,,,,FT07 GC-COR,,<By Category>
+Generic Models,FT03_HDG-SB,FT03_HDG-SB,FT03_HDG-SB,,,,,FT03_HDG-SB,,<By Category>
+Generic Models,FT03_HDG-SB,FT03_HDG-SB 2,FT03_HDG-SB,,,,,FT03_HDG-SB 2,,<By Category>
+Generic Models,FT03_HDG-SB,FT03_HDG-SB 4,FT03_HDG-SB,,,,,FT03_HDG-SB 4,,<By Category>
+Generic Models,FT03_HDG-SB,FT03_HDG-SB 5,FT03_HDG-SB,,,,,FT03_HDG-SB 5,,<By Category>
+Generic Models,FT03_HDG-SB,FT03_HDG-SB 6,FT03_HDG-SB,,,,,FT03_HDG-SB 6,,<By Category>
+Generic Models,FT03_HDG-SB,FT03_HDG-SB 7,FT03_HDG-SB,,,,,FT03_HDG-SB 7,,<By Category>
+Generic Models,FT03_HDG-SB,FT03_HDG-SB 8,FT03_HDG-SB,,,,,FT03_HDG-SB 8,,<By Category>
+Generic Models,FT03_TIE ROD,FT03_TIE ROD 2,FT03_TIE ROD,,,,,FT03_TIE ROD 2,,<By Category>
+Generic Models,FT03_TIE ROD,FT03_TIE ROD 4,FT03_TIE ROD,,,,,FT03_TIE ROD 4,,<By Category>
+Generic Models,FT03_TIE ROD,FT03_TIE ROD 3,FT03_TIE ROD,,,,,FT03_TIE ROD 3,,<By Category>
+Generic Models,FT03_TIE ROD,FT03_TIE ROD,FT03_TIE ROD,,,,,FT03_TIE ROD,,<By Category>
+Generic Models,FT03_TIE ROD,FT03_TIE ROD 5,FT03_TIE ROD,,,,,FT03_TIE ROD 5,,<By Category>
+Generic Models,FT03_BKT-COR,FT03_BKT-COR,FT03_BKT-COR,,,,,FT03_BKT-COR,,<By Category>
+Generic Models,FT03_BKT,FT03_BKT,FT03_BKT,,,,,FT03_BKT,,<By Category>
+Generic Models,FT03_BKT,FT03_BKT 2,FT03_BKT,,,,,FT03_BKT 2,,<By Category>
+Generic Models,FT03_BKT,FT03_BKT 3,FT03_BKT,,,,,FT03_BKT 3,,<By Category>
+Generic Models,FT03_BKT,FT03_BKT 4,FT03_BKT,,,,,FT03_BKT 4,,<By Category>
+Generic Models,FT03_BKT,FT03_BKT 5,FT03_BKT,,,,,FT03_BKT 5,,<By Category>
+Generic Models,FT03_BKT,FT03_BKT 6,FT03_BKT,,,,,FT03_BKT 6,,<By Category>
+Generic Models,FT03_BKT,FT03_BKT 7,FT03_BKT,,,,,FT03_BKT 7,,<By Category>
+Generic Models,FT03_BKTA,FT03_BKTA,FT03_BKTA,,,,,FT03_BKTA,,<By Category>
+Generic Models,FT03_BKTA,FT03_BKTA 2,FT03_BKTA,,,,,FT03_BKTA 2,,<By Category>
+Generic Models,FT03_BKTA,FT03_BKTA 5,FT03_BKTA,,,,,FT03_BKTA 5,,<By Category>
+Generic Models,FT03_BKTA,FT03_BKTA 6,FT03_BKTA,,,,,FT03_BKTA 6,,<By Category>
+Generic Models,FT03_BKTA,FT03_BKTA 3,FT03_BKTA,,,,,FT03_BKTA 3,,<By Category>
+Generic Models,FT03_BKTA,FT03_BKTA 4,FT03_BKTA,,,,,FT03_BKTA 4,,<By Category>
+Generic Models,FT03_BKTB,FT03_BKTB,FT03_BKTB,,,,,FT03_BKTB,,<By Category>
+Generic Models,FT02_RHS,FT02_RHS,FT02_RHS,,,,,FT02_RHS,,<By Category>
+Generic Models,FT02_RHS,FT02_RHS 2,FT02_RHS,,,,,FT02_RHS 2,,<By Category>
+Generic Models,FT03-SC RHS1,FT03-SC RHS1,FT03-SC RHS1,,,,,FT03-SC RHS1,,<By Category>
+Generic Models,MS PLATE,MS PLATE,MS PLATE,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE1,MS PLATE,MS PLATE1,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE2,MS PLATE,MS PLATE2,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE3,MS PLATE,MS PLATE3,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE4,MS PLATE,MS PLATE4,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE5,MS PLATE,MS PLATE5,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE6,MS PLATE,MS PLATE6,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE7,MS PLATE,MS PLATE7,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE8,MS PLATE,MS PLATE8,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE9,MS PLATE,MS PLATE9,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE10,MS PLATE,MS PLATE10,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE11,MS PLATE,MS PLATE11,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE12,MS PLATE,MS PLATE12,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE13,MS PLATE,MS PLATE13,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE14,MS PLATE,MS PLATE14,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE15,MS PLATE,MS PLATE15,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE16,MS PLATE,MS PLATE16,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE17,MS PLATE,MS PLATE17,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE18,MS PLATE,MS PLATE18,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE19,MS PLATE,MS PLATE19,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE20,MS PLATE,MS PLATE20,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE21,MS PLATE,MS PLATE21,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE22,MS PLATE,MS PLATE22,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE23,MS PLATE,MS PLATE23,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE24,MS PLATE,MS PLATE24,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE25,MS PLATE,MS PLATE25,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE26,MS PLATE,MS PLATE26,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE27,MS PLATE,MS PLATE27,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE28,MS PLATE,MS PLATE28,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE29,MS PLATE,MS PLATE29,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE30,MS PLATE,MS PLATE30,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE31,MS PLATE,MS PLATE31,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE32,MS PLATE,MS PLATE32,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE33,MS PLATE,MS PLATE33,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE34,MS PLATE,MS PLATE34,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE35,MS PLATE,MS PLATE35,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE36,MS PLATE,MS PLATE36,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE37,MS PLATE,MS PLATE37,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE38,MS PLATE,MS PLATE38,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE39,MS PLATE,MS PLATE39,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE40,MS PLATE,MS PLATE40,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE41,MS PLATE,MS PLATE41,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE42,MS PLATE,MS PLATE42,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE43,MS PLATE,MS PLATE43,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE44,MS PLATE,MS PLATE44,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE45,MS PLATE,MS PLATE45,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE46,MS PLATE,MS PLATE46,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE47,MS PLATE,MS PLATE47,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE48,MS PLATE,MS PLATE48,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE49,MS PLATE,MS PLATE49,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE51,MS PLATE,MS PLATE51,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE52,MS PLATE,MS PLATE52,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE53,MS PLATE,MS PLATE53,,,,,MS PLATE,,<By Category>
+Generic Models,MS PLATE54,MS PLATE,MS PLATE54,,,,,MS PLATE,,<By Category>
+Generic Models,W11B,NL-WD-3P-SL-2950W*1870H,W11B,,,,Glass Window,NL-WD-3P-SL-2950W*1870H,,Glass
+Generic Models,W11A,NL-WD-2P-SL-2000W*1870H,W11A,,,,Glass Window,NL-WD-2P-SL-2000W*1870H,,Glass
+Generic Models,FT01-LVFW-1,FT01-LVSW-1,FT01-LVFW-1,,,FT02-1050X2750,Louver  with Glass Window,FT01-LVSW-1,,Aluminum
+Generic Models,FT01-LVFW-2,FT01-LVSW-2,FT01-LVFW-2,,,FT02-1050X2750,Louver  with Glass Window,FT01-LVSW-2,,Aluminum
+Generic Models,W10,NL-WD-1P-FP/TH-600W*1092H,W10,,,,Glass Window,NL-WD-1P-FP/TH-600W*1092H,,Glass
+Generic Models,AC AL SCREEN,AC AL SCREEN 2,AC AL SCREEN,,,,Louver,AC AL SCREEN 2,,Aluminum
+Generic Models,AC AL SCREEN,AC AL SCREEN,AC AL SCREEN,,,,,AC AL SCREEN,,<By Category>
+Generic Models,LEDGE CAPPING 3M,LEDGE CAPPING 3M,LEDGE CAPPING 3M,,,,,LEDGE CAPPING 3M,,<By Category>
+Generic Models,LEDGE CAPPING 3M,LEDGE CAPPING 3M 2,LEDGE CAPPING 3M,,,,,LEDGE CAPPING 3M 2,,<By Category>
+Generic Models,LEDGE CAPPING 3M,LEDGE CAPPING 5M,LEDGE CAPPING 3M,,,,,LEDGE CAPPING 5M,,<By Category>
+Generic Models,LEDGE CAPPING 3M,LEDGE CAPPING 5M 2,LEDGE CAPPING 3M,,,,,LEDGE CAPPING 5M 2,,<By Category>
+Generic Models,LEDGE CAPPING 3M,LEDGE CAPPING 4M,LEDGE CAPPING 3M,,,,,LEDGE CAPPING 4M,,<By Category>
+Generic Models,LEDGE CAPPING 3M,LEDGE CAPPING 4M 2,LEDGE CAPPING 3M,,,,,LEDGE CAPPING 4M 2,,<By Category>
+Generic Models,LEDGE CAPPING 3M,LEDGE CAPPING 6M,LEDGE CAPPING 3M,,,,,LEDGE CAPPING 6M,,<By Category>
+Generic Models,LEDGE CAPPING 3M,LEDGE CAPPING 6M 2,LEDGE CAPPING 3M,,,,,LEDGE CAPPING 6M 2,,<By Category>
+Generic Models,FAP,FAP-1,FAP,,,1050X2900,FAP Window,FAP-1,,Glass
+Generic Models,LEDGE CAPPING 1M,LEDGE CAPPING 1M 2,LEDGE CAPPING 1M,,,,,LEDGE CAPPING 1M 2,,<By Category>
+Generic Models,LEDGE CAPPING 1M,LEDGE CAPPING 1M,LEDGE CAPPING 1M,,,,,LEDGE CAPPING 1M,,<By Category>
+Generic Models,LEDGE CAPPING 1M,LEDGE CAPPING 2M 2,LEDGE CAPPING 1M,,,,,LEDGE CAPPING 2M 2,,<By Category>
+Generic Models,LEDGE CAPPING 1M,LEDGE CAPPING 2M,LEDGE CAPPING 1M,,,,,LEDGE CAPPING 2M,,<By Category>
+Generic Models,FCC VERT FINS,FCC VERT FINS,FCC VERT FINS,,,,,FCC VERT FINS,,<By Category>
+Generic Models,ICP,ICP,ICP,,,,,ICP,,<By Category>
+Generic Models,ICP,ICP 2,ICP,,,,,ICP 2,,<By Category>
+Generic Models,COPING A,COPING A,COPING A,,,,,COPING A,,<By Category>
+Generic Models,COPING A,COPING A 2,COPING A,,,,,COPING A 2,,<By Category>
+Generic Models,COPING A,COPING A 3,COPING A,,,,,COPING A 3,,<By Category>
+Generic Models,COPING A,COPING A 7,COPING A,,,,,COPING A 7,,<By Category>
+Generic Models,COPING A,COPING A 5,COPING A,,,,,COPING A 5,,<By Category>
+Generic Models,COPING A,COPING A 4,COPING A,,,,,COPING A 4,,<By Category>
+Generic Models,COPING B,COPING B1,COPING B,,,,,COPING B1,,<By Category>
+Generic Models,COPING B,COPING B1 2,COPING B,,,,,COPING B1 2,,<By Category>
+Generic Models,COPING B,COPING B1 3,COPING B,,,,,COPING B1 3,,<By Category>
+Generic Models,COPING B,COPING B1 4,COPING B,,,,,COPING B1 4,,<By Category>
+Generic Models,COPING B,COPING B1 6,COPING B,,,,,COPING B1 6,,<By Category>
+Generic Models,COPING B,COPING B1 8,COPING B,,,,,COPING B1 8,,<By Category>
+Generic Models,COPING B,COPING B1 7,COPING B,,,,,COPING B1 7,,<By Category>
+Generic Models,COPING B,COPING B1 5,COPING B,,,,,COPING B1 5,,<By Category>
+Generic Models,COPING B,COPING B1 9,COPING B,,,,,COPING B1 9,,<By Category>
+Generic Models,COPING B,COPING B1 10,COPING B,,,,,COPING B1 10,,<By Category>
+Generic Models,COPING C,COPING C,COPING C,,,,,COPING C,,<By Category>
+Generic Models,COPING E,COPING E 6,COPING E,,,,,COPING E 6,,<By Category>
+Generic Models,COPING E,COPING E 4,COPING E,,,,,COPING E 4,,<By Category>
+Generic Models,COPING E,COPING E 5,COPING E,,,,,COPING E 5,,<By Category>
+Generic Models,COPING E,COPING E 3,COPING E,,,,,COPING E 3,,<By Category>
+Generic Models,FT08,FT08 - 2,FR2,,,,,FR2,,<By Category>
+Generic Models,FT08,FT08 - 2,FT08,,,FT08,,FT08 - 2,,<By Category>
+Generic Models,FT08A,FT08A 2,FR1,,,,,FR1,,<By Category>
+Generic Models,FT08A,FT08A 2,FR2,,,,,FR2,,<By Category>
+Generic Models,FT08A,FT08A 2,FT08A,,,FT08,,FT08A 2,,<By Category>
+Generic Models,FT08A,FT08A 3,FR1,,,,,FR1,,<By Category>
+Generic Models,FT08A,FT08A 3,FR2,,,,,FR2,,<By Category>
+Generic Models,FT08A,FT08A 3,FT08A,,,FT08,,FT08A 3,,<By Category>
+Generic Models,ALUM LEDGE_FIN,ALUM LEDGE_FIN,ALUM LEDGE_FIN,,,,Louver,ALUM LEDGE_FIN,,Aluminum
+Generic Models,ALUM LEDGE,ALUM LEDGE,ALUM LEDGE,,,,,ALUM LEDGE,,<By Category>
+Generic Models,ALUM LEDGE 2,ALUM LEDGE,ALUM LEDGE 2,,,,,ALUM LEDGE,,<By Category>
+Generic Models,SUNSHADE 2,ALUM LEDGE,SUNSHADE 2,,,,,ALUM LEDGE,,<By Category>
+Generic Models,FT03_BKT-C,FT03_BKT-C2,FT03_BKT-C,,,,,FT03_BKT-C2,,<By Category>
+Generic Models,FT03_BKT-C,FT03_BKT-C1,FT03_BKT-C,,,,,FT03_BKT-C1,,<By Category>
+Generic Models,FT03-SC RHS,FT03-SC RHS,FT03-SC RHS,,,,,FT03-SC RHS,,<By Category>
+Generic Models,FT03-SC RHS2,FT03-SC RHS2,FT03-SC RHS2,,,,,FT03-SC RHS2,,<By Category>
+Generic Models,FT03_BKTC2,FT03_BKT,FT03_BKTC2,,,,,FT03_BKT,,<By Category>
+Generic Models,LR-FT08,FT08 - 1368mm,LR-FR2,,,,,LR-FR2,,<By Category>
+Generic Models,LR-FT08,FT08 - 1368mm,LR-FT08,,,FT08,,FT08 - 1368mm,,<By Category>
+Generic Models,LR-FT08,FT08 - 1045mm,LR-FR2,,,,,LR-FR2,,<By Category>
+Generic Models,LR-FT08,FT08 - 1045mm,LR-FT08,,,FT08,,FT08 - 1045mm,,<By Category>
+Generic Models,LR-FT08,FT08 - 604.000,LR-FR2,,,,,LR-FR2,,<By Category>
+Generic Models,LR-FT08,FT08 - 604.000,LR-FT08,,,FT08,,FT08 - 604.000,,<By Category>
+Generic Models,LR-FT08,FT08 - 1002mm,LR-FR2,,,,,LR-FR2,,<By Category>
+Generic Models,LR-FT08,FT08 - 1002mm,LR-FT08,,,FT08,,FT08 - 1002mm,,<By Category>
+Generic Models,LR-FT08,FT08 - 791mm,LR-FR2,,,,,LR-FR2,,<By Category>
+Generic Models,LR-FT08,FT08 - 791mm,LR-FT08,,,FT08,,FT08 - 791mm,,<By Category>
+Generic Models,LR-FT08,FT08 - 787mm,LR-FR2,,,,,LR-FR2,,<By Category>
+Generic Models,LR-FT08,FT08 - 787mm,LR-FT08,,,FT08,,FT08 - 787mm,,<By Category>
+Generic Models,LR-FT08,FT08 - 882mm,LR-FR2,,,,,LR-FR2,,<By Category>
+Generic Models,LR-FT08,FT08 - 882mm,LR-FT08,,,FT08,,FT08 - 882mm,,<By Category>
+Generic Models,LR-FT08A,LR-FT08A - 692mm,LR-FR1,,,,,LR-FR1,,<By Category>
+Generic Models,LR-FT08A,LR-FT08A - 692mm,LR-FR2,,,,,LR-FR2,,<By Category>
+Generic Models,LR-FT08A,LR-FT08A - 692mm,LR-FT08A,,,FT08,,LR-FT08A - 692mm,,<By Category>
+Generic Models,LR-FT08A,LR-FT08A (1151.000),LR-FR1,,,,,LR-FR1,,<By Category>
+Generic Models,LR-FT08A,LR-FT08A (1151.000),LR-FR2,,,,,LR-FR2,,<By Category>
+Generic Models,LR-FT08A,LR-FT08A (1151.000),LR-FT08A,,,FT08,,LR-FT08A (1151.000),,<By Category>
+Generic Models,LR-FT08A,FT08A - 1273mm,LR-FR1,,,,,LR-FR1,,<By Category>
+Generic Models,LR-FT08A,FT08A - 1273mm,LR-FR2,,,,,LR-FR2,,<By Category>
+Generic Models,LR-FT08A,FT08A - 1273mm,LR-FT08A,,,FT08,,FT08A - 1273mm,,<By Category>
+Generic Models,LR-FT08A,FT08A,LR-FR1,,,,,LR-FR1,,<By Category>
+Generic Models,LR-FT08A,FT08A,LR-FR2,,,,,LR-FR2,,<By Category>
+Generic Models,LR-FT08A,FT08A,LR-FT08A,,,FT08,,FT08A,,<By Category>
+Generic Models,FT08H,FT08H,FT08H,,,FT08,,FT08H,,<By Category>
+Generic Models,GAP COVER,GAP COVER,GAP COVER,,,,,GAP COVER,,<By Category>
+Generic Models,ESS1-BDP,ESS1-BDP,ESS1-BDP,,,,,ESS1-BDP,,<By Category>
+Generic Models,ALUM PANEL 3,ALUM PANEL 3,ALUM PANEL 3,,,,,ALUM PANEL 3,,<By Category>
+Generic Models,ALUM PANEL 889,ALUM PANEL 1,ALUM PANEL 889,,,,,ALUM PANEL 1,,<By Category>
+Generic Models,ALUM PANEL 889,ALUM PANEL 1230,ALUM PANEL 889,,,,,ALUM PANEL 1230,,<By Category>
+Generic Models,ALUM PANEL 889,ALUM PANEL 1049,ALUM PANEL 889,,,,,ALUM PANEL 1049,,<By Category>
+Generic Models,ALUM PANEL 889,ALUM PANEL 1324,ALUM PANEL 889,,,,,ALUM PANEL 1324,,<By Category>
+Generic Models,ALUM PANEL 889,ALUM PANEL 1311,ALUM PANEL 889,,,,,ALUM PANEL 1311,,<By Category>
+Generic Models,ALUM PANEL 889,ALUM PANEL 1160,ALUM PANEL 889,,,,,ALUM PANEL 1160,,<By Category>
+Generic Models,ALUM PANEL 889,ALUM PANEL 1450,ALUM PANEL 889,,,,,ALUM PANEL 1450,,<By Category>
+Generic Models,ALUM PANEL 889,ALUM PANEL 1044,ALUM PANEL 889,,,,,ALUM PANEL 1044,,<By Category>
+Generic Models,ALUM PANEL 889,ALUM PANEL 1112,ALUM PANEL 889,,,,,ALUM PANEL 1112,,<By Category>
+Generic Models,ALUM PANEL 889,ALUM PANEL 1196,ALUM PANEL 889,,,,,ALUM PANEL 1196,,<By Category>
+Generic Models,ALUM PANEL 1,ALUM PANEL 2,ALUM PANEL 1,,,,,ALUM PANEL 2,,<By Category>
+Generic Models,ALUM PANEL 4,ALUM PANEL 2,ALUM PANEL 4,,,,,ALUM PANEL 2,,<By Category>
+Generic Models,ALUM PANEL 5,ALUM PANEL 2,ALUM PANEL 5,,,,,ALUM PANEL 2,,<By Category>
+Generic Models,ALUM PANEL 6,ALUM PANEL 2,ALUM PANEL 6,,,,,ALUM PANEL 2,,<By Category>
+Generic Models,ALUM PANEL 1d,ALUM PANEL 1d,ALUM PANEL 1d,,,,,ALUM PANEL 1d,,<By Category>
+Generic Models,ALUM PANEL 7,ALUM PANEL 2,ALUM PANEL 7,,,,,ALUM PANEL 2,,<By Category>
+Generic Models,Generic Models 1,Generic Models 1,Generic Models 1,,,,,Generic Models 1,,<By Category>
+Generic Models,Generic Models 3,Generic Models 3,Generic Models 3,,,,,Generic Models 3,,<By Category>
+Generic Models,Generic Models 4,Generic Models 4,Generic Models 4,,,,,Generic Models 4,,<By Category>
+Generic Models,Generic Models 2,Generic Models 1,Generic Models 2,,,,,Generic Models 1,,<By Category>
+Generic Models,Generic Models 5,Generic Models 3,Generic Models 5,,,,,Generic Models 3,,<By Category>
+Generic Models,Generic Models 6,Generic Models 4,Generic Models 6,,,,,Generic Models 4,,<By Category>
+Walls,Curtain Wall,FT06 CURTAIN WALL,Glazed Panel,,,,Glass,FT06 GLASS,,<By Category>
+Walls,Curtain Wall,FT06 CURTAIN WALL,Rectangular Mullion,,,,,Rectangular Mullion 2,,<By Category>
+Walls,Curtain Wall,FT06 CURTAIN WALL,Rectangular Mullion,,,,,GW-BOT,,<By Category>
+Walls,Curtain Wall,FT06 CURTAIN WALL,Curtain Wall,,,,,FT06 CURTAIN WALL,<By Category>,<By Category>
+Walls,Curtain Wall,FT06 CURTAIN WALL,Rectangular Mullion,,,,,GW-TOP,,<By Category>
+Walls,Curtain Wall,FT06 CURTAIN WALL,Rectangular Mullion,,,,,Rectangular Mullion 5,,<By Category>
+Walls,Curtain Wall,FT05 CURTAIN WALL,Glazed Panel,,,,,FT05 GLASS,,<By Category>
+Walls,Curtain Wall,FT05 CURTAIN WALL,Rectangular Mullion,,,,,Rectangular Mullion 5,,<By Category>
+Walls,Curtain Wall,FT05 CURTAIN WALL,Rectangular Mullion,,,,,Rectangular Mullion 4,,<By Category>
+Walls,Curtain Wall,FT05 CURTAIN WALL,Rectangular Mullion,,,,,Rectangular Mullion 6,,<By Category>
+Walls,Curtain Wall,FT05 CURTAIN WALL,Rectangular Mullion,,,,,Rectangular Mullion 8,,<By Category>
+Walls,Curtain Wall,FT05 CURTAIN WALL,Curtain Wall,,,,,FT05 CURTAIN WALL,<By Category>,<By Category>
+Walls,Curtain Wall,Curtain Wall,Dbl Glass (3),,,,,Dbl Glass (3),,<By Category>
+Walls,Curtain Wall,Curtain Wall,Curtain Wall,,,,,Curtain Wall,<By Category>,<By Category>
+Walls,Curtain Wall,Curtain Wall,Dbl Glass (3)1,,,,,Dbl Glass (3) 1,,<By Category>
+Walls,Curtain Wall,Curtain Wall,Dbl Glass (3a),,,,,Dbl Glass (3a),,<By Category>
+Walls,Curtain Wall,Curtain Wall,Dbl Glass (3)2,,,,,Dbl Glass (3)2,,<By Category>
+Walls,Curtain Wall,Curtain Wall,Dbl Glass (3)3,,,,,Dbl Glass (3) 2,,<By Category>
+Walls,Basic Wall,BASIC WALL,Basic Wall,,,,,BASIC WALL,Metal Stud Layer,<By Category>
+Doors,D19 LOUVER DOOR,D2,D19 LOUVER DOOR,,,,,D2,,<By Category>
+Doors,D19 LOUVER DOOR,D2 2,D19 LOUVER DOOR,,,,,D2 2,,<By Category>
+Doors,D18 LOUVER DOUBLE DOOR,LouverDoorESS,D18 LOUVER DOUBLE DOOR,,,,,LouverDoorESS,,<By Category>
+Doors,ALUM. PANEL DOOR,Alum panel Door 1,ALUM. PANEL DOOR,,,,,Alum panel Door 1,,<By Category>
+Structural Columns,Rectangular and Square Hollow Tubes-Column,TUB100.6x76.2x4,Rectangular and Square Hollow Tubes-Column,,,,,TUB100.6x76.2x4,Metal - Steel - 345 MPa,<By Category>
+Generic Models,ALUM PANEL 2,ALUM PANEL 2,ALUM PANEL 2,,,,,ALUM PANEL 2,,<By Category>

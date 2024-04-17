@@ -1,0 +1,196 @@
+Family,SubFamily,ObjectGroup,ObjectName,Assembly Code,Assembly Description,Description,Type Comments,Type Name,Structural Material,Material
+Parking,SITE-PK-VCLE,SITE-PK-2400W*4800L_CAR,SITE-PK-VCLE,,,Car Parking Standard Lot (Perforated_Slab),Outdoor vehicle parking spaces,SITE-PK-2400W*4800L_CAR,,Interlocking Concrete Pavers
+Parking,SITE-PK-VCLE,SITE-PK-3600W*4800L 4800L_HANDICAP,SITE-PK-VCLE,,,Handicap Car Parking Standard Lot (Perforated_Slab),Accessible parking spaces,SITE-PK-3600W*4800L 4800L_HANDICAP,,Interlocking Concrete Pavers
+Parking,SITE-PK-VCLE,SITE-PK-3000W*12000L_LORRY,SITE-PK-VCLE,,,Lorry Parking Lot,Non Perforated,SITE-PK-3000W*12000L_LORRY,,White Paint
+Parking,SITE-PK-BICYCLE,SITE-PK-700W*1800L_BICYCLE,SITE-PK-BICYCLE,,,Single Tier Rack with Two Bicycle Parking Capacity,Cycle parking spaces,SITE-PK-700W*1800L_BICYCLE,,White Paint
+Floors,Floor,FL-CON-SSLB-200THK,Floor,,,,N.A.,FL-CON-SSLB-200THK,"Concrete, Sand/Cement Screed",Concrete - Cast In Situ
+Floors,Floor,IDA - Footpath - 200mm,Floor,,,,,IDA - Footpath - 200mm,<By Category>,<By Category>
+Floors,Floor,SITE-SFLS-200THK,Floor,,,,,SITE-SFLS-200THK,<By Category>,<By Category>
+Floors,Floor,SITE-RD-300THK,Floor,,,,N.A.,SITE-RD-300THK,<By Category>,Concrete - Cast In Situ
+Floors,Floor,SITE-SFLS-100THK,Floor,,,,,SITE-SFLS-100THK,<By Category>,<By Category>
+Floors,Floor,FL-CON-SSLB-150THK,Floor,,,,N.A.,FL-CON-SSLB-150THK,<By Category>,Concrete - Cast In Situ
+Floors,Floor,IDA - Drain Cover,Floor,,,,,IDA - Drain Cover,<By Category>,<By Category>
+Floors,Floor,FL-CON-SSLB-275THK,Floor,,,,N.A.,FL-CON-SSLB-275THK,"Concrete, Sand/Cement Screed",Concrete - Cast In Situ
+Floors,Floor,FL-CON-SSLB-300THK,Floor,,,,N.A.,FL-CON-SSLB-300THK,"Concrete, Sand/Cement Screed",Concrete - Cast In Situ
+Floors,Floor,FL-CON-SSLB-220THK,Floor,,,,N.A.,FL-CON-SSLB-220THK,"Concrete Masonry, Floor Block",Concrete - Cast In Situ
+Site,,,Eurobin,,,,,,,
+Site,,,IDA - Road Mark Arrow,,,,,,,
+Site,IDA - BRC Fence Adaptive w Kerb,Fence 1.8m 600Kerb,IDA - BRC Fence Adaptive w Kerb,,,,,Fence 1.8m 600Kerb,,
+Site,IDA - BRC Fence Adaptive w Kerb,Fence 2.4m 600Kerb,IDA - BRC Fence Adaptive w Kerb,,,,,Fence 2.4m 600Kerb,,
+Site,IDA - BRC Fence Adaptive w Kerb,Fence 2.4m 300Kerb,IDA - BRC Fence Adaptive w Kerb,,,,,Fence 2.4m 300Kerb,,
+Site,IDA - BRC Fence Adaptive w Kerb,Fence 2.4m 150Gap,IDA - BRC Fence Adaptive w Kerb,,,,,Fence 2.4m 150Gap,,
+Site,,,IDA - Fire Hydrant,,,,,,,
+Site,,,IDA - Bdy No,,,,,,,
+Site,,,IDA - Grating,,,,,,,
+Walls,Basic Wall,WALL-LWCP-200THK_SC_EXT4HR,Basic Wall,,,IDA - LCP - Skim Coat - Ext - 250mm,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-200THK_SC_EXT4HR,IDA - LCP - SkimCoat - Int,
+Walls,Basic Wall,WALL-LWCP-200THK_SC_EXT2HR,Basic Wall,,,IDA - LCP - Skim Coat - Int - 100mm,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-200THK_SC_EXT2HR,IDA - LCP - SkimCoat - Int,
+Walls,Basic Wall,WALL-LWCP-150THK_SC_EXT,Basic Wall,,,IDA - LCP - Skim Coat - Ext - 150mm,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-150THK_SC_EXT,IDA - LCP - SkimCoat - Ext,
+Walls,Basic Wall,SITE-RW-150THK,Basic Wall,,,IDA - Drain,RETAINING WALL,SITE-RW-150THK,IDA - Concrete - Cast-in-Place,
+Walls,Basic Wall,IDA - AAC - Plaster - Ext - 100mm,Basic Wall,,,IDA - AAC - Plaster - Ext - 100mm,,IDA - AAC - Plaster - Ext - 100mm,IDA - AAC - Plaster - Ext,
+Walls,Basic Wall,WALL-LWCP-150THK_PL_EXT,Basic Wall,,,IDA - LCP - Plaster - Ext - 150mm,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-150THK_PL_EXT,IDA - LCP - Plaster - Ext,
+Walls,Basic Wall,WALL-LWCP-150THK_PL_EXT2HR,Basic Wall,,,IDA - LCP - Plaster - Ext - 150mm,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-150THK_PL_EXT2HR,IDA - LCP - Plaster - Ext,
+Walls,Basic Wall,WALL-LWCP-200THK_PL_EXT,Basic Wall,,,IDA - LCP - Skim Coat - Ext - 200mm,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-200THK_PL_EXT,IDA - LCP - Plaster - Ext,
+Walls,Curtain Wall,IDA - CW - Ext - Perforated Panel,Rectangular Mullion,,,,,IDA - Rect - Top - Right,,"Metal - Stainless Steel,Polished"
+Walls,Curtain Wall,IDA - CW - Ext - Perforated Panel,Curtain Wall,,,IDA - CW - Single - Clear,,IDA - CW - Ext - Perforated Panel,<By Category>,
+Walls,Curtain Wall,IDA - CW - Ext - Trimo,Rectangular Mullion,,,,,IDA - Trimo - Top - Right,,<By Category>
+Walls,Curtain Wall,IDA - CW - Ext - Trimo,Curtain Wall,,,IDA - CW - Single - Clear,,IDA - CW - Ext - Trimo,<By Category>,
+Walls,Curtain Wall,IDA - CW - Ext - Trimo,System Panel,,,,,Trimo Panel with Light Silver,,Gray - Light
+Walls,Feature Wall2,Feature Wall,Feature Wall2,,,,,Feature Wall,<By Category>,
+Walls,Feature Wall3,Feature Wall,Feature Wall3,,,,,Feature Wall,<By Category>,
+Structural Columns,IDA - Rectangle Column,450W X 450D,IDA - Rectangle Column,,,,,450W X 450D,<By Category>,
+Structural Columns,IDA - Rectangle Column,600W X 600D,IDA - Rectangle Column,,,,,600W X 600D,<By Category>,
+Specialty Equipment,,,IDA - Exit Sign,,,,,,,
+Specialty Equipment,,,IDA- Fire Extinguisher1,,,,,,,
+Doors,DR-GDI-TMB-VP_1100W*2200H,1100L X 2200H - MD6,DR-GDI-TMB-VP_1100W*2200H,C1020,Interior Doors,METAL FRAME METAL DOOR W/VISION PANEL IN PAINT FINISH,VISION PANEL TO COMPLY LATEST FIRE CODE,1100L X 2200H - MD6,,
+Doors,DR-GDI-LOUV_MD4,1000L X 2200H - MD4,DR-GDI-LOUV_MD4,C1020,Interior Doors,METAL FRAME METAL DOOR IN SPRAY PAINT FINISH,,1000L X 2200H - MD4,,
+Doors,DR-GDI-2P_SW_FR,DR-GDI-2P_SW_2000L*2200H_FMD3-2HR,DR-GDI-2P_SW_FR,C1020,Interior Doors,METAL FRAME METAL DOOR IN SPRAY PAINT FINISH,,DR-GDI-2P_SW_2000L*2200H_FMD3-2HR,,
+Doors,DR-GDI-1P_SW_MD2,DR-GDI-1P_SW_1100W*2200H_FMD2-2HR,DR-GDI-1P_SW_MD2,C1020,Interior Doors,METAL FRAME METAL DOOR IN SPRAY PAINT FINISH,RISER,DR-GDI-1P_SW_1100W*2200H_FMD2-2HR,,
+Doors,DR-GDI-1P_SW_MD2,DR-GDI-1P_SW_1100W*2200H_MD2,DR-GDI-1P_SW_MD2,C1020,Interior Doors,METAL FRAME METAL DOOR IN SPRAY PAINT FINISH,,DR-GDI-1P_SW_1100W*2200H_MD2,,
+Doors,DR-GDI-LOUV_MD3,DR-GDI_LOUV_ 2000W*2200H_MD3,DR-GDI-LOUV_MD3,C1020,Interior Doors,METAL FRAME METAL DOOR IN SPRAY PAINT FINISH,,DR-GDI_LOUV_ 2000W*2200H_MD3,,
+Doors,DR-GDI-TMB-VP_1100W*2200H_FR,1100L X 2200H - FMD1 - 2HR,DR-GDI-TMB-VP_1100W*2200H_FR,C1020,Interior Doors,METAL FRAME METAL DOOR IN SPRAY PAINT FINISH,VISION PANEL TO COMPLY LATEST FIRE CODE,1100L X 2200H - FMD1 - 2HR,,
+Plumbing Fixtures,,,MANHOLE_CS,,,,,,,
+Generic Models,GM-2500W*2400H,Chainlink Double Gate,GM-2500W*2400H,,,,N.A.,Chainlink Double Gate,,<By Category>
+Generic Models,FN-GFI-2THK_8TILE,Tactile 300x300,FN-GFI-2THK_8TILE,,,,N.A.,Tactile 300x300,,"Concrete, Ceramic - Tactile"
+Generic Models,FN-GFI-2THK_6TILE,Tactile 300x300,FN-GFI-2THK_6TILE,,,,N.A.,Tactile 300x300,,"Concrete, Ceramic - Tactile"
+Generic Models,IDA - Double Bifold Gate With Single Side Gate - NOGrill,12400x2400,,,,,,,,<By Category>
+Generic Models,IDA - Double Bifold Gate With Single Side Gate - NOGrill,12400x2400,IDA - Double Bifold Gate With Single Side Gate - NOGrill,,,,,12400x2400,,<By Category>
+Generic Models,Model Text,750mm Arial,Model Text,,,,,750mm Arial,,"<By Category>,<By Category>"
+Generic Models,IDA - Chequered Plate Cover,1700x3000,IDA - Chequered Plate Cover,,,,,1700x3000,,<By Category>
+Generic Models,IDA - Chequered Plate Cover,2600x4300,IDA - Chequered Plate Cover,,,,,2600x4300,,<By Category>
+Generic Models,Void Face Base1,Void Face Base 2,Void Face Base1,,,,,Void Face Base 2,,<By Category>
+Generic Models,IDA - Box Ledge,IDA - Box Ledge,IDA - Box Ledge,,,,,IDA - Box Ledge,,<By Category>
+Generic Models,FN-GFI-2THK_8TILE-DIAG,Tactile 300x300,FN-GFI-2THK_8TILE-DIAG,,,,N.A.,Tactile 300x300,,"Concrete, Ceramic - Tactile"
+Roofs,,,Basic Roof,,,,,,,
+Pipes,,,Pipe Types,,,,,,,
+Planting,,,RPC Shrub,,,,,,,
+Planting,,,SITE-TREE-FERN,,,,,,,
+Fire Alarm Devices,,,IDA - Fire Alarm Bell,,,,,,,
+Fire Alarm Devices,,,IDA - Strobe Light,,,,,,,
+Floors,Floor,SITE-LW-150THK,Floor,,,,,SITE-LW-150THK,<By Category>,<By Category>
+Walls,Basic Wall,WALL-LWCP-125THK_PL_EXT2HR,Basic Wall,,,IDA - LCP - Plaster - Ext - 150mm,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-125THK_PL_EXT2HR,IDA - LCP - Plaster - Ext,
+Walls,Basic Wall,WALL-LWCP-100THK_SC_INT2HR,Basic Wall,,,IDA - LCP - Skim Coat - Int - 100mm,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-100THK_SC_INT2HR,IDA - LCP - SkimCoat - Int,
+Walls,Basic Wall,WALL-LWCP-100THK_PL_EXT,Basic Wall,,,IDA - LCP - Plaster - Ext - 150mm,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-100THK_PL_EXT,IDA - LCP - Plaster - Ext,
+Walls,Basic Wall,WALL-LWCP-125THK_SC_EXT,Basic Wall,,,IDA - LCP - Skim Coat - Ext - 150mm,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-125THK_SC_EXT,IDA - LCP - SkimCoat - Ext,
+Walls,Basic Wall,WALL-CIW-100THK_SC_EXTRAMP,Basic Wall,,,IDA - RC - Skim Coat - Ext - 100mm,,WALL-CIW-100THK_SC_EXTRAMP,IDA - RC - SkimCoat - Ext,
+Walls,Basic Wall,Generic - 100mm,Basic Wall,,,,,Generic - 100mm,<By Category>,
+Walls,Basic Wall,WALL-CIW-200THK_SC_EXTRAMP,Basic Wall,,,IDA - RC - Skim Coat - Ext - 100mm,,WALL-CIW-200THK_SC_EXTRAMP,IDA - RC - SkimCoat - Ext,
+Walls,Basic Wall,Fence Wall - 100mm,Basic Wall,,,,,Fence Wall - 100mm,<By Category>,
+Walls,Basic Wall,WALL-LWCP-125THK_PL_EXT,Basic Wall,,,IDA - LCP - Plaster - Ext - 150mm,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-125THK_PL_EXT,IDA - LCP - Plaster - Ext,
+Walls,Basic Wall,WALL-PCW-230THK_PL_EXT2HR,Basic Wall,,,IDA - PC - Plaster - Ext - 230mm,PRECAST CONCRETE WALL,WALL-PCW-230THK_PL_EXT2HR,IDA - PC - Plaster - Ext,
+Walls,Basic Wall,WALL-PCW-230THK_SC_INT2HR,Basic Wall,,,IDA - PC - Skim Coat - Int - 100mm,PRECAST CONCRETE WALL,WALL-PCW-230THK_SC_INT2HR,IDA - PC - SkimCoat - Int,
+Walls,Basic Wall,WALL-CIW-150THK_SC_INT,Basic Wall,,,IDA -RC - Skim Coat - Int - 150mm,CAST-IN-SITU RC WALL,WALL-CIW-150THK_SC_INT,<By Category>,
+Walls,Basic Wall,WALL-LWCP-100THK_SC_INT,Basic Wall,,,IDA - LCP - Skim Coat - Int - 100mm,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-100THK_SC_INT,IDA - LCP - SkimCoat - Int,
+Walls,Basic Wall,WALL-LWCP-100THK_SC_EXTUnderside,Basic Wall,,,IDA - LCP - Skim Coat - Ext - 100mm,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-100THK_SC_EXTUnderside,IDA - LCP - SkimCoat - Ext,
+Walls,Basic Wall,Rollershutter Support 235THK,Basic Wall,,,,,Rollershutter Support 235THK,IDA - LCP - SkimCoat - Ext,
+Walls,Curtain Wall,IDA - CW - Ext - Perforated Panel,IDA - CurtainPanel,,,,,Perforated Panel,,
+Walls,Curtain Wall,IDA - CW - Ext - Perforated Panel,Rectangular Mullion,,,,,IDA - Rect - Bottom - Left,,"Metal - Stainless Steel,Polished"
+Walls,Curtain Wall,IDA - CW - Ext - Perforated Panel,Rectangular Mullion,,,,,IDA - Rect - Center,,"Metal - Stainless Steel,Polished"
+Walls,Curtain Wall,IDA - CW - Ext - Trimo,System Panel,,,,,Glazed Panel,,Glass
+Walls,Curtain Wall,IDA - CW - Ext - Trimo,Rectangular Mullion,,,,,IDA - Rect - Center,,"Metal - Stainless Steel,Polished"
+Walls,Curtain Wall,IDA - CW - Ext - Trimo,System Panel,,,,,Trimo Panel with Anthracite,,Gray - Dark
+Walls,Curtain Wall,IDA - CW - Ext - Trimo,Rectangular Mullion,,,,,IDA - Trimo - Center Vertical,,<By Category>
+Walls,Curtain Wall,IDA - CW - Ext - Trimo,System Panel,,,,,Trimo Panel with Light Silver KOP,,Aluminium KOP
+Walls,Curtain Wall,IDA - CW - Ext - Trimo,IDA - Curtain Panel - Double GD Rail Frameless,,,ALUMINUM FRAME W/ GLASS PANEL,,2000W X 2500L - MD5,,
+Walls,Curtain Wall,IDA - CW - Ext - Trimo,Rectangular Mullion,,,,,IDA - Trimo - Center Horizontal,,<By Category>
+Structural Columns,IDA - Rectangle Column,150W X 400D,IDA - Rectangle Column,,,,,150W X 400D,<By Category>,
+Structural Columns,IDA - Rectangle Column,230W X 600D,IDA - Rectangle Column,,,,,230W X 600D,<By Category>,
+Structural Columns,IDA - Rectangle Column,250W X 250D,IDA - Rectangle Column,,,,,250W X 250D,<By Category>,
+Structural Columns,IDA - Rectangle Column,230W X 230D,IDA - Rectangle Column,,,,,230W X 230D,<By Category>,
+Structural Columns,IDA - Linkway Column Degree I,2400L,IDA - Linkway Column Degree I,,,,,2400L,<By Category>,
+Structural Columns,IDA - Linkway Column Degree I,2400L -3D,IDA - Linkway Column Degree I,,,,,2400L -3D,<By Category>,
+Structural Columns,IDA - Linkway Column Degree I,2400L 2.17D,IDA - Linkway Column Degree I,,,,,2400L 2.17D,<By Category>,
+Structural Columns,IDA - Linkway Column Degree I,2400L +3D,IDA - Linkway Column Degree I,,,,,2400L +3D,<By Category>,
+Structural Columns,IDA - Linkway Column Degree I,2000L -3D,IDA - Linkway Column Degree I,,,,,2000L -3D,<By Category>,
+Structural Columns,IDA - Linkway Column Degree I,2300L +3D,IDA - Linkway Column Degree I,,,,,2300L +3D,<By Category>,
+Structural Columns,UC-Universal Columns-Column,UC203x203x46,UC-Universal Columns-Column,,,,,UC203x203x46,Metal - Steel - 345 MPa,
+Specialty Equipment,,,IDA- Fire Extinguisher,,,,,,,
+Doors,DR-GDI-2P_SW_FR,DR-GDI-2P_SW_2000L*2500H_FMD4-2HR,DR-GDI-2P_SW_FR,C1020,Interior Doors,METAL FRAME METAL DOOR IN SPRAY PAINT FINISH,,DR-GDI-2P_SW_2000L*2500H_FMD4-2HR,,
+Doors,IDA - RS - Roller Shutter - Single1,3500L X 4000H - FRS3,IDA - RS - Roller Shutter - Single1,,,MOTORIZED FIRE SHUTTER WITH THERMAL INSULATION TO MANUFACTURER'S DETAIL,,3500L X 4000H - FRS3,,
+Doors,IDA - RS - Roller Shutter - Single1,6500L X 4000H - FRS1 - 2HR,IDA - RS - Roller Shutter - Single1,,,MOTORIZED FIRE SHUTTER WITH THERMAL INSULATION TO MANUFACTURER'S DETAIL,,6500L X 4000H - FRS1 - 2HR,,
+Doors,IDA - RS - Roller Shutter - Single1,3500L X 4000H - RS1,IDA - RS - Roller Shutter - Single1,,,MOTORIZED STEEL ROLLER SHUTTER IN POWDER COAT FINISH TO MANUFACTURER'S DETAIL,,3500L X 4000H - RS1,,
+Doors,DR-GDI-1P_SW_MD2,1200L X 1500H - AD1,DR-GDI-1P_SW_MD2,C1020,Interior Doors,HEAVY DUTY ALUMINIUM FRAME ALUMINIUM DOOR IN POWDER COATED FINISH,TO COMPLY WITH SPPG STANDARD,1200L X 1500H - AD1,,
+Doors,DR-RS-SL-3500W*4000H,"L1-RS-01,02,03_L*Motor",DR-RS-SL-3500W*4000H,,,MOTORISED STEEL ROLLER SHUTTERS IN POWDER COAT FINISH TO MANUFACTURER'S DETAIL,,"L1-RS-01,02,03_L*Motor",,
+Doors,DR-RS-SL-2900W*3500H,FRS120-07_R*Motor,DR-RS-SL-2900W*3500H,,,MOTORISED FIRE RATED STEEL ROLLER SHUTTERS [2 HRS FIRE RATING INTEGRITY],,FRS120-07_R*Motor,,
+Doors,DR-RS-SL-2900W*3500H,FRS120-07_L*Motor,DR-RS-SL-2900W*3500H,,,MOTORISED FIRE RATED STEEL ROLLER SHUTTERS [2 HRS FIRE RATING INTEGRITY],,FRS120-07_L*Motor,,
+Doors,DR-GDI-LOUV_MD3,1200L X 2100H - AD3,DR-GDI-LOUV_MD3,C1020,Interior Doors,HEAVY DUTY ALUMINIUM FRAME ALUMINIUM LOUVRE DOOR IN POWDER COATED FINISH,TO COMPLY WITH SPPG STANDARD,1200L X 2100H - AD3,,
+Doors,IDA - F - Double - Swing - LL - 8 Louver Panels,1900L X 2900H - AD2,IDA - F - Double - Swing - LL - 8 Louver Panels,C1020,Interior Doors,HEAVY DUTY ALUMINIUM FRAME ALUMINIUM LOUVRE DOOR IN POWDER COATED FINISH,TO COMPLY WITH SPPG STANDARD,1900L X 2900H - AD2,,
+Generic Models,IDA - JTC Logo,IDA - JTC Logo,IDA - JTC Logo,,,,,IDA - JTC Logo,,<By Category>
+Generic Models,GM-1880W*2650L,ABU7010 2,GM-1880W*2650L,,,,Loading/ Unloading Dock,ABU7010 2,,<By Category>
+Generic Models,GM-250W*900L,Access Manhole,GM-250W*900L,,,,For Tanks in SPK RM,Access Manhole,,<By Category>
+Roofs,,,Unit 2 Linkway Roof Wall,,,,,,,
+Roofs,,,Unit1 Linkway Roof Wall,,,,,,,
+Roofs,,,Unit 2 Linkway Roof Wall 1,,,,,,,
+Windows,IDA - Louver - 1 Panel,1200L X 400H - AW11,IDA - Louver - 1 Panel,,,,2850MM SILL HEIGHT FROM 1ST STOREY FFL,1200L X 400H - AW11,,<By Category>
+Windows,IDA - Louver - 1 Panel,1200L X 1000H - AW7,IDA - Louver - 1 Panel,,,,4020 SILL HEIGHT FROM 1ST STOREY FFL,1200L X 1000H - AW7,,<By Category>
+Windows,IDA - Louver - 1 Panel,2560L X 2360H - AW10,IDA - Louver - 1 Panel,,,,,2560L X 2360H - AW10,,<By Category>
+Windows,IDA - Fixed & Sliding - Guardhouse,2000L X 1625H - Window Type,IDA - Fixed & Sliding - Guardhouse,,,,,2000L X 1625H - Window Type,,<By Category>
+Windows,IDA - Louver - 1 Panel1,5200L X 1600H - AW3,IDA - Louver - 1 Panel1,,,,,5200L X 1600H - AW3,,<By Category>
+Windows,IDA - Louver - 1 Panel1,8000L X 1600H - AW2,IDA - Louver - 1 Panel1,,,,,8000L X 1600H - AW2,,<By Category>
+Windows,IDA - Louver - 1 Panel1,2850L X 1600H - AW9,IDA - Louver - 1 Panel1,,,,,2850L X 1600H - AW9,,<By Category>
+Windows,IDA_Glass Block,1800 x 600,IDA_Glass Block,,,,NOT FOR BS,1800 x 600,,<By Category>
+Windows,IDA_Vent Block,800x800,IDA_Vent Block,,,,NOT FOR BS,800x800,,<By Category>
+Windows,IDA_Vent Block,1200x1200,IDA_Vent Block,,,,NOT FOR BS,1200x1200,,<By Category>
+Windows,IDA_Vent Block,1600x800 - SVB01,IDA_Vent Block,,,,NOT FOR BS,1600x800 - SVB01,,<By Category>
+Mechanical Equipment,,,IDA - Hosereel - Same Scaled1,,,,,,,
+Fire Alarm Devices,,,IDA - Manual Call Point,,,,,,,
+Slab Edges,Slab Edge,IDA - Beam - 400W x 1200D,Slab Edge,,,,,IDA - Beam - 400W x 1200D,,<By Category>
+Structural Framing,UB-Universal Beams,UB254x146x37,UB-Universal Beams,,,,,UB254x146x37,Metal - Steel - 345 MPa,
+Floors,Floor,FL-CON-FF-220THK,Floor,,,,N.A.,FL-CON-FF-220THK,"Concrete Masonry, Floor Block",Concrete - Cast In Situ
+Floors,Floor,FL-CON-FF-250THK,Floor,,,,N.A.,FL-CON-FF-250THK,IDA - Toilet Tile - 600W x 600L,Concrete - Cast In Situ
+Floors,Floor,IDA - Toilet Ledge - 50mm,Floor,,,,,IDA - Toilet Ledge - 50mm,<By Category>,<By Category>
+Floors,Floor,Floor Trench,Floor,,,,,Floor Trench,Floor Trench,<By Category>
+Walls,Basic Wall,WALL-CIW-250THK_PL_INT2HR,Basic Wall,,,IDA - RC - Plaster - Int - 250mm,,WALL-CIW-250THK_PL_INT2HR,IDA - RC - SkimCoat - Int,
+Walls,Basic Wall,WALL-LWCP-150THK_SC_INT2HR,Basic Wall,,,IDA - LCP - Skim Coat - Int - 100mm,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-150THK_SC_INT2HR,IDA - LCP - SkimCoat - Int,
+Walls,Basic Wall,WALL-LWCP-50THK_PL_INT2SIDETILE,Basic Wall,,,IDA - LCP - Plaster - Int - Tile 2 Sides - 100mm,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-50THK_PL_INT2SIDETILE,IDA - LCP - Plaster - Int,
+Walls,Basic Wall,WALL-LWCP-100THK_PL_INT2SIDETILE,Basic Wall,,,IDA - LCP - Plaster - Int - Tile 2 Sides - 100mm,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-100THK_PL_INT2SIDETILE,IDA - LCP - Plaster - Int,
+Walls,Basic Wall,WALL-LWCP-100THK_PL_INT1SIDETILE,Basic Wall,,,IDA - LCP - Plaster - Int - Tile 2 Sides - 100mm,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-100THK_PL_INT1SIDETILE,IDA - LCP - Plaster - Int,
+Walls,Curtain Wall,IDA - CW - Ext - Trimo,Rectangular Mullion,,,,,IDA - Trimo - Bottom - Left,,<By Category>
+Walls,Curtain Wall,IDA - CW - Ext - Trimo,Rectangular Mullion,,,,,IDA - Rect - Door Frame,,"Metal - Stainless Steel,Polished"
+Specialty Equipment,,,IDA- Catladder w Cage,,,,,,,
+Doors,DR-GDI-TMB-SW_JANITOR,DR-GDI-TMB-SW_850W*2200H,DR-GDI-TMB-SW_JANITOR,C1020,Interior Doors,SINGLE LEAF HOLLOW TIMBER FLUSH DOOR WITH STEEL FRAME & LOUVER,,DR-GDI-TMB-SW_850W*2200H,,
+Doors,DR-GDI-TMB-SW_HCP,DR-GDI-TMB-SW_1050W*2200H,DR-GDI-TMB-SW_HCP,C1020,Interior Doors,SINGLE LEAF HOLLOW TIMBER FLUSH DOOR WITH STEEL FRAME & LOUVER,WITH GRAB BAR,DR-GDI-TMB-SW_1050W*2200H,,
+Doors,DR-GDI-MT-SW_660W*660H,ESS_Hatch Door,DR-GDI-MT-SW_660W*660H,,,HEAVY DUTY ALUMINIUM CHEQUER PLATE TRAP DOOR WITH MOVABLE RUNG,NOT FOR BS,ESS_Hatch Door,,
+Doors,DR-RS-SL-3500W*4000H_,"L1-RS-04,05,06_R*Motor",DR-RS-SL-3500W*4000H_,,,MOTORISED FIRE RATED STEEL ROLLER SHUTTERS [2 HRS FIRE RATING INTEGRITY],,"L1-RS-04,05,06_R*Motor",,
+Doors,DR-RS-SL-3500W*4000H_,"L1-RS-04,05,06_L*Motor",DR-RS-SL-3500W*4000H_,,,MOTORISED FIRE RATED STEEL ROLLER SHUTTERS [2 HRS FIRE RATING INTEGRITY],,"L1-RS-04,05,06_L*Motor",,
+Doors,DR-RS-SL-3500W*4000H,"L1-RS-01,02,03_R*Motor",DR-RS-SL-3500W*4000H,,,MOTORISED STEEL ROLLER SHUTTERS IN POWDER COAT FINISH TO MANUFACTURER'S DETAIL,,"L1-RS-01,02,03_R*Motor",,
+Doors,DR-RS-SL-6500W*4000H,FRS120_R*Motor,DR-RS-SL-6500W*4000H,,,MOTORISED FIRE RATED STEEL ROLLER SHUTTERS [2 HRS FIRE RATING INTEGRITY],,FRS120_R*Motor,,
+Doors,DR-RS-SL-6500W*4000H,FRS120_L*Motor,DR-RS-SL-6500W*4000H,,,MOTORISED FIRE RATED STEEL ROLLER SHUTTERS [2 HRS FIRE RATING INTEGRITY],,FRS120_L*Motor,,
+Plumbing Fixtures,IDA - Toilet Roll Holder - Twin,IDA - Toilet Roll Holder - Twin,IDA - Toilet Roll Holder - Twin,,,,,IDA - Toilet Roll Holder - Twin,,
+Plumbing Fixtures,,,IDA - WC - Floor Mount w Tank,,,,,,,
+Plumbing Fixtures,IDA - Handicap Toilet W Accessories,IDA - Handicap Toilet W Accessories,IDA - WC- Wall Hung Handicap,,,,,IDA - WC- Wall Hung wo Tank 750,,
+Plumbing Fixtures,IDA - Handicap Toilet W Accessories,IDA - Handicap Toilet W Accessories,IDA - Handicap Toilet W Accessories,,,,,IDA - Handicap Toilet W Accessories,,
+Plumbing Fixtures,IDA - Handicap Toilet W Accessories,IDA - Handicap Toilet W Accessories,IDA - Grab Bar - Handicapped,,,,,IDA - Grab Bar - Handicapped,,
+Plumbing Fixtures,IDA - Handicap Toilet W Accessories,IDA - Handicap Toilet W Accessories,IDA - Toilet Roll Holder - Jumbo,,,,,IDA - Toilet Roll Holder - Jumbo,,
+Plumbing Fixtures,IDA - Handicap Toilet W Accessories,IDA - Handicap Toilet W Accessories,IDA - Grab Bar - Drop Down,,,,,IDA - Grab Bar - Drop Down,,Metal - Stainless Steel w/Satin
+Plumbing Fixtures,IDA - Urinal w Wall Mounted Flush,Urinal,IDA - Urinal w Wall Mounted Flush,D2010210,Urinals - Single,"Commercial Washout High Efficiency Urinal, 0.5 GPF - ADA",,Urinal,,Vitreous China
+Plumbing Fixtures,IDA - Vanity - Array - Oval Basin & Tap,2400,IDA - Lavatory,,,,,IDA - Lavatory,,
+Plumbing Fixtures,IDA - Vanity - Array - Oval Basin & Tap,2400,IDA - Vanity - Array - Oval Basin & Tap,,,,,2400,,
+Plumbing Fixtures,,,IDA - Sink - Wall Mounted - Optional Pedestal,,,,,,,
+Generic Models,CWJ-TP-700W*950H,CWJ-TP-700W*950H,GM_PartitionDoor,,,,N.A.,GM_PartitionDoor,,<By Category>
+Generic Models,CWJ-TP-700W*950H,CWJ-TP-700W*950H,CWJ-TP-700W*950H,,,,ATOZ AQUARIUS,CWJ-TP-700W*950H,,<By Category>
+Generic Models,IDA_Cat Ladder wo handle,IDA_Cat Ladder,IDA_Cat Ladder wo handle,,,,,IDA_Cat Ladder,,<By Category>
+Generic Models,GM-400L*1200H,Urinal Partition,GM-400L*1200H,,,,In Male Toilet,Urinal Partition,,"<By Category>,<By Category>"
+Generic Models,Wall Mount Ladder,Wall Mount Ladder,Wall Mount Ladder,,,,,Wall Mount Ladder,,<By Category>
+Furniture,,,OFFICE TABLE,,,,,,,
+Furniture,,,Office Chair,,,,,,,
+Casework,Cabinet,CWJ-TMB-CBNT-600W*1200H,Cabinet,,,CABINET,N.A.,CWJ-TMB-CBNT-600W*1200H,,
+Casework,Mirror,CWJ-MIRR-600W*800H,Mirror,,,TOILET MIRRORS,WALL-MOUNTED COPPER FREE CLEAR MIRROR TO S.O. SELECTION,CWJ-MIRR-600W*800H,,
+Casework,Mirror,CWJ-MIRR-600W*1000H,Mirror,,,HANDICAP TOILET MIRROR,WALL-MOUNTED COPPER FREE CLEAR MIRROR,CWJ-MIRR-600W*1000H,,
+Windows,IDA - Louver - 1 Panel,200L X 200H - AW12,IDA - Louver - 1 Panel,,,,2410MM SILL HEIGHT FROM GUARDHOUSE FFL,200L X 200H - AW12,,<By Category>
+Floors,Floor,FL-CON-RSFL-100THK,Floor,,,,N.A.,FL-CON-RSFL-100THK,"Concrete, Sand/Cement Screed",Concrete - Cast In Situ
+Walls,Basic Wall,Rollershutter Support 100THK,Basic Wall,,,,,Rollershutter Support 100THK,IDA - LCP - SkimCoat - Ext,
+Structural Columns,IDA - Rectangle Column,230W X 700D,IDA - Rectangle Column,,,,,230W X 700D,<By Category>,
+Plumbing Fixtures,IDA - Hand-Dryer_Bobrick,International,IDA - Hand-Dryer_Bobrick,E1090900,Other Equipment,Bobrick Automatic Surface Mounted Hand Dryer - B-715E 230V,,International,,
+Plumbing Fixtures,IDA - Paper Dispenser,B-52860,IDA - Paper Dispenser,E2020200,Furniture & Accessories,"MatrixSeries™ SURFACE-MOUNTED
+ ROLL PAPER TOWEL DISPENSER",,B-52860,,<By Category>
+Generic Models,IDA_Cat Ladder wo handle,420X1250,IDA_Cat Ladder wo handle,,,,,420X1250,,<By Category>
+Windows,IDA - Louver - 1 Panel1,400L X 600H - AW6,IDA - Louver - 1 Panel1,,,,TO COMPLY WITH SPPG REQUIREMENT,400L X 600H - AW6,,<By Category>
+Windows,IDA_Glass Block,1200 x 600,IDA_Glass Block,,,,NOT FOR BS,1200 x 600,,<By Category>
+Windows,IDA_Glass Block,400 x 600,IDA_Glass Block,,,,NOT FOR BS,400 x 600,,<By Category>
+Windows,IDA - PC Vent - Single Column,400L X 1200H,IDA - PC Vent - Single Column,,,,NOT FOR BS,400L X 1200H,,<By Category>
+Pipe Fittings,,,M_Elbow - Generic1,,,,,,,
+Floors,Floor,Metal Platform,Floor,,,,,Metal Platform,Metal Deck,<By Category>
+Walls,Basic Wall,WALL-LWCP-100THK_PL_INT1SIDETILE TL,Basic Wall,,,,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-100THK_PL_INT1SIDETILE TL,IDA - LCP - Plaster - Int,
+Floors,Floor,SITE-LW-220THK,Floor,,,,,SITE-LW-220THK,"Concrete Masonry, Floor Block",<By Category>
+Generic Models,Model Text,750mm Arial,,,,,,,,<By Category>
+Floors,Floor,FL-CON-SSLB-100THK,Floor,,,,N.A.,FL-CON-SSLB-100THK,"Concrete, Sand/Cement Screed",Concrete - Cast In Situ
