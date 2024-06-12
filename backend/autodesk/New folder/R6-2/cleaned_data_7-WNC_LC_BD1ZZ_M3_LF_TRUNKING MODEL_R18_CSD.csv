@@ -1,0 +1,10 @@
+Family,SubFamily,ObjectGroup,ObjectName,Assembly Code,Assembly Description,Description,Type Comments,Type Name,Structural Material,Material
+Cable Trays,,,Cable Tray with Fittings,,,,,,,
+Cable Tray Fittings,,,M_Channel Horizontal Tee,,,,,,,
+Cable Tray Fittings,,,M_Channel Reducer,,,,,,,
+Cable Tray Fittings,,,M_Channel Horizontal Cross,,,,,,,
+Cable Tray Fittings,,,M_Channel Vertical Inside Bend,,,,,,,
+Cable Tray Fittings,,,M_Channel Vertical Outside Bend,,,,,,,
+Cable Tray Fittings,,,M_Channel Horizontal Bend,,,,,,,
+Generic Models,,,Lift Monitoring System at FCC (Double LCD Monitors),,,,,,,
+Generic Models,,,Lift Supervisory Panel,,,,,,,

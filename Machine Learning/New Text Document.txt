@@ -1,0 +1,3 @@
+pip install imbalanced-learn
+pip install tensorflow
+pip install -U scikit-learn
