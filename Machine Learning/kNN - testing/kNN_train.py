@@ -6,9 +6,10 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.model_selection import GridSearchCV
 from sklearn.model_selection import KFold
 from sklearn.metrics import accuracy_score
+import pickle  # Import pickle for saving the model
 
 # Load the dataset
-data = pd.read_csv('mcoutput_old.csv')
+data = pd.read_csv('../datasets/train_set.csv')
 
 # Handle missing values if any
 data.replace("<By Category>", "*EMPTY*", inplace=True)
@@ -46,7 +47,7 @@ n_neighbors = np.arange(1, 30, 1)
         
 # Initialize GridSearchCV
 parameter={'n_neighbors': np.arange(1, 30, 1), 'weights': ['uniform', 'distance']}
-kf=KFold(n_splits=2,shuffle=True,random_state=32)
+kf=KFold(n_splits=4,shuffle=True,random_state=32)
 knn=KNeighborsClassifier()
 knn_cv=GridSearchCV(knn, param_grid=parameter, cv=kf, verbose=1)
 knn_cv.fit(X_train, y_train)
@@ -58,3 +59,7 @@ knn.fit(X_train, y_train)
 y_pred=knn.predict(X_test)
 accuracy_score=accuracy_score(y_test, y_pred)*100
 print("Accuracy for testing dataset after tuning : {:.2f}%".format(accuracy_score))
+
+# Save the trained model using pickle
+with open('knn_model.pkl', 'wb') as file:
+    pickle.dump(knn, file)
