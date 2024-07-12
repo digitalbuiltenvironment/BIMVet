@@ -22,6 +22,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/test/Auth.js", "app/test/ViewerFunctions.js", "app/test/ViewerFunctions.js", "app/components/Sidebar.js", "app/test/GetMetadata.js", "app/api/load-csv/route.js"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/csvViewer/Auth.js", "app/csvViewer/ViewerFunctions.jspp/Vapp/csvViewer/ViewerFunctions.jsmponents/Sidebar.js", "app/GetMetapp/csvViewer/GetMetadata.jsd-csv/route.js"],
   "exclude": ["node_modules"]
 }

@@ -18,6 +18,7 @@ export default function Page() {
   //Sidebar section
   const [sidebarExpanded, setSidebarExpanded] = useState(false);
   const [showPopup, setShowPopup] = useState(false);
+  const [zipDownload, setzipDownload] = useState(false);
 
   useEffect(() => {
     // Dynamically create the script element
@@ -71,9 +72,12 @@ export default function Page() {
     loadInViewer(
       'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltdmV0YnVja2V0L3Rlc3RvYmplY3QucnZ0'
     );
+    setzipDownload(true);
     extractMetadata(
       'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltdmV0YnVja2V0L3Rlc3RvYmplY3QucnZ0'
-    );
+    ).then(() => {
+      setzipDownload(false);
+    });
   };
 
   const [uploadedFile, setUploadedFile] = useState<ArrayBuffer | null>(null);
@@ -108,9 +112,12 @@ export default function Page() {
           setUploadedFileBase64(result);
           setLoading(false);
           setUploadedFileCompleted(true);
+          setzipDownload(true);
           extractMetadata(
             'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltdmV0YnVja2V0L3Rlc3RvYmplY3QucnZ0'
-          );
+          ).then(() => {
+            setzipDownload(false);
+          });
         })
         .catch((error) => {
           console.error('Error uploading file:', error);
@@ -209,19 +216,26 @@ export default function Page() {
         />
         <div className="flex-1 p-2">
           <div>
-            <button
-              className="z-50 absolute top-5 right-5 cursor-pointer no-selection"
-              onClick={togglePopup}
-            >
-              <div
-                className={`flex items-center ml-2 text-4xl p-0.5 pr-2 border-2 rounded-md cursor-pointer no-selection ${
-                  theme === 'dark' ? 'border-white' : 'border-black'
-                }`}
+            <div className="flex items-center row-auto z-50 absolute top-5 right-5 cursor-pointer no-selection">
+              {zipDownload && (
+                <p className="font-bold text-xl left-2 mr-4">
+                  Generating Report Please Wait....
+                </p>
+              )}
+              <button
+                className="ml-2"
+                onClick={togglePopup}
               >
-                <iconify-icon icon="mdi:file-upload-outline"></iconify-icon>
-                <p className="text-base cursor-pointer">Upload</p>
-              </div>
-            </button>
+                <div
+                  className={`flex items-center ml-2 text-4xl p-0.5 pr-2 border-2 rounded-md cursor-pointer no-selection ${
+                    theme === 'dark' ? 'border-white' : 'border-black'
+                  }`}
+                >
+                  <iconify-icon icon="mdi:file-upload-outline"></iconify-icon>
+                  <p className="text-base cursor-pointer">Upload</p>
+                </div>
+              </button>
+            </div>
             <div className="flex-1 ml-2">
               <h1 className="text-3xl opacity-90 font-bold mb-6">Checker</h1>
             </div>

@@ -261,6 +261,7 @@ function breakDownData(data, testData) {
           foundObject[i] != ' ' &&
           foundObject[i] != '  '
         ) {
+          const cleanUpfoundObject = foundObject[i].replace(/\,/g, ' ');
           // console.log(foundObject[i]);
           const [reqType, reqUnit, reqDesc] =
             requiredProperties[prop].split('||');
@@ -269,36 +270,38 @@ function breakDownData(data, testData) {
           // );
           if (reqType.toLowerCase().includes('boolean')) {
             if (
-              foundObject[i].toLowerCase() === 'true' ||
-              foundObject[i].toLowerCase() === 'false'
+              cleanUpfoundObject.toLowerCase() === 'true' ||
+              cleanUpfoundObject.toLowerCase() === 'false'
             ) {
-              goodParameters.push(`${prop} is correct with ${foundObject[i]}`);
+              goodParameters.push(
+                `${prop} is correct with ${cleanUpfoundObject}`
+              );
             } else {
               flagProblems.push(
-                `${prop} is incorrect with '${foundObject[i]}' Should be (True/False)`
+                `${prop} is incorrect with '${cleanUpfoundObject}' Should be (True/False)`
               );
             }
           }
           if (reqType.toLowerCase().includes('number')) {
-            const getNumber = parseFloat(foundObject[i].split(' ')[0]);
+            const getNumber = parseFloat(cleanUpfoundObject.split(' ')[0]);
             if (!isNaN(getNumber)) {
               if (getNumber != 0) {
                 goodParameters.push(
-                  `${prop} is correct with '${foundObject[i]}'`
+                  `${prop} is correct with '${cleanUpfoundObject}'`
                 );
               } else {
                 flagProblems.push(
-                  `${prop} is incorrect with '${foundObject[i]}' Should not be 0`
+                  `${prop} is incorrect with '${cleanUpfoundObject}' Should not be 0`
                 );
               }
             } else {
               if (reqDesc !== '') {
                 flagProblems.push(
-                  `${prop} is incorrect with '${foundObject[i]}', ${reqDesc}`
+                  `${prop} is incorrect with '${cleanUpfoundObject}' _ ${reqDesc}`
                 );
               }
               flagProblems.push(
-                `${prop} is incorrect with '${foundObject[i]}'`
+                `${prop} is incorrect with '${cleanUpfoundObject}'`
               );
             }
           }
@@ -312,28 +315,28 @@ function breakDownData(data, testData) {
               foundObject[i] != 'N.A'
             ) {
               goodParameters.push(
-                `${prop} is correct with '${foundObject[i]}'`
+                `${prop} is correct with '${cleanUpfoundObject}'`
               );
             } else {
               flagProblems.push(
-                `${prop} is incorrect with '${foundObject[i]}'`
+                `${prop} is incorrect with '${cleanUpfoundObject}'`
               );
             }
           }
           if (reqType.toLowerCase().includes('date')) {
             let parsedDate = 'Not a date';
             try {
-              parsedDate = Date.parse(foundObject[i]);
+              parsedDate = Date.parse(cleanUpfoundObject);
             } catch (err) {
               parsedDate = 'Not a date';
             }
             if (!isNaN(parsedDate)) {
               goodParameters.push(
-                `${prop} is correct with '${foundObject[i]}'`
+                `${prop} is correct with '${cleanUpfoundObject}'`
               );
             } else {
               flagProblems.push(
-                `${prop} is incorrect with '${foundObject[i]}', Not a date`
+                `${prop} is incorrect with '${cleanUpfoundObject}', Not a date`
               );
             }
           }
@@ -450,16 +453,16 @@ async function fetchPrediction(
             foundObject.properties
           );
           let correct_parameters = true;
-          let wrongParametersArray = "-";
+          let wrongParametersArray = '-';
           if (remarks[1].length > 0) {
             correct_parameters = false;
             wrongParametersArray = `"${remarks[1].join(' | ').toString()}"`;
           }
-          let correctParametersArray = "-";
+          let correctParametersArray = '-';
           if (remarks[0].length > 0) {
             correctParametersArray = `"${remarks[0].join(' | ').toString()}"`;
           }
-          let flagParametersArray = "-";
+          let flagParametersArray = '-';
           if (remarks[2].length > 0) {
             flagParametersArray = `"${remarks[2].join(' | ').toString()}"`;
           }
@@ -545,15 +548,15 @@ export async function extractMetadata(urn) {
         // Make it so that the naming convention for file is allowed
         const fileNameApprovedNaming = objectName
           .trim()
-          .replace('/', '-')
-          .replace('\\', '-')
-          .replace(':', '-')
-          .replace('*', '-')
-          .replace('?', '-')
-          .replace('"', '-')
-          .replace('<', '-')
-          .replace('>', '-')
-          .replace('|', '-');
+          .replace(/\//g, '-')
+          .replace(/\\/g, '-')
+          .replace(/\:/g, '-')
+          .replace(/\*/g, '-')
+          .replace(/\?/g, '-')
+          .replace(/\"/g, '-')
+          .replace(/</g, '-')
+          .replace(/>/g, '-')
+          .replace(/|/g, '-');
         fetchPrediction(
           convertedCSVData,
           fileNameApprovedNaming,
