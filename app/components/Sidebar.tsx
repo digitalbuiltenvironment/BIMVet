@@ -3,6 +3,8 @@ import React from 'react';
 import ThemeChanger from '../components/ThemeChanger';
 import { useTheme } from 'next-themes';
 import 'iconify-icon';
+import Link from 'next/link';
+import { useRouter } from 'next/router';
 
 interface SidebarProps {
   sidebarExpanded: boolean;
@@ -60,14 +62,15 @@ const Sidebar: React.FC<SidebarProps> = ({
               theme === 'dark' ? 'border-white' : 'border-black'
             }`}
           >
-            Checker
+            <Link href="/">Checker</Link>
           </p>
           <p
             className={`mb-2 border-b font-medium hover:font-bold hover:underline no-selection cursor-pointer ${
               theme === 'dark' ? 'border-white' : 'border-black'
             }`}
           >
-            Scope
+            <Link href="/csvViewer">Report Viewer</Link>
+
           </p>
         </div>
         <div className="mt-auto">
@@ -79,7 +82,7 @@ const Sidebar: React.FC<SidebarProps> = ({
             <div className="text-4xl font-bold">
               <iconify-icon icon="iconoir:user-circle"></iconify-icon>
             </div>
-            <p className="ml-2 font-medium no-selection mb-2">Bottom Content</p>
+            <p className="ml-2 font-medium no-selection mb-2"></p>
           </div>
         </div>
       </div>

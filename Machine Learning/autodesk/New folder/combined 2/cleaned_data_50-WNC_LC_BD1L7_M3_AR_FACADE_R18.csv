@@ -1,0 +1,50 @@
+Family,SubFamily,ObjectGroup,ObjectName,Assembly Code,Assembly Description,Description,Type Comments,Type Name,Structural Material,Material
+Walls,Curtain Wall,Curtain Wall_CeramicPanel,JTC_PEPL_08 GL1 vision glass,,,,,JTC_PEPL_08 GL1 vision glass,,
+Walls,Curtain Wall,Curtain Wall_CeramicPanel,Rectangular Mullion,,,,,300mm Stack Joint 02,,JTC_Aluminium Mullion
+Walls,Curtain Wall,Curtain Wall_CeramicPanel,Rectangular Mullion,,,,,300mm Glass Stack Joint 01,,JTC_Aluminium Mullion
+Walls,Curtain Wall,Curtain Wall_CeramicPanel,Rectangular Mullion,,,,,vision glass to vision glass _Mullion,,JTC_Aluminium Mullion
+Walls,Curtain Wall,Curtain Wall_CeramicPanel,JTC_PEPL_Ceramic tile 09-T20,,,,,JTC_PEPL_Ceramic tile 09-T20,,
+Walls,Curtain Wall,Curtain Wall_CeramicPanel,Rectangular Mullion,,,,,300mm Glass Stack Joint 02,,JTC_Aluminium Mullion
+Walls,Curtain Wall,Curtain Wall_CeramicPanel,Rectangular Mullion,,,,,300mm Ceramic Stack Joint 01,,JTC_Aluminium Mullion
+Walls,Curtain Wall,Curtain Wall_CeramicPanel,Rectangular Mullion,,,,,Tipical Mullion Ceramic infill (300mm+200mm)_R,,JTC_Aluminium Mullion
+Walls,Curtain Wall,Curtain Wall_CeramicPanel,Rectangular Mullion,,,,,Tipical Mullion Ceramic infill (300mm+200mm)_L,,JTC_Aluminium Mullion
+Walls,Curtain Wall,Curtain Wall_CeramicPanel,Rectangular Mullion,,,,,Tipical Mullion Ceramic infill (300mm),,JTC_Aluminium Mullion
+Walls,Curtain Wall,Curtain Wall_CeramicPanel,JTC_PEPL_Spandrel Glass,,,,,JTC_PEPL_Spandrel Glass,,
+Walls,Curtain Wall,Curtain Wall_CeramicPanel,Rectangular Mullion,,,,,Tipical Transom -Glass,,JTC_Aluminium Mullion
+Walls,Curtain Wall,Curtain Wall_CeramicPanel,Rectangular Mullion,,,,,FACADE_TRANSOM CERAMIC TO CERAMIC,,JTC_Aluminium Mullion
+Walls,Curtain Wall,Curtain Wall_CeramicPanel,Rectangular Mullion,,,,,Sloop Mullion-ceramic_Right A,,JTC_Aluminium Mullion
+Walls,Curtain Wall,Curtain Wall_CeramicPanel,Curtain Wall,,,,,Curtain Wall_CeramicPanel,<By Category>,
+Walls,Curtain Wall,Curtain Wall_CeramicPanel,JTC_PEPL_08 GL1 vision glass_CORNER,,,,,JTC_PEPL_08 GL1 vision glass_CORNER,,
+Walls,Curtain Wall,Curtain Wall_CeramicPanel,Rectangular Mullion,,,,,Sloop Mullion-ceramic_Left A,,JTC_Aluminium Mullion
+Walls,Curtain Wall,Curtain Wall_CeramicPanel,Rectangular Mullion,,,,,Sloop Mullion_Right GLASS A,,JTC_Aluminium Mullion
+Walls,Curtain Wall,Curtain Wall_CeramicPanel,Rectangular Mullion,,,,,Sloop Mullion_Left Glass B,,JTC_Aluminium Mullion
+Walls,Curtain Wall,Curtain Wall_CeramicPanel,JTC_PEPL_FAP Vision Glass 17.5mm,,,,,JTC_PEPL_FAP Vision Glass 17.5mm,,
+Walls,Curtain Wall,Curtain Wall_CeramicPanel,Rectangular Mullion,,,,,Sloop Mullion-ceramic_Right B,,JTC_Aluminium Mullion
+Walls,Curtain Wall,Curtain Wall_CeramicPanel,Rectangular Mullion,,,,,Sloop Mullion-ceramic_Left B,,JTC_Aluminium Mullion
+Walls,Curtain Wall,Curtain Wall_CeramicPanel,JTC_PEPL_Ceramic tile 09-T20_CORNER 4,,,,,JTC_PEPL_Ceramic tile 09-T20_CORNER 4,,
+Walls,Curtain Wall,Curtain Wall_CeramicPanel,Rectangular Mullion,,,,,transom 1 (down L3) -glass,,JTC_Aluminium Mullion
+Walls,Curtain Wall,Curtain Wall_CeramicPanel,Rectangular Mullion,,,,,JTC_PEPL_300mm Glass Stack Joint,,JTC_Aluminium Mullion
+Walls,Curtain Wall,Curtain Wall_CeramicPanel,Rectangular Mullion,,,,,transom 1 (down L3),,JTC_Aluminium Mullion
+Walls,Curtain Wall,Curtain Wall_CeramicPanel,Rectangular Mullion,,,,,JTC_PEPL_300mm Ceramic Stack Joint,,JTC_Aluminium Mullion
+Walls,Curtain Wall,Curtain Wall_CeramicPanel,JTC_PEPL_Ceramic tile 09-T20_CORNER,,,,,JTC_PEPL_Ceramic tile 09-T20_CORNER,,
+Walls,Curtain Wall,Curtain Wall_CeramicPanel,JTC_PEPL_Ceramic tile 09-T20_CORNER 2,,,,,JTC_PEPL_Ceramic tile 09-T20_CORNER 2,,
+Walls,Curtain Wall,Curtain Wall_CeramicPanel,JTC_PEPL_Ceramic tile 09-T20_L7 CORNER PANEL_7N,,,,,JTC_PEPL_Ceramic tile 09-T20_L7 CORNER PANEL_7N,,
+Walls,Curtain Wall,Curtain Wall_CeramicPanel,JTC_PEPL_Ceramic tile 09-T20_CUT PANEL 9T,,,,,JTC_PEPL_Ceramic tile 09-T20_CUT PANEL 9T,,
+Walls,Curtain Wall,Curtain Wall_CeramicPanel,Rectangular Mullion,,,,,300mm Ceramic Stack Joint_ L7,,JTC_Aluminium Mullion
+Walls,Curtain Wall,Curtain Wall_CeramicPanel,JTC_PEPL_Ceramic tile 09-T20_CUT PANEL 4N,,,,,JTC_PEPL_Ceramic tile 09-T20_CUT PANEL 4N,,
+Walls,Curtain Wall,Curtain Wall_CeramicPanel,Rectangular Mullion,,,,,300mm Glass Stack Joint_L7,,JTC_Aluminium Mullion
+Walls,Curtain Wall,Curtain Wall_CeramicPanel,JTC_PEPL_08 GL1 vision glass_cut,,,,,JTC_PEPL_08 GL1 vision glass_cut,,
+Walls,Curtain Wall,Curtain Wall_CeramicPanel,Rectangular Mullion,,,,,JTC_PEPL_Ceramic_Transom Border 1,,JTC_Aluminium Mullion
+Walls,Curtain Wall,Curtain Wall_CeramicPanel,Rectangular Mullion,,,,,JTC_PEPL_80x200mm Transom,,JTC_Aluminium Mullion
+Walls,Curtain Wall,Curtain Wall_CeramicPanel,Rectangular Mullion,,,,,Sloop Mullion_Left Glass A,,JTC_Aluminium Mullion
+Walls,Curtain Wall,Curtain Wall_CeramicPanel,JTC_PEPL_Ceramic tile 09-T20_CORNER 3,,,,,JTC_PEPL_Ceramic tile 09-T20_CORNER 3,,
+Walls,Curtain Wall,ceramic panel,JTC_PEPL_Ceramic tile 09-T20 without backpan,,,,,JTC_PEPL_Ceramic tile 09-T20 without backpan,,
+Walls,Curtain Wall,ceramic panel,Curtain Wall,,,,,ceramic panel,<By Category>,
+Walls,Curtain Wall,Perforated Panel 1,Perforated  Panel 1,,,,,Perforated  Panel 1,,
+Walls,Curtain Wall,Perforated Panel 1,Curtain Wall,,,,,Perforated Panel 1,<By Category>,
+Walls,Curtain Wall,7Q Vertichle Panel,7Q Vetichle Panel,,,,,7Q Vetichle Panel,,
+Walls,Curtain Wall,7Q Vertichle Panel,Curtain Wall,,,,,7Q Vertichle Panel,<By Category>,
+Walls,Basic Wall,3mm ALUMINUM PANEL,Basic Wall,,,250mm THK PRECAST GABLE PANEL WITH CAVITY,,3mm ALUMINUM PANEL,Default,
+Walls,Basic Wall,57mm ALUMINUM BACKPAN,Basic Wall,,,250mm THK PRECAST GABLE PANEL WITH CAVITY,,57mm ALUMINUM BACKPAN,Default,
+Generic Models,,,Steel Mullion._ new,,,,,,,
+Generic Models,,,L7 Alum ceilling panel_E1(T-V),,,,,,,

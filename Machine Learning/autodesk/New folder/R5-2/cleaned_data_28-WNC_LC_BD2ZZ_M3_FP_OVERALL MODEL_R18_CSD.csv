@@ -1,0 +1,73 @@
+Family,SubFamily,ObjectGroup,ObjectName,Assembly Code,Assembly Description,Description,Type Comments,Type Name,Structural Material,Material
+Fire Alarm Devices,,,PB_FIRE_Light_Wall Mounted,,,,,,,
+Fire Alarm Devices,,,PB_FIRE_Light_Ceiling Mounted,,,,,,,
+Fire Alarm Devices,,,PB_FIRE_Fire Alarm Device_Wall Mounted,,,,,,,
+Fire Alarm Devices,,,PB_FIRE_Detector_Ceiling Surface,,,,,,,
+Fire Alarm Devices,PB_FIRE_MCP With Bell_Wall Mounted,Indoor MCP with Bell,PB_FIRE_MCP With Bell_Wall Mounted,,,,,Indoor MCP with Bell,,
+Fire Alarm Devices,,,PB_FIRE_Fire Alarm Panel_Wall Mounted,,,,,,,
+Mechanical Equipment,PB_FIRE_Standby Hose_Work Plane,2 Standby Fire Hose,PB_FIRE_Standby Hose_Work Plane,,,,,2 Standby Fire Hose,,
+Mechanical Equipment,PB_FIRE_Standby Hose_Work Plane,Standby Fire Hose,PB_FIRE_Standby Hose_Work Plane,,,,,Standby Fire Hose,,
+Mechanical Equipment,,,PB_FIRE_Hose Reel Tank_Non-Hosted,,,,,,,
+Mechanical Equipment,,,PB_FIRE_Inline Pump_Non-Hosted,,,,,,,
+Mechanical Equipment,PB_FIRE_Hose Reel w Cabinet_Wall Surface_3con,Hose Reel w Cabinet,PB_FIRE_Hose Reel w Cabinet_Wall Surface_3con,,,,,Hose Reel w Cabinet,,
+Mechanical Equipment,,,Fire Equipment - Fire_Extinguisher,,,,,,,
+Mechanical Equipment,PB_FIRE_Hose Reel_Non-Hosted,Hose Reel,PB_FIRE_Hose Reel_Non-Hosted,,,,,Hose Reel,,
+Pipe Accessories,,,PB_FIRE_Riser Landing Valve,,,,,,,
+Pipe Accessories,,,PB_FIRE_Automatic Air Release Valve_25mm,,,,,,,
+Pipe Accessories,,,PB_FIRE_Control Valve_Welded_65-500mm,,,,,,,
+Pipe Accessories,,,PB_FIRE_Switch,,,,,,,
+Pipe Accessories,,,PB_FIRE_Flexible Connection_Threaded_20-65mm,,,,,,,
+Pipe Accessories,,,PB_FIRE_Y Strainer_Threaded_15-65mm,,,,,,,
+Pipe Accessories,,,PB_FIRE_Gate Valve_Threaded_15-65mm,,,,,,,
+Pipe Accessories,,,PB_FIRE_Check Valve_Threaded_15-65mm,,,,,,,
+Pipe Accessories,,,PB_FIRE_Gauge,,,,,,,
+Pipe Accessories,PB_FIRE_Gate Valve_Flanged_65-500mm,Gate Valve,PB_FIRE_Gate Valve_Flanged_65-500mm,,,,,Gate Valve,,
+Pipe Accessories,,,PB_FIRE_Drain Off Valve_Threaded_25mm,,,,,,,
+Pipe Accessories,,,PB_FIRE_WET_Sprinkler cw Tee and Pipe_Side-Wall_Non-Hosted,,,,,,,
+Pipe Accessories,,,PB_FIRE_Subsidiary Valve_Welded_65-300mm,,,,,,,
+Pipe Accessories,,,C CHANNEL (100X50),,,,,,,
+Pipes,,,Pipe Types,,,,,,,
+Pipe Fittings,,,PB_FIRE_Generic_Reduced Tee,,,,,,,
+Pipe Fittings,PB_FIRE_Coupling_End Cap,Standard,PB_FIRE_Coupling_End Cap,,,,,Standard,,Victaulic
+Pipe Fittings,PB_FIRE_Coupling_End Cap,Standard,PB_FIRE_Coupling_End Cap,,,,,,,Victaulic
+Pipe Fittings,,,PB_FIRE_Generic_Equal Tee,,,,,,,
+Pipe Fittings,PB_FIRE_Mechanical-T_Tee,Standard,PB_FIRE_Mechanical-T_Tee,,,,,Standard,,Victaulic
+Pipe Fittings,PB_FIRE_Mechanical-T_Tee,Standard,PB_FIRE_Mechanical-T_Tee,,,,,,,Victaulic
+Pipe Fittings,,,PB_FIRE_Generic_Elbow,,,,,,,
+Pipe Fittings,PB_FIRE_Coupling_Elbow,Standard,PB_FIRE_Coupling_Elbow,,,,,Standard,,Victaulic
+Pipe Fittings,PB_FIRE_Coupling_Elbow,Standard,PB_FIRE_Coupling_Elbow,,,,,,,Victaulic
+Pipe Fittings,PB_FIRE_Coupling_Equal Tee,Standard,PB_FIRE_Coupling_Equal Tee,,,,,Standard,,Victaulic
+Pipe Fittings,PB_FIRE_Coupling_Equal Tee,Standard,PB_FIRE_Coupling_Equal Tee,,,,,,,Victaulic
+Pipe Fittings,,,M_Elbow - Threaded -GI Steel,,,,,,,
+Pipe Fittings,,,PB_FIRE_Generic_Reducer,,,,,,,
+Pipe Fittings,,,PB_FIRE_Generic_Cross,,,,,,,
+Pipe Fittings,PB_FIRE_Coupling_Adaptor,Standard,PB_FIRE_Coupling_Adaptor,,,,,Standard,,Victaulic
+Pipe Fittings,PB_FIRE_Coupling_Adaptor,Standard,PB_FIRE_Coupling_Adaptor,,,,,,,Victaulic
+Pipe Fittings,,,M_Tee Reducing - Threaded - GI Steel,,,,,,,
+Pipe Fittings,PB_FIRE_Coupling_Reducer,Standard,PB_FIRE_Coupling_Reducer,,,,,Standard,,Victaulic
+Pipe Fittings,PB_FIRE_Coupling_Reducer,Standard,PB_FIRE_Coupling_Reducer,,,,,,,Victaulic
+Pipe Fittings,PB_FIRE_Groove Coupling_Mechanical Tee_Nested Family,Standard,PB_FIRE_Groove Coupling_Mechanical Tee_Nested Family,,,,,Standard,,Victaulic
+Pipe Fittings,PB_FIRE_Groove Coupling_Mechanical Tee_Nested Family,Standard,PB_FIRE_Groove Coupling_Mechanical Tee_Nested Family,,,,,,,Victaulic
+Pipe Fittings,,,M_Endcap,,,,,,,
+Pipe Fittings,PB_FIRE_Mechanical-T_Cross,Standard,PB_FIRE_Mechanical-T_Cross,,,,,Standard,,Victaulic
+Pipe Fittings,PB_FIRE_Mechanical-T_Cross,Standard,PB_FIRE_Mechanical-T_Cross,,,,,,,Victaulic
+Pipe Fittings,,,PB_FIRE_Flange,,,,,,,
+Pipe Fittings,,,M_Coupling - Threaded - GI Steel,,,,,,,
+Pipe Fittings,WSP16_Coupling_Elbow,Standard,WSP16_Coupling_Elbow,,,,,Standard,,Victaulic
+Pipe Fittings,WSP16_Coupling_Elbow,Standard,WSP16_Coupling_Elbow,,,,,,,Victaulic
+Pipe Fittings,PB_FIRE_Coupling_Union,Standard,PB_FIRE_Coupling_Union,,,,,Standard,,Victaulic
+Pipe Fittings,PB_FIRE_Coupling_Union,Standard,PB_FIRE_Coupling_Union,,,,,,,Victaulic
+Pipe Fittings,,,PB_FIRE_Generic_End Cap,,,,,,,
+Pipe Fittings,,,M_Coupling Concentric Reducing - Threaded - GI Steel,,,,,,,
+Pipe Fittings,,,PB_FIRE_Generic_Union,,,,,,,
+Pipe Fittings,,,M_Cross Reducing - Coupling GI Steel,,,,,,,
+Pipe Fittings,,,PB_FIRE_Flanged_Elbow,,,,,,,
+Casework,PB_ME_Plinth_Non-Hosted,FIRE_Plinth,PB_ME_Plinth_Non-Hosted,,,,,FIRE_Plinth,,
+Generic Models,,,ACMV Slab Opening_circle1,,,,,,,
+Generic Models,,,ACMV Wall Opening - Circular,,,,,,,
+Generic Models,,,ACMV Wall Opening,,,,,,,
+Structural Framing,C-Channels,C305x89,C-Channels,,,,,C305x89,Metal - Steel - 345 MPa,
+Electrical Equipment,,,PB_FIRE_Three Phase Panel_Non-Hosted,,,,,,,
+Specialty Equipment,,,Steel Base Plate (100X300X10),,,,,,,
+Specialty Equipment,,,Steel C Channel - Vertical(50X100),,,,,,,
+Specialty Equipment,,,Belt Support - Dia 900,,,,,,,

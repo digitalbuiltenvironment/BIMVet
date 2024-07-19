@@ -1,0 +1,130 @@
+Family,SubFamily,ObjectGroup,ObjectName,Assembly Code,Assembly Description,Description,Type Comments,Type Name,Structural Material,Material,Category
+Windows,JTC_GH Window T01,FW-10 1000 x 1000,JTC_GH Window T01,,,,,Fixed W-10 1000 x 1000,,,Fixed Panel Window
+Windows,JTC_Awning Window,AW 750 x 900,JTC_Awning Window,B2020100,Windows,,,AW 750 x 900,,,Top-Hung Window
+Windows,JTC_Awning Window,AW 750 x 600,JTC_Awning Window,B2020100,Windows,,,AW 750 x 600,,,Top-Hung Window
+Windows,JTC_Window_Casement_Single Panel,CW 750 x 1800,JTC_Window_Casement_Single Fixed Panel,,,,,CW 750 x 1800,,,Fixed Panel Window
+Windows,JTC_Window_Casement_Single Fixed Panel,CW 750 x 1800,JTC_Window_Casement_Single Fixed Panel,,,,,CW 750 x 1800,,,Fixed Panel Window
+Windows,JTC_Internal Fixed Window-15,AWT76 1500 x 3000,JTC_Internal Fixed Window-15,,,,,AWT76 1500 x 3000,,,Fixed Panel Window
+Windows,,,JTC_Glass_Block_with Joints,,,,,,,,General Window Item
+Windows,,,JTC_ESS_Louvre,,,,,,,,Adjustable Louvred Window
+Windows,,,JTC_Glass_Block_with Joints Unit 1,,,,,,,,General Window Item
+Windows,,,JTC_Fixed Louvre,,,,,,,,Fixed Louvred Window
+Windows,JTC_Vent Block,EVB 1400 x 600 General,JTC_Vent Block,,,,,EVB 1400 x 600,,"Concrete, Precast",General Window Item
+Windows,JTC_Vent Block,EVB 2400 x 600 General,JTC_Vent Block,,,,,EVB 2400 x 600,,"Concrete, Precast",General Window Item
+Windows,JTC_Window_Casement_Single Panel_FAP,CW 750 x 1800,JTC_Window_Casement_Single Panel_FAP,,,,,CW 750 x 1800,,,Fixed Panel Window
+Windows,JTC_GH Window T02,SW-14 1400 x 1000 Side Hung,JTC_GH Window T02,,,,,SW-14 1400 x 1000 Side Hung,,,Side-Hung Window
+Windows,JTC_GH Window T02,SW-10 1000 x 1000 Side Hung,JTC_GH Window T02,,,,,SW-10 1000 x 1000 Side Hung,,,Side-Hung Window
+Walls,Basic Wall,External_PC_150mm with Tile Finish,Basic Wall,,,,,External_PC_150mm with Tile Finish,Concrete - RC Cast In Situ,,Cast In-Situ RC Wall
+Walls,Basic Wall,External_PC_150mm with Skim Coat,Basic Wall,,,,,External_PC_150mm with Skim Coat,Concrete - RC Cast In Situ,,Cast In-Situ RC Wall
+Walls,Basic Wall,External_RC_200mm with Skim coat,Basic Wall,,,,,External_RC_200mm with Skim coat,Concrete - RC Cast In Situ,,Cast In-Situ RC Wall
+Walls,Basic Wall,Internal_PC_100mm With Skim Coat,Basic Wall,,,,,Internal_PC_100mm With Skim Coat,Concrete - RC Cast In Situ,,Cast In-Situ RC Wall
+Walls,Basic Wall,Internal_PC_120mm With Tile Finish,Basic Wall,,,,,Internal_PC_120mm With Tile Finish,Concrete - RC Cast In Situ,,Cast In-Situ RC Wall
+Walls,Basic Wall,External_PC_200mm with Textured,Basic Wall,,,,,External_PC_200mm with Textured,Concrete - RC Cast In Situ,,Cast In-Situ RC Wall
+Walls,Basic Wall,Aluminium Cladding_100mm,Basic Wall,,,,,Aluminium Cladding_100mm,Aluminum,,Wall Finish
+Walls,Basic Wall,External_RC_230mm with Skim coat,Basic Wall,,,,,External_RC_230mm with Skim coat,Concrete - RC Cast In Situ,,Cast In-Situ RC Wall
+Walls,Basic Wall,JTC_Toilet Wall Tiles_300x600,Basic Wall,,,,,JTC_Toilet Wall Tiles_300x600,<By Category>,,Wall Finish
+Walls,Basic Wall,Toilet Maintenance Ledge & Toilet Wall Tiles 300*600,Basic Wall,,,,,Toilet Maintenance Ledge & Toilet Wall Tiles 300*600,Concrete - RC Cast In Situ,,Cast In-Situ RC Wall
+Walls,Basic Wall,Internal_PC_200mm with Skim Coat,Basic Wall,,,,,Internal_PC_200mm with Skim Coat,Concrete - RC Cast In Situ,,Cast In-Situ RC Wall
+Walls,Basic Wall,Internal_RC_50mm With Tile Finish,Basic Wall,,,,,Internal_RC_50mm With Tile Finish,Concrete - RC Cast In Situ,,Cast In-Situ RC Wall
+Walls,Basic Wall,JTC_Toilet Wall Tiles_300x300,Basic Wall,,,,,JTC_Toilet Wall Tiles_300x300,<By Category>,,Wall Finish
+Walls,Curtain Wall,JTC_GlazedPanel_Single_Clear,CurtainPanel,,,,,GlazedPanel_Single_Clear,,,Curtain Wall
+Walls,Curtain Wall,JTC_GlazedPanel_Single_Clear,Rectangular Mullion,,,,,Rectangular_Mullion_Top_Right,,<By Category>,Curtain Wall
+Walls,Curtain Wall,JTC_GlazedPanel_Single_Clear,Rectangular Mullion,,,,,Rectangular_Mullion_Bottom_Left,,<By Category>,Curtain Wall
+Walls,Curtain Wall,JTC_GlazedPanel_Single_Clear,Rectangular Mullion,,,,,Rectangular_Mullion_Center,,<By Category>,Curtain Wall
+Walls,Curtain Wall,JTC_GlazedPanel_Single_Clear,PD_Double Swing Panel,,,,,PD_Double Swing Panel,,,Curtain Wall
+Walls,Curtain Wall,JTC_GlazedPanel_Single_Clear,Curtain Wall,,,,,JTC_GlazedPanel_Single_Clear,<By Category>,,Curtain Wall
+Walls,Curtain Wall,JTC_GlazedPanel_Single_Clear,PD_TOp Hung Panel,,,,,PD_TOp Hung Panel,,,Curtain Wall
+Walls,Curtain Wall,JTC_CW_10745mm,CurtainPanel,,,,,GlazedPanel_Single_Clear,,,Curtain Wall
+Walls,Curtain Wall,JTC_CW_10745mm,Rectangular Mullion,,,,,Rectangular_Mullion_Top_Right,,<By Category>,Curtain Wall
+Walls,Curtain Wall,JTC_CW_10745mm,Rectangular Mullion,,,,,Rectangular_Mullion_Bottom_Left,,<By Category>,Curtain Wall
+Walls,Curtain Wall,JTC_CW_10745mm,Rectangular Mullion,,,,,Rectangular_Mullion_Center,,<By Category>,Curtain Wall
+Walls,Curtain Wall,JTC_CW_10745mm,PD_CW Door,C1020,Interior Doors,,,PD_CW Door,,,Curtain Wall
+Walls,Curtain Wall,JTC_CW_10745mm,Curtain Wall,,,,,JTC_CW_10745mm,<By Category>,,Curtain Wall
+Walls,Basic Wall,Internal_RC_200mm with Skim Coat,Basic Wall,,,,,Internal_RC_200mm with Skim Coat,Concrete - RC Cast In Situ,,Cast In-Situ RC Wall
+Walls,Basic Wall,Internal_RC_120mm With Tile Finish,Basic Wall,,,,,Internal_RC_120mm With Tile Finish,Concrete - RC Cast In Situ,,Cast In-Situ RC Wall
+Walls,Basic Wall,Internal_RC_100mm With Skim Coat,Basic Wall,,,,,Internal_RC_100mm With Skim Coat,Concrete - RC Cast In Situ,,Cast In-Situ RC Wall
+Walls,Curtain Wall,JTC_CW_10745mm,PD_CW Door,C1020,Interior Doors,,,2000 x 2400,,,Curtain Wall
+Walls,Basic Wall,JTC_RC_200_Int,Basic Wall,,,,,JTC_RC_200_Int,Concrete - Cast In Situ,,Cast In-Situ RC Wall
+Walls,Basic Wall,JTC_RC_200_Ext,Basic Wall,,,,,JTC_RC_200_Ext,Concrete - Cast In Situ,,Cast In-Situ RC Wall
+Walls,Basic Wall,JTC_RC_150_Ext,Basic Wall,,,,,JTC_RC_150_Ext,Concrete - Cast In Situ,,Cast In-Situ RC Wall
+Walls,Basic Wall,JTC_RC_150,Basic Wall,,,,,JTC_RC_150,Concrete - Cast In Situ,,Cast In-Situ RC Wall
+Walls,Basic Wall,JTC_RC_350_Int,Basic Wall,,,,,JTC_RC_350_Int,Concrete - Cast In Situ,,Cast In-Situ RC Wall
+Walls,Basic Wall,JTC_RC_250,Basic Wall,,,,,JTC_RC_250,Concrete - Cast In Situ,,Cast In-Situ RC Wall
+Walls,Basic Wall,JTC_RC_150_Int,Basic Wall,,,,,JTC_RC_150_Int,Concrete - Cast In Situ,,Cast In-Situ RC Wall
+Walls,Basic Wall,JTC_RC_300_Int,Basic Wall,,,,,JTC_RC_300_Int,Wall_ConcreteInsitu,,Cast In-Situ RC Wall
+Walls,Basic Wall,JTC_RC_250_Int,Basic Wall,,,,,JTC_RC_250_Int,Concrete - Cast In Situ,,Cast In-Situ RC Wall
+Roofs,,,Basic Roof,,,,,,,,General Roof item
+Floors,Floor,Internal Road (Tarmac),Floor,,,,,Internal Road (Tarmac),Tarmac Road,,General Floor item
+Floors,Floor,Turfing,Floor,,,,,Turfing,<By Category>,,Floor Finish
+Floors,Floor,Footpath (Concrete Screed),Floor,,,,,Footpath (Concrete Screed),Concrete - Cast In Situ,,General Floor item
+Floors,Floor,K2 Kerb (Concrete Screed),Floor,,,,,K2 Kerb (Concrete Screed),Concrete - Cast In Situ,,General Floor item
+Floors,Floor,Footpath (Concrete Screed)_150mm,Floor,,,,,Footpath (Concrete Screed)_150mm,Concrete - Cast In Situ,,General Floor item
+Floors,Floor,Internal Road (Tarmac) 2,Floor,,,,,Internal Road (Tarmac) 2,Tarmac Road,,General Floor item
+Floors,Floor,Footpath (Concrete Screed) 2,Floor,,,,,Footpath (Concrete Screed) 2,Concrete - Cast In Situ,,General Floor item
+Floors,Floor,Internal Road (Driveway),Floor,,,,,Internal Road (Driveway),Driveway,,General Floor item
+Floors,Floor,JTC_Power Float w/ Waterproofing,Floor,,,,,JTC_Power Float w/ Waterproofing,<By Category>,,General Floor item
+Floors,Floor,JTC_Floor Tile_300x600,Floor,,,,,JTC_Floor Tile_300x600,<By Category>,,Floor Finish
+Floors,Floor,RC Plinth,Floor,,,,,RC Plinth,Concrete - RC Cast In Situ,,Structural Slab
+Floors,Floor,JTC_Concrete Screed_Power Float w/ Waterproofing,Floor,,,,,JTC_Concrete Screed_Power Float w/ Waterproofing,<By Category>,,General Floor item
+Floors,Floor,JTC_Power Float w/ Epoxy Fin_150mm,Floor,,,,,JTC_Power Float w/ Epoxy Fin_150mm,<By Category>,,General Floor item
+Floors,Floor,JTC_Concrete Floor_Power Float Fin,Floor,,,,,JTC_Concrete Floor_Power Float Fin,Concrete - Sand/Cement Screed,,General Floor item
+Floors,Floor,JTC_Floor Tile_300x300,Floor,,,,,JTC_Floor Tile_300x300,<By Category>,,Floor Finish
+Floors,Floor,JTC_Power Float Finish_50mm,Floor,,,,,JTC_Power Float Fin_50mm,<By Category>,,Floor Finish
+Floors,Floor,Structural Floor,Floor,,,,,Structural Floor,<By Category>,,Structural Slab
+Floors,Floor,RC Kerb_100mm,Floor,,,,,RC Kerb_100mm,Concrete - RC Cast In Situ,,Structural Slab
+Floors,Floor,JTC_Power Float Finish_125mm,Floor,,,,,JTC_Power Float Fin_125mm,<By Category>,,Floor Finish
+Floors,Floor,JTC_Power Float w/ Waterproofing_30mm,Floor,,,,,JTC_Power Float w/ Waterproofing_30mm,<By Category>,,Floor Finish
+Floors,Floor,JTC_Concrete Floor_Power Float w/ Epoxy Finish 10mm,Floor,,,,,JTC_Concrete Floor_Power Float w/ Epoxy Fin,Concrete - Sand/Cement Screed,,Floor Finish
+Floors,Floor,JTC_Concrete Screed_Power Float w/ Waterproofing)_30mm,Floor,,,,,JTC_Concrete Screed_Power Float w/ Waterproofing)_30mm,<By Category>,,Floor Finish
+Floors,Floor,JTC_Power Float Finish 10mm,Floor,,,,,JTC_Power Float Finish 10mm,<By Category>,,Floor Finish
+Floors,Floor,RC Kerb_50mm,Floor,,,,,RC Kerb_50mm,Concrete - RC Cast In Situ,,Structural Slab
+Floors,Floor,JTC_RC_300,Floor,,,,,JTC_RC_300,Concrete - Cast In Situ,,Structural Slab
+Floors,Floor,JTC_RC_250,Floor,,,,,JTC_RC_250,Concrete - Cast In Situ,,Structural Slab
+Floors,Floor,JTC_RC_150,Floor,,,,,JTC_RC_150,Concrete - Cast In Situ,,Structural Slab
+Floors,Floor,JTC_RC_200,Floor,,,,,JTC_RC_200,Concrete - Cast In Situ,,Structural Slab
+Floors,Floor,JTC_RC_100,Floor,,,,,JTC_RC_100,Concrete - Cast In Situ,,Structural Slab
+Floors,Floor,JTC_Generic_200,Floor,,,,,JTC_Generic_200,Concrete - Cast In Situ,,General Floor item
+Floors,Floor,JTC_RC_350,Floor,,,,,JTC_RC_350,Concrete - Cast In Situ,,Structural Slab
+Floors,Floor,RC Kerb_150mm,Floor,,,,,RC Kerb_150mm,Concrete - RC Cast In Situ,,Structural Slab
+Fire Alarm Devices,Bell-Vibrating-Kidde_Fire_Systems-439D,"6"",Bell-Vibrating-Kidde_Fire_Systems-439D""",[4846858],,See Part Description,,"6"","",""
+Fire Alarm Devices""",Bell-Vibrating-Kidde_Fire_Systems-439D,"6"",Bell-Vibrating-Kidde_Fire_Systems-439D""",[4848752],Fire Alarm Fixture and Device
+Fire Alarm Devices,Fire-Products_Bosch_ManualCallPoints_largeType,FMC-210-DM-G-R_Manual_call_point_indoor_red,Fire-Products_Bosch_ManualCallPoints_largeType,,,"analog addressable double-action call point with glass pane for indoor use, indirect alarm triggering (type B), red",,FMC-210-DM-G-R_Manual_call_point_indoor_red,,ASA plastic,Fire Alarm Fixture and Device
+Fire Alarm Devices,Emergency_Notification-Temporal_Horns_and_Strobes-UTC-757_Series,"Red Housing, 110 cd UL 1638, 120 cd ULC S526, 110 cd Wall and 60 cd Ceiling UL 1971",Emergency_Notification-Temporal_Horns_and_Strobes-UTC-757_Series,,,"Temporal horn-strobe, red housing",,"Red Housing, 110 cd UL 1638, 120 cd ULC S526, 110 cd Wall and 60 cd Ceiling UL 1971",,,Fire Alarm Fixture and Device
+Fire Alarm Devices,,,JTC_MAP-Panel,,,,,,,,Fire Alarm Fixture and Device
+Fire Alarm Devices,Bell-Vibrating-Kidde_Fire_Systems-439D,"6"",Bell-Vibrating-Kidde_Fire_Systems-439D""",[4865700],,See Part Description,,"6"","",""
+Fire Alarm Devices""",Bell-Vibrating-Kidde_Fire_Systems-439D,"6"",Bell-Vibrating-Kidde_Fire_Systems-439D""",[4866053],Fire Alarm Fixture and Device
+Fire Alarm Devices,Bell-Vibrating-Kidde_Fire_Systems-439D,"6"",Bell-Vibrating-Kidde_Fire_Systems-439D""",[4848752],,See Part Description,,"6"","",""
+Fire Alarm Devices""",Bell-Vibrating-Kidde_Fire_Systems-439D,"6"",Bell-Vibrating-Kidde_Fire_Systems-439D""",[4865700],Fire Alarm Fixture and Device
+Fire Alarm Devices,Bell-Vibrating-Kidde_Fire_Systems-439D,"6"",Bell-Vibrating-Kidde_Fire_Systems-439D""",[4870162],,See Part Description,,"6"","",""
+Fire Alarm Devices""",Bell-Vibrating-Kidde_Fire_Systems-439D,"6"",Bell-Vibrating-Kidde_Fire_Systems-439D""",[4870337],Fire Alarm Fixture and Device
+Fire Alarm Devices,Bell-Vibrating-Kidde_Fire_Systems-439D,"6"",Bell-Vibrating-Kidde_Fire_Systems-439D""",[5001446],,See Part Description,,"6"","",""
+Fire Alarm Devices""",Bell-Vibrating-Kidde_Fire_Systems-439D,"6"",Bell-Vibrating-Kidde_Fire_Systems-439D""",[5001451],Fire Alarm Fixture and Device
+Fire Alarm Devices,Bell-Vibrating-Kidde_Fire_Systems-439D,"6"",Bell-Vibrating-Kidde_Fire_Systems-439D""",[4870162],,See Part Description,,"6"","",""
+Fire Alarm Devices""",Bell-Vibrating-Kidde_Fire_Systems-439D,"6"",Bell-Vibrating-Kidde_Fire_Systems-439D""",[4870686],Fire Alarm Fixture and Device
+Fire Alarm Devices,Bell-Vibrating-Kidde_Fire_Systems-439D,"6"",Bell-Vibrating-Kidde_Fire_Systems-439D""",[5812888],,See Part Description,,"6"","",""
+Fire Alarm Devices""",Bell-Vibrating-Kidde_Fire_Systems-439D,"6"",Bell-Vibrating-Kidde_Fire_Systems-439D""",[5812935],Fire Alarm Fixture and Device
+Doors,BCA_Dr-NonResi_1Leaf1Swing,MS1 1100 x 2150,BCA_Dr-NonResi_1Leaf1Swing,,,,,MS1 1100 x 2150,,,"General Door Item (including Gate, Roller Shutter)"
+Doors,BCA_Dr-NonResi_1Leaf1Swing,MS1F2V 1100 x 2150 2FR,BCA_Dr-NonResi_1Leaf1Swing,,,,,MS1F2V 1100 x 2150 2FR,,,"General Door Item (including Gate, Roller Shutter)"
+Doors,BCA_Dr-NonResi_1Leaf1Swing,TS1F1V 1100 x 2150 1HR,BCA_Dr-NonResi_1Leaf1Swing,,,,,TS1F1V 1100 x 2150 1HR,,,"General Door Item (including Gate, Roller Shutter)"
+Doors,BCA_Dr-NonResi_1Leaf1Swing,MS2F2 1000 x 2150 2HR,BCA_Dr-NonResi_1Leaf1Swing,,,,,MS2F2 1000 x 2150 2HR,,,"General Door Item (including Gate, Roller Shutter)"
+Doors,BCA_Dr-NonResi_1Leaf1Swing,MS3F2 900 x 2150 2HR,BCA_Dr-NonResi_1Leaf1Swing,,,,,MS3F2 900 x 2150 2HR,,,"General Door Item (including Gate, Roller Shutter)"
+Doors,BCA_Dr-NonResi_1Leaf1Swing,MS1F1V 1100 x 2150,BCA_Dr-NonResi_1Leaf1Swing,,,,,MS1F1V 1100 x 2150,,,"General Door Item (including Gate, Roller Shutter)"
+Doors,JTC_Louvre Door_Bin Point,MS6L 1150 x 1450,JTC_Louvre Door_Bin Point,,,,,MS6L 1150 x 1450,,,"General Door Item (including Gate, Roller Shutter)"
+Doors,Roller Shutter Door,ROLLER SHUTTER RS1 LORRY PARKS 7300 x 5000,Roller Shutter Door Room Divider,,,,,ROLLER SHUTTER RS1 LORRY PARKS 7300 x 5000,,,Screen/Room Divider
+Doors,Roller Shutter Door,ROLLER SHUTTER RS2 PRODUCTION 3500 x 3000,Roller Shutter Door Room Divider,,,,,ROLLER SHUTTER RS2 PRODUCTION 3500 x 3000,,,Screen/Room Divider
+Doors,Roller Shutter Door,ROLLER SHUTTER RS2 PRODUCTION 7000 x 3500,Roller Shutter Door Room Divider,,,,,ROLLER SHUTTER RS2 PRODUCTION 7000 x 3500,,,Screen/Room Divider
+Doors,BCA_Dr-NonResi_1Leaf1Swing_Louvred,TS1L 1100 x 2150,BCA_Dr-NonResi_1Leaf1Swing_Louvred,,,,,TS1L 1100 x 2150,,,"General Door Item (including Gate, Roller Shutter)"
+Doors,BCA_Dr-NonResi_1Leaf1Swing(NO PANEL),MS1F2 1100 x 2150,BCA_Dr-NonResi_1Leaf1Swing(NO PANEL),,,,,MS1F2 1100 x 2150,,,"General Door Item (including Gate, Roller Shutter)"
+Doors,JTC_Louvre Door Substation,MS1F1X 1800 x 2900,JTC_Louvre Door Substation,,,,,MS1F1X 1800 x 2900,,,"General Door Item (including Gate, Roller Shutter)"
+Doors,JTC_Louvre Door Substation,MS1F1Y 2700 x 2700,JTC_Louvre Door Substation,,,,,MS1F1Y 2700 x 2700,,,"General Door Item (including Gate, Roller Shutter)"
+Doors,JTC_CSR Door,Glass MD3-2HR 1900 x 2800,JTC_CSR Door,,,,,Glass MD3-2HR 1900 x 2800,,,"General Door Item (including Gate, Roller Shutter)"
+Doors,JTC_Bi-Fold Gate Door,9000 x 2000,JTC_Bi-Fold Gate Door,,,,,9000 x 2000,,,"General Door Item (including Gate, Roller Shutter)"
+Doors,JTC_Gate Swing Door,Gate_Swing Door,JTC_Gate Swing Door,,,,,Gate_Swing Door,,,"General Door Item (including Gate, Roller Shutter)"
+Doors,DOOR ALUMINIUM_DOOR_SINGLE_PANEL_NO_VISIONPANEL1 Cable Chamber Door,Cable Chamber Door 1300 x 1500,DOOR ALUMINIUM_DOOR_SINGLE_PANEL_NO_VISIONPANEL1 Cable Chamber Door,,,,,Cable Chamber Door 1300 x 1500,,,"General Door Item (including Gate, Roller Shutter)"
+Doors,A61_Hatch Door,1000 X 1000,A61_Hatch Door,,,,,1000 X 1000,,,"General Door Item (including Gate, Roller Shutter)"
+Doors,A61_Hatch Door,760 x 760,A61_Hatch Door,,,,,760 x 760,,,"General Door Item (including Gate, Roller Shutter)"
+Doors,A61_Hatch Door,1000 x 1000,A61_Hatch Door,,,,,1000 x 1000,,,"General Door Item (including Gate, Roller Shutter)"
+Doors,A61_Hatch Door,760 X 760,A61_Hatch Door,,,,,760 X 760,,,"General Door Item (including Gate, Roller Shutter)"
+Doors,PD_Hatch Door,1000 X 1000,PD_Hatch Door,,,,,1000 X 1000,,,"General Door Item (including Gate, Roller Shutter)"
+Doors,PD_Hatch Door,760 X 760,PD_Hatch Door,,,,,760 X 760,,,"General Door Item (including Gate, Roller Shutter)"
+Columns,Rectangular,500 x 500mm,Rectangular,,,,,500 x 500mm,,Plaster_External,Architectural Column

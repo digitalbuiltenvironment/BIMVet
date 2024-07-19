@@ -1,0 +1,31 @@
+Family,SubFamily,ObjectGroup,ObjectName,Assembly Code,Assembly Description,Description,Type Comments,Type Name,Structural Material,Material
+Site,,,JTC_Fire Hydrant_New,,,,,,,
+Pipes,,,Pipe Types,,,,,,,
+Pipe Fittings,,,M_Transition - Generic,,,,,,,
+Pipe Fittings,,,M_Elbow - Generic,,,,,,,
+Pipe Fittings,,,M_Tee - Generic,,,,,,,
+Pipe Fittings,,,M_Cap - Generic,,,,,,,
+Pipe Fittings,,,M_Elbow - Flanged - GI - Class 250,,,,,,,
+Fire Alarm Devices,Bell-Vibrating-Kidde_Fire_Systems-439D,"6"",Bell-Vibrating-Kidde_Fire_Systems-439D""",[4846858],,See Part Description,,"6"","",""
+Fire Alarm Devices""",Bell-Vibrating-Kidde_Fire_Systems-439D,"6"",Bell-Vibrating-Kidde_Fire_Systems-439D""",[4848752]
+Fire Alarm Devices,Fire-Products_Bosch_ManualCallPoints_largeType,FMC-210-DM-G-R_Manual_call_point_indoor_red,Fire-Products_Bosch_ManualCallPoints_largeType,,,"analog addressable double-action call point with glass pane for indoor use, indirect alarm triggering (type B), red",,FMC-210-DM-G-R_Manual_call_point_indoor_red,,ASA plastic
+Fire Alarm Devices,Emergency_Notification-Temporal_Horns_and_Strobes-UTC-757_Series,"Red Housing, 110 cd UL 1638, 120 cd ULC S526, 110 cd Wall and 60 cd Ceiling UL 1971",Emergency_Notification-Temporal_Horns_and_Strobes-UTC-757_Series,,,"Temporal horn-strobe, red housing",,"Red Housing, 110 cd UL 1638, 120 cd ULC S526, 110 cd Wall and 60 cd Ceiling UL 1971",,
+Fire Alarm Devices,,,JTC_MAP-Panel,,,,,,,
+Pipe Accessories,,,P-CHECK VALVE-FLANGE,,,,,,,
+Mechanical Equipment,,,JTC_Sub Meter1,,,,,,,
+Mechanical Equipment,,,JTC_Main Meter1,,,,,,,
+Generic Models,,,JTC_Sub Meter,,,,,,,
+Fire Alarm Devices,Bell-Vibrating-Kidde_Fire_Systems-439D,"6"",Bell-Vibrating-Kidde_Fire_Systems-439D""",[4865700],,See Part Description,,"6"","",""
+Fire Alarm Devices""",Bell-Vibrating-Kidde_Fire_Systems-439D,"6"",Bell-Vibrating-Kidde_Fire_Systems-439D""",[4866053]
+Pipe Accessories,BCA-_Gate Valve - 50-300 mm,200 mm,BCA-_Gate Valve - 50-300 mm,,,,,200 mm,,
+Pipe Accessories,BCA-_Gate Valve - 50-300 mm,80 mm,BCA-_Gate Valve - 50-300 mm,,,,,80 mm,,
+Fire Alarm Devices,Bell-Vibrating-Kidde_Fire_Systems-439D,"6"",Bell-Vibrating-Kidde_Fire_Systems-439D""",[4848752],,See Part Description,,"6"","",""
+Fire Alarm Devices""",Bell-Vibrating-Kidde_Fire_Systems-439D,"6"",Bell-Vibrating-Kidde_Fire_Systems-439D""",[4865700]
+Fire Alarm Devices,Bell-Vibrating-Kidde_Fire_Systems-439D,"6"",Bell-Vibrating-Kidde_Fire_Systems-439D""",[4870162],,See Part Description,,"6"","",""
+Fire Alarm Devices""",Bell-Vibrating-Kidde_Fire_Systems-439D,"6"",Bell-Vibrating-Kidde_Fire_Systems-439D""",[4870337]
+Fire Alarm Devices,Bell-Vibrating-Kidde_Fire_Systems-439D,"6"",Bell-Vibrating-Kidde_Fire_Systems-439D""",[5001446],,See Part Description,,"6"","",""
+Fire Alarm Devices""",Bell-Vibrating-Kidde_Fire_Systems-439D,"6"",Bell-Vibrating-Kidde_Fire_Systems-439D""",[5001451]
+Fire Alarm Devices,Bell-Vibrating-Kidde_Fire_Systems-439D,"6"",Bell-Vibrating-Kidde_Fire_Systems-439D""",[4870162],,See Part Description,,"6"","",""
+Fire Alarm Devices""",Bell-Vibrating-Kidde_Fire_Systems-439D,"6"",Bell-Vibrating-Kidde_Fire_Systems-439D""",[4870686]
+Fire Alarm Devices,Bell-Vibrating-Kidde_Fire_Systems-439D,"6"",Bell-Vibrating-Kidde_Fire_Systems-439D""",[5812888],,See Part Description,,"6"","",""
+Fire Alarm Devices""",Bell-Vibrating-Kidde_Fire_Systems-439D,"6"",Bell-Vibrating-Kidde_Fire_Systems-439D""",[5812935]

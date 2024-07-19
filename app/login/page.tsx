@@ -15,6 +15,7 @@ export default function Page() {
 
   const handleLogin = async () => {
     try {
+      router.push('/');
       const { user, error } = await supabase.auth.signInWithPassword({
         email: email,
         password: password,
@@ -25,7 +26,7 @@ export default function Page() {
       } else {
         // setAuthenticated(true); // Set authenticated to true
         // checkUser(); // Check the logged in user
-        router.push('/test');
+        router.push('/');
       }
     } catch (error) {
       console.error('Error logging in:', error);
@@ -34,6 +35,7 @@ export default function Page() {
 
   return (
     <BackGroundComponent>
+      <title>BIMVet Login</title>
       <div
         className={`min-h-screen flex items-center justify-center ${
           theme === 'dark' ? 'dark-theme' : 'light-theme'
@@ -78,7 +80,7 @@ export default function Page() {
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
                 className={`w-full px-4 py-2 mt-2 ${
-                  theme === 'dark' ? 'text-white' : 'text-gray-700'
+                  theme === 'dark' ? 'text-gray-700' : 'text-gray-700'
                 } bg-white border border-gray-300 rounded-md focus:outline-none`}
               />
             </div>
@@ -98,7 +100,7 @@ export default function Page() {
                 value={password}
                 onChange={(e) => setPassword(e.target.value)}
                 className={`w-full px-4 py-2 mt-2 ${
-                  theme === 'dark' ? 'text-white' : 'text-gray-700'
+                  theme === 'dark' ? 'text-gray-700' : 'text-gray-700'
                 } bg-white border border-gray-300 rounded-md focus:outline-none`}
               />
             </div>

@@ -1,0 +1,244 @@
+Family,SubFamily,ObjectGroup,ObjectName,Assembly Code,Assembly Description,Description,Type Comments,Type Name,Structural Material,Material
+Pipes,Pipe Types,SR-Pipes-SoilWaste-HDDI_Underground,Pipe Types,,,,,SR-Pipes-SoilWaste-HDDI_Underground,,Ductile Iron
+Pipes,Pipe Types,SR-Pipes-SoilWaste-HDDI_Underground,Pipe Types,,,,,,,Ductile Iron
+Pipes,Pipe Types,SR-Pipes-SoilWaste-PVC_Socket,Pipe Types,,,,,SR-Pipes-SoilWaste-PVC_Socket,,UPVC
+Pipes,Pipe Types,SR-Pipes-SoilWaste-PVC_Socket,Pipe Types,,,,,,,UPVC
+Pipes,Pipe Types,SR-Pipes-SoilWaste-HDDI_Underground 2,Pipe Types,,,,,SR-Pipes-SoilWaste-HDDI_Underground 2,,Ductile Iron
+Pipes,Pipe Types,SR-Pipes-SoilWaste-HDDI_Underground 2,Pipe Types,,,,,,,Ductile Iron
+Plumbing Fixtures,SITE-ISCB-700W*750D,IC Type 01B,SITE-ISCB-700W*750D,,,Inspection Chamber,,IC Type 01B,,Precast Concrete
+Plumbing Fixtures,SITE-ISCB-700W*750D,IC Type 01A,SITE-ISCB-700W*750D,,,Inspection Chamber,,IC Type 01A,,Precast Concrete
+Plumbing Fixtures,SITE-ISCB-700W*750D,IC Type 01,SITE-ISCB-700W*750D,,,Inspection Chamber,,IC Type 01,,Precast Concrete
+Plumbing Fixtures,SITE-ISCB-700W*750D,IC Type 1,SITE-ISCB-700W*750D,,,Inspection Chamber,,IC Type 1,,Precast Concrete
+Plumbing Fixtures,SITE-ISCB-700W*750D,WS Type 02B,SITE-ISCB-700W*750D,,,Inspection Chamber,,WS Type 02B,,Precast Concrete
+Plumbing Fixtures,SITE-ISCB-700W*750D,WS Type 02A,SITE-ISCB-700W*750D,,,Inspection Chamber,,WS Type 02A,,Precast Concrete
+Plumbing Fixtures,SITE-ISCB-700W*750D,IC Type 13,SITE-ISCB-700W*750D,,,Inspection Chamber,,IC Type 13,,Precast Concrete
+Plumbing Fixtures,SITE-SDRN-700W*750D,IC Type 11(MH),SITE-SDRN-700W*750D,,,Inspection Chamber,,IC Type 11(MH),,Precast Concrete
+Plumbing Fixtures,SITE-SDRN-700W*750D,IC Type 40(MH),SITE-SDRN-700W*750D,,,Inspection Chamber,,IC Type 40(MH),,Precast Concrete
+Plumbing Fixtures,SITE-SDRN-700W*750D,IC Type 20(MH),SITE-SDRN-700W*750D,,,Inspection Chamber,,IC Type 20(MH),,Precast Concrete
+Plumbing Fixtures,SITE-SDRN-700W*750D,IC Type 03(MH),SITE-SDRN-700W*750D,,,Inspection Chamber,,IC Type 03(MH),,Precast Concrete
+Plumbing Fixtures,SITE-SDRN-350W*750D,IC Type 40(MH),SITE-SDRN-350W*750D,,,Inspection Chamber,,IC Type 40(MH),,Precast Concrete
+Plumbing Fixtures,SITE-SDRN-350W*750D,IC Type 20(MH),SITE-SDRN-350W*750D,,,Inspection Chamber,,IC Type 20(MH),,Precast Concrete
+Plumbing Fixtures,SE-GSEI-120W*288H,Double Jumbo Roll Paper Holder,SE-GSEI-120W*288H,,,Double Jumbo Roll Paper Holder,,Double Jumbo Roll Paper Holder,,ABS White
+Plumbing Fixtures,PF-WCS-FMD_635L*370W*765H,Pedestal Water Closet,PF-WCS-FMD_635L*370W*765H,,,Water Closet,,Pedestal Water Closet,,Vitreous China
+Plumbing Fixtures,SE-DRYER-300L*220W*687H,Hand Dryer,SE-DRYER-300L*220W*687H,E1090900,Other Equipment,Wall Mounted Sensor Hand Dryer,,Hand Dryer,,ABS White
+Plumbing Fixtures,PF-BBS-HHB_4L/min,Bidet Spray,PF-BBS-HHB_4L/min,,,Bidet Spray,,Bidet Spray,,Plastic Chrome
+Plumbing Fixtures,SE-GSEI-105W*375H,Paper Towel Dispenser,SE-GSEI-105W*375H,E2020200,Furniture & Accessories,Wall Mounted Paper Towel Dispenser,,Paper Towel Dispenser,,ABS White
+Plumbing Fixtures,PF-URNL-WHB,350L*330W*540H,PF-URNL-WHB,D2010210,Urinals - Single,"Commercial Washout High Efficiency Urinal, 0.5 GPF - ADA",,350L*330W*540H,,Vitreous China
+Plumbing Fixtures,1M X 1M Plinth,PH MONITORING PLINTH(1X1),1M X 1M Plinth,,,,,PH MONITORING PLINTH(1X1),,<By Category>
+Plumbing Fixtures,Gully Trap,TL_GULLY,Gully Trap,,,,,TL_GULLY,,Stainless Steel
+Plumbing Fixtures,PF-BSIN-UMB_550Lx415Wx200H,Undercounter Basin,PF-BSIN-UMB_550Lx415Wx200H  001,,,,,IDA - Lavatory,,<By Category>
+Plumbing Fixtures,PF-BSIN-UMB_550Lx415Wx200H,Undercounter Basin,PF-BSIN-UMB_550Lx415Wx200H,,,Wash Basin,,Undercounter Basin,,Vitreous China
+Plumbing Fixtures,SE-GSEI-700H,Handicapped Toilet Grab Bar,SE-GSEI-700H,,,Handicapped Toilet Grab Bar,,Handicapped Toilet Grab Bar,,Stainless Steel
+Plumbing Fixtures,PF-HCT-SFV-204L*204H,WC Sensor Flush Valve,PF-HCT-SFV-204L*204H,,,WC Sensor Flush Valve,,WC Sensor Flush Valve,,Stainless Steel
+Plumbing Fixtures,SE-GSEI-830H,Handicapped Toilet Grab Bar,SE-GSEI-830H,,,Handicapped Toilet Grab Bar,,Handicapped Toilet Grab Bar,,Stainless Steel
+Plumbing Fixtures,PF-WCS-WMD_600L*365W*380H,WC Sensor Flush Valve,PF-WCS-WMD_600L*365W*380H,,,Water Closet,,WC Sensor Flush Valve,,Vitreous China
+Plumbing Fixtures,PF-BSIN-WHB_595Lx500Wx235H,Wall Hung Wash Basin,PF-BSIN-WHB_595Lx500Wx235H,,,Wash Basin,,Wall Hung Wash Basin,,Vitreous China
+Plumbing Fixtures,PF-URNL-SFV_120L*120H,URINAL SENSOR FLUSH VALVE,PF-URNL-SFV_120L*120H,,,Urinal Sensor Flush Valve,,URINAL SENSOR FLUSH VALVE,,Stainless Steel
+Pipe Fittings,TL_Bottle Trap,Ø40 Bottle Trap,TL_Bottle Trap,,,,,Ø40 Bottle Trap,,<By Category>
+Pipe Fittings,PVC_Socket_Elbow,Standard,PVC_Socket_Elbow,,,,,Standard,,<By Category>
+Pipe Fittings,S-Trap with 50mm Vent,100 x 100mm - 50mm,S-Trap with 50mm Vent,,,,,100 x 100mm - 50mm,,<By Category>
+Pipe Fittings,M_Bend - PVC - Sch 40 - DWV,Standard,M_Bend - PVC - Sch 40 - DWV,,,,,Standard,,<By Category>
+Pipe Fittings,Tee Reducing Sanitary - PVC - Sch 40 - DWV,Standard,Tee Reducing Sanitary - PVC - Sch 40 - DWV,,,,,Standard,,<By Category>
+Pipe Fittings,PVC_Socket_Tee,Standard,PVC_Socket_Tee,,,,,Standard,,<By Category>
+Pipe Fittings,DI_Flange_Cap,Standard,DI_Flange_Cap,,,,,Standard,,<By Category>
+Pipe Fittings,PVC_Socket_Transition,Standard,PVC_Socket_Transition,,,,,Standard,,<By Category>
+Pipe Fittings,Reducer - PVC - Sch 40 - DWV,Standard,Reducer - PVC - Sch 40 - DWV,,,,,Standard,,<By Category>
+Pipe Accessories,FD-SF-Floor Trap_Type1,Floor Trap,FD-SF-Floor Trap_Type1,,,Floor Trap,,Floor Trap,,Stainless Steel
+Pipe Accessories,PF-FT-150L*150W,Floor Trap/Floor Waste,PF-FT-150L*150W,,,Floor Trap,,Floor Trap/Floor Waste,,Stainless Steel
+Mechanical Equipment,control Panel,PH Monitoring Control Panel,control Panel,,,,,PH Monitoring Control Panel,,<By Category>
+Mechanical Equipment,40mm Wall Pipe Bracket,MP-L-I M8,40mm,,,Residential pipe ring,© Hilti,40mm,,<By Category>
+Mechanical Equipment,40mm Wall Pipe Bracket,MP-L-I M8,40mm Wall Pipe Bracket,,,Residential pipe ring,© Hilti,MP-L-I M8,,<By Category>
+Mechanical Equipment,32mm Wall Pipe Bracket,MP-L-I M8,Hilti_INS_rod_Threaded Rod 4.8,,,Threaded rod,© Hilti,Threaded Rod 4.8,,<By Category>
+Mechanical Equipment,32mm Wall Pipe Bracket,MP-L-I M8,32mm,,,Residential pipe ring,© Hilti,32mm,,<By Category>
+Mechanical Equipment,32mm Wall Pipe Bracket,MP-L-I M8,32mm Wall Pipe Bracket,,,Residential pipe ring,© Hilti,MP-L-I M8,,<By Category>
+Mechanical Equipment,Bracket222,C Bracket 100mm,Bracket222,,,,,C Bracket 100mm,,<By Category>
+Generic Models,RC Water Tank Side Inlet (9.55x5x7.2m)pipe sleeve only,RC Water Tank Side Inlet (9.55x5x7.2m)pipe sleeve only,RC Water Tank Side Inlet (9.55x5x7.2m)pipe sleeve only,,,,,RC Water Tank Side Inlet (9.55x5x7.2m)pipe sleeve only,,<By Category>
+Generic Models,TL-Pipe Sleeve,ø150,TL-Pipe Sleeve,,,,,ø150,,<By Category>
+Generic Models,"TL-Pipe Sleeve,200mm",ø150,"TL-Pipe Sleeve,200mm",,,,,ø150,,<By Category>
+Generic Models,TL-Hoop-mirror,"6"",TL-Hoop-mirror""",[5340096],Piping & Fittings,,,"6"","",<By Category>""",,,
+Generic Models,Meter Chamber,Meter Chamber,Meter Chamber,,,,,Meter Chamber,,<By Category>
+Pipe Fittings,PVC_Socket_Elbow,Standard,PVC_Socket_Elbow,,,,,,,<By Category>
+Pipe Fittings,S-Trap with 50mm Vent,100 x 100mm - 50mm,S-Trap with 50mm Vent,,,,,,,<By Category>
+Pipe Fittings,M_Bend - PVC - Sch 40 - DWV,Standard,M_Bend - PVC - Sch 40 - DWV,,,,,,,<By Category>
+Pipe Fittings,Tee Reducing Sanitary - PVC - Sch 40 - DWV,Standard,Tee Reducing Sanitary - PVC - Sch 40 - DWV,,,,,,,<By Category>
+Pipe Fittings,PVC_Socket_Tee,Standard,PVC_Socket_Tee,,,,,,,<By Category>
+Pipe Fittings,PVC_Socket_Transition,Standard,PVC_Socket_Transition,,,,,,,<By Category>
+Generic Models,TL-Pipe Sleeve,ø50,TL-Pipe Sleeve,,,,,ø50,,<By Category>
+Generic Models,SPA-CA-300W*300L*2700H 1,Ceiling Access Panel,SPA-CA-300W*300L*2700H 1,,,,,Ceiling Access Panel,,<By Category>
+Generic Models,SPA-CA-300W*300L*2700H 2,Ceiling Access Panel,SPA-CA-300W*300L*2700H 2,,,,,Ceiling Access Panel,,<By Category>
+Generic Models,SPA-CA-300W*300L*2700H 3,Ceiling Access Panel,SPA-CA-300W*300L*2700H 3,,,,,Ceiling Access Panel,,<By Category>
+Generic Models,SPA-CA-300W*300L*2700H 4,Ceiling Access Panel,SPA-CA-300W*300L*2700H 4,,,,,Ceiling Access Panel,,<By Category>
+Generic Models,SPA-CA-600W*600L*2700H 1,Ceiling Access Panel,SPA-CA-600W*600L*2700H 1,,,,,Ceiling Access Panel,,<By Category>
+Generic Models,SPA-CA-600W*600L*2700H 2,Ceiling Access Panel,SPA-CA-600W*600L*2700H 2,,,,,Ceiling Access Panel,,<By Category>
+Generic Models,SPA-CA-600W*600L*2700H 3,Ceiling Access Panel,SPA-CA-600W*600L*2700H 3,,,,,Ceiling Access Panel,,<By Category>
+Mechanical Equipment,40mm Wall Pipe Bracket,MP-L-I M8,Hilti_INS_rod_Threaded Rod 4.8,,,Threaded rod,© Hilti,Threaded Rod 4.8,,<By Category>
+Mechanical Equipment,40mm Wall Pipe Bracket,MP-L-I M8,Hilti_ANC_anchor_HKD,,,Flush Anchor,© Hilti,HKD M8x25,,
+Mechanical Equipment,32mm Wall Pipe Bracket,MP-L-I M8,Hilti_ANC_anchor_HKD,,,Flush Anchor,© Hilti,HKD M8x25,,
+Generic Models,TL-Hoop-mirror,"6"",TL-Hoop-mirror""",[5377810],Piping & Fittings,,,"6"","",<By Category>""",,,
+Generic Models,SPA-CA-300W*300L*2700H 5,Ceiling Access Panel,SPA-CA-300W*300L*2700H 5,,,,,Ceiling Access Panel,,<By Category>
+Generic Models,SPA-CA-300W*300L*2700H 6,Ceiling Access Panel,SPA-CA-300W*300L*2700H 6,,,,,Ceiling Access Panel,,<By Category>
+Generic Models,SPA-CA-300W*300L*2700H 7,Ceiling Access Panel,SPA-CA-300W*300L*2700H 7,,,,,Ceiling Access Panel,,<By Category>
+Generic Models,SPA-CA-300W*300L*2700H 8,Ceiling Access Panel,SPA-CA-300W*300L*2700H 8,,,,,Ceiling Access Panel,,<By Category>
+Generic Models,SPA-CA-600W*600L*2700H 4,Ceiling Access Panel,SPA-CA-600W*600L*2700H 4,,,,,Ceiling Access Panel,,<By Category>
+Generic Models,SPA-CA-600W*600L*2700H 5,Ceiling Access Panel,SPA-CA-600W*600L*2700H 5,,,,,Ceiling Access Panel,,<By Category>
+Generic Models,SPA-CA-600W*600L*2700H 6,Ceiling Access Panel,SPA-CA-600W*600L*2700H 6,,,,,Ceiling Access Panel,,<By Category>
+Generic Models,TL-Hoop,"1.5"",TL-Hoop""",[5287215],Piping & Fittings,,,"1.5"","",<By Category>""",,,
+Generic Models,TL-Hoop,"1.5"",TL-Hoop""",[5290187],Piping & Fittings,,,"1.5"","",<By Category>""",,,
+Generic Models,TL-Hoop,"1.5"",TL-Hoop""",[5290885],Piping & Fittings,,,"1.5"","",<By Category>""",,,
+Generic Models,TL-Hoop,"1.5"",TL-Hoop""",[5290886],Piping & Fittings,,,"1.5"","",<By Category>""",,,
+Generic Models,TL-Hoop,"1.5"",TL-Hoop""",[5291854],Piping & Fittings,,,"1.5"","",<By Category>""",,,
+Generic Models,TL-Hoop,"1.5"",TL-Hoop""",[5291855],Piping & Fittings,,,"1.5"","",<By Category>""",,,
+Generic Models,TL-Hoop,"1.5"",TL-Hoop""",[5293760],Piping & Fittings,,,"1.5"","",<By Category>""",,,
+Generic Models,TL-Hoop,"1.5"",TL-Hoop""",[5293761],Piping & Fittings,,,"1.5"","",<By Category>""",,,
+Generic Models,TL-Hoop,"1.5"",TL-Hoop""",[5299384],Piping & Fittings,,,"1.5"","",<By Category>""",,,
+Generic Models,TL-Hoop,"1.5"",TL-Hoop""",[5299385],Piping & Fittings,,,"1.5"","",<By Category>""",,,
+Generic Models,TL-Hoop,"1.5"",TL-Hoop""",[5300328],Piping & Fittings,,,"1.5"","",<By Category>""",,,
+Generic Models,TL-Hoop,"1.5"",TL-Hoop""",[5300329],Piping & Fittings,,,"1.5"","",<By Category>""",,,
+Generic Models,TL-Hoop,"1.5"",TL-Hoop""",[5301273],Piping & Fittings,,,"1.5"","",<By Category>""",,,
+Generic Models,TL-Hoop,"1.5"",TL-Hoop""",[5301274],Piping & Fittings,,,"1.5"","",<By Category>""",,,
+Generic Models,TL-Hoop,"1.5"",TL-Hoop""",[5302262],Piping & Fittings,,,"1.5"","",<By Category>""",,,
+Generic Models,TL-Hoop,"1.5"",TL-Hoop""",[5302263],Piping & Fittings,,,"1.5"","",<By Category>""",,,
+Generic Models,TL-Hoop,"1.5"",TL-Hoop""",[5352173],Piping & Fittings,,,"1.5"","",<By Category>""",,,
+Generic Models,TL-Hoop,"1.5"",TL-Hoop""",[5352174],Piping & Fittings,,,"1.5"","",<By Category>""",,,
+Generic Models,TL-Hoop,"1.5"",TL-Hoop""",[5352176],Piping & Fittings,,,"1.5"","",<By Category>""",,,
+Generic Models,TL-Hoop,"1.5"",TL-Hoop""",[5352177],Piping & Fittings,,,"1.5"","",<By Category>""",,,
+Generic Models,TL-Hoop,"1.5"",TL-Hoop""",[5352178],Piping & Fittings,,,"1.5"","",<By Category>""",,,
+Generic Models,TL-Hoop,"1.5"",TL-Hoop""",[5352179],Piping & Fittings,,,"1.5"","",<By Category>""",,,
+Generic Models,TL-Hoop,"1.5"",TL-Hoop""",[5352180],Piping & Fittings,,,"1.5"","",<By Category>""",,,
+Generic Models,TL-Hoop,"1.5"",TL-Hoop""",[5352181],Piping & Fittings,,,"1.5"","",<By Category>""",,,
+Generic Models,TL-Hoop,"1.5"",TL-Hoop""",[5352182],Piping & Fittings,,,"1.5"","",<By Category>""",,,
+Generic Models,TL-Hoop,"1.5"",TL-Hoop""",[5352183],Piping & Fittings,,,"1.5"","",<By Category>""",,,
+Generic Models,TL-Hoop,"1.5"",TL-Hoop""",[5352184],Piping & Fittings,,,"1.5"","",<By Category>""",,,
+Generic Models,TL-Hoop,"1.5"",TL-Hoop""",[5352185],Piping & Fittings,,,"1.5"","",<By Category>""",,,
+Generic Models,TL-Hoop,"1.5"",TL-Hoop""",[5352186],Piping & Fittings,,,"1.5"","",<By Category>""",,,
+Generic Models,TL-Hoop,"1.5"",TL-Hoop""",[5352187],Piping & Fittings,,,"1.5"","",<By Category>""",,,
+Generic Models,TL-Hoop,"1.5"",TL-Hoop""",[5352188],Piping & Fittings,,,"1.5"","",<By Category>""",,,
+Generic Models,TL-Hoop,"1.5"",TL-Hoop""",[5352189],Piping & Fittings,,,"1.5"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"6"",TL-Hoop-mirror""",[5338761],Piping & Fittings,,,"6"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"6"",TL-Hoop-mirror""",[5338856],Piping & Fittings,,,"6"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"6"",TL-Hoop-mirror""",[5340269],Piping & Fittings,,,"6"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"6"",TL-Hoop-mirror""",[5340402],Piping & Fittings,,,"6"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"6"",TL-Hoop-mirror""",[5342142],Piping & Fittings,,,"6"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"6"",TL-Hoop-mirror""",[5342199],Piping & Fittings,,,"6"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"6"",TL-Hoop-mirror""",[5343284],Piping & Fittings,,,"6"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"6"",TL-Hoop-mirror""",[5343358],Piping & Fittings,,,"6"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"6"",TL-Hoop-mirror""",[5344337],Piping & Fittings,,,"6"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"6"",TL-Hoop-mirror""",[5344441],Piping & Fittings,,,"6"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"6"",TL-Hoop-mirror""",[5344511],Piping & Fittings,,,"6"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"6"",TL-Hoop-mirror""",[5345512],Piping & Fittings,,,"6"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"6"",TL-Hoop-mirror""",[5346500],Piping & Fittings,,,"6"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"6"",TL-Hoop-mirror""",[5346540],Piping & Fittings,,,"6"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"6"",TL-Hoop-mirror""",[5347597],Piping & Fittings,,,"6"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"6"",TL-Hoop-mirror""",[5347679],Piping & Fittings,,,"6"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"6"",TL-Hoop-mirror""",[5352190],Piping & Fittings,,,"6"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"6"",TL-Hoop-mirror""",[5352192],Piping & Fittings,,,"6"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"6"",TL-Hoop-mirror""",[5352193],Piping & Fittings,,,"6"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"6"",TL-Hoop-mirror""",[5352195],Piping & Fittings,,,"6"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"6"",TL-Hoop-mirror""",[5352196],Piping & Fittings,,,"6"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"6"",TL-Hoop-mirror""",[5352198],Piping & Fittings,,,"6"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"6"",TL-Hoop-mirror""",[5352199],Piping & Fittings,,,"6"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"6"",TL-Hoop-mirror""",[5352201],Piping & Fittings,,,"6"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"6"",TL-Hoop-mirror""",[5352202],Piping & Fittings,,,"6"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"6"",TL-Hoop-mirror""",[5352204],Piping & Fittings,,,"6"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"6"",TL-Hoop-mirror""",[5352206],Piping & Fittings,,,"6"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"6"",TL-Hoop-mirror""",[5352207],Piping & Fittings,,,"6"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"6"",TL-Hoop-mirror""",[5352208],Piping & Fittings,,,"6"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"6"",TL-Hoop-mirror""",[5352210],Piping & Fittings,,,"6"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"6"",TL-Hoop-mirror""",[5352211],Piping & Fittings,,,"6"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"6"",TL-Hoop-mirror""",[5352213],Piping & Fittings,,,"6"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"4"",TL-Hoop-mirror""",[5631132],Piping & Fittings,,,"4"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"4"",TL-Hoop-mirror""",[5631187],Piping & Fittings,,,"4"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"4"",TL-Hoop-mirror""",[5631657],Piping & Fittings,,,"4"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"4"",TL-Hoop-mirror""",[5631659],Piping & Fittings,,,"4"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"4"",TL-Hoop-mirror""",[5631671],Piping & Fittings,,,"4"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"4"",TL-Hoop-mirror""",[5631672],Piping & Fittings,,,"4"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"4"",TL-Hoop-mirror""",[5631682],Piping & Fittings,,,"4"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"4"",TL-Hoop-mirror""",[5631683],Piping & Fittings,,,"4"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"4"",TL-Hoop-mirror""",[5632702],Piping & Fittings,,,"4"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"4"",TL-Hoop-mirror""",[5632704],Piping & Fittings,,,"4"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"4"",TL-Hoop-mirror""",[5632717],Piping & Fittings,,,"4"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"4"",TL-Hoop-mirror""",[5632719],Piping & Fittings,,,"4"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"4"",TL-Hoop-mirror""",[5632732],Piping & Fittings,,,"4"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"4"",TL-Hoop-mirror""",[5632734],Piping & Fittings,,,"4"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"4"",TL-Hoop-mirror""",[5632747],Piping & Fittings,,,"4"","",<By Category>""",,,
+Generic Models,TL-Hoop-mirror,"4"",TL-Hoop-mirror""",[5632749],Piping & Fittings,,,"4"","",<By Category>""",,,
+Generic Models,U Hanger,"4"",U Hanger""",[5630566],Piping & Fittings,,,"4"","",<By Category>""",,,
+Generic Models,U Hanger,"4"",U Hanger""",[5630725],Piping & Fittings,,,"4"","",<By Category>""",,,
+Generic Models,U Hanger,"4"",U Hanger""",[5630833],Piping & Fittings,,,"4"","",<By Category>""",,,
+Generic Models,U Hanger,"4"",U Hanger""",[5630835],Piping & Fittings,,,"4"","",<By Category>""",,,
+Generic Models,U Hanger,"4"",U Hanger""",[5630849],Piping & Fittings,,,"4"","",<By Category>""",,,
+Generic Models,U Hanger,"4"",U Hanger""",[5630850],Piping & Fittings,,,"4"","",<By Category>""",,,
+Generic Models,U Hanger,"4"",U Hanger""",[5630870],Piping & Fittings,,,"4"","",<By Category>""",,,
+Generic Models,U Hanger,"4"",U Hanger""",[5630871],Piping & Fittings,,,"4"","",<By Category>""",,,
+Generic Models,U Hanger,"4"",U Hanger""",[5632699],Piping & Fittings,,,"4"","",<By Category>""",,,
+Generic Models,U Hanger,"4"",U Hanger""",[5632700],Piping & Fittings,,,"4"","",<By Category>""",,,
+Generic Models,U Hanger,"4"",U Hanger""",[5632714],Piping & Fittings,,,"4"","",<By Category>""",,,
+Generic Models,U Hanger,"4"",U Hanger""",[5632715],Piping & Fittings,,,"4"","",<By Category>""",,,
+Generic Models,U Hanger,"4"",U Hanger""",[5632729],Piping & Fittings,,,"4"","",<By Category>""",,,
+Generic Models,U Hanger,"4"",U Hanger""",[5632730],Piping & Fittings,,,"4"","",<By Category>""",,,
+Generic Models,U Hanger,"4"",U Hanger""",[5632744],Piping & Fittings,,,"4"","",<By Category>""",,,
+Generic Models,U Hanger,"4"",U Hanger""",[5632745],Piping & Fittings,,,"4"","",<By Category>""",,,
+Pipes,Pipe Types,SR-Pipes-ColdWater_100D-65D,Pipe Types,,,,,SR-Pipes-ColdWater_100D-65D,,PPR
+Pipes,Pipe Types,SR-Pipes-ColdWater_32D-20D,Pipe Types,,,,,SR-Pipes-ColdWater_32D-20D,,PEX
+Pipes,Pipe Types,SR-Pipes-ColdWater -DI_Flange,Pipe Types,,,,,SR-Pipes-ColdWater -DI_Flange,,Ductile Iron
+Plumbing Fixtures,PF-TAPW-LVP_3.8L/min,Loose Key Tap,PF-TAPW-LVP_3.8L/min,,,Bib Tap,,Loose Key Tap,,Brass Chrome
+Pipe Fittings,TL_PI-Elbow welded,JRP,TL_PI-Elbow welded,,,,,JRP,,<By Category>
+Pipe Fittings,M_Transition - Generic,Standard,M_Transition - Generic,,,,,Standard,,<By Category>
+Pipe Fittings,M_Tee - Generic,Standard,M_Tee - Generic,,,,,Standard,,<By Category>
+Pipe Fittings,PPR_Threaded_Cap,Standard,PPR_Threaded_Cap,,,,,Standard,,<By Category>
+Pipe Fittings,DI_Flange_Elbow,Standard,DI_Flange_Elbow,,,,,Standard,,<By Category>
+Pipe Fittings,DI_Flange_Tee,Standard,DI_Flange_Tee,,,,,Standard,,<By Category>
+Pipe Fittings,DI_Flange_Transition,Standard,DI_Flange_Transition,,,,,Standard,,<By Category>
+Pipe Fittings,M_Elbow - Generic,Standard,M_Elbow - Generic,,,,,Standard,,<By Category>
+Pipe Accessories,TL_Valve_Ball_MEPcontent_Caleffi_3230 DN15,1/2'',TL_Valve_Ball_MEPcontent_Caleffi_3230 DN15,,,Ball valve with built-in check valve with butterfly handle,,1/2'',,<By Category>
+Pipe Accessories,TL_Gate Valve 32-65,50,TL_Gate Valve 32-65,,,Gate valve 50mm,,50,,<By Category>
+Pipe Accessories,Valve-Gate-Nibco-Class_125-S-113,25 mm,Valve-Gate-Nibco-Class_125-S-113,D2090800,Piping & Fittings,Solder Gate Valve,,25 mm,,<By Category>
+Pipe Accessories,Valve-Gate-Nibco-Class_125-S-113,32 mm,Valve-Gate-Nibco-Class_125-S-113,D2090800,Piping & Fittings,Solder Gate Valve,,32 mm,,<By Category>
+Pipe Accessories,Valve-Gate-Nibco-Class_125-S-113,20 mm,Valve-Gate-Nibco-Class_125-S-113,D2090800,Piping & Fittings,Solder Gate Valve,,20 mm,,<By Category>
+Pipe Accessories,TL_Check Valve - 10-100 mm - Threaded,25 mm,TL_Check Valve - 10-100 mm - Threaded,,,,,25 mm,,<By Category>
+Pipe Accessories,TL_Check Valve - 10-100 mm - Threaded,32 mm,TL_Check Valve - 10-100 mm - Threaded,,,,,32 mm,,<By Category>
+Pipe Accessories,TL_Check Valve - 10-100 mm - Threaded,50,TL_Check Valve - 10-100 mm - Threaded,,,,,50,,<By Category>
+Pipe Accessories,ACS_PI_PS-Check valve 150,150,ACS_PI_PS-Check valve 150,,,,,150,,<By Category>
+Pipe Accessories,ACS_PI_PS-Check valve 150,100,ACS_PI_PS-Check valve 150,,,,,100,,<By Category>
+Pipe Accessories,TL_PI_FP-Gate valve 65-150,150,TL_PI_FP-Gate valve 65-150,,,,,150,,<By Category>
+Pipe Accessories,TL_PI_FP-Gate valve 65-150,100,TL_PI_FP-Gate valve 65-150,,,,,100,,<By Category>
+Pipe Accessories,PUB Water Meter,150,PUB Water Meter,,,,,150,,<By Category>
+Mechanical Equipment,65mm 2 nos.Water Pipe Hange.1,65mm 2 nos.Water Pipe Hange.1,65mm 2 nos.Water Pipe Hange.1,,,,,65mm 2 nos.Water Pipe Hange.1,,<By Category>
+Mechanical Equipment,100mm 2 nos.Water Pipe Hanger.1,100mm 2 nos.Water Pipe Hanger.1,100mm 2 nos.Water Pipe Hanger.1,,,,,100mm 2 nos.Water Pipe Hanger.1,,<By Category>
+Mechanical Equipment,100mm 2 nos.Water Pipe Hanger.2,100mm 2 nos.Water Pipe Hanger.2,100mm 2 nos.Water Pipe Hanger.2,,,,,100mm 2 nos.Water Pipe Hanger.2,,<By Category>
+Mechanical Equipment,100mm 2 nos.Water Pipe Hanger.3,100mm 2 nos.Water Pipe Hanger.3,100mm 2 nos.Water Pipe Hanger.3,,,,,100mm 2 nos.Water Pipe Hanger.3,,<By Category>
+Mechanical Equipment,65mm 2 nos.Water Pipe Hange,65mm 2 nos.Water Pipe Hange,65mm 2 nos.Water Pipe Hange,,,,,65mm 2 nos.Water Pipe Hange,,<By Category>
+Mechanical Equipment,65mm 2 nos.Water Pipe Hange.2,65mm 2 nos.Water Pipe Hange.2,65mm 2 nos.Water Pipe Hange.2,,,,,65mm 2 nos.Water Pipe Hange.2,,<By Category>
+Mechanical Equipment,65mm 2 nos.Water Pipe Hange.3,65mm 2 nos.Water Pipe Hange.3,65mm 2 nos.Water Pipe Hange.3,,,,,65mm 2 nos.Water Pipe Hange.3,,<By Category>
+Mechanical Equipment,65mm 2 nos.Water Pipe Hange.4,65mm 2 nos.Water Pipe Hange.4,65mm 2 nos.Water Pipe Hange.4,,,,,65mm 2 nos.Water Pipe Hange.4,,<By Category>
+Mechanical Equipment,80 or 65mm 2 nos.Water Pipe Hanger.5,80 or 65mm 2 nos.Water Pipe Hanger.5,80 or 65mm 2 nos.Water Pipe Hanger.5,,,,,80 or 65mm 2 nos.Water Pipe Hanger.5,,<By Category>
+Mechanical Equipment,80 or 65mm 2 nos.Water Pipe Hanger.6,80 or 65mm 2 nos.Water Pipe Hanger.6,80 or 65mm 2 nos.Water Pipe Hanger.6,,,,,80 or 65mm 2 nos.Water Pipe Hanger.6,,<By Category>
+Mechanical Equipment,80 or 65mm 2 nos.Water Pipe Hanger,80 or 65mm 2 nos.Water Pipe Hanger,80 or 65mm 2 nos.Water Pipe Hanger,,,,,80 or 65mm 2 nos.Water Pipe Hanger,,<By Category>
+Mechanical Equipment,100 or 150mm 2 nos. Water Pipe Hanger,100 or 150mm 2 nos. Water Pipe Hanger,100 or 150mm 2 nos. Water Pipe Hanger,,,,,100 or 150mm 2 nos. Water Pipe Hanger,,<By Category>
+Mechanical Equipment,100mm 2 nos.Water Pipe Hanger.4,100mm 2 nos.Water Pipe Hanger.4,100mm 2 nos.Water Pipe Hanger.4,,,,,100mm 2 nos.Water Pipe Hanger.4,,<By Category>
+Mechanical Equipment,100mm 2 nos.Water Pipe Hanger.6,100mm 2 nos.Water Pipe Hanger.6,100mm 2 nos.Water Pipe Hanger.6,,,,,100mm 2 nos.Water Pipe Hanger.6,,<By Category>
+Mechanical Equipment,100mm 2 nos.Water Pipe Hanger.5,100mm 2 nos.Water Pipe Hanger.5,100mm 2 nos.Water Pipe Hanger.5,,,,,100mm 2 nos.Water Pipe Hanger.5,,<By Category>
+Mechanical Equipment,Wall C Bracket_80mm 2.rfa mirror,C Bracket 100mm,Wall C Bracket_80mm 2.rfa mirror,,,,,C Bracket 100mm,,<By Category>
+Mechanical Equipment,100mm 2 nos.Water Pipe Hanger.01,100mm 2 nos.Water Pipe Hanger.01,100mm 2 nos.Water Pipe Hanger.01,,,,,100mm 2 nos.Water Pipe Hanger.01,,<By Category>
+Mechanical Equipment,"TL_3 nos C Bracket 100,65,50 mm",C Bracket 50mm,"TL_3 nos C Bracket 100,65,50 mm",,,,,C Bracket 50mm,,<By Category>
+Mechanical Equipment,TL_C Bracket 100mm-S,C Bracket 50mm,TL_C Bracket 100mm-S,,,,,C Bracket 50mm,,<By Category>
+Mechanical Equipment,63mm Wall Pipe Bracket,MP-L-I M8,Hilti_INS_rod_Threaded Rod 4.8,,,Threaded rod,© Hilti,Threaded Rod 4.8,,<By Category>
+Mechanical Equipment,63mm Wall Pipe Bracket,MP-L-I M8,63mm,,,Residential pipe ring,© Hilti,63mm,,<By Category>
+Mechanical Equipment,63mm Wall Pipe Bracket,MP-L-I M8,63mm Wall Pipe Bracket,,,Residential pipe ring,© Hilti,MP-L-I M8,,<By Category>
+Mechanical Equipment,C-Channel 1400mm,C-Channel 1400mm,C-Channel 1400mm,,,,,C-Channel 1400mm,,<By Category>
+Mechanical Equipment,Wall C Bracket_100mm.,C Bracket 100mm,Wall C Bracket_100mm.,,,,,C Bracket 100mm,,<By Category>
+Mechanical Equipment,Bracket123,C Bracket 100mm,Bracket123,,,,,C Bracket 100mm,,<By Category>
+Mechanical Equipment,Bracket100,C Bracket 100mm,Bracket100,,,,,C Bracket 100mm,,<By Category>
+Mechanical Equipment,100 DOUBLE C CHANNEL,C Bracket 50mm,100 DOUBLE C CHANNEL,,,,,C Bracket 50mm,,<By Category>
+Mechanical Equipment,Bracket2,C Bracket 100mm,Bracket2,,,,,C Bracket 100mm,,<By Category>
+Mechanical Equipment,Bracket with c channel 2 pipe,C Bracket 100mm,Bracket with c channel 2 pipe,,,,,C Bracket 100mm,,<By Category>
+Generic Models,TL-Pipe Sleeve,ø100,TL-Pipe Sleeve,,,,,ø100,,<By Category>
+Generic Models,TL-Pipe Sleeve,ø80,TL-Pipe Sleeve,,,,,ø80,,<By Category>
+Plumbing Fixtures,Vent Cowl,Vent Cowl,Vent Cowl,,,Vent Cowl,,Vent Cowl,,Plastic
+Ducts,Rectangular Duct,HAUNCHING,Rectangular Duct,,,,,HAUNCHING,,<By Category>
+Ducts,Rectangular Duct,HAUNCHING 2 500,Rectangular Duct,,,,,HAUNCHING 2 500,,<By Category>
+Pipes,Pipe Types,SR-Pipes-ColdWater_100D-65D,Pipe Types,,,,,,,PPR
+Pipes,Pipe Types,SR-Pipes-ColdWater_32D-20D,Pipe Types,,,,,,,PEX
+Pipes,Pipe Types,SR-Pipes-ColdWater -DI_Flange,Pipe Types,,,,,,,Ductile Iron
+Pipe Fittings,DI_Flange_Elbow,Standard,DI_Flange_Elbow,,,,,,,<By Category>
+Pipe Fittings,DI_Flange_Tee,Standard,DI_Flange_Tee,,,,,,,<By Category>

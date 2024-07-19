@@ -1,0 +1,135 @@
+Family,SubFamily,ObjectGroup,ObjectName,Assembly Code,Assembly Description,Description,Type Comments,Type Name,Structural Material,Material
+Walls,Curtain Wall,BLDG 2_External CW-downhung,JTC_PEPL_B2_GL1-VISION GLASS,,,,,JTC_PEPL_B2_GL1-VISION GLASS,,
+Walls,Curtain Wall,BLDG 2_External CW-downhung,Rectangular Mullion,,,,,B2_Mullion glass to glass,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_External CW-downhung,Rectangular Mullion,,,,,JTC-B2_Left mullion border,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_External CW-downhung,Rectangular Mullion,,,,,B2_Transom Downhung,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_External CW-downhung,Rectangular Mullion,,,,,BLDG 2_CW_STACKJOINT TOP,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_External CW-downhung,Rectangular Mullion,,,,,B2_Mullion_Corner Left,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_External CW-downhung,Rectangular Mullion,,,,,B2_Transom Glass to glass,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_External CW-downhung,JTC_PEPL_B2_GL1-SPANDREL GLASS,,,,,JTC_PEPL_B2_GL1-SPANDREL GLASS,,
+Walls,Curtain Wall,BLDG 2_External CW-downhung,Curtain Wall,,,,,BLDG 2_External CW-downhung,<By Category>,
+Walls,Curtain Wall,BLDG 2_External CW-downhung,Rectangular Mullion,,,,,JTC-B2_Right mullion border,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_External CW-downhung,Rectangular Mullion,,,,,B2_Mullion_Corner right,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_External CW-downhung,JTC_PEPL_Vision Glass 17.5mm,,,,,JTC_PEPL_Vision Glass 17.5mm,,
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-2),JTC_PEPL_B2_GL1-LAMINATED GLASS,,,,,JTC_PEPL_B2_GL1-LAMINATED GLASS,,
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-2),Rectangular Mullion,,,,,B2_Mullion window type LEFT BORDER,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-2),Rectangular Mullion,,,,,B2_Mullion window type RIGHT BORDER,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-2),Rectangular Mullion,,,,,B2_Downhung Strip Window Bottom transom with bent cover,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-2),Curtain Wall,,,,,BLDG 2_Window Strip (WD-2),<By Category>,
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-1),JTC_PEPL_B2_GL1-LAMINATED GLASS,,,,,JTC_PEPL_B2_GL1-LAMINATED GLASS,,
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-1),Rectangular Mullion,,,,,B2_Mullion window type LEFT BORDER,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-1),Rectangular Mullion,,,,,B2_Mullion window type RIGHT BORDER,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-1),Rectangular Mullion,,,,,B2_Window Transom 122X80mm Glass to glass,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-1),Curtain Wall,,,,,BLDG 2_Window Strip (WD-1),<By Category>,
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-1),Rectangular Mullion,,,,,B2_Mullion window type side border,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-1),JTC_PEPL_B2_GL1R-VISION LAMINATED HS GLASS,,,,,JTC_PEPL_B2_GL1R-VISION LAMINATED HS GLASS,,
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-2A),JTC_PEPL_B2_GL1-LAMINATED GLASS,,,,,JTC_PEPL_B2_GL1-LAMINATED GLASS,,
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-2A),Rectangular Mullion,,,,,B2_Mullion window type side border,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-2A),Rectangular Mullion,,,,,B2_Mullion window type LEFT BORDER,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-2A),Rectangular Mullion,,,,,B2_Mullion window type RIGHT BORDER,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-2A),Curtain Wall,,,,,BLDG 2_Window Strip (WD-2A),<By Category>,
+Walls,Curtain Wall,BLDG 2_Window Strip (FAP-1),FAP-WINDOW PANEL,,,,,FAP-WINDOW PANEL,,
+Walls,Curtain Wall,BLDG 2_Window Strip (FAP-1),Rectangular Mullion,,,,,B2_Mullion window type LEFT BORDER,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (FAP-1),Rectangular Mullion,,,,,B2_Mullion window type RIGHT BORDER,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (FAP-1),JTC_PEPL_B2_GL1-LAMINATED GLASS,,,,,JTC_PEPL_B2_GL1-LAMINATED GLASS,,
+Walls,Curtain Wall,BLDG 2_Window Strip (FAP-1),Rectangular Mullion,,,,,B2_Window Transom 122X80mm Glass to glass,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (FAP-1),Curtain Wall,,,,,BLDG 2_Window Strip (FAP-1),<By Category>,
+Walls,Curtain Wall,BLDG 2_Window Strip (FAP-1),JTC_PEPL_B2_GL1R-VISION LAMINATED HS GLASS,,,,,JTC_PEPL_B2_GL1R-VISION LAMINATED HS GLASS,,
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-2B),JTC_PEPL_B2_GL1-SPANDREL GLASS,,,,,JTC_PEPL_B2_GL1-SPANDREL GLASS,,
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-2B),Rectangular Mullion,,,,,B2_Mullion window type side border,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-2B),Rectangular Mullion,,,,,B2_Mullion window type LEFT BORDER,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-2B),Rectangular Mullion,,,,,B2_Mullion window type RIGHT BORDER,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-2B),Curtain Wall,,,,,BLDG 2_Window Strip (WD-2B),<By Category>,
+Walls,Curtain Wall,BLDG 2_External Facade-Unitised System,JTC_PEPL_B2_GL1-SPANDREL GLASS,,,,,JTC_PEPL_B2_GL1-SPANDREL GLASS,,
+Walls,Curtain Wall,BLDG 2_External Facade-Unitised System,Rectangular Mullion,,,,,B2_Mullion glass to glass,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_External Facade-Unitised System,JTC_PEPL_B2_GL1-VISION GLASS,,,,,JTC_PEPL_B2_GL1-VISION GLASS,,
+Walls,Curtain Wall,BLDG 2_External Facade-Unitised System,FAP-WINDOW PANEL,,,,,FAP-WINDOW PANEL,,
+Walls,Curtain Wall,BLDG 2_External Facade-Unitised System,Rectangular Mullion,,,,,B2_Transom Glass to glass,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_External Facade-Unitised System,Rectangular Mullion,,,,,B2_CW-FAP BOTTOM TRANSOM,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_External Facade-Unitised System,Rectangular Mullion,,,,,B2_FAP-CW TOP TRANSOM,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_External Facade-Unitised System,Rectangular Mullion,,,,,BLDG 2_CW_STACKJOINT TOP,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_External Facade-Unitised System,Rectangular Mullion,,,,,BLDG 2_CW_STACKJOINT BOTTOM,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_External Facade-Unitised System,Rectangular Mullion,,,,,B2_Mullion_Corner right,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_External Facade-Unitised System,Rectangular Mullion,,,,,JTC-B2_Right mullion border,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_External Facade-Unitised System,Curtain Wall,,,,,BLDG 2_External Facade-Unitised System,<By Category>,
+Walls,Curtain Wall,BLDG 2_External Facade-Unitised System,JTC_PEPL_B2_GL1R-VISION LAMINATED HS GLASS,,,,,JTC_PEPL_B2_GL1R-VISION LAMINATED HS GLASS,,
+Walls,Curtain Wall,BLDG 2_External Facade-Unitised System,Rectangular Mullion,,,,,JTC-B2_Left mullion border,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_External Facade-Unitised System,Rectangular Mullion,,,,,B2_Mullion_Corner Left,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_External Facade-Unitised System,Rectangular Mullion,,,,,BLDG 2_CW_Top Coping,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_External Facade-Unitised System,System Panel,,,,,GL1-8mm GLASS,,Glass-JTC
+Walls,Curtain Wall,BLDG 2_External Facade-Unitised System,System Panel,,,,,GL1-17.5mm GLASS,,Glass-JTC
+Walls,Curtain Wall,BLDG 2_External Facade-Unitised System,Rectangular Mullion,,,,,stackjoint,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_External Facade-Unitised System,Rectangular Mullion,,,,,window strip top stack joint transom,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_External Facade-Unitised System,Rectangular Mullion,,,,,strip window bottom stack joint,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_External Facade-Unitised System,Rectangular Mullion,,,,,JTC-window left border,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_External Facade-Unitised System,Rectangular Mullion,,,,,JTC-window right border,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_External Facade-Unitised System,JTC_PEPL_Vision Glass 17.5mm,,,,,JTC_PEPL_Vision Glass 17.5mm,,
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-3),JTC_PEPL_B2_GL1R-VISION LAMINATED HS GLASS,,,,,JTC_PEPL_B2_GL1R-VISION LAMINATED HS GLASS,,
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-3),Rectangular Mullion,,,,,B2_Mullion window type LEFT BORDER,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-3),Rectangular Mullion,,,,,B2_Mullion window type RIGHT BORDER,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-3),JTC_PEPL_B2_GL1-VISION GLASS,,,,,JTC_PEPL_B2_GL1-VISION GLASS,,
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-3),Rectangular Mullion,,,,,B2_Mullion window type side border,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-3),Curtain Wall,,,,,BLDG 2_Window Strip (WD-3),<By Category>,
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-12),JTC_PEPL_B2_GL1R-VISION LAMINATED HS GLASS,,,,,JTC_PEPL_B2_GL1R-VISION LAMINATED HS GLASS,,
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-12),Rectangular Mullion,,,,,B2_Mullion window type RIGHT BORDER,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-12),Rectangular Mullion,,,,,B2_Mullion window type LEFT BORDER,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-12),Rectangular Mullion,,,,,B2_Mullion window type side border,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-12),Curtain Wall,,,,,BLDG 2_Window Strip (WD-12),<By Category>,
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-13),JTC_PEPL_B2_GL1R-VISION LAMINATED HS GLASS,,,,,JTC_PEPL_B2_GL1R-VISION LAMINATED HS GLASS,,
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-13),Rectangular Mullion,,,,,B2_Mullion window type side border,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-13),Rectangular Mullion,,,,,B2_Mullion window type LEFT BORDER,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-13),Rectangular Mullion,,,,,B2_Mullion window type RIGHT BORDER,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-13),Curtain Wall,,,,,BLDG 2_Window Strip (WD-13),<By Category>,
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-14),JTC_PEPL_B2_GL1R-VISION LAMINATED HS GLASS,,,,,JTC_PEPL_B2_GL1R-VISION LAMINATED HS GLASS,,
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-14),Rectangular Mullion,,,,,B2_Mullion window type side border,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-14),Rectangular Mullion,,,,,B2_Mullion window type LEFT BORDER,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-14),Rectangular Mullion,,,,,B2_Mullion window type RIGHT BORDER,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-14),Curtain Wall,,,,,BLDG 2_Window Strip (WD-14),<By Category>,
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-15),JTC_PEPL_B2_GL1R-VISION LAMINATED HS GLASS,,,,,JTC_PEPL_B2_GL1R-VISION LAMINATED HS GLASS,,
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-15),Rectangular Mullion,,,,,B2_Mullion window type side border,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-15),Rectangular Mullion,,,,,B2_Mullion window type LEFT BORDER,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-15),Rectangular Mullion,,,,,B2_Mullion window type RIGHT BORDER,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-15),System Panel,,,,,GL1R- GLASS,,Glass-JTC
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-15),Curtain Wall,,,,,BLDG 2_Window Strip (WD-15),<By Category>,
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-16),JTC_PEPL_B2_GL1R-VISION LAMINATED HS GLASS,,,,,JTC_PEPL_B2_GL1R-VISION LAMINATED HS GLASS,,
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-16),Rectangular Mullion,,,,,B2_Mullion window type side border,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-16),Rectangular Mullion,,,,,B2_Mullion window type LEFT BORDER,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-16),Rectangular Mullion,,,,,B2_Mullion window type RIGHT BORDER,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-16),Curtain Wall,,,,,BLDG 2_Window Strip (WD-16),<By Category>,
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-17),JTC_PEPL_B2_GL1R-VISION LAMINATED HS GLASS,,,,,JTC_PEPL_B2_GL1R-VISION LAMINATED HS GLASS,,
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-17),Rectangular Mullion,,,,,B2_Mullion window type side border,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-17),Rectangular Mullion,,,,,B2_Mullion window type LEFT BORDER,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-17),Rectangular Mullion,,,,,B2_Mullion window type RIGHT BORDER,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-17),Curtain Wall,,,,,BLDG 2_Window Strip (WD-17),<By Category>,
+Walls,Curtain Wall,BLDG 2_Window Strip (FAP-2),FAP-WINDOW PANEL,,,,,FAP-WINDOW PANEL,,
+Walls,Curtain Wall,BLDG 2_Window Strip (FAP-2),Rectangular Mullion,,,,,B2_Mullion window type LEFT BORDER,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (FAP-2),Rectangular Mullion,,,,,B2_Mullion window type RIGHT BORDER,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (FAP-2),JTC_PEPL_B2_GL1R-VISION LAMINATED HS GLASS,,,,,JTC_PEPL_B2_GL1R-VISION LAMINATED HS GLASS,,
+Walls,Curtain Wall,BLDG 2_Window Strip (FAP-2),Rectangular Mullion,,,,,B2_Window Transom 122X80mm Glass to glass,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (FAP-2),Curtain Wall,,,,,BLDG 2_Window Strip (FAP-2),<By Category>,
+Walls,Curtain Wall,BLDG 2_Window Strip (FAP-3),JTC_PEPL_B2_GL1R-VISION GLASS FAP PANEL,,,,,JTC_PEPL_B2_GL1R-VISION GLASS FAP PANEL,,
+Walls,Curtain Wall,BLDG 2_Window Strip (FAP-3),Rectangular Mullion,,,,,B2_Mullion window type LEFT BORDER,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (FAP-3),Rectangular Mullion,,,,,B2_Mullion window type RIGHT BORDER,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (FAP-3),JTC_PEPL_B2_GL1R-VISION LAMINATED HS GLASS,,,,,JTC_PEPL_B2_GL1R-VISION LAMINATED HS GLASS,,
+Walls,Curtain Wall,BLDG 2_Window Strip (FAP-3),Rectangular Mullion,,,,,B2_Window Transom 122X80mm Glass to glass,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (FAP-3),Curtain Wall,,,,,BLDG 2_Window Strip (FAP-3),<By Category>,
+Walls,Curtain Wall,BLDG 2_Window Strip (FAP-3),FAP-WINDOW PANEL,,,,,FAP-WINDOW PANEL,,
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-4),JTC_PEPL_B2_GL1R-VISION LAMINATED HS GLASS,,,,,JTC_PEPL_B2_GL1R-VISION LAMINATED HS GLASS,,
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-4),Rectangular Mullion,,,,,B2_Mullion window type side border,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-4),Rectangular Mullion,,,,,B2_Mullion window type LEFT BORDER,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-4),Rectangular Mullion,,,,,B2_Mullion window type RIGHT BORDER,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-4),Rectangular Mullion,,,,,B2_Window Transom 122X80mm Glass to glass,,JTC_Aluminium Mullion
+Walls,Curtain Wall,BLDG 2_Window Strip (WD-4),Curtain Wall,,,,,BLDG 2_Window Strip (WD-4),<By Category>,
+Walls,Curtain Wall,Alum Backpan,System Panel,,,,,Aluminum Backpan_50mm,,JTC_backpan(1)
+Walls,Curtain Wall,Alum Backpan,Curtain Wall,,,,,Alum Backpan,<By Category>,
+Walls,Curtain Wall,Downhung 3mm Cover bent panel,Downhung Panel_2mm thk alum bent cover with rockwool,,,,,Downhung Panel_2mm thk alum bent cover with rockwool,,
+Walls,Curtain Wall,Downhung 3mm Cover bent panel,Curtain Wall,,,,,Downhung 3mm Cover bent panel,<By Category>,
+Generic Models,,,B2 SILL COVER,,,,,,,
+Generic Models,,,JTC B2_ Fire stop,,,,,,,
+Generic Models,,,2mm Alum bent cover,,,,,,,
+Generic Models,,,JTC-BD2 PERFORATED PANEL ASSEMBLY REV.01,,,,,,,
+Generic Models,,,2mm THK ALUM BENT COVER-DOWNHUNG,,,,,,,
+Generic Models,,,PoS-JTC-B2-FIN,,,,,,,
+Generic Models,,,PoS-JTC-B2-FIN_ CORNER,,,,,,,
+Structural Framing,Rectangular and Square Hollow Sections,RHS 400X200X6mm THK GMS,Rectangular and Square Hollow Sections,,,,,RHS 400X200X6mm THK GMS,Metal - Steel - 345 MPa,
+Structural Framing,Rectangular and Square Hollow Sections,SHS150x150x5,Rectangular and Square Hollow Sections,,,,,SHS150x150x5,Metal - Steel - 345 MPa,

@@ -1,0 +1,244 @@
+﻿MCR Type,NewCategory,OldCategory
+MCR01 - Casework / Joinery,Cabinetry,MCR01-01-01
+MCR01 - Casework / Joinery,Counter/Benchtop,MCR01-02-01
+MCR01 - Casework / Joinery,Fixed Screen/Divider (including toilet partition & shower screen),MCR01-03-01
+MCR01 - Casework / Joinery,Fixed Screen/Divider (including toilet partition & shower screen),MCR01-03-02
+MCR01 - Casework / Joinery,General Joinery Item,MCR01-04-01
+MCR01 - Casework / Joinery,Letterbox,MCR01-05-01
+MCR01 - Casework / Joinery,Mirror (including Built-in Mirror),MCR01-06-01
+MCR01 - Casework / Joinery,Splashback,MCR01-07-01
+MCR02 - Ceiling,General Ceiling Item,MCR02-01-01
+MCR02 - Ceiling,Metal Ceiling,MCR02-02-01
+MCR02 - Ceiling,Metal Framed Ceiling (Concealed Grid),MCR02-03-01
+MCR02 - Ceiling,Metal Framed Ceiling (Exposed Grid),MCR02-04-01
+MCR02 - Ceiling,Plaster Ceiling,MCR02-05-01
+MCR03 - Door,"General Door Item (including Gate, Roller Shutter)",MCR03-01-01
+MCR03 - Door,"General Door Item (including Gate, Roller Shutter)",MCR03-01-02
+MCR03 - Door,Screen/Room Divider,MCR03-02-01
+MCR04 - Floor,General Floor item,MCR04-01-01
+MCR04 - Floor,Floor Finish,MCR04-02-01
+MCR04 - Floor,Precast Floor,MCR04-03-01
+MCR04 - Floor,Raised Floor,MCR04-04-01
+MCR04 - Floor,Ramp,MCR04-05-01
+MCR04 - Floor,Slab Edge,MCR04-06-01
+MCR04 - Floor,Structural Slab,MCR04-07-01
+MCR05 - Finish,General Finish item,MCR05-01-01
+MCR05 - Finish,General Finish item,MCR05-02-01
+MCR05 - Finish,General Finish item,MCR05-03-01
+MCR06 - Furniture,"Furniture, Fitting",MCR06-01-01
+MCR06 - Furniture,Furniture System,MCR06-02-01
+MCR07 - Generic Model,Generic Model (MISC),MCR07-01-01
+MCR09 - Plumbing Fixture,General Plumbing Fixture item,MCR09-01-01
+MCR09 - Plumbing Fixture,General Plumbing Fixture item,MCR09-01-02
+MCR09 - Plumbing Fixture,Basin,MCR09-02-01
+MCR09 - Plumbing Fixture,Bath,MCR09-03-01
+MCR09 - Plumbing Fixture,Bidet and Bidet Shower,MCR09-04-01
+MCR09 - Plumbing Fixture,Shower,MCR09-05-01
+MCR09 - Plumbing Fixture,Sink,MCR09-06-01
+MCR09 - Plumbing Fixture,Tapware,MCR09-07-01
+MCR09 - Plumbing Fixture,Trough,MCR09-08-01
+MCR09 - Plumbing Fixture,Urinal,MCR09-09-01
+MCR09 - Plumbing Fixture,Water Closet,MCR09-10-01
+MCR10 - Railing / Balustrade,General Railing item,MCR10-01-01
+MCR10 - Railing / Balustrade,Fence,MCR10-02-01
+MCR11 - Roof,General Roof item,MCR11-01-01
+MCR11 - Roof,Concrete Roof,MCR11-02-01
+MCR11 - Roof,Glass Roof,MCR11-03-01
+MCR11 - Roof,Metal Roof,MCR11-04-01
+MCR11 - Roof,Fascia,MCR11-05-01
+MCR11 - Roof,Gutter,MCR11-06-01
+MCR12 - Signage,General Signage item,MCR12-01-01
+MCR13 - Site (External Work),General External Work item,MCR13-01-01
+MCR13 - Site (External Work),General External Work item,MCR13-01-01
+MCR13 - Site (External Work),Any other subsurface structure,MCR13-02-01
+MCR13 - Site (External Work),Bollard,MCR13-03-01
+MCR13 - Site (External Work),Bollard,MCR13-03-01
+MCR13 - Site (External Work),Hard Landscaping,MCR13-04-01
+MCR13 - Site (External Work),"Inspection Chamber, Manhole, Sump",MCR13-05-01
+MCR13 - Site (External Work),Linemarking,MCR13-06-01
+MCR13 - Site (External Work),Linkway & covered area,MCR13-07-01
+MCR13 - Site (External Work),Parking,MCR13-08-01
+MCR13 - Site (External Work),Retaining Wall,MCR13-09-01
+MCR13 - Site (External Work),Road/Driveway,MCR13-10-01
+MCR13 - Site (External Work),Soft Landscaping,MCR13-11-01
+MCR13 - Site (External Work),Surface Water Discharge (drain),MCR13-12-01
+MCR13 - Site (External Work),Topographic surface,MCR13-13-01
+MCR13 - Site (External Work),Wayfinding (signage),MCR13-14-01
+MCR13 - Site (External Work),Wheel Stop,MCR13-15-01
+MCR13 - Site (External Work),Tree,MCR13-16-01
+MCR14 - Specialty Equipment,General Specialty Equipment item,MCR14-01-01
+MCR14 - Specialty Equipment,Specialist M&E Appliance and Equipment,MCR14-02-01
+MCR14 - Specialty Equipment,Coffee Machine,MCR14-03-01
+MCR14 - Specialty Equipment,Cooktop,MCR14-04-01
+MCR14 - Specialty Equipment,Dishwasher,MCR14-05-01
+MCR14 - Specialty Equipment,Dryer,MCR14-06-01
+MCR14 - Specialty Equipment,"Fitment (towel rail, handrail, toilet tissue dispenser etc.)",MCR14-07-01
+MCR14 - Specialty Equipment,Freezer,MCR14-08-01
+MCR14 - Specialty Equipment,Icemaker,MCR14-09-01
+MCR14 - Specialty Equipment,Medical Equipment,MCR14-10-01
+MCR14 - Specialty Equipment,Oven,MCR14-11-01
+MCR14 - Specialty Equipment,Rangehood,MCR14-12-01
+MCR14 - Specialty Equipment,Refrigerator,MCR14-13-01
+MCR14 - Specialty Equipment,Washing Machine,MCR14-14-01
+MCR14 - Specialty Equipment,Ceiling Fan,MCR14-15-01
+MCR15 - Staircase,Staircase,MCR15-01-01
+MCR15 - Staircase,Stair Landing,MCR15-02-01
+MCR17 - Wall,General Wall item,MCR17-01-01
+MCR17 - Wall,Brickwall,MCR17-02-01
+MCR17 - Wall,Cast In-Situ RC Wall,MCR17-03-01
+MCR17 - Wall,Curtain Wall,MCR17-04-01
+MCR17 - Wall,Dry Wall,MCR17-05-01
+MCR17 - Wall,Lightweight Concrete Panel,MCR17-06-01
+MCR17 - Wall,Parapets Wall,MCR17-07-01
+MCR17 - Wall,Precast Concrete Wall,MCR17-08-01
+MCR17 - Wall,Precision Blockwall,MCR17-09-01
+MCR17 - Wall,Structural Wall,MCR17-10-01
+MCR17 - Wall,Wall Skirting,MCR17-11-01
+MCR17 - Wall,Cladding System,MCR17-12-01
+MCR17 - Wall,Wall Finish,MCR17-13-01
+MCR17 - Wall,Compartment Wall,MCR17-14-01
+MCR18 - Window,General Window Item,MCR18-01-01
+MCR18 - Window,Adjustable Louvred Window,MCR18-02-01
+MCR18 - Window,Fixed Louvred Window,MCR18-03-01
+MCR18 - Window,Fixed Panel Window,MCR18-04-01
+MCR18 - Window,Side-Hung Window,MCR18-05-01
+MCR18 - Window,Sliding Window,MCR18-06-01
+MCR18 - Window,Top-Hung Window,MCR18-07-01
+MCR18 - Window,Skylight,MCR18-08-01
+MCR18 - Window,Solar Shading,MCR18-09-01
+MCR19 - Structural Foundation,General Structural Foundation item,MCR19-01-01
+MCR19 - Structural Foundation,General Structural Foundation item,MCR19-01-02
+MCR19 - Structural Foundation,Capping Beam,MCR19-02-01
+MCR19 - Structural Foundation,Diaphragm Wall,MCR19-03-01
+MCR19 - Structural Foundation,Isolated Pad Footing,MCR19-04-01
+MCR19 - Structural Foundation,Isolated Pad Footing,MCR19-04-02
+MCR19 - Structural Foundation,Pile Cap,MCR19-05-01
+MCR19 - Structural Foundation,Pile Cap,MCR19-05-02
+MCR19 - Structural Foundation,Pile,MCR19-06-01
+MCR19 - Structural Foundation,Pile,MCR19-06-02
+MCR19 - Structural Foundation,Shoring & Site Retention (includes CBP),MCR19-07-01
+MCR19 - Structural Foundation,Strip Footing,MCR19-08-01
+MCR19 - Structural Foundation,Tie Beam,MCR19-09-01
+MCR20 - Column,Architectural Column,MCR20-01-01
+MCR20 - Column,Architectural Column,MCR20-01-02
+MCR20 - Column,Structural Column,MCR20-02-01
+MCR20 - Column,Structural Column,MCR20-02-02
+MCR21 - Structural Framing,Beam,MCR21-01-01
+MCR21 - Structural Framing,Beam,MCR21-01-02
+MCR21 - Structural Framing,Beam,MCR21-01-03
+MCR21 - Structural Framing,Beam,MCR21-01-04
+MCR21 - Structural Framing,Beam,MCR21-01-05
+MCR21 - Structural Framing,Beam,MCR21-01-06
+MCR21 - Structural Framing,Bracing,MCR21-02-01
+MCR21 - Structural Framing,Bracing,MCR21-02-02
+MCR21 - Structural Framing,Edge Beam,MCR21-03-01
+MCR21 - Structural Framing,"Girder, Joist, Rafter, Waling Plate",MCR21-04-01
+MCR21 - Structural Framing,"Girder, Joist, Rafter, Waling Plate",MCR21-04-02
+MCR21 - Structural Framing,Lintel,MCR21-05-01
+MCR21 - Structural Framing,Purlin,MCR21-06-01
+MCR21 - Structural Framing,Purlin,MCR21-06-02
+MCR21 - Structural Framing,Purlin,MCR21-06-03
+MCR21 - Structural Framing,Truss,MCR21-07-01
+MCR22 - Services Routing,Busbar Trunking System,MCR22-01-01
+MCR22 - Services Routing,Busbar Trunking System,MCR22-01-02
+MCR22 - Services Routing,Cable Ladder,MCR22-02-01
+MCR22 - Services Routing,Cable Ladder,MCR22-02-02
+MCR22 - Services Routing,Cable Pipe,MCR22-03-01
+MCR22 - Services Routing,Cable Pipe,MCR22-03-02
+MCR22 - Services Routing,Cable Pipe Concrete Encasement,MCR22-04-01
+MCR22 - Services Routing,Cable Tray,MCR22-05-01
+MCR22 - Services Routing,Cable Tray,MCR22-05-02
+MCR22 - Services Routing,Cable Trunking,MCR22-06-01
+MCR22 - Services Routing,Cable Trunking,MCR22-06-02
+MCR22 - Services Routing,Circuit,MCR22-07-01
+MCR22 - Services Routing,Conduit,MCR22-08-01
+MCR22 - Services Routing,Conduit,MCR22-08-02
+MCR22 - Services Routing,Duct,MCR22-09-01
+MCR22 - Services Routing,Duct,MCR22-09-02
+MCR22 - Services Routing,Pipe,MCR22-10-01
+MCR22 - Services Routing,Pipe,MCR22-10-02
+MCR22 - Services Routing,Pipe Concrete Encasement,MCR22-11-01
+MCR22 - Services Routing,Underfloor Trunking,MCR22-12-01
+MCR22 - Services Routing,Underfloor Trunking,MCR22-12-02
+MCR23 - Equipment (Primary),Access Control Management Equipment,MCR23-01-01
+MCR23 - Equipment (Primary),Air Handling Unit,MCR23-02-01
+MCR23 - Equipment (Primary),Air Conditioning Unit,MCR23-03-01
+MCR23 - Equipment (Primary),Boiler,MCR23-04-01
+MCR23 - Equipment (Primary),Bulk Fuel Storage Tank,MCR23-05-01
+MCR23 - Equipment (Primary),Chemical Pressurised Vessel,MCR23-06-01
+MCR23 - Equipment (Primary),*Chiller,MCR23-07-01
+MCR23 - Equipment (Primary),*Computer Room Air Conditioning Unit,MCR23-08-01
+MCR23 - Equipment (Primary),*Cooling Tower,MCR23-09-01
+MCR23 - Equipment (Primary),Distribution Frame (Primary),MCR23-10-01
+MCR23 - Equipment (Primary),*Lift,MCR23-11-01
+MCR23 - Equipment (Primary),*Escalator,MCR23-12-01
+MCR23 - Equipment (Primary),*Fan (Ventilation),MCR23-13-01
+MCR23 - Equipment (Primary),*Generating Set,MCR23-14-01
+MCR23 - Equipment (Primary),Heat Pump,MCR23-15-01
+MCR23 - Equipment (Primary),Main Switchgear,MCR23-16-01
+MCR23 - Equipment (Primary),Main Distribution Switchboard,MCR23-17-01
+MCR23 - Equipment (Primary),Motor Control Centre,MCR23-18-01
+MCR23 - Equipment (Primary),Motor Control Panel,MCR23-19-01
+MCR23 - Equipment (Primary),Overground Box,MCR23-20-01
+MCR23 - Equipment (Primary),*Pump,MCR23-21-01
+MCR23 - Equipment (Primary),Sub-Main Distribution Switchboard,MCR23-22-01
+MCR23 - Equipment (Primary),*Transformer,MCR23-23-01
+MCR23 - Equipment (Primary),Travellator,MCR23-24-01
+MCR23 - Equipment (Primary),Uninterruptible Power Supply,MCR23-25-01
+MCR23 - Equipment (Primary),Underground Pit,MCR23-26-01
+MCR24 - Equipment (Secondary),Control Panel,MCR24-01-01
+MCR24 - Equipment (Secondary),Dehumidifier,MCR24-02-01
+MCR24 - Equipment (Secondary),Distribution Board,MCR24-03-01
+MCR24 - Equipment (Secondary),Distribution Frame (Secondary),MCR24-04-01
+MCR24 - Equipment (Secondary),Fan Coil Unit,MCR24-05-01
+MCR24 - Equipment (Secondary),Fuel Day Tank,MCR24-06-01
+MCR24 - Equipment (Secondary),Fuel Transfer Pump,MCR24-07-01
+MCR24 - Equipment (Secondary),Heat Exchanger,MCR24-08-01
+MCR24 - Equipment (Secondary),Heater Tank,MCR24-09-01
+MCR24 - Equipment (Secondary),Inverter,MCR24-10-01
+MCR24 - Equipment (Secondary),Non-Reinforced Concrete Tank,MCR24-11-01
+MCR24 - Equipment (Secondary),Passive Displacement Ventilation,MCR24-12-01
+MCR24 - Equipment (Secondary),Pneumatic Waste Conveyance Equipment,MCR24-13-01
+MCR24 - Equipment (Secondary),Reinforced Concrete Tank,MCR24-14-01
+MCR24 - Equipment (Secondary),Variable Speed Drive,MCR24-15-01
+MCR24 - Equipment (Secondary),Pressure Vessel,MCR24-16-01
+MCR25 - Fixture and Device,Access Control Management Fixture and Device,MCR25-01-01
+MCR25 - Fixture and Device,Air Diffuser,MCR25-02-01
+MCR25 - Fixture and Device,Air Grille,MCR25-03-01
+MCR25 - Fixture and Device,Air Volume Box,MCR25-04-01
+MCR25 - Fixture and Device,Breeching Inlet,MCR25-05-01
+MCR25 - Fixture and Device,*Building Management Fixture and Device,MCR25-06-01
+MCR25 - Fixture and Device,Car Parking Management Fixture and Device,MCR25-07-01
+MCR25 - Fixture and Device,Closed Circuit Television Camera,MCR25-08-01
+MCR25 - Fixture and Device,Damper,MCR25-09-01
+MCR25 - Fixture and Device,Duct Accessory,MCR25-10-01
+MCR25 - Fixture and Device,Electric Vehicle Charger Fixture and Device,MCR25-11-01
+MCR25 - Fixture and Device,Electrical Switchgear and Switchboard Component,MCR25-12-01
+MCR25 - Fixture and Device,Fire Alarm Fixture and Device,MCR25-13-01
+MCR25 - Fixture and Device,Fire Hydrant,MCR25-14-01
+MCR25 - Fixture and Device,Fireman Intercom Fixture and Device,MCR25-15-01
+MCR25 - Fixture and Device,Food Waste Treatment Fixture and Device,MCR25-16-01
+MCR25 - Fixture and Device,Hose Reel,MCR25-17-01
+MCR25 - Fixture and Device,Hose Reel,MCR25-18-01
+MCR25 - Fixture and Device,Lighting Device,MCR25-19-01
+MCR25 - Fixture and Device,Lighting Fixture,MCR25-20-01
+MCR25 - Fixture and Device,Lightning and Earthing Conductor Routing,MCR25-21-01
+MCR25 - Fixture and Device,Lightning Protection and Earthing Fixture and Device,MCR25-22-01
+MCR25 - Fixture and Device,Master Clock Fixture and Device,MCR25-23-01
+MCR25 - Fixture and Device,"Metering, Monitoring and Control Device",MCR25-24-01
+MCR25 - Fixture and Device,Power Installation Fixture and Device,MCR25-25-01
+MCR25 - Fixture and Device,Sanitary Fitting,MCR25-26-01
+MCR25 - Fixture and Device,Speaker,MCR25-27-01
+MCR25 - Fixture and Device,Sprinkler,MCR25-28-01
+MCR25 - Fixture and Device,Structured Cabling Fixture and Device,MCR25-29-01
+MCR25 - Fixture and Device,Telecommunication Fixture and Device,MCR25-30-01
+MCR25 - Fixture and Device,Valve,MCR25-31-01
+MCR25 - Fixture and Device,Wireless Network Fixture and Device,MCR25-32-01
+MCR26 - Spatial Allocation,Ceiling Access Location,MCR26-01-01
+MCR26 - Spatial Allocation,Room,MCR26-02-01
+MCR26 - Spatial Allocation,Area,MCR26-03-01
+MCR26 - Spatial Allocation,Area,MCR26-03-02
+MCR26 - Spatial Allocation,Space,MCR26-04-01
+MCR26 - Spatial Allocation,Space,MCR26-04-02
+MCR26 - Spatial Allocation,Maintenance/Operation,MCR26-05-01
+MCR26 - Spatial Allocation,Stormwater Detention Tank,MCR26-06-01
