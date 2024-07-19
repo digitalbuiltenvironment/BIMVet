@@ -101,6 +101,7 @@ export default function Page() {
 
   return (
     <BackGroundComponent>
+      <title>BIMVet Register</title>
       <div
         className={`min-h-screen flex flex-col justify-center items-center ${
           theme === 'dark' ? 'dark-theme' : 'light-theme'

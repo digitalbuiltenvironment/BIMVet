@@ -12,12 +12,12 @@ import pickle
 df = pd.read_csv('../datasets/train_set.csv')
 
 # Drop any columns that are not relevant for classification
-df = df.drop(columns=['Assembly Code', 'Assembly Description', 'Description', 'Type Comments'])
+df = df.drop(columns=['Assembly Code', 'Assembly Description', 'Type Comments'])
 
 EMPTYCONST = "*empty*"
 
 # Define input sequences (example: Family, SubFamily, ObjectGroup)
-sequences = ['Family', 'SubFamily', 'ObjectGroup', 'ObjectName', 'Type Name', 'Structural Material', 'Material']
+sequences = ['Family', 'SubFamily', 'Description', 'ObjectGroup', 'ObjectName', 'Type Name', 'Structural Material', 'Material']
 
 # Tokenize and pad each sequence separately
 max_words = 200  # Maximum number of words to consider in tokenizer

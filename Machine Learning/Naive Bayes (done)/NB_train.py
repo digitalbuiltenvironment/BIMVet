@@ -1,3 +1,4 @@
+import time
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split, GridSearchCV
@@ -25,6 +26,9 @@ label_encoders = {}
 for column in X.select_dtypes(include=["object"]).columns:
     label_encoders[column] = LabelEncoder()
     X[column] = label_encoders[column].fit_transform(X[column])
+
+# Start timing
+start_time = time.time()
 
 # Split data into training and testing sets
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
@@ -56,6 +60,13 @@ y_pred = nb_classifier.predict(X_test)
 # Evaluate the classifier
 accuracy = accuracy_score(y_test, y_pred)
 print("Accuracy:", accuracy)
+
+# End timing
+end_time = time.time()
+
+# Calculate total runtime
+total_time = end_time - start_time
+print(f"Total runtime: {total_time} seconds")
 
 # Load the additional test dataset
 test_data = pd.read_csv("../datasets/test_set.csv")

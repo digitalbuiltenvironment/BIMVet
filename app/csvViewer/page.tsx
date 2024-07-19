@@ -19,6 +19,9 @@ export default function Page() {
   const [csvData, setCsvData] = useState<any[]>([]);
   const [currentRowIndex, setCurrentRowIndex] = useState(0);
   const [uploadedFileFull, setUploadedFileFull] = useState<File | null>(null);
+  const [complianceCSV, setComplianceCSV] = useState<any[]>([]);
+  const [noncomplianceCSV, setNoncomplianceCSV] = useState<any[]>([]);
+  const [selectedOption, setSelectedOption] = useState(1);
 
   const toggleSidebar = () => {
     setSidebarExpanded(!sidebarExpanded);
@@ -59,6 +62,15 @@ export default function Page() {
       const text = reader.result as string;
       const parsedData = parseCSV(text);
       setCsvData(parsedData);
+      const compliance = parsedData.filter(
+        (row) => row['Acceptable'] && row['Acceptable'].toLowerCase() === 'true'
+      );
+      const noncompliance = parsedData.filter(
+        (row) =>
+          !row['Acceptable'] || row['Acceptable'].toLowerCase() !== 'true'
+      );
+      setComplianceCSV(compliance);
+      setNoncomplianceCSV(noncompliance);
     };
     reader.readAsText(uploadedFileFull);
     // const parsedData = parseCSV(text);
@@ -84,17 +96,75 @@ export default function Page() {
     }
   };
 
+  const handleOptionToggleClick = (option: number) => {
+    setSelectedOption(option === selectedOption ? null : option);
+    setCurrentRowIndex(0);
+  };
+
   const handleCheckClick = () => {
     if (currentRowIndex < csvData.length - 1) {
       // Create a copy of csvData
-      const updatedCsvData = [...csvData];
-
+      let updatedCsvData;
+      switch (selectedOption) {
+        case 1:
+          updatedCsvData = [...csvData];
+          break;
+        case 2:
+          updatedCsvData = [...complianceCSV];
+          break;
+        case 3:
+          updatedCsvData = [...noncomplianceCSV];
+          break;
+        default:
+          updatedCsvData = [...csvData];
+          break;
+      }
       // Remove the current row from updatedCsvData
-      updatedCsvData.splice(currentRowIndex, 1);
+      const removedRow = updatedCsvData.splice(currentRowIndex, 1)[0];
+      switch (selectedOption) {
+        case 1:
+          // Update csvData with the modified array
+          setCsvData(updatedCsvData);
 
-      // Update csvData with the modified array
-      setCsvData(updatedCsvData);
-
+          const objectId = removedRow['Object Id'];
+          if (
+            removedRow['Acceptable'] &&
+            removedRow['Acceptable'].toLowerCase() === 'true'
+          ) {
+            // Remove from complianceCSV based on Object Id
+            const updatedComplianceCSV = complianceCSV.filter(
+              (row) => row['Object Id'] !== objectId
+            );
+            setComplianceCSV(updatedComplianceCSV);
+          } else {
+            // Remove from noncomplianceCSV based on Object Id
+            const updatedNoncomplianceCSV = noncomplianceCSV.filter(
+              (row) => row['Object Id'] !== objectId
+            );
+            setNoncomplianceCSV(updatedNoncomplianceCSV);
+          }
+          break;
+        case 2:
+          const objectId2 = removedRow['Object Id'];
+          // Remove from complianceCSV based on Object Id
+          const updatedCSVData = csvData.filter(
+            (row) => row['Object Id'] !== objectId2
+          );
+          setComplianceCSV(updatedCsvData);
+          setCsvData(updatedCSVData);
+          break;
+        case 3:
+          const objectId3 = removedRow['Object Id'];
+          // Remove from complianceCSV based on Object Id
+          const updatedCSVData2 = csvData.filter(
+            (row) => row['Object Id'] !== objectId3
+          );
+          setNoncomplianceCSV(updatedCsvData);
+          setCsvData(updatedCSVData2);
+          break;
+        default:
+          break;
+      }
       // If you also need to adjust currentRowIndex after removing the row
       if (currentRowIndex >= updatedCsvData.length) {
         setCurrentRowIndex(updatedCsvData.length - 1);
@@ -117,6 +187,7 @@ export default function Page() {
     if (!parameters) return null;
     if (rowName.includes('Parameter')) {
       const parameterList = parameters
+        .slice(1, -1)
         .split('|')
         .map((param, index) => <li key={index}>{param.trim()}</li>);
       return <p className="ml-10">{parameterList}</p>;
@@ -133,6 +204,7 @@ export default function Page() {
 
   return (
     <BackGroundComponent>
+      <title>BIMVet Report</title>
       <div className="flex h-screen overflow-hidden">
         <Sidebar
           sidebarExpanded={sidebarExpanded}
@@ -154,8 +226,12 @@ export default function Page() {
                   >
                     <input {...getInputProps()} />
                     <p
-                      className={`text-xl text-white ${
-                        theme === 'dark' ? 'text-white' : 'text-black'
+                      className={`text-xl ${
+                        theme === 'dark'
+                          ? 'text-white'
+                          : theme === 'light'
+                          ? 'text-black'
+                          : 'text-white'
                       }`}
                     >
                       Drag & drop a file here or click to select one
@@ -194,19 +270,78 @@ export default function Page() {
                   <p className="ml-2 text-base cursor-pointer">Checked</p>
                 </div>
               </button>
-              <div className="flex flex-col ml-[12rem]">
-                {Object.entries(csvData[currentRowIndex]).map(
-                  ([key, value]) => (
-                    <p
-                      key={key}
-                      onClick={() => copyToClipboard(value)}
-                      className="cursor-pointer"
-                    >
-                      <strong>{key}:</strong>{' '}
-                      {renderParameterPoints(value, key)}
-                    </p>
-                  )
-                )}
+              <div>
+                <button
+                  className={`w-36 text-base cursor-pointer border-2 transition-all no-selection ${
+                    theme === 'dark' ? 'border-white' : 'border-black'
+                  } ${selectedOption === 1 ? 'active border-red-400' : ''} `}
+                  onClick={() => handleOptionToggleClick(1)}
+                  disabled={selectedOption === 1}
+                >
+                  All
+                </button>
+                <button
+                  className={`w-36 text-base cursor-pointer border-2 transition-all no-selection ${
+                    theme === 'dark' ? 'border-white' : 'border-black'
+                  } ${selectedOption === 2 ? 'active border-red-400' : ''} `}
+                  onClick={() => handleOptionToggleClick(2)}
+                  disabled={selectedOption === 2}
+                >
+                  Compliance
+                </button>
+                <button
+                  className={`w-36 text-base cursor-pointer border-2 transition-all no-selection ${
+                    theme === 'dark' ? 'border-white' : 'border-black'
+                  } ${selectedOption === 3 ? 'active border-red-400' : ''} `}
+                  onClick={() => handleOptionToggleClick(3)}
+                  disabled={selectedOption === 3}
+                >
+                  Non-Compliance
+                </button>
+                <p>
+                  Total: {csvData.length} | Compliance: {complianceCSV.length} |
+                  Non-Compliance: {noncomplianceCSV.length}
+                </p>
+              </div>
+              <div className="flex flex-col ml-[12rem] mt-6">
+                {selectedOption === 1
+                  ? Object.entries(csvData[currentRowIndex]).map(
+                      ([key, value]) => (
+                        <p
+                          key={key}
+                          onClick={() => copyToClipboard(value)}
+                          className="cursor-pointer"
+                        >
+                          <strong>{key}:</strong>{' '}
+                          {renderParameterPoints(value, key)}
+                        </p>
+                      )
+                    )
+                  : selectedOption === 2
+                  ? Object.entries(complianceCSV[currentRowIndex]).map(
+                      ([key, value]) => (
+                        <p
+                          key={key}
+                          onClick={() => copyToClipboard(value)}
+                          className="cursor-pointer"
+                        >
+                          <strong>{key}:</strong>{' '}
+                          {renderParameterPoints(value, key)}
+                        </p>
+                      )
+                    )
+                  : Object.entries(noncomplianceCSV[currentRowIndex]).map(
+                      ([key, value]) => (
+                        <p
+                          key={key}
+                          onClick={() => copyToClipboard(value)}
+                          className="cursor-pointer"
+                        >
+                          <strong>{key}:</strong>{' '}
+                          {renderParameterPoints(value, key)}
+                        </p>
+                      )
+                    )}
               </div>
               <div className="flex items-center justify-center mt-10">
                 <button
@@ -224,7 +359,12 @@ export default function Page() {
                     value={currentRowIndex + 1}
                     onChange={handleJumpToRow}
                   />{' '}
-                  / {csvData.length}
+                  /{' '}
+                  {selectedOption === 1
+                    ? csvData.length
+                    : selectedOption === 2
+                    ? complianceCSV.length
+                    : noncomplianceCSV.length}
                 </span>
                 <button
                   onClick={handleNext}

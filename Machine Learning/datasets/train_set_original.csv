@@ -16,19 +16,19 @@ Walls,Basic Wall,TS_400mm Thk. PC Structural Wall,Basic Wall,,,WALL : 400mm Thk.
 Walls,Basic Wall,TS_200mm Thk. PC Structural Wall,Basic Wall,,,WALL : 200mm Thk. Precast Structural Wall,,TS_200mm Thk. PC Structural Wall,TS_PC Core Wall,,Structural Wall
 Walls,Basic Wall,TS_400mm Thk. PC Non-Structural Wall,Basic Wall,,,WALL : 400mm Thk. Precast Non-Structural Wall,,TS_400mm Thk. PC Non-Structural Wall,TS_PC Wall,,Precast Concrete Wall
 Walls,Basic Wall,TS_300mm Thk. PC Non-Structural Wall,Basic Wall,,,WALL : 300mm Thk. Precast Non-Structural Wall,(BS 3.2) Precast Concrete Wall with Skim Coat,TS_300mm Thk. PC Non-Structural Wall,TS_PC Wall,,Precast Concrete Wall
-Walls,Basic Wall,TS_300mm Thk. RC Non-Structural Wall (CIS),Basic Wall,,,WALL : 300mm Thk. RC Non-Structural Wall,,TS_300mm Thk. RC Non-Structural Wall (CIS),TS_RC Wall,,General Wall item
+Walls,Basic Wall,TS_300mm Thk. RC Non-Structural Wall (CIS),Basic Wall,,,WALL : 300mm Thk. RC Non-Structural Wall,,TS_300mm Thk. RC Non-Structural Wall (CIS),TS_RC Wall,,General Wall Item
 Walls,Basic Wall,TS_300mm Thk. RC Structural Wall (CIS),Basic Wall,,,WALL : 300mm Thk. RC Structural Wall,,TS_300mm Thk. RC Structural Wall (CIS),TS_RC Core Wall,,Structural Wall
 Walls,Basic Wall,TS_225mm Thk. LW Concrete Wall,Basic Wall,,,WALL : 150mm Thk. Lightweight Precast Concrete Wall,,TS_225mm Thk. LW Concrete Wall,TS_LW Wall,,Precast Concrete Wall
 Walls,Basic Wall,TS_250mm Thk. PC Parapet Wall (PP1-1),Basic Wall,,,WALL : 250mm Thk. Precast Parapet Wall (Type E),(BS 3.2) Precast Concrete Wall with Skim Coat,TS_250mm Thk. PC Parapet Wall (PP1-1),TS_PC Parapet Wall,,Parapets Wall
 Walls,Basic Wall,TS_5mm Thk. Skim Coat Finish,Basic Wall,,,WALL : 5mm Thk. Skim Coat Finish,,TS_5mm Thk. Skim Coat Finish,TS_Skim Coat,,Wall Finish
-Walls,Basic Wall,TS_15mm Thk. Homogenous Tile,Basic Wall,,,WALL : 15mm Thk. Homogeneous Wall Tiles (300x600mm),,TS_15mm Thk. Homogenous Tile,TS_Homogenous Tile (300X600),,General Wall item
+Walls,Basic Wall,TS_15mm Thk. Homogenous Tile,Basic Wall,,,WALL : 15mm Thk. Homogeneous Wall Tiles (300x600mm),,TS_15mm Thk. Homogenous Tile,TS_Homogenous Tile (300X600),,General Wall Item
 Walls,Basic Wall,TS_250mm Thk. PC Parapet Wall (with Coping),Basic Wall,,,WALL : 250mm Thk. Precast Parapet Wall with Coping,(BS 5.2) Cast In-Situ Reinforced Concrete Wall with Skim Coat,TS_250mm Thk. PC Parapet Wall (with Coping),TS_PC Parapet Wall,,Parapets Wall
 Walls,Basic Wall,TS_120mm Thk. PC Parapet Wall_Type B (with Coping),Basic Wall,,,WALL : 120mm Thk. Precast Parapet Wall with Coping (Type B),(BS 5.2) Cast In-Situ Reinforced Concrete Wall with Skim Coat,TS_120mm Thk. PC Parapet Wall_Type B (with Coping),TS_PC Parapet Wall,,Parapets Wall
 Walls,Basic Wall,TS_120mm Thk. PC Parapet Wall_Type B.1 (with Coping),Basic Wall,,,WALL : 120mm Thk. Precast Parapet Wall with Coping (Type B),(BS 5.2) Cast In-Situ Reinforced Concrete Wall with Skim Coat,TS_120mm Thk. PC Parapet Wall_Type B.1 (with Coping),TS_PC Parapet Wall,,Parapets Wall
 Walls,Basic Wall,TS_120mm Thk. PC Parapet Wall_Type A (with Coping),Basic Wall,,,WALL : 120mm Thk. Precast Parapet Wall with Coping (Type A),(BS 5.2) Cast In-Situ Reinforced Concrete Wall with Skim Coat,TS_120mm Thk. PC Parapet Wall_Type A (with Coping),TS_PC Parapet Wall,,Parapets Wall
 Walls,Basic Wall,TS_120mm Thk. PC Parapet Wall_Type A,Basic Wall,,,WALL : 120mm Thk. Precast Parapet Wall with Coping (Type A),(BS 5.2) Cast In-Situ Reinforced Concrete Wall with Skim Coat,TS_120mm Thk. PC Parapet Wall_Type A,TS_PC Parapet Wall,,Parapets Wall
 Walls,Basic Wall,TS_100mm Thk. LW Concrete Wall,Basic Wall,,,WALL : 100mm Thk. Lightweight Precast Concrete Wall with 2hr Fire Rating,,TS_100mm Thk. LW Concrete Wall,TS_LW Wall (w/ FRS),,Precast Concrete Wall
-Walls,Basic Wall,TS_20mm Thk. Homogeneous Tile (PBU) - Cliffstone Ice,Basic Wall,,,WALL : 20mm Thk. Homogeneous Wall Tiles (300x600mm),,TS_20mm Thk. Homogeneous Tile (PBU) - Cliffstone Ice,TS_WT-01(Cliffstone Ice),,General Wall item
+Walls,Basic Wall,TS_20mm Thk. Homogeneous Tile (PBU) - Cliffstone Ice,Basic Wall,,,WALL : 20mm Thk. Homogeneous Wall Tiles (300x600mm),,TS_20mm Thk. Homogeneous Tile (PBU) - Cliffstone Ice,TS_WT-01(Cliffstone Ice),,General Wall Item
 Walls,Basic Wall,TS_16mm Thk. Gypsum Panel,Basic Wall,,,WALL : 16mm Thk. Gypsum Panel,(BS 3.2) Precast Concrete Wall with Skim Coat,TS_16mm Thk. Gypsum Panel,TS_Gypsum Panel,,Precast Concrete Wall
 Walls,Basic Wall,TS_75mm Thk. RC Non-Structural Wall (CIS),Basic Wall,,,WALL : 75mm Thk. RC Non-Structural Wall,,TS_75mm Thk. RC Non-Structural Wall (CIS),TS_RC Wall,,Cast In-Situ RC Wall
 Walls,Basic Wall,TS_90mm Thk.Dry Wall,Basic Wall,,,WALL : 100mm Thk. Lightweight Precast Concrete Wall with 2hr Fire Rating,,TS_90mm Thk.Dry Wall,TS_LW Wall (w/ FRS),,Precast Concrete Wall
@@ -56,11 +56,11 @@ Doors,TS_FDV1d,FDV1d,TS_FDV1d,,,"Door : Swing Door, Hot Dipped Galvanized Steel 
 Doors,TS_FD3,FD3,TS_FD3,,,"Door : Swing Door, Hot Dipped Galvanized Steel With Spray Paint",MCR03-01-01-,FD3,,,"General Door Item (including Gate, Roller Shutter)"
 Doors,TS_FDV2A,FDV2A,TS_FDV2A,,,"Door : Swing Door, Hot Dipped Galvanized Steel With Spray Paint",MCR03-01-01-,FDV2A,,,"General Door Item (including Gate, Roller Shutter)"
 Doors,TS_FD2A,FD2A,TS_FD2A,,,"Door : Swing Door, Hot Dipped Galvanized Steel With Spray Paint",MCR03-01-01-,FD2A,,,"General Door Item (including Gate, Roller Shutter)"
-Doors,,,TS_Fire Lift Signage,,,,,,,,General Signage item
+Doors,,,TS_Fire Lift Signage,,,,,,,,General Signage Item
 Doors,,,TS_Handicap Logo,,,,,,,,"General Door Item (including Gate, Roller Shutter)"
 Doors,TS_Fire Lift Door-(Opt1),Fire Lift Door,TS_Fire Lift Door Jamb,,,,,TS_Fire Lift Door Jamb,,,"General Door Item (including Gate, Roller Shutter)"
 Doors,TS_Fire Lift Door-(Opt1),Fire Lift Door,TS_Fire Lift Door-(Opt1),,,Door : Fire Lift Door,,Fire Lift Door,,,"General Door Item (including Gate, Roller Shutter)"
-Doors,,,TS_Passenger Lift Signage,,,,,,,,General Signage item
+Doors,,,TS_Passenger Lift Signage,,,,,,,,General Signage Item
 Doors,TS_Passenger Lift Door-(Opt1),TS_Passenger Lift Signage [77781817],TS_Fire Lift Door Jamb,,,,,TS_Fire Lift Door Jamb,,,"General Door Item (including Gate, Roller Shutter)"
 Doors,TS_Passenger Lift Door-(Opt1),Passenger Lift Door,TS_Passenger Lift Door-(Opt1),,,Door : Fire Lift Door,,Passenger Lift Door,,,"General Door Item (including Gate, Roller Shutter)"
 Doors,TS_FDV1,FDV1,TS_FDV1,,,"Door : Swing Door, Hot Dipped Galvanized Steel With Spray Paint",MCR03-01-01-,FDV1,,,"General Door Item (including Gate, Roller Shutter)"
@@ -117,28 +117,28 @@ Windows,TS_Louver Window - Type D,TS_Louver Window (800x2500) - Type D,TS_Louver
 Windows,TS_AL Screen (1000x2000) - Type A,TS_AL Screen (1000x2000) - Type A,TS_AL Screen (1000x2000) - Type A,,,WINDOW : Aluminum Screen,,TS_AL Screen (1000x2000) - Type A,,,General Window Item
 Windows,TS_Louver Window - Type D,TS_Louver Window (800x2000) - Type D,TS_Louver Window - Type D,,,WINDOW : Horizontal Louver Blade Window,,TS_Louver Window (800x2000) - Type D,,,Adjustable Louvred Window
 Windows,TS_ATW5L,TS_ATW5L,TS_ATW5L,,,WINDOW : Aluminum Frame Fixed Top Hung Window,,TS_ATW5L,,,Top-Hung Window
-Floors,Floor,TS_150mm Thk. PC Plank Slab + CIS,Floor,,,FLOOR : 150mm Thk. Cast-In-Situ Slab,Grade C40/50,TS_150mm Thk. PC Plank Slab + CIS,TS_CIS Slab,,General Floor item
+Floors,Floor,TS_150mm Thk. PC Plank Slab + CIS,Floor,,,FLOOR : 150mm Thk. Cast-In-Situ Slab,Grade C40/50,TS_150mm Thk. PC Plank Slab + CIS,TS_CIS Slab,,General Floor Item
 Floors,Floor,TS_150mm Thk. Bondek Slab,Floor,,,FLOOR : 150mm THK. Slab with Bondek System Decking (Thickness 1.5mm/Grade 550) or Other Equivalent,FF,TS_150mm Thk. Bondek Slab,TS_CIS Slab,,Floor Finish
-Floors,Floor,TS_450mm Thk. Slab (CIS),Floor,,,FLOOR : 450mm Thk. Cast In Situ Slab,Grade C40/50,TS_450mm Thk. Slab (CIS),TS_CIS Slab,,General Floor item
-Floors,Floor,TS_200mm Thk. Slab (CIS),Floor,,,FLOOR : 200mm Thk. Cast-In-Situ Slab,Grade C40/50,TS_200mm Thk. Slab (CIS),TS_CIS Slab,,General Floor item
+Floors,Floor,TS_450mm Thk. Slab (CIS),Floor,,,FLOOR : 450mm Thk. Cast In Situ Slab,Grade C40/50,TS_450mm Thk. Slab (CIS),TS_CIS Slab,,General Floor Item
+Floors,Floor,TS_200mm Thk. Slab (CIS),Floor,,,FLOOR : 200mm Thk. Cast-In-Situ Slab,Grade C40/50,TS_200mm Thk. Slab (CIS),TS_CIS Slab,,General Floor Item
 Floors,Floor,TS_65mm Thk. PBU RC Slab,Floor,,,FLOOR : 65mm Thk. Prefabricated Bathroom Unit RC Slab,Grade C40/50,TS_65mm Thk. PBU RC Slab,TS_PBU RC Slab,,Precast Floor
-Floors,Floor,TS_150mm Thk. Slab (CIS),Floor,,,FLOOR : 150mm Thk. Cast-In-Situ Slab,Grade C40/50,TS_150mm Thk. Slab (CIS),TS_CIS Slab,,General Floor item
-Floors,Floor,TS_450mm Thk. HCS,Floor,,,FLOOR : 360mm Thk Hollow Core + 90mm Thk. Concrete Topping,HC,TS_450mm Thk. HCS,TS_HCS (Top Up),,General Floor item
-Floors,Floor,TS_525mm Thk. PTS,Floor,,,FLOOR : 525mm Thk. Post-Tensioned Slab,PT,TS_525mm Thk. PTS,TS_PC Slab,,General Floor item
-Floors,Floor,TS_450mm Thk. PTS,Floor,,,FLOOR : 450mm Thk. Post-Tensioned Slab,PT,TS_450mm Thk. PTS,TS_PC Slab,,General Floor item
-Floors,Floor,TS_250mm Thk. Slab (CIS),Floor,,,FLOOR : 250mm Thk. Cast In Situ Slab,Grade C40/50,TS_250mm Thk. Slab (CIS),TS_CIS Slab,,General Floor item
-Floors,Floor,TS_500mm Thk. PTS,Floor,,,FLOOR : 500mm Thk. Post-Tensioned Slab,PT,TS_500mm Thk. PTS,TS_PC Slab,,General Floor item
-Floors,Floor,TS_150mm Thk. Slab (PC),Floor,,,FLOOR : Cement Screed with Monolithic Non-Metallic Hardener with Hardening and Dust-Proofing Compound,,TS_150mm Thk. Slab (PC),TS_PC Slab,,General Floor item
-Floors,Floor,TS_200mm Thk. Slab (PC),Floor,,,FLOOR : Cement Screed with Monolithic Non-Metallic Hardener with Hardening and Dust-Proofing Compound,,TS_200mm Thk. Slab (PC),TS_PC Slab,,General Floor item
-Floors,Floor,TS_250mm Thk. Slab (PC),Floor,,,FLOOR : Cement Screed with Monolithic Non-Metallic Hardener with Hardening and Dust-Proofing Compound,,TS_250mm Thk. Slab (PC),TS_PC Slab,,General Floor item
-Floors,Floor,TS_400mm Thk. Slab (CIS),Floor,,,FLOOR: 400mm Thk. Cast In Situ Slab,Grade C40/50,TS_400mm Thk. Slab (CIS),TS_CIS Slab,,General Floor item
+Floors,Floor,TS_150mm Thk. Slab (CIS),Floor,,,FLOOR : 150mm Thk. Cast-In-Situ Slab,Grade C40/50,TS_150mm Thk. Slab (CIS),TS_CIS Slab,,General Floor Item
+Floors,Floor,TS_450mm Thk. HCS,Floor,,,FLOOR : 360mm Thk Hollow Core + 90mm Thk. Concrete Topping,HC,TS_450mm Thk. HCS,TS_HCS (Top Up),,General Floor Item
+Floors,Floor,TS_525mm Thk. PTS,Floor,,,FLOOR : 525mm Thk. Post-Tensioned Slab,PT,TS_525mm Thk. PTS,TS_PC Slab,,General Floor Item
+Floors,Floor,TS_450mm Thk. PTS,Floor,,,FLOOR : 450mm Thk. Post-Tensioned Slab,PT,TS_450mm Thk. PTS,TS_PC Slab,,General Floor Item
+Floors,Floor,TS_250mm Thk. Slab (CIS),Floor,,,FLOOR : 250mm Thk. Cast In Situ Slab,Grade C40/50,TS_250mm Thk. Slab (CIS),TS_CIS Slab,,General Floor Item
+Floors,Floor,TS_500mm Thk. PTS,Floor,,,FLOOR : 500mm Thk. Post-Tensioned Slab,PT,TS_500mm Thk. PTS,TS_PC Slab,,General Floor Item
+Floors,Floor,TS_150mm Thk. Slab (PC),Floor,,,FLOOR : Cement Screed with Monolithic Non-Metallic Hardener with Hardening and Dust-Proofing Compound,,TS_150mm Thk. Slab (PC),TS_PC Slab,,General Floor Item
+Floors,Floor,TS_200mm Thk. Slab (PC),Floor,,,FLOOR : Cement Screed with Monolithic Non-Metallic Hardener with Hardening and Dust-Proofing Compound,,TS_200mm Thk. Slab (PC),TS_PC Slab,,General Floor Item
+Floors,Floor,TS_250mm Thk. Slab (PC),Floor,,,FLOOR : Cement Screed with Monolithic Non-Metallic Hardener with Hardening and Dust-Proofing Compound,,TS_250mm Thk. Slab (PC),TS_PC Slab,,General Floor Item
+Floors,Floor,TS_400mm Thk. Slab (CIS),Floor,,,FLOOR: 400mm Thk. Cast In Situ Slab,Grade C40/50,TS_400mm Thk. Slab (CIS),TS_CIS Slab,,General Floor Item
 Floors,Floor,TS_150mm Thk. Slab Ramp (CIS),Floor,,,FLOOR : 150mm Thk. Cast-In-Situ Slab,Grade C40/50,TS_150mm Thk. Slab Ramp (CIS),TS_CIS Slab,,Ramp
 Floors,Floor,TS_300x600x20mm Thk. Homogeneous Floor Tiles,Floor,,,"FLOOR : Heavy Duty, Non-Slip 300x600x9mm Thk. Homogeneous Floor Tiles",FF,TS_300x600x20mm Thk. Homogeneous Floor Tiles,TS_Tile Finish,,Floor Finish
-Floors,Floor,TS_200mm Thk. Slab (RC Plinth),Floor,,,FLOOR : 100mm Thk. Concrete Plinth,Grade C40/50,TS_200mm Thk. Slab (RC Plinth),TS_CIS Slab,,General Floor item
-Floors,Floor,TS_150mm Thk. AC Ledge,Floor,,,FLOOR : 150mm Thk. AC Ledge Slab,,TS_150mm Thk. AC Ledge,TS_PC Slab,,General Floor item
-Floors,Floor,TS_100mm Thk. Slab (RC Plinth),Floor,,,FLOOR : 100mm Thk. Concrete Plinth,Grade C40/50,TS_100mm Thk. Slab (RC Plinth),TS_FC-01,,General Floor item
-Floors,Floor,TS_100mm Thk. Concrete Topping + Finishes (FC-01),Floor,,,FLOOR : Cement Screed with Monolithic Non-Metallic Hardener with Hardening and Dust-Proofing Compound,,TS_100mm Thk. Concrete Topping + Finishes (FC-01),TS_FC-01,,General Floor item
-Floors,Floor,TS_100mm Thk. Concrete Topping + Finishes (FE-01),Floor,,,"FLOOR : Cement Screed with Monolithic Non-Metallic Hardener, with Solvent-Free, High-Build, Anti-Slip Heavy Duty Epoxy Resin-Flooring Coating, Broadcast with Anti-Skid Grains",,TS_100mm Thk. Concrete Topping + Finishes (FE-01),TS_FE-01,,General Floor item
+Floors,Floor,TS_200mm Thk. Slab (RC Plinth),Floor,,,FLOOR : 100mm Thk. Concrete Plinth,Grade C40/50,TS_200mm Thk. Slab (RC Plinth),TS_CIS Slab,,General Floor Item
+Floors,Floor,TS_150mm Thk. AC Ledge,Floor,,,FLOOR : 150mm Thk. AC Ledge Slab,,TS_150mm Thk. AC Ledge,TS_PC Slab,,General Floor Item
+Floors,Floor,TS_100mm Thk. Slab (RC Plinth),Floor,,,FLOOR : 100mm Thk. Concrete Plinth,Grade C40/50,TS_100mm Thk. Slab (RC Plinth),TS_FC-01,,General Floor Item
+Floors,Floor,TS_100mm Thk. Concrete Topping + Finishes (FC-01),Floor,,,FLOOR : Cement Screed with Monolithic Non-Metallic Hardener with Hardening and Dust-Proofing Compound,,TS_100mm Thk. Concrete Topping + Finishes (FC-01),TS_FC-01,,General Floor Item
+Floors,Floor,TS_100mm Thk. Concrete Topping + Finishes (FE-01),Floor,,,"FLOOR : Cement Screed with Monolithic Non-Metallic Hardener, with Solvent-Free, High-Build, Anti-Slip Heavy Duty Epoxy Resin-Flooring Coating, Broadcast with Anti-Skid Grains",,TS_100mm Thk. Concrete Topping + Finishes (FE-01),TS_FE-01,,General Floor Item
 Floors,Floor,TS_30mm Thk. PBU Homogeneous Tile (FT-01) - Slate Grigio,Floor,,,"FLOOR : Heavy Duty, Non-Slip 300x600x9mm Thk. Homogeneous Floor Tiles",FF,TS_30mm Thk. PBU Homogeneous Tile (FT-01) - Slate Grigio,TS_Tile Finish,,Precast Floor
 Floors,Floor,TS_20mm Thk. Homogeneous Tile (FT-01),Floor,,,"FLOOR : Heavy Duty, Non-Slip 300x600x9mm Thk. Homogeneous Floor Tiles",FF,TS_20mm Thk. Homogeneous Tile (FT-01),TS_Tile Finish,,Floor Finish
 Floors,Floor,TS_55mm Thk. PBU RC Slab,Floor,,,FLOOR : 55mm Thk. Prefabricated Bathroom Unit RC Slab,Grade C40/50,TS_55mm Thk. PBU RC Slab,TS_PBU RC Slab,,Precast Floor
@@ -148,9 +148,9 @@ Floors,Floor,TS_20mm Thk. Homogeneous Tile (FT-01) (ramp),Floor,,,"FLOOR : Heavy
 Floors,Floor,TS_5mm Thk. Finish (FE-01),Floor,,,"FLOOR : Cement Screed with Monolithic Non-Metallic Hardener, with Solvent-Free, High-Build, Anti-Slip Heavy Duty Epoxy Resin-Flooring Coating, Broadcast with Anti-Skid Grains",FF,TS_5mm Thk. Finish (FE-01),TS_FE-01,,Floor Finish
 Floors,Floor,TS_40mm Thk. Concrete Topping,Floor,,,,FF,TS_40mm Thk. Concrete Topping,TS_Top Up,,Floor Finish
 Floors,Floor,TS_80mm Thk. Concrete Topping,Floor,,,FLOOR : 80mm Thk. Concrete Topping,FF,TS_80mm Thk. Concrete Topping,TS_CIS Slab,,Floor Finish
-Floors,Floor,TS_75mm Thk. RC Slab,Floor,,,FLOOR : 65mm Thk. Prefabricated Bathroom Unit RC Slab,Grade C40/50,TS_75mm Thk. RC Slab,TS_CIS Slab,,General Floor item
-Floors,Floor,TS_75mm Thk. PC Slab,Floor,,,FLOOR : 65mm Thk. Prefabricated Bathroom Unit RC Slab,Grade C40/50,TS_75mm Thk. PC Slab,TS_PC Slab,,General Floor item
-Floors,Floor,TS_50mm Thk. PC Slab,Floor,,,FLOOR : 65mm Thk. Prefabricated Bathroom Unit RC Slab,Grade C40/50,TS_50mm Thk. PC Slab,TS_PC Slab,,General Floor item
+Floors,Floor,TS_75mm Thk. RC Slab,Floor,,,FLOOR : 65mm Thk. Prefabricated Bathroom Unit RC Slab,Grade C40/50,TS_75mm Thk. RC Slab,TS_CIS Slab,,General Floor Item
+Floors,Floor,TS_75mm Thk. PC Slab,Floor,,,FLOOR : 65mm Thk. Prefabricated Bathroom Unit RC Slab,Grade C40/50,TS_75mm Thk. PC Slab,TS_PC Slab,,General Floor Item
+Floors,Floor,TS_50mm Thk. PC Slab,Floor,,,FLOOR : 65mm Thk. Prefabricated Bathroom Unit RC Slab,Grade C40/50,TS_50mm Thk. PC Slab,TS_PC Slab,,General Floor Item
 Floors,Floor,TS_20mm Thk. Solid Surface,Floor,,,FLOOR : 35mm Thk. Solid Surface,FF,TS_20mm Thk. Solid Surface,TS_Solid Surface (Cistern),,Floor Finish
 Columns,,,COLUMN 603707,,,,,,,,Architectural Column
 Columns,,,COLUMN 606473,,,,,,,,Architectural Column
@@ -173,18 +173,18 @@ Columns,,,CHS42.4*3.0 584403,,,,,,,,Architectural Column
 Columns,,,CHS42.4*3.0 582478,,,,,,,,Architectural Column
 Columns,,,CHS42.4*3.0,,,,,,,,Architectural Column
 Columns,,,L-75X75X6,,,,,,,,Architectural Column
-Floors,Floor,Concrete Slab,Floor,,,,,Concrete Slab,Concrete - Pre Cast,,General Floor item
-Floors,Floor,Concrete Slab Toilet,Floor,,,,,Concrete Slab Toilet,Concrete - Pre Cast,,General Floor item
-Floors,Floor,Concrete Slab Toilet Modular,Floor,,,,,Concrete Slab Toilet Modular,Concrete - Cast In Situ,,General Floor item
-Floors,Floor,Interior Stairs Slab,Floor,,,,,Interior Stairs Slab,Gray,,General Floor item
-Floors,Floor,CONCRETE 100mm,Floor,,,,,CONCRETE 100mm,Concrete - Cast-in-Place Concrete,,General Floor item
+Floors,Floor,Concrete Slab,Floor,,,,,Concrete Slab,Concrete - Pre Cast,,General Floor Item
+Floors,Floor,Concrete Slab Toilet,Floor,,,,,Concrete Slab Toilet,Concrete - Pre Cast,,General Floor Item
+Floors,Floor,Concrete Slab Toilet Modular,Floor,,,,,Concrete Slab Toilet Modular,Concrete - Cast In Situ,,General Floor Item
+Floors,Floor,Interior Stairs Slab,Floor,,,,,Interior Stairs Slab,Gray,,General Floor Item
+Floors,Floor,CONCRETE 100mm,Floor,,,,,CONCRETE 100mm,Concrete - Cast-in-Place Concrete,,General Floor Item
 Floors,Precast Slanted @ window,Precast Slanted @ window,Precast Slanted @ window,,,,,Precast Slanted @ window,<By Category>,,Precast Floor
 Columns,Rectangular,900 x 900mm,Rectangular,,,,,900 x 900mm,,Pre Cast Concrete Coloumn,Architectural Column
 Columns,Rectangular,800 x 800mm,Rectangular,,,,,800 x 800mm,,Pre Cast Concrete Coloumn,Architectural Column
 Columns,Rectangular,400 x 400mm,Rectangular,,,,,400 x 400mm,,Pre Cast Concrete Coloumn,Architectural Column
-Roofs,,,Basic Roof,,,,,,,,General Roof item
+Roofs,,,Basic Roof,,,,,,,,General Roof Item
 Walls,Basic Wall,External Pre-Cast Concrete 100mm,Basic Wall,,,,,External Pre-Cast Concrete 100mm,Concrete - Pre Cast,,Precast Concrete Wall
-Walls,Basic Wall,Exterior Canopy,Basic Wall,,,,,Exterior Canopy,Cladding - Vertical Ribbed,,General Wall item
+Walls,Basic Wall,Exterior Canopy,Basic Wall,,,,,Exterior Canopy,Cladding - Vertical Ribbed,,General Wall Item
 Walls,Basic Wall,Internal_RC_225mm,Basic Wall,,,,,Internal_RC_225mm,Wall_Concrete,,Structural Wall
 Walls,Basic Wall,Internal Pre-Cast Concrete 100mm,Basic Wall,,,,,Internal Pre-Cast Concrete 100mm,Concrete - Pre Cast,,Precast Concrete Wall
 Walls,Basic Wall,Precast Wall 100mm,Basic Wall,,,,,Precast Wall 100mm,Concrete - Precast Concrete,,Precast Concrete Wall
@@ -220,12 +220,12 @@ Windows,Interior Alum.Window Panel,Interior Alum.Window Panel,Interior Alum.Wind
 Windows,Louvre Glass Window Panel,Louvre Glass Window Panel Type A,Louvre Glass Window Panel,,,,,Louvre Glass Window Panel Type A,,,Adjustable Louvred Window
 Windows,Louvre Featured Panel,Louvre Featured Panel,Louvre Featured Panel,,,,,Louvre Featured Panel,,,Adjustable Louvred Window
 Windows,Toilet Window,Toilet Window Upper,Toilet Window,,,,,Toilet Window Upper,,,General Window Item
-Floors,Floor,Sidewalk,Floor,,,,,Sidewalk,Concrete - Cast In Situ,,General Floor item
-Floors,Floor,Landscape,Floor,,,,,Landscape,Site - Grass,,General Floor item
-Floors,Floor,Concrete Slab Sub Station,Floor,,,,,Concrete Slab Sub Station,Concrete - Pre Cast,,General Floor item
-Floors,Floor,TACTILE WARNING INDICATOR 5mm,Floor,,,,,TACTILE WARNING INDICATOR 5mm,Concrete - Cast-in-Place Concrete,,General Floor item
-Floors,Floor,CONCRETE 50mm,Floor,,,,,CONCRETE 50mm,Concrete - Cast-in-Place Concrete,,General Floor item
-Floors,Floor,Sidewalk 2,Floor,,,,,Sidewalk 2,Concrete - Cast In Situ,,General Floor item
+Floors,Floor,Sidewalk,Floor,,,,,Sidewalk,Concrete - Cast In Situ,,General Floor Item
+Floors,Floor,Landscape,Floor,,,,,Landscape,Site - Grass,,General Floor Item
+Floors,Floor,Concrete Slab Sub Station,Floor,,,,,Concrete Slab Sub Station,Concrete - Pre Cast,,General Floor Item
+Floors,Floor,TACTILE WARNING INDICATOR 5mm,Floor,,,,,TACTILE WARNING INDICATOR 5mm,Concrete - Cast-in-Place Concrete,,General Floor Item
+Floors,Floor,CONCRETE 50mm,Floor,,,,,CONCRETE 50mm,Concrete - Cast-in-Place Concrete,,General Floor Item
+Floors,Floor,Sidewalk 2,Floor,,,,,Sidewalk 2,Concrete - Cast In Situ,,General Floor Item
 Columns,Rectangular,800 x 1250,Rectangular,,,,,800 x 1250,,Pre Cast Concrete Coloumn,Architectural Column
 Columns,,,Canopy Column,,,,,,,,Architectural Column
 Columns,Rectangular1,430 x 300mm,Rectangular1,,,,,430 x 300mm,,<By Category>,Architectural Column
@@ -272,16 +272,16 @@ Windows,Interior Alum.Window 2 Panel,Interior Alum.Window 2 Panel,Interior Alum.
 Windows,Exterior Alum.Single Window Panel,Exterior Alum.Window Panel Mid,Exterior Alum.Single Window Panel,,,,,Exterior Alum.Window Panel Mid,,,General Window Item
 Floors,Precast Slanted @ window1,Precast Slanted @ window,Precast Slanted @ window1,,,,,Precast Slanted @ window,<By Category>,,Precast Floor
 Doors,Roller Shutter Door with FAP,Roller Shutter Door,Roller Shutter Door with FAP,,,,,Roller Shutter Door,,,"General Door Item (including Gate, Roller Shutter)"
-Floors,Floor,CONCRETE 300mm,Floor,,,,,CONCRETE 300mm,Concrete - Cast-in-Place Concrete,,General Floor item
-Floors,Floor,CONCRETE 200mm,Floor,,,,,CONCRETE 200mm,Concrete - Cast-in-Place Concrete,,General Floor item
+Floors,Floor,CONCRETE 300mm,Floor,,,,,CONCRETE 300mm,Concrete - Cast-in-Place Concrete,,General Floor Item
+Floors,Floor,CONCRETE 200mm,Floor,,,,,CONCRETE 200mm,Concrete - Cast-in-Place Concrete,,General Floor Item
 Walls,Basic Wall,External RC Wall 150mm,Basic Wall,,,,,External RC Wall 150mm,Concrete - Pre Cast,,Structural Wall
 Walls,Basic Wall,Stack Wall Reinforce Concrete 300mm,Basic Wall,,,,,Stack Wall Reinforce Concrete 300mm,Concrete - Pre Cast,,Structural Wall
 Doors,Alum. Single Door Wtih Vision Panel,1000x2200-P 1HR,Alum. Single Door Wtih Vision Panel,,,METAL DOOR,,1000x2200-P 1HR,,,"General Door Item (including Gate, Roller Shutter)"
 Windows,Exterior Alum.Window Panel,Exterior Alum.Window Panel Mid With KP,Exterior Alum.Window Panel,,,,,Exterior Alum.Window Panel Mid With KP,,,General Window Item
-Floors,Floor,Concrete Slab 100MM,Floor,,,,,Concrete Slab 100MM,Concrete - Pre Cast,,General Floor item
+Floors,Floor,Concrete Slab 100MM,Floor,,,,,Concrete Slab 100MM,Concrete - Pre Cast,,General Floor Item
 Roofs,,,Concrete Slabs2,,,,,,,,Concrete Roof
 Walls,Basic Wall,External Pre-Cast Concrete 150mm,Basic Wall,,,,,External Pre-Cast Concrete 150mm,<By Category>,,Precast Concrete Wall
-Walls,Basic Wall,BRC_FENCE_ROOF,Basic Wall,,,,,BRC_FENCE_ROOF,BRC,,General Wall item
+Walls,Basic Wall,BRC_FENCE_ROOF,Basic Wall,,,,,BRC_FENCE_ROOF,BRC,,General Wall Item
 Fire Alarm Devices,FD-FiremenIntercomFixtureAndDevice-Weather Proof Strobe Light,Wall Mount,FD-FiremenIntercomFixtureAndDevice-Weather Proof Strobe Light,D7050.10,Fire Detection and Alarm,Strobe Light,Strobe Light,Wall Mount,,<By Category>,Fire Alarm Fixture and Device
 Fire Alarm Devices,FD-FiremenIntercomFixtureAndDevice-Fire Alarm bell,Outdoor,FD-FiremenIntercomFixtureAndDevice-Fire Alarm bell,D40,Fire Protection,Fire Alarm Bell,Fire Alarm Bell,Outdoor,,<By Category>,Fire Alarm Fixture and Device
 Fire Alarm Devices,FD-FiremenIntercomFixtureAndDevice-Fire Alarm bell,Indoor,FD-FiremenIntercomFixtureAndDevice-Fire Alarm bell,D7050.10,Fire Detection and Alarm,Fire Alarm Bell,Fire Alarm Bell,Indoor,,<By Category>,Fire Alarm Fixture and Device
@@ -293,44 +293,44 @@ Fire Alarm Devices,FD-FiremenIntercomFixtureAndDevice-Main voice communication p
 Fire Alarm Devices,FD-FiremenIntercomFixtureAndDevice-Map Alarm Panel,Main Alarm Panel,FD-FiremenIntercomFixtureAndDevice-Map Alarm Panel,D7050.10,Fire Detection and Alarm,Fire Alarm Panel,Fire Alarm Panel,Main Alarm Panel,,<By Category>,Fire Alarm Fixture and Device
 Fire Alarm Devices,FD-FiremenIntercomFixtureAndDevice-Decam Panel,Decam Panel,FD-FiremenIntercomFixtureAndDevice-Decam Panel,D7050.10,Fire Detection and Alarm,Decam Panel,Decam Panel,Decam Panel,,<By Category>,Fire Alarm Fixture and Device
 Fire Alarm Devices,FD-FiremenIntercomFixtureAndDevice-Repeater Panel,Repeater Panel,FD-FiremenIntercomFixtureAndDevice-Repeater Panel,D7050.10,Fire Detection and Alarm,Repeater Panel,Repeater Panel,Repeater Panel,,<By Category>,Fire Alarm Fixture and Device
-Floors,Floor,TS_175mm Thk. Slab (CIS),Floor,,,FLOOR : 200mm Thk. Cast In Situ Slab,Grade C40/50,TS_175mm Thk. Slab (CIS),TS_CIS Slab,,General Floor item
-Floors,Floor,TS_Green,Floor,,,Edeck Planted Slab,,TS_Green,grass,,General Floor item
-Floors,Floor,TS_150mm Thk. Bondek Slab,Floor,,,Bondek,,TS_150mm Thk. Bondek Slab,TS_CIS Slab,,General Floor item
-Floors,Floor,TS_150mm Thk. PC Plank Slab + CIS,Floor,,,FLOOR : 150mm Thk. Precast Slab,Grade C40/50,TS_150mm Thk. PC Plank Slab + CIS,TS_CIS Slab,,General Floor item
-Floors,Floor,TS_200mm Thk. Slab (CIS),Floor,,,FLOOR : 200mm Thk. Cast In Situ Slab,Grade C40/50,TS_200mm Thk. Slab (CIS),TS_CIS Slab,,General Floor item
-Floors,Floor,TS_150mm Thk. Slab (CIS),Floor,,,FLOOR : 150mm Thk. Cast In Situ Slab,Grade C40/50,TS_150mm Thk. Slab (CIS),TS_CIS Slab,,General Floor item
-Floors,Floor,TS_450mm Thk. Slab (HCS),Floor,,,FLOOR : HCS + 90mm Concrete Topping,,TS_450mm Thk. Slab (HCS),TS_HCS (Top Up),,General Floor item
-Floors,Floor,TS_400mm Thk. Slab (CIS),Floor,,,FLOOR : 400mm Thk. Cast In Situ Slab,Grade C40/50,TS_400mm Thk. Slab (CIS),TS_CIS Slab,,General Floor item
-Floors,Floor,TS_450mm Thk. Slab (PTS),Floor,,,FLOOR : Post-Tensioned Slab,,TS_450mm Thk. Slab (PTS),TS_PC Slab,,General Floor item
-Floors,Floor,TS_525mm Thk. Slab (PTS),Floor,,,FLOOR : Post-Tensioned Slab,,TS_525mm Thk. Slab (PTS),TS_PC Slab,,General Floor item
-Floors,Floor,TS_400mm Thk. Slab (PTS),Floor,,,FLOOR : Post-Tensioned Slab,,TS_400mm Thk. Slab (PTS),TS_PC Slab,,General Floor item
-Floors,Floor,TS_330mm Thk. Slab (PTS),Floor,,,FLOOR : Post-Tensioned Slab,,TS_330mm Thk. Slab (PTS),TS_PC Slab,,General Floor item
-Floors,Floor,TS_375mm Thk. Slab (PTS),Floor,,,FLOOR : Post-Tensioned Slab,,TS_375mm Thk. Slab (PTS),TS_PC Slab,,General Floor item
-Floors,Floor,TS_300mm Thk. Slab (PTS),Floor,,,FLOOR : Post-Tensioned Slab,,TS_300mm Thk. Slab (PTS),TS_PC Slab,,General Floor item
-Floors,Floor,TS_200mm Thk. Slab (PC),Floor,,,FLOOR : 200mm Thk. Precast Slab,Grade C40/50,TS_200mm Thk. Slab (PC),TS_PC Slab,,General Floor item
-Floors,Floor,TS_200mm Thk. Slab (CIS Plinth),Floor,,,FLOOR : 100mm Thk. Concrete Plinth,Grade C40/50,TS_200mm Thk. Slab (CIS Plinth),TS_CIS Slab,,General Floor item
-Floors,Floor,TS_250mm Thk. Slab (PC),Floor,,,FLOOR : 250mm Thk. Precast Slab,Grade C40/50,TS_250mm Thk. Slab (PC),TS_PC Slab,,General Floor item
-Floors,Floor,TS_100mm Thk. Concrete Topping + Finishes (FE-01),Floor,,,FLOOR : 100mm Thk. Concrete Topping,,TS_100mm Thk. Concrete Topping + Finishes (FE-01),TS_Top-up (FE-01),,General Floor item
-Floors,Floor,TS_100mm Thk. Concrete Topping + Finishes (FC-01),Floor,,,FLOOR : 100mm Thk. Concrete Topping,,TS_100mm Thk. Concrete Topping + Finishes (FC-01),TS_Top-up (FC-01),,General Floor item
-Floors,Floor,TS_1300mm Thk. Slab (CIS Plinth),Floor,,,CIS Plinth,,TS_1300mm Thk. Slab (CIS Plinth),TS_CIS Slab,,General Floor item
-Floors,Floor,TS_300x600x20mm Thk. Homogeneous Tile (FT-01),Floor,,,"HEAVY DUTY, NON-SLIP 300x600x9mm THK. HOMOGENEOUS TILES",,TS_300x600x20mm Thk. Homogeneous Tile (FT-01),TS_Tile Finish,,General Floor item
+Floors,Floor,TS_175mm Thk. Slab (CIS),Floor,,,FLOOR : 200mm Thk. Cast In Situ Slab,Grade C40/50,TS_175mm Thk. Slab (CIS),TS_CIS Slab,,General Floor Item
+Floors,Floor,TS_Green,Floor,,,Edeck Planted Slab,,TS_Green,grass,,General Floor Item
+Floors,Floor,TS_150mm Thk. Bondek Slab,Floor,,,Bondek,,TS_150mm Thk. Bondek Slab,TS_CIS Slab,,General Floor Item
+Floors,Floor,TS_150mm Thk. PC Plank Slab + CIS,Floor,,,FLOOR : 150mm Thk. Precast Slab,Grade C40/50,TS_150mm Thk. PC Plank Slab + CIS,TS_CIS Slab,,General Floor Item
+Floors,Floor,TS_200mm Thk. Slab (CIS),Floor,,,FLOOR : 200mm Thk. Cast In Situ Slab,Grade C40/50,TS_200mm Thk. Slab (CIS),TS_CIS Slab,,General Floor Item
+Floors,Floor,TS_150mm Thk. Slab (CIS),Floor,,,FLOOR : 150mm Thk. Cast In Situ Slab,Grade C40/50,TS_150mm Thk. Slab (CIS),TS_CIS Slab,,General Floor Item
+Floors,Floor,TS_450mm Thk. Slab (HCS),Floor,,,FLOOR : HCS + 90mm Concrete Topping,,TS_450mm Thk. Slab (HCS),TS_HCS (Top Up),,General Floor Item
+Floors,Floor,TS_400mm Thk. Slab (CIS),Floor,,,FLOOR : 400mm Thk. Cast In Situ Slab,Grade C40/50,TS_400mm Thk. Slab (CIS),TS_CIS Slab,,General Floor Item
+Floors,Floor,TS_450mm Thk. Slab (PTS),Floor,,,FLOOR : Post-Tensioned Slab,,TS_450mm Thk. Slab (PTS),TS_PC Slab,,General Floor Item
+Floors,Floor,TS_525mm Thk. Slab (PTS),Floor,,,FLOOR : Post-Tensioned Slab,,TS_525mm Thk. Slab (PTS),TS_PC Slab,,General Floor Item
+Floors,Floor,TS_400mm Thk. Slab (PTS),Floor,,,FLOOR : Post-Tensioned Slab,,TS_400mm Thk. Slab (PTS),TS_PC Slab,,General Floor Item
+Floors,Floor,TS_330mm Thk. Slab (PTS),Floor,,,FLOOR : Post-Tensioned Slab,,TS_330mm Thk. Slab (PTS),TS_PC Slab,,General Floor Item
+Floors,Floor,TS_375mm Thk. Slab (PTS),Floor,,,FLOOR : Post-Tensioned Slab,,TS_375mm Thk. Slab (PTS),TS_PC Slab,,General Floor Item
+Floors,Floor,TS_300mm Thk. Slab (PTS),Floor,,,FLOOR : Post-Tensioned Slab,,TS_300mm Thk. Slab (PTS),TS_PC Slab,,General Floor Item
+Floors,Floor,TS_200mm Thk. Slab (PC),Floor,,,FLOOR : 200mm Thk. Precast Slab,Grade C40/50,TS_200mm Thk. Slab (PC),TS_PC Slab,,General Floor Item
+Floors,Floor,TS_200mm Thk. Slab (CIS Plinth),Floor,,,FLOOR : 100mm Thk. Concrete Plinth,Grade C40/50,TS_200mm Thk. Slab (CIS Plinth),TS_CIS Slab,,General Floor Item
+Floors,Floor,TS_250mm Thk. Slab (PC),Floor,,,FLOOR : 250mm Thk. Precast Slab,Grade C40/50,TS_250mm Thk. Slab (PC),TS_PC Slab,,General Floor Item
+Floors,Floor,TS_100mm Thk. Concrete Topping + Finishes (FE-01),Floor,,,FLOOR : 100mm Thk. Concrete Topping,,TS_100mm Thk. Concrete Topping + Finishes (FE-01),TS_Top-up (FE-01),,General Floor Item
+Floors,Floor,TS_100mm Thk. Concrete Topping + Finishes (FC-01),Floor,,,FLOOR : 100mm Thk. Concrete Topping,,TS_100mm Thk. Concrete Topping + Finishes (FC-01),TS_Top-up (FC-01),,General Floor Item
+Floors,Floor,TS_1300mm Thk. Slab (CIS Plinth),Floor,,,CIS Plinth,,TS_1300mm Thk. Slab (CIS Plinth),TS_CIS Slab,,General Floor Item
+Floors,Floor,TS_300x600x20mm Thk. Homogeneous Tile (FT-01),Floor,,,"HEAVY DUTY, NON-SLIP 300x600x9mm THK. HOMOGENEOUS TILES",,TS_300x600x20mm Thk. Homogeneous Tile (FT-01),TS_Tile Finish,,General Floor Item
 Floors,Floor,TS_300x600x9mm Thk. Homogeneous Floor Tiles,Floor,,,"FLOOR : Heavy Duty, Non-Slip 300x600x9mm Thk. Homogeneous Floor Tiles",FF,TS_300x600x9mm Thk. Homogeneous Floor Tiles,TS_Tile Finish,,Floor Finish
 Floors,Floor,TS_300x600x20mm Thk. Homogeneous Ramp Tile (FT-01),Floor,,,"FLOOR : HEAVY DUTY, NON-SLIP 300x600x9mm THK. HOMOGENEOUS TILES",,TS_300x600x20mm Thk. Homogeneous Ramp Tile (FT-01),<By Category>,,Ramp
 Floors,Floor,TS_5mm Thk. Finish (FC-01),Floor,,,,FF,TS_5mm Thk. Finish (FC-01),TS_Top-up (FC-01),,Floor Finish
-Floors,Floor,TS_150mm Thk. Slab (PC),Floor,,,FLOOR : 150mm Thk. Precast Slab,Grade C40/50,TS_150mm Thk. Slab (PC),TS_PC Slab,,General Floor item
+Floors,Floor,TS_150mm Thk. Slab (PC),Floor,,,FLOOR : 150mm Thk. Precast Slab,Grade C40/50,TS_150mm Thk. Slab (PC),TS_PC Slab,,General Floor Item
 Floors,Floor,TS_5mm Thk. Finish (FE-01),Floor,,,,FF,TS_5mm Thk. Finish (FE-01),TS_Top-up (FE-01),,Floor Finish
-Floors,Floor,TS_330mm Thk. Slab (CIS),Floor,,,FLOOR : 400mm Thk. Cast In Situ Slab,Grade C40/50,TS_330mm Thk. Slab (CIS),TS_CIS Slab,,General Floor item
+Floors,Floor,TS_330mm Thk. Slab (CIS),Floor,,,FLOOR : 400mm Thk. Cast In Situ Slab,Grade C40/50,TS_330mm Thk. Slab (CIS),TS_CIS Slab,,General Floor Item
 Floors,Floor,TS_40mm Thk. Concrete Topping,Floor,,,,FF,TS_40mm Thk. Concrete Topping,TS_(Top Up),,Floor Finish
-Floors,Floor,TS_100mm Thk. Slab (CIS Plinth),Floor,,,FLOOR : 100mm Thk. Concrete Plinth,Grade C40/50,TS_100mm Thk. Slab (CIS Plinth),TS_CIS Slab,,General Floor item
-Floors,Floor,TS_RC Stump (PV Panel),Floor,,,STUMP,Grade C40/50,TS_RC Stump (PV Panel),TS_Stump,,General Floor item
-Floors,Floor,TS_80mm Thk. Concrete Topping,Floor,,,,,TS_80mm Thk. Concrete Topping,TS_HCS (Top Up),,General Floor item
-Floors,Floor,TS_150mm Thk. Cement and sand screed w/ 125mm Waterproofing,Floor,,,FLOOR : 100mm Thk. Cement and sand screed,,TS_150mm Thk. Cement and sand screed w/ 125mm Waterproofing,TS_Waterproofing,,General Floor item
+Floors,Floor,TS_100mm Thk. Slab (CIS Plinth),Floor,,,FLOOR : 100mm Thk. Concrete Plinth,Grade C40/50,TS_100mm Thk. Slab (CIS Plinth),TS_CIS Slab,,General Floor Item
+Floors,Floor,TS_RC Stump (PV Panel),Floor,,,STUMP,Grade C40/50,TS_RC Stump (PV Panel),TS_Stump,,General Floor Item
+Floors,Floor,TS_80mm Thk. Concrete Topping,Floor,,,,,TS_80mm Thk. Concrete Topping,TS_HCS (Top Up),,General Floor Item
+Floors,Floor,TS_150mm Thk. Cement and sand screed w/ 125mm Waterproofing,Floor,,,FLOOR : 100mm Thk. Cement and sand screed,,TS_150mm Thk. Cement and sand screed w/ 125mm Waterproofing,TS_Waterproofing,,General Floor Item
 Floors,Floor,TS_70mm Thk. Cement and Sand Screed,Floor,,,,FF,TS_70mm Thk. Cement and Sand Screed,TS_Cement and sand screed,,Floor Finish
-Floors,Floor,TS_205mm Thk. Cement and sand screed,Floor,,,FLOOR : 100mm Thk. Cement and sand screed,,TS_205mm Thk. Cement and sand screed,TS_Cement and sand screed,,General Floor item
-Floors,Floor,TS_155mm Thk. Slab (CIS),Floor,,,FLOOR : 210mm Thk. Cast In Situ Slab,Grade C40/50,TS_155mm Thk. Slab (CIS),TS_CIS Slab,,General Floor item
-Floors,Floor,TS_430mm Thk. Slab (RC Plinth),Floor,,,FLOOR : 100mm Thk. Concrete Plinth,Grade C40/50,TS_430mm Thk. Slab (RC Plinth),TS_CIS Slab,,General Floor item
-Floors,Floor,TS_200mm Thk. Slab (RC Plinth),Floor,,,FLOOR : 200mm Thk. RC Plinth Slab,,TS_200mm Thk. Slab (RC Plinth),TS_RC Plinth,,General Floor item
-Floors,Floor,TS_100mm Thk. Concrete Topping + Finishes (FE-01) Variable,Floor,,,FLOOR : 100mm Thk. Concrete Topping,,TS_100mm Thk. Concrete Topping + Finishes (FE-01) Variable,TS_Top-up (FE-01),,General Floor item
+Floors,Floor,TS_205mm Thk. Cement and sand screed,Floor,,,FLOOR : 100mm Thk. Cement and sand screed,,TS_205mm Thk. Cement and sand screed,TS_Cement and sand screed,,General Floor Item
+Floors,Floor,TS_155mm Thk. Slab (CIS),Floor,,,FLOOR : 210mm Thk. Cast In Situ Slab,Grade C40/50,TS_155mm Thk. Slab (CIS),TS_CIS Slab,,General Floor Item
+Floors,Floor,TS_430mm Thk. Slab (RC Plinth),Floor,,,FLOOR : 100mm Thk. Concrete Plinth,Grade C40/50,TS_430mm Thk. Slab (RC Plinth),TS_CIS Slab,,General Floor Item
+Floors,Floor,TS_200mm Thk. Slab (RC Plinth),Floor,,,FLOOR : 200mm Thk. RC Plinth Slab,,TS_200mm Thk. Slab (RC Plinth),TS_RC Plinth,,General Floor Item
+Floors,Floor,TS_100mm Thk. Concrete Topping + Finishes (FE-01) Variable,Floor,,,FLOOR : 100mm Thk. Concrete Topping,,TS_100mm Thk. Concrete Topping + Finishes (FE-01) Variable,TS_Top-up (FE-01),,General Floor Item
 Walls,Basic Wall,TS_150mm Thk. LW Concrete Wall (FRS 2hr),Basic Wall,,,WALL : 150mm Thk. Lightweight Precast Concrete Wall,,TS_150mm Thk. LW Concrete Wall (FRS 2hr),150mm THK LW PC PANEL WITH FRS(2HR),,Precast Concrete Wall
 Walls,Basic Wall,TS_150mm Thk. PC Non-Structural Wall (FRS 2hr),Basic Wall,,,WALL : 150mm Thk. Precast Wall with 2hr Fire Rating,,TS_150mm Thk. PC Non-Structural Wall (FRS 2hr),150mm THK PC WALL TO CONTRACTORS SPECIALIST DETAIL,,Precast Concrete Wall
 Walls,Basic Wall,TS_250mm Thk. PC Parapet Wall (PP1-2),Basic Wall,,,WALL : 250mm Thk. Precast Parapet Wall,(BS 3.2) Precast Concrete Wall with Skim Coat,TS_250mm Thk. PC Parapet Wall (PP1-2),250mm THK PC PARAPET WALL TO ENGR'S DETAIL,,Parapets Wall
@@ -361,10 +361,10 @@ Walls,Basic Wall,TS_PBU Ceiling,Basic Wall,,,WALL : 8mm Thk Fiber Cement Panel,C
 Walls,Basic Wall,TS_100mm Thk. RC Non-Structural Wall (CIS),Basic Wall,,,WALL : 150mm Thk. RC Wall,,TS_100mm Thk. RC Non-Structural Wall (CIS),Wall_Concrete,,Cast In-Situ RC Wall
 Walls,Basic Wall,TS_120mm Thk. PC Parapet Wall_Type C (with Slab),Basic Wall,,,WALL : 120mm Thk. Precast Parapet Wall with Coping (Type A),(BS 5.2) Cast In-Situ Reinforced Concrete Wall with Skim Coat,TS_120mm Thk. PC Parapet Wall_Type C (with Slab),TS_PC PARAPET WALL,,Parapets Wall
 Walls,Basic Wall,TS_120mm Thk. PC Parapet Wall_Type C (with Coping),Basic Wall,,,WALL : 120mm Thk. Precast Parapet Wall with Coping (Type A),(BS 5.2) Cast In-Situ Reinforced Concrete Wall with Skim Coat,TS_120mm Thk. PC Parapet Wall_Type C (with Coping),TS_PC PARAPET WALL,,Parapets Wall
-Walls,Basic Wall,TS_200mm Thk. RC Kerb Wall,Basic Wall,,,WALL : 120mm Thk. RC Kerb Wall,,TS_200mm Thk. RC Kerb Wall,TS_RC Wall,,General Wall item
+Walls,Basic Wall,TS_200mm Thk. RC Kerb Wall,Basic Wall,,,WALL : 120mm Thk. RC Kerb Wall,,TS_200mm Thk. RC Kerb Wall,TS_RC Wall,,General Wall Item
 Walls,Basic Wall,TS_180mm Thk. RC Non-Structural Wall (CIS),Basic Wall,,,WALL : 150mm Thk. RC Wall,,TS_180mm Thk. RC Non-Structural Wall (CIS),150mm THK RC (CIS) WALL TO ENGR'S DETAIL,,Cast In-Situ RC Wall
 Walls,Basic Wall,TS_15mm Ceiling (CP-01),Basic Wall,,,WALL : 15mm Thk. Ceiling Box-up,,TS_15mm Ceiling (CP-01),TS_CP-01A,,General Ceiling Item
-Walls,Basic Wall,TS_15mm Thk. Homogenous Tile,Basic Wall,,,WALL : 15mm Thk. Homogeneous Wall Tiles,,TS_15mm Thk. Homogenous Tile,TS_Homogenous Tile (300X600),,General Wall item
+Walls,Basic Wall,TS_15mm Thk. Homogenous Tile,Basic Wall,,,WALL : 15mm Thk. Homogeneous Wall Tiles,,TS_15mm Thk. Homogenous Tile,TS_Homogenous Tile (300X600),,General Wall Item
 Walls,Basic Wall,TS_120mm Thk. PC Parapet Wall_Type C (w/o Slab),Basic Wall,,,WALL : 120mm Thk. Precast Parapet Wall with Coping (Type A),(BS 5.2) Cast In-Situ Reinforced Concrete Wall with Skim Coat,TS_120mm Thk. PC Parapet Wall_Type C (w/o Slab),TS_PC PARAPET WALL,,Parapets Wall
 Walls,Basic Wall,TS_12mm Thk. Ductile Concrete Wall (With Profile),Basic Wall,,,WALL : 12mm Thk. Ductile Concrete Wall with Profile,(BS 3.2) Precast Concrete Wall with Skim Coat,TS_12mm Thk. Ductile Concrete Wall (With Profile),TS_Dura Wall,,Precast Concrete Wall
 Walls,Basic Wall,TS_92mm Thk. RC Kerb Wall,Basic Wall,,,WALL : 92mm Thk. RC Kerb Wall,,TS_92mm Thk. RC Kerb Wall,TS_PBU RC Slab,,Precast Concrete Wall
@@ -795,7 +795,7 @@ Windows,WD-LW-1P-FP_2200W*1600H,2200W*1600H,WD-LW-1P-FP_2200W*1600H,,,,,2200W*16
 Windows,WD-GWDI-7P_SL_5380W*1625H,5380W*1625H,WD-GWDI-7P_SL_5380W*1625H,,,,,5380W*1625H,,Aluminum Euro-profile extrusion (RAL7012),General Window Item
 Windows,WD-GWDI-7P_SL_5380W*1625H,5380W*1625H,WD-GWDI-7P_SL_5380W*1625H,,,,,5380W*1625H,,Aluminum profile extrusion louvre (RAL7012),Adjustable Louvred Window
 Walls,Basic Wall,Exterior - generic wall,Basic Wall,,,,,Exterior - generic wall,"Concrete, Cast In Situ",,Cast In-Situ RC Wall
-Walls,Basic Wall,Exterior - generic wall 3,Basic Wall,,,,,Exterior - generic wall 3,Metal Stud Layer,,General Wall item
+Walls,Basic Wall,Exterior - generic wall 3,Basic Wall,,,,,Exterior - generic wall 3,Metal Stud Layer,,General Wall Item
 Walls,Curtain Wall,Wall-CLAD-TRIMO-100THK,FTV HL-HR-RAL,,,,Trimoterm Invisio,100_RAL_7016,,,Curtain Wall
 Walls,Curtain Wall,Wall-CLAD-TRIMO-100THK,FTV HL-HR-RAL,,,,Trimoterm Invisio,100_RAL_9006,,,Curtain Wall
 Walls,Curtain Wall,Wall-CLAD-TRIMO-100THK,Curtain Panel2,,,,,Curtain Panel,,,Curtain Wall
@@ -1481,115 +1481,115 @@ Columns,ANCHOR 223088,ANCHOR 223088,ANCHOR 223088,,,,,ANCHOR 223088,,<By Categor
 Columns,ANCHOR 223100,ANCHOR 223100,ANCHOR 223100,,,,,ANCHOR 223100,,<By Category>,Architectural Column
 Columns,ANCHOR 223113,ANCHOR 223113,ANCHOR 223113,,,,,ANCHOR 223113,,<By Category>,Architectural Column
 Columns,ANCHOR 223125,ANCHOR 223125,ANCHOR 223125,,,,,ANCHOR 223125,,<By Category>,Architectural Column
-Floors,SLAB,SLAB,SLAB,,,,,SLAB,<By Category>,PRECAST CEMENT,General Floor item
-Floors, ,, ,,,,,,<By Category>,<By Category>,General Floor item
-Floors,34332,34332,34332,,,,,34332,<By Category>,<By Category>,General Floor item
-Floors,SLAB 39765,SLAB 39765,SLAB 39765,,,,,SLAB 39765,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 47155,SLAB 47155,SLAB 47155,,,,,SLAB 47155,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 50999,SLAB 50999,SLAB 50999,,,,,SLAB 50999,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 55843,SLAB 55843,SLAB 55843,,,,,SLAB 55843,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 59117,SLAB 59117,SLAB 59117,,,,,SLAB 59117,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 63661,SLAB 63661,SLAB 63661,,,,,SLAB 63661,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 66935,SLAB 66935,SLAB 66935,,,,,SLAB 66935,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 71473,SLAB 71473,SLAB 71473,,,,,SLAB 71473,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 74742,SLAB 74742,SLAB 74742,,,,,SLAB 74742,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 79282,SLAB 79282,SLAB 79282,,,,,SLAB 79282,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 82550,SLAB 82550,SLAB 82550,,,,,SLAB 82550,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 87088,SLAB 87088,SLAB 87088,,,,,SLAB 87088,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 90360,SLAB 90360,SLAB 90360,,,,,SLAB 90360,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 94902,SLAB 94902,SLAB 94902,,,,,SLAB 94902,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 98173,SLAB 98173,SLAB 98173,,,,,SLAB 98173,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 102714,SLAB 102714,SLAB 102714,,,,,SLAB 102714,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 105986,SLAB 105986,SLAB 105986,,,,,SLAB 105986,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 110524,SLAB 110524,SLAB 110524,,,,,SLAB 110524,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 113792,SLAB 113792,SLAB 113792,,,,,SLAB 113792,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 118402,SLAB 118402,SLAB 118402,,,,,SLAB 118402,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 121681,SLAB 121681,SLAB 121681,,,,,SLAB 121681,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 125653,SLAB 125653,SLAB 125653,,,,,SLAB 125653,<By Category>,PRECAST CEMENT,General Floor item
-Floors,127555,127555,127555,,,,,127555,<By Category>,<By Category>,General Floor item
-Floors,127575,127575,127575,,,,,127575,<By Category>,<By Category>,General Floor item
-Floors,SLAB 131753,SLAB 131753,SLAB 131753,,,,,SLAB 131753,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 136634,SLAB 136634,SLAB 136634,,,,,SLAB 136634,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 136643,SLAB 136643,SLAB 136643,,,,,SLAB 136643,<By Category>,PRECAST CEMENT,General Floor item
-Floors,140419,140419,140419,,,,,140419,<By Category>,<By Category>,General Floor item
-Floors,140439,140439,140439,,,,,140439,<By Category>,<By Category>,General Floor item
-Floors,SLAB 143779,SLAB 143779,SLAB 143779,,,,,SLAB 143779,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 145640,SLAB 145640,SLAB 145640,,,,,SLAB 145640,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 147432,SLAB 147432,SLAB 147432,,,,,SLAB 147432,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 149221,SLAB 149221,SLAB 149221,,,,,SLAB 149221,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 151009,SLAB 151009,SLAB 151009,,,,,SLAB 151009,<By Category>,PRECAST CEMENT,General Floor item
-Floors,151249,151249,151249,,,,,151249,<By Category>,<By Category>,General Floor item
-Floors,151265,151265,151265,,,,,151265,<By Category>,<By Category>,General Floor item
-Floors,151280,151280,151280,,,,,151280,<By Category>,<By Category>,General Floor item
-Floors,151296,151296,151296,,,,,151296,<By Category>,<By Category>,General Floor item
-Floors,SLAB 154863,SLAB 154863,SLAB 154863,,,,,SLAB 154863,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 158213,SLAB 158213,SLAB 158213,,,,,SLAB 158213,<By Category>,PRECAST CEMENT,General Floor item
-Floors,158500,158500,158500,,,,,158500,<By Category>,<By Category>,General Floor item
-Floors,158516,158516,158516,,,,,158516,<By Category>,<By Category>,General Floor item
-Floors,158531,158531,158531,,,,,158531,<By Category>,<By Category>,General Floor item
-Floors,158547,158547,158547,,,,,158547,<By Category>,<By Category>,General Floor item
-Floors,158562,158562,158562,,,,,158562,<By Category>,<By Category>,General Floor item
-Floors,158578,158578,158578,,,,,158578,<By Category>,<By Category>,General Floor item
-Floors,SLAB 162385,SLAB 162385,SLAB 162385,,,,,SLAB 162385,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 165725,SLAB 165725,SLAB 165725,,,,,SLAB 165725,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 169063,SLAB 169063,SLAB 169063,,,,,SLAB 169063,<By Category>,PRECAST CEMENT,General Floor item
-Floors,169354,169354,169354,,,,,169354,<By Category>,<By Category>,General Floor item
-Floors,169370,169370,169370,,,,,169370,<By Category>,<By Category>,General Floor item
-Floors,SLAB 172681,SLAB 172681,SLAB 172681,,,,,SLAB 172681,<By Category>,PRECAST CEMENT,General Floor item
-Floors,172968,172968,172968,,,,,172968,<By Category>,<By Category>,General Floor item
-Floors,172984,172984,172984,,,,,172984,<By Category>,<By Category>,General Floor item
-Floors,SLAB 176303,SLAB 176303,SLAB 176303,,,,,SLAB 176303,<By Category>,PRECAST CEMENT,General Floor item
-Floors,176593,176593,176593,,,,,176593,<By Category>,<By Category>,General Floor item
-Floors,176609,176609,176609,,,,,176609,<By Category>,<By Category>,General Floor item
-Floors,SLAB 179920,SLAB 179920,SLAB 179920,,,,,SLAB 179920,<By Category>,PRECAST CEMENT,General Floor item
-Floors,180213,180213,180213,,,,,180213,<By Category>,<By Category>,General Floor item
-Floors,180229,180229,180229,,,,,180229,<By Category>,<By Category>,General Floor item
-Floors,SLAB 183552,SLAB 183552,SLAB 183552,,,,,SLAB 183552,<By Category>,PRECAST CEMENT,General Floor item
-Floors,184157,184157,184157,,,,,184157,<By Category>,<By Category>,General Floor item
-Floors,184173,184173,184173,,,,,184173,<By Category>,<By Category>,General Floor item
-Floors,SLAB 187527,SLAB 187527,SLAB 187527,,,,,SLAB 187527,<By Category>,PRECAST CEMENT,General Floor item
-Floors,188155,188155,188155,,,,,188155,<By Category>,<By Category>,General Floor item
-Floors,188171,188171,188171,,,,,188171,<By Category>,<By Category>,General Floor item
-Floors,SLAB 191503,SLAB 191503,SLAB 191503,,,,,SLAB 191503,<By Category>,PRECAST CEMENT,General Floor item
-Floors,192105,192105,192105,,,,,192105,<By Category>,<By Category>,General Floor item
-Floors,192121,192121,192121,,,,,192121,<By Category>,<By Category>,General Floor item
-Floors,SLAB 195453,SLAB 195453,SLAB 195453,,,,,SLAB 195453,<By Category>,PRECAST CEMENT,General Floor item
-Floors,196046,196046,196046,,,,,196046,<By Category>,<By Category>,General Floor item
-Floors,196062,196062,196062,,,,,196062,<By Category>,<By Category>,General Floor item
-Floors,SLAB 199394,SLAB 199394,SLAB 199394,,,,,SLAB 199394,<By Category>,PRECAST CEMENT,General Floor item
-Floors,199987,199987,199987,,,,,199987,<By Category>,<By Category>,General Floor item
-Floors,200003,200003,200003,,,,,200003,<By Category>,<By Category>,General Floor item
-Floors,SLAB 203339,SLAB 203339,SLAB 203339,,,,,SLAB 203339,<By Category>,PRECAST CEMENT,General Floor item
-Floors,203934,203934,203934,,,,,203934,<By Category>,<By Category>,General Floor item
-Floors,203950,203950,203950,,,,,203950,<By Category>,<By Category>,General Floor item
-Floors,SLAB 207282,SLAB 207282,SLAB 207282,,,,,SLAB 207282,<By Category>,PRECAST CEMENT,General Floor item
-Floors,207878,207878,207878,,,,,207878,<By Category>,<By Category>,General Floor item
-Floors,207894,207894,207894,,,,,207894,<By Category>,<By Category>,General Floor item
-Floors,SLAB 211226,SLAB 211226,SLAB 211226,,,,,SLAB 211226,<By Category>,PRECAST CEMENT,General Floor item
-Floors,211823,211823,211823,,,,,211823,<By Category>,<By Category>,General Floor item
-Floors,211839,211839,211839,,,,,211839,<By Category>,<By Category>,General Floor item
-Floors,SLAB 215177,SLAB 215177,SLAB 215177,,,,,SLAB 215177,<By Category>,PRECAST CEMENT,General Floor item
-Floors,215778,215778,215778,,,,,215778,<By Category>,<By Category>,General Floor item
-Floors,215794,215794,215794,,,,,215794,<By Category>,<By Category>,General Floor item
-Floors,SLAB 219128,SLAB 219128,SLAB 219128,,,,,SLAB 219128,<By Category>,PRECAST CEMENT,General Floor item
-Floors,219726,219726,219726,,,,,219726,<By Category>,<By Category>,General Floor item
-Floors,219742,219742,219742,,,,,219742,<By Category>,<By Category>,General Floor item
-Floors,SLAB 223075,SLAB 223075,SLAB 223075,,,,,SLAB 223075,<By Category>,PRECAST CEMENT,General Floor item
-Floors,Floor,FL-CON-SSLB-200THK,Floor,,,,N.A.,FL-CON-SSLB-200THK,"Concrete, Sand/Cement Screed",Concrete - Cast In Situ,General Floor item
-Floors,Floor,IDA - Footpath - 200mm,Floor,,,,,IDA - Footpath - 200mm,<By Category>,<By Category>,General Floor item
-Floors,Floor,SITE-SFLS-200THK,Floor,,,,,SITE-SFLS-200THK,<By Category>,<By Category>,General Floor item
-Floors,Floor,SITE-RD-300THK,Floor,,,,N.A.,SITE-RD-300THK,<By Category>,Concrete - Cast In Situ,General Floor item
-Floors,Floor,SITE-SFLS-100THK,Floor,,,,,SITE-SFLS-100THK,<By Category>,<By Category>,General Floor item
-Floors,Floor,FL-CON-SSLB-150THK,Floor,,,,N.A.,FL-CON-SSLB-150THK,<By Category>,Concrete - Cast In Situ,General Floor item
-Floors,Floor,IDA - Drain Cover,Floor,,,,,IDA - Drain Cover,<By Category>,<By Category>,General Floor item
-Floors,Floor,FL-CON-SSLB-275THK,Floor,,,,N.A.,FL-CON-SSLB-275THK,"Concrete, Sand/Cement Screed",Concrete - Cast In Situ,General Floor item
-Floors,Floor,FL-CON-SSLB-300THK,Floor,,,,N.A.,FL-CON-SSLB-300THK,"Concrete, Sand/Cement Screed",Concrete - Cast In Situ,General Floor item
-Floors,Floor,FL-CON-SSLB-220THK,Floor,,,,N.A.,FL-CON-SSLB-220THK,"Concrete Masonry, Floor Block",Concrete - Cast In Situ,General Floor item
+Floors,SLAB,SLAB,SLAB,,,,,SLAB,<By Category>,PRECAST CEMENT,General Floor Item
+Floors, ,, ,,,,,,<By Category>,<By Category>,General Floor Item
+Floors,34332,34332,34332,,,,,34332,<By Category>,<By Category>,General Floor Item
+Floors,SLAB 39765,SLAB 39765,SLAB 39765,,,,,SLAB 39765,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 47155,SLAB 47155,SLAB 47155,,,,,SLAB 47155,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 50999,SLAB 50999,SLAB 50999,,,,,SLAB 50999,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 55843,SLAB 55843,SLAB 55843,,,,,SLAB 55843,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 59117,SLAB 59117,SLAB 59117,,,,,SLAB 59117,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 63661,SLAB 63661,SLAB 63661,,,,,SLAB 63661,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 66935,SLAB 66935,SLAB 66935,,,,,SLAB 66935,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 71473,SLAB 71473,SLAB 71473,,,,,SLAB 71473,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 74742,SLAB 74742,SLAB 74742,,,,,SLAB 74742,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 79282,SLAB 79282,SLAB 79282,,,,,SLAB 79282,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 82550,SLAB 82550,SLAB 82550,,,,,SLAB 82550,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 87088,SLAB 87088,SLAB 87088,,,,,SLAB 87088,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 90360,SLAB 90360,SLAB 90360,,,,,SLAB 90360,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 94902,SLAB 94902,SLAB 94902,,,,,SLAB 94902,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 98173,SLAB 98173,SLAB 98173,,,,,SLAB 98173,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 102714,SLAB 102714,SLAB 102714,,,,,SLAB 102714,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 105986,SLAB 105986,SLAB 105986,,,,,SLAB 105986,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 110524,SLAB 110524,SLAB 110524,,,,,SLAB 110524,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 113792,SLAB 113792,SLAB 113792,,,,,SLAB 113792,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 118402,SLAB 118402,SLAB 118402,,,,,SLAB 118402,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 121681,SLAB 121681,SLAB 121681,,,,,SLAB 121681,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 125653,SLAB 125653,SLAB 125653,,,,,SLAB 125653,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,127555,127555,127555,,,,,127555,<By Category>,<By Category>,General Floor Item
+Floors,127575,127575,127575,,,,,127575,<By Category>,<By Category>,General Floor Item
+Floors,SLAB 131753,SLAB 131753,SLAB 131753,,,,,SLAB 131753,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 136634,SLAB 136634,SLAB 136634,,,,,SLAB 136634,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 136643,SLAB 136643,SLAB 136643,,,,,SLAB 136643,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,140419,140419,140419,,,,,140419,<By Category>,<By Category>,General Floor Item
+Floors,140439,140439,140439,,,,,140439,<By Category>,<By Category>,General Floor Item
+Floors,SLAB 143779,SLAB 143779,SLAB 143779,,,,,SLAB 143779,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 145640,SLAB 145640,SLAB 145640,,,,,SLAB 145640,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 147432,SLAB 147432,SLAB 147432,,,,,SLAB 147432,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 149221,SLAB 149221,SLAB 149221,,,,,SLAB 149221,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 151009,SLAB 151009,SLAB 151009,,,,,SLAB 151009,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,151249,151249,151249,,,,,151249,<By Category>,<By Category>,General Floor Item
+Floors,151265,151265,151265,,,,,151265,<By Category>,<By Category>,General Floor Item
+Floors,151280,151280,151280,,,,,151280,<By Category>,<By Category>,General Floor Item
+Floors,151296,151296,151296,,,,,151296,<By Category>,<By Category>,General Floor Item
+Floors,SLAB 154863,SLAB 154863,SLAB 154863,,,,,SLAB 154863,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 158213,SLAB 158213,SLAB 158213,,,,,SLAB 158213,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,158500,158500,158500,,,,,158500,<By Category>,<By Category>,General Floor Item
+Floors,158516,158516,158516,,,,,158516,<By Category>,<By Category>,General Floor Item
+Floors,158531,158531,158531,,,,,158531,<By Category>,<By Category>,General Floor Item
+Floors,158547,158547,158547,,,,,158547,<By Category>,<By Category>,General Floor Item
+Floors,158562,158562,158562,,,,,158562,<By Category>,<By Category>,General Floor Item
+Floors,158578,158578,158578,,,,,158578,<By Category>,<By Category>,General Floor Item
+Floors,SLAB 162385,SLAB 162385,SLAB 162385,,,,,SLAB 162385,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 165725,SLAB 165725,SLAB 165725,,,,,SLAB 165725,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 169063,SLAB 169063,SLAB 169063,,,,,SLAB 169063,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,169354,169354,169354,,,,,169354,<By Category>,<By Category>,General Floor Item
+Floors,169370,169370,169370,,,,,169370,<By Category>,<By Category>,General Floor Item
+Floors,SLAB 172681,SLAB 172681,SLAB 172681,,,,,SLAB 172681,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,172968,172968,172968,,,,,172968,<By Category>,<By Category>,General Floor Item
+Floors,172984,172984,172984,,,,,172984,<By Category>,<By Category>,General Floor Item
+Floors,SLAB 176303,SLAB 176303,SLAB 176303,,,,,SLAB 176303,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,176593,176593,176593,,,,,176593,<By Category>,<By Category>,General Floor Item
+Floors,176609,176609,176609,,,,,176609,<By Category>,<By Category>,General Floor Item
+Floors,SLAB 179920,SLAB 179920,SLAB 179920,,,,,SLAB 179920,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,180213,180213,180213,,,,,180213,<By Category>,<By Category>,General Floor Item
+Floors,180229,180229,180229,,,,,180229,<By Category>,<By Category>,General Floor Item
+Floors,SLAB 183552,SLAB 183552,SLAB 183552,,,,,SLAB 183552,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,184157,184157,184157,,,,,184157,<By Category>,<By Category>,General Floor Item
+Floors,184173,184173,184173,,,,,184173,<By Category>,<By Category>,General Floor Item
+Floors,SLAB 187527,SLAB 187527,SLAB 187527,,,,,SLAB 187527,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,188155,188155,188155,,,,,188155,<By Category>,<By Category>,General Floor Item
+Floors,188171,188171,188171,,,,,188171,<By Category>,<By Category>,General Floor Item
+Floors,SLAB 191503,SLAB 191503,SLAB 191503,,,,,SLAB 191503,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,192105,192105,192105,,,,,192105,<By Category>,<By Category>,General Floor Item
+Floors,192121,192121,192121,,,,,192121,<By Category>,<By Category>,General Floor Item
+Floors,SLAB 195453,SLAB 195453,SLAB 195453,,,,,SLAB 195453,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,196046,196046,196046,,,,,196046,<By Category>,<By Category>,General Floor Item
+Floors,196062,196062,196062,,,,,196062,<By Category>,<By Category>,General Floor Item
+Floors,SLAB 199394,SLAB 199394,SLAB 199394,,,,,SLAB 199394,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,199987,199987,199987,,,,,199987,<By Category>,<By Category>,General Floor Item
+Floors,200003,200003,200003,,,,,200003,<By Category>,<By Category>,General Floor Item
+Floors,SLAB 203339,SLAB 203339,SLAB 203339,,,,,SLAB 203339,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,203934,203934,203934,,,,,203934,<By Category>,<By Category>,General Floor Item
+Floors,203950,203950,203950,,,,,203950,<By Category>,<By Category>,General Floor Item
+Floors,SLAB 207282,SLAB 207282,SLAB 207282,,,,,SLAB 207282,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,207878,207878,207878,,,,,207878,<By Category>,<By Category>,General Floor Item
+Floors,207894,207894,207894,,,,,207894,<By Category>,<By Category>,General Floor Item
+Floors,SLAB 211226,SLAB 211226,SLAB 211226,,,,,SLAB 211226,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,211823,211823,211823,,,,,211823,<By Category>,<By Category>,General Floor Item
+Floors,211839,211839,211839,,,,,211839,<By Category>,<By Category>,General Floor Item
+Floors,SLAB 215177,SLAB 215177,SLAB 215177,,,,,SLAB 215177,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,215778,215778,215778,,,,,215778,<By Category>,<By Category>,General Floor Item
+Floors,215794,215794,215794,,,,,215794,<By Category>,<By Category>,General Floor Item
+Floors,SLAB 219128,SLAB 219128,SLAB 219128,,,,,SLAB 219128,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,219726,219726,219726,,,,,219726,<By Category>,<By Category>,General Floor Item
+Floors,219742,219742,219742,,,,,219742,<By Category>,<By Category>,General Floor Item
+Floors,SLAB 223075,SLAB 223075,SLAB 223075,,,,,SLAB 223075,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,Floor,FL-CON-SSLB-200THK,Floor,,,,N.A.,FL-CON-SSLB-200THK,"Concrete, Sand/Cement Screed",Concrete - Cast In Situ,General Floor Item
+Floors,Floor,IDA - Footpath - 200mm,Floor,,,,,IDA - Footpath - 200mm,<By Category>,<By Category>,General Floor Item
+Floors,Floor,SITE-SFLS-200THK,Floor,,,,,SITE-SFLS-200THK,<By Category>,<By Category>,General Floor Item
+Floors,Floor,SITE-RD-300THK,Floor,,,,N.A.,SITE-RD-300THK,<By Category>,Concrete - Cast In Situ,General Floor Item
+Floors,Floor,SITE-SFLS-100THK,Floor,,,,,SITE-SFLS-100THK,<By Category>,<By Category>,General Floor Item
+Floors,Floor,FL-CON-SSLB-150THK,Floor,,,,N.A.,FL-CON-SSLB-150THK,<By Category>,Concrete - Cast In Situ,General Floor Item
+Floors,Floor,IDA - Drain Cover,Floor,,,,,IDA - Drain Cover,<By Category>,<By Category>,General Floor Item
+Floors,Floor,FL-CON-SSLB-275THK,Floor,,,,N.A.,FL-CON-SSLB-275THK,"Concrete, Sand/Cement Screed",Concrete - Cast In Situ,General Floor Item
+Floors,Floor,FL-CON-SSLB-300THK,Floor,,,,N.A.,FL-CON-SSLB-300THK,"Concrete, Sand/Cement Screed",Concrete - Cast In Situ,General Floor Item
+Floors,Floor,FL-CON-SSLB-220THK,Floor,,,,N.A.,FL-CON-SSLB-220THK,"Concrete Masonry, Floor Block",Concrete - Cast In Situ,General Floor Item
 Walls,Basic Wall,WALL-LWCP-200THK_SC_EXT4HR,Basic Wall,,,IDA - LCP - Skim Coat - Ext - 250mm,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-200THK_SC_EXT4HR,IDA - LCP - SkimCoat - Int,,Lightweight Concrete Panel
 Walls,Basic Wall,WALL-LWCP-200THK_SC_EXT2HR,Basic Wall,,,IDA - LCP - Skim Coat - Int - 100mm,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-200THK_SC_EXT2HR,IDA - LCP - SkimCoat - Int,,Lightweight Concrete Panel
 Walls,Basic Wall,WALL-LWCP-150THK_SC_EXT,Basic Wall,,,IDA - LCP - Skim Coat - Ext - 150mm,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-150THK_SC_EXT,IDA - LCP - SkimCoat - Ext,,Lightweight Concrete Panel
 Walls,Basic Wall,SITE-RW-150THK,Basic Wall,,,IDA - Drain,RETAINING WALL,SITE-RW-150THK,IDA - Concrete - Cast-in-Place,,Cast In-Situ RC Wall
-Walls,Basic Wall,IDA - AAC - Plaster - Ext - 100mm,Basic Wall,,,IDA - AAC - Plaster - Ext - 100mm,,IDA - AAC - Plaster - Ext - 100mm,IDA - AAC - Plaster - Ext,,General Wall item
+Walls,Basic Wall,IDA - AAC - Plaster - Ext - 100mm,Basic Wall,,,IDA - AAC - Plaster - Ext - 100mm,,IDA - AAC - Plaster - Ext - 100mm,IDA - AAC - Plaster - Ext,,General Wall Item
 Walls,Basic Wall,WALL-LWCP-150THK_PL_EXT,Basic Wall,,,IDA - LCP - Plaster - Ext - 150mm,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-150THK_PL_EXT,IDA - LCP - Plaster - Ext,,Lightweight Concrete Panel
 Walls,Basic Wall,WALL-LWCP-150THK_PL_EXT2HR,Basic Wall,,,IDA - LCP - Plaster - Ext - 150mm,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-150THK_PL_EXT2HR,IDA - LCP - Plaster - Ext,,Lightweight Concrete Panel
 Walls,Basic Wall,WALL-LWCP-200THK_PL_EXT,Basic Wall,,,IDA - LCP - Skim Coat - Ext - 200mm,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-200THK_PL_EXT,IDA - LCP - Plaster - Ext,,Lightweight Concrete Panel
@@ -1598,8 +1598,8 @@ Walls,Curtain Wall,IDA - CW - Ext - Perforated Panel,Curtain Wall,,,IDA - CW - S
 Walls,Curtain Wall,IDA - CW - Ext - Trimo,Rectangular Mullion,,,,,IDA - Trimo - Top - Right,,<By Category>,Curtain Wall
 Walls,Curtain Wall,IDA - CW - Ext - Trimo,Curtain Wall,,,IDA - CW - Single - Clear,,IDA - CW - Ext - Trimo,<By Category>,,Curtain Wall
 Walls,Curtain Wall,IDA - CW - Ext - Trimo,System Panel,,,,,Trimo Panel with Light Silver,,Gray - Light,Curtain Wall
-Walls,Feature Wall2,Feature Wall,Feature Wall2,,,,,Feature Wall,<By Category>,,General Wall item
-Walls,Feature Wall3,Feature Wall,Feature Wall3,,,,,Feature Wall,<By Category>,,General Wall item
+Walls,Feature Wall2,Feature Wall,Feature Wall2,,,,,Feature Wall,<By Category>,,General Wall Item
+Walls,Feature Wall3,Feature Wall,Feature Wall3,,,,,Feature Wall,<By Category>,,General Wall Item
 Doors,DR-GDI-TMB-VP_1100W*2200H,1100L X 2200H - MD6,DR-GDI-TMB-VP_1100W*2200H,C1020,Interior Doors,METAL FRAME METAL DOOR W/VISION PANEL IN PAINT FINISH,VISION PANEL TO COMPLY LATEST FIRE CODE,1100L X 2200H - MD6,,,"General Door Item (including Gate, Roller Shutter)"
 Doors,DR-GDI-LOUV_MD4,1000L X 2200H - MD4,DR-GDI-LOUV_MD4,C1020,Interior Doors,METAL FRAME METAL DOOR IN SPRAY PAINT FINISH,,1000L X 2200H - MD4,,,"General Door Item (including Gate, Roller Shutter)"
 Doors,DR-GDI-2P_SW_FR,DR-GDI-2P_SW_2000L*2200H_FMD3-2HR,DR-GDI-2P_SW_FR,C1020,Interior Doors,METAL FRAME METAL DOOR IN SPRAY PAINT FINISH,,DR-GDI-2P_SW_2000L*2200H_FMD3-2HR,,,"General Door Item (including Gate, Roller Shutter)"
@@ -1607,22 +1607,22 @@ Doors,DR-GDI-1P_SW_MD2,DR-GDI-1P_SW_1100W*2200H_FMD2-2HR,DR-GDI-1P_SW_MD2,C1020,
 Doors,DR-GDI-1P_SW_MD2,DR-GDI-1P_SW_1100W*2200H_MD2,DR-GDI-1P_SW_MD2,C1020,Interior Doors,METAL FRAME METAL DOOR IN SPRAY PAINT FINISH,,DR-GDI-1P_SW_1100W*2200H_MD2,,,"General Door Item (including Gate, Roller Shutter)"
 Doors,DR-GDI-LOUV_MD3,DR-GDI_LOUV_ 2000W*2200H_MD3,DR-GDI-LOUV_MD3,C1020,Interior Doors,METAL FRAME METAL DOOR IN SPRAY PAINT FINISH,,DR-GDI_LOUV_ 2000W*2200H_MD3,,,"General Door Item (including Gate, Roller Shutter)"
 Doors,DR-GDI-TMB-VP_1100W*2200H_FR,1100L X 2200H - FMD1 - 2HR,DR-GDI-TMB-VP_1100W*2200H_FR,C1020,Interior Doors,METAL FRAME METAL DOOR IN SPRAY PAINT FINISH,VISION PANEL TO COMPLY LATEST FIRE CODE,1100L X 2200H - FMD1 - 2HR,,,"General Door Item (including Gate, Roller Shutter)"
-Floors,Floor,SITE-LW-150THK,Floor,,,,,SITE-LW-150THK,<By Category>,<By Category>,General Floor item
+Floors,Floor,SITE-LW-150THK,Floor,,,,,SITE-LW-150THK,<By Category>,<By Category>,General Floor Item
 Walls,Basic Wall,WALL-LWCP-125THK_PL_EXT2HR,Basic Wall,,,IDA - LCP - Plaster - Ext - 150mm,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-125THK_PL_EXT2HR,IDA - LCP - Plaster - Ext,,Lightweight Concrete Panel
 Walls,Basic Wall,WALL-LWCP-100THK_SC_INT2HR,Basic Wall,,,IDA - LCP - Skim Coat - Int - 100mm,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-100THK_SC_INT2HR,IDA - LCP - SkimCoat - Int,,Lightweight Concrete Panel
 Walls,Basic Wall,WALL-LWCP-100THK_PL_EXT,Basic Wall,,,IDA - LCP - Plaster - Ext - 150mm,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-100THK_PL_EXT,IDA - LCP - Plaster - Ext,,Lightweight Concrete Panel
 Walls,Basic Wall,WALL-LWCP-125THK_SC_EXT,Basic Wall,,,IDA - LCP - Skim Coat - Ext - 150mm,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-125THK_SC_EXT,IDA - LCP - SkimCoat - Ext,,Lightweight Concrete Panel
-Walls,Basic Wall,WALL-CIW-100THK_SC_EXTRAMP,Basic Wall,,,IDA - RC - Skim Coat - Ext - 100mm,,WALL-CIW-100THK_SC_EXTRAMP,IDA - RC - SkimCoat - Ext,,General Wall item
-Walls,Basic Wall,Generic - 100mm,Basic Wall,,,,,Generic - 100mm,<By Category>,,General Wall item
-Walls,Basic Wall,WALL-CIW-200THK_SC_EXTRAMP,Basic Wall,,,IDA - RC - Skim Coat - Ext - 100mm,,WALL-CIW-200THK_SC_EXTRAMP,IDA - RC - SkimCoat - Ext,,General Wall item
-Walls,Basic Wall,Fence Wall - 100mm,Basic Wall,,,,,Fence Wall - 100mm,<By Category>,,General Wall item
+Walls,Basic Wall,WALL-CIW-100THK_SC_EXTRAMP,Basic Wall,,,IDA - RC - Skim Coat - Ext - 100mm,,WALL-CIW-100THK_SC_EXTRAMP,IDA - RC - SkimCoat - Ext,,General Wall Item
+Walls,Basic Wall,Generic - 100mm,Basic Wall,,,,,Generic - 100mm,<By Category>,,General Wall Item
+Walls,Basic Wall,WALL-CIW-200THK_SC_EXTRAMP,Basic Wall,,,IDA - RC - Skim Coat - Ext - 100mm,,WALL-CIW-200THK_SC_EXTRAMP,IDA - RC - SkimCoat - Ext,,General Wall Item
+Walls,Basic Wall,Fence Wall - 100mm,Basic Wall,,,,,Fence Wall - 100mm,<By Category>,,General Wall Item
 Walls,Basic Wall,WALL-LWCP-125THK_PL_EXT,Basic Wall,,,IDA - LCP - Plaster - Ext - 150mm,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-125THK_PL_EXT,IDA - LCP - Plaster - Ext,,Lightweight Concrete Panel
 Walls,Basic Wall,WALL-PCW-230THK_PL_EXT2HR,Basic Wall,,,IDA - PC - Plaster - Ext - 230mm,PRECAST CONCRETE WALL,WALL-PCW-230THK_PL_EXT2HR,IDA - PC - Plaster - Ext,,Precast Concrete Wall
 Walls,Basic Wall,WALL-PCW-230THK_SC_INT2HR,Basic Wall,,,IDA - PC - Skim Coat - Int - 100mm,PRECAST CONCRETE WALL,WALL-PCW-230THK_SC_INT2HR,IDA - PC - SkimCoat - Int,,Precast Concrete Wall
 Walls,Basic Wall,WALL-CIW-150THK_SC_INT,Basic Wall,,,IDA -RC - Skim Coat - Int - 150mm,CAST-IN-SITU RC WALL,WALL-CIW-150THK_SC_INT,<By Category>,,Cast In-Situ RC Wall
 Walls,Basic Wall,WALL-LWCP-100THK_SC_INT,Basic Wall,,,IDA - LCP - Skim Coat - Int - 100mm,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-100THK_SC_INT,IDA - LCP - SkimCoat - Int,,Lightweight Concrete Panel
 Walls,Basic Wall,WALL-LWCP-100THK_SC_EXTUnderside,Basic Wall,,,IDA - LCP - Skim Coat - Ext - 100mm,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-100THK_SC_EXTUnderside,IDA - LCP - SkimCoat - Ext,,Lightweight Concrete Panel
-Walls,Basic Wall,Rollershutter Support 235THK,Basic Wall,,,,,Rollershutter Support 235THK,IDA - LCP - SkimCoat - Ext,,General Wall item
+Walls,Basic Wall,Rollershutter Support 235THK,Basic Wall,,,,,Rollershutter Support 235THK,IDA - LCP - SkimCoat - Ext,,General Wall Item
 Walls,Curtain Wall,IDA - CW - Ext - Perforated Panel,IDA - CurtainPanel,,,,,Perforated Panel,,,Curtain Wall
 Walls,Curtain Wall,IDA - CW - Ext - Perforated Panel,Rectangular Mullion,,,,,IDA - Rect - Bottom - Left,,"Metal - Stainless Steel,Polished",Curtain Wall
 Walls,Curtain Wall,IDA - CW - Ext - Perforated Panel,Rectangular Mullion,,,,,IDA - Rect - Center,,"Metal - Stainless Steel,Polished",Curtain Wall
@@ -1643,9 +1643,9 @@ Doors,DR-RS-SL-2900W*3500H,FRS120-07_R*Motor,DR-RS-SL-2900W*3500H,,,MOTORISED FI
 Doors,DR-RS-SL-2900W*3500H,FRS120-07_L*Motor,DR-RS-SL-2900W*3500H,,,MOTORISED FIRE RATED STEEL ROLLER SHUTTERS [2 HRS FIRE RATING INTEGRITY],,FRS120-07_L*Motor,,,"General Door Item (including Gate, Roller Shutter)"
 Doors,DR-GDI-LOUV_MD3,1200L X 2100H - AD3,DR-GDI-LOUV_MD3,C1020,Interior Doors,HEAVY DUTY ALUMINIUM FRAME ALUMINIUM LOUVRE DOOR IN POWDER COATED FINISH,TO COMPLY WITH SPPG STANDARD,1200L X 2100H - AD3,,,"General Door Item (including Gate, Roller Shutter)"
 Doors,IDA - F - Double - Swing - LL - 8 Louver Panels,1900L X 2900H - AD2,IDA - F - Double - Swing - LL - 8 Louver Panels,C1020,Interior Doors,HEAVY DUTY ALUMINIUM FRAME ALUMINIUM LOUVRE DOOR IN POWDER COATED FINISH,TO COMPLY WITH SPPG STANDARD,1900L X 2900H - AD2,,,"General Door Item (including Gate, Roller Shutter)"
-Roofs,,,Unit 2 Linkway Roof Wall,,,,,,,,General Roof item
-Roofs,,,Unit1 Linkway Roof Wall,,,,,,,,General Roof item
-Roofs,,,Unit 2 Linkway Roof Wall 1,,,,,,,,General Roof item
+Roofs,,,Unit 2 Linkway Roof Wall,,,,,,,,General Roof Item
+Roofs,,,Unit1 Linkway Roof Wall,,,,,,,,General Roof Item
+Roofs,,,Unit 2 Linkway Roof Wall 1,,,,,,,,General Roof Item
 Windows,IDA - Louver - 1 Panel,1200L X 400H - AW11,IDA - Louver - 1 Panel,,,,2850MM SILL HEIGHT FROM 1ST STOREY FFL,1200L X 400H - AW11,,<By Category>,Adjustable Louvred Window
 Windows,IDA - Louver - 1 Panel,1200L X 1000H - AW7,IDA - Louver - 1 Panel,,,,4020 SILL HEIGHT FROM 1ST STOREY FFL,1200L X 1000H - AW7,,<By Category>,Adjustable Louvred Window
 Windows,IDA - Louver - 1 Panel,2560L X 2360H - AW10,IDA - Louver - 1 Panel,,,,,2560L X 2360H - AW10,,<By Category>,Adjustable Louvred Window
@@ -1657,15 +1657,15 @@ Windows,IDA_Glass Block,1800 x 600,IDA_Glass Block,,,,NOT FOR BS,1800 x 600,,<By
 Windows,IDA_Vent Block,800x800,IDA_Vent Block,,,,NOT FOR BS,800x800,,<By Category>,General Window Item
 Windows,IDA_Vent Block,1200x1200,IDA_Vent Block,,,,NOT FOR BS,1200x1200,,<By Category>,General Window Item
 Windows,IDA_Vent Block,1600x800 - SVB01,IDA_Vent Block,,,,NOT FOR BS,1600x800 - SVB01,,<By Category>,General Window Item
-Floors,Floor,FL-CON-FF-220THK,Floor,,,,N.A.,FL-CON-FF-220THK,"Concrete Masonry, Floor Block",Concrete - Cast In Situ,General Floor item
-Floors,Floor,FL-CON-FF-250THK,Floor,,,,N.A.,FL-CON-FF-250THK,IDA - Toilet Tile - 600W x 600L,Concrete - Cast In Situ,General Floor item
-Floors,Floor,IDA - Toilet Ledge - 50mm,Floor,,,,,IDA - Toilet Ledge - 50mm,<By Category>,<By Category>,General Floor item
-Floors,Floor,Floor Trench,Floor,,,,,Floor Trench,Floor Trench,<By Category>,General Floor item
+Floors,Floor,FL-CON-FF-220THK,Floor,,,,N.A.,FL-CON-FF-220THK,"Concrete Masonry, Floor Block",Concrete - Cast In Situ,General Floor Item
+Floors,Floor,FL-CON-FF-250THK,Floor,,,,N.A.,FL-CON-FF-250THK,IDA - Toilet Tile - 600W x 600L,Concrete - Cast In Situ,General Floor Item
+Floors,Floor,IDA - Toilet Ledge - 50mm,Floor,,,,,IDA - Toilet Ledge - 50mm,<By Category>,<By Category>,General Floor Item
+Floors,Floor,Floor Trench,Floor,,,,,Floor Trench,Floor Trench,<By Category>,General Floor Item
 Walls,Basic Wall,WALL-CIW-250THK_PL_INT2HR,Basic Wall,,,IDA - RC - Plaster - Int - 250mm,,WALL-CIW-250THK_PL_INT2HR,IDA - RC - SkimCoat - Int,,Structural Wall
 Walls,Basic Wall,WALL-LWCP-150THK_SC_INT2HR,Basic Wall,,,IDA - LCP - Skim Coat - Int - 100mm,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-150THK_SC_INT2HR,IDA - LCP - SkimCoat - Int,,Lightweight Concrete Panel
-Walls,Basic Wall,WALL-LWCP-50THK_PL_INT2SIDETILE,Basic Wall,,,IDA - LCP - Plaster - Int - Tile 2 Sides - 100mm,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-50THK_PL_INT2SIDETILE,IDA - LCP - Plaster - Int,,General Wall item
-Walls,Basic Wall,WALL-LWCP-100THK_PL_INT2SIDETILE,Basic Wall,,,IDA - LCP - Plaster - Int - Tile 2 Sides - 100mm,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-100THK_PL_INT2SIDETILE,IDA - LCP - Plaster - Int,,General Wall item
-Walls,Basic Wall,WALL-LWCP-100THK_PL_INT1SIDETILE,Basic Wall,,,IDA - LCP - Plaster - Int - Tile 2 Sides - 100mm,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-100THK_PL_INT1SIDETILE,IDA - LCP - Plaster - Int,,General Wall item
+Walls,Basic Wall,WALL-LWCP-50THK_PL_INT2SIDETILE,Basic Wall,,,IDA - LCP - Plaster - Int - Tile 2 Sides - 100mm,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-50THK_PL_INT2SIDETILE,IDA - LCP - Plaster - Int,,General Wall Item
+Walls,Basic Wall,WALL-LWCP-100THK_PL_INT2SIDETILE,Basic Wall,,,IDA - LCP - Plaster - Int - Tile 2 Sides - 100mm,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-100THK_PL_INT2SIDETILE,IDA - LCP - Plaster - Int,,General Wall Item
+Walls,Basic Wall,WALL-LWCP-100THK_PL_INT1SIDETILE,Basic Wall,,,IDA - LCP - Plaster - Int - Tile 2 Sides - 100mm,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-100THK_PL_INT1SIDETILE,IDA - LCP - Plaster - Int,,General Wall Item
 Walls,Curtain Wall,IDA - CW - Ext - Trimo,Rectangular Mullion,,,,,IDA - Trimo - Bottom - Left,,<By Category>,Curtain Wall
 Walls,Curtain Wall,IDA - CW - Ext - Trimo,Rectangular Mullion,,,,,IDA - Rect - Door Frame,,"Metal - Stainless Steel,Polished",Curtain Wall
 Doors,DR-GDI-TMB-SW_JANITOR,DR-GDI-TMB-SW_850W*2200H,DR-GDI-TMB-SW_JANITOR,C1020,Interior Doors,SINGLE LEAF HOLLOW TIMBER FLUSH DOOR WITH STEEL FRAME & LOUVER,,DR-GDI-TMB-SW_850W*2200H,,,"General Door Item (including Gate, Roller Shutter)"
@@ -1677,16 +1677,16 @@ Doors,DR-RS-SL-3500W*4000H,"L1-RS-01,02,03_R*Motor",DR-RS-SL-3500W*4000H,,,MOTOR
 Doors,DR-RS-SL-6500W*4000H,FRS120_R*Motor,DR-RS-SL-6500W*4000H,,,MOTORISED FIRE RATED STEEL ROLLER SHUTTERS [2 HRS FIRE RATING INTEGRITY],,FRS120_R*Motor,,,"General Door Item (including Gate, Roller Shutter)"
 Doors,DR-RS-SL-6500W*4000H,FRS120_L*Motor,DR-RS-SL-6500W*4000H,,,MOTORISED FIRE RATED STEEL ROLLER SHUTTERS [2 HRS FIRE RATING INTEGRITY],,FRS120_L*Motor,,,"General Door Item (including Gate, Roller Shutter)"
 Windows,IDA - Louver - 1 Panel,200L X 200H - AW12,IDA - Louver - 1 Panel,,,,2410MM SILL HEIGHT FROM GUARDHOUSE FFL,200L X 200H - AW12,,<By Category>,Adjustable Louvred Window
-Floors,Floor,FL-CON-RSFL-100THK,Floor,,,,N.A.,FL-CON-RSFL-100THK,"Concrete, Sand/Cement Screed",Concrete - Cast In Situ,General Floor item
-Walls,Basic Wall,Rollershutter Support 100THK,Basic Wall,,,,,Rollershutter Support 100THK,IDA - LCP - SkimCoat - Ext,,General Wall item
+Floors,Floor,FL-CON-RSFL-100THK,Floor,,,,N.A.,FL-CON-RSFL-100THK,"Concrete, Sand/Cement Screed",Concrete - Cast In Situ,General Floor Item
+Walls,Basic Wall,Rollershutter Support 100THK,Basic Wall,,,,,Rollershutter Support 100THK,IDA - LCP - SkimCoat - Ext,,General Wall Item
 Windows,IDA - Louver - 1 Panel1,400L X 600H - AW6,IDA - Louver - 1 Panel1,,,,TO COMPLY WITH SPPG REQUIREMENT,400L X 600H - AW6,,<By Category>,Adjustable Louvred Window
 Windows,IDA_Glass Block,1200 x 600,IDA_Glass Block,,,,NOT FOR BS,1200 x 600,,<By Category>,General Window Item
 Windows,IDA_Glass Block,400 x 600,IDA_Glass Block,,,,NOT FOR BS,400 x 600,,<By Category>,General Window Item
 Windows,IDA - PC Vent - Single Column,400L X 1200H,IDA - PC Vent - Single Column,,,,NOT FOR BS,400L X 1200H,,<By Category>,General Window Item
-Floors,Floor,Metal Platform,Floor,,,,,Metal Platform,Metal Deck,<By Category>,General Floor item
-Walls,Basic Wall,WALL-LWCP-100THK_PL_INT1SIDETILE TL,Basic Wall,,,,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-100THK_PL_INT1SIDETILE TL,IDA - LCP - Plaster - Int,,General Wall item
-Floors,Floor,SITE-LW-220THK,Floor,,,,,SITE-LW-220THK,"Concrete Masonry, Floor Block",<By Category>,General Floor item
-Floors,Floor,FL-CON-SSLB-100THK,Floor,,,,N.A.,FL-CON-SSLB-100THK,"Concrete, Sand/Cement Screed",Concrete - Cast In Situ,General Floor item
+Floors,Floor,Metal Platform,Floor,,,,,Metal Platform,Metal Deck,<By Category>,General Floor Item
+Walls,Basic Wall,WALL-LWCP-100THK_PL_INT1SIDETILE TL,Basic Wall,,,,LIGHTWEIGHT CONCRETE PANEL,WALL-LWCP-100THK_PL_INT1SIDETILE TL,IDA - LCP - Plaster - Int,,General Wall Item
+Floors,Floor,SITE-LW-220THK,Floor,,,,,SITE-LW-220THK,"Concrete Masonry, Floor Block",<By Category>,General Floor Item
+Floors,Floor,FL-CON-SSLB-100THK,Floor,,,,N.A.,FL-CON-SSLB-100THK,"Concrete, Sand/Cement Screed",Concrete - Cast In Situ,General Floor Item
 Walls,PANEL 1125,PANEL 1125,PANEL 1125,,,,,PANEL 1125,<By Category>,,Lightweight Concrete Panel
 Walls,PANEL 1200,PANEL 1200,PANEL 1200,,,,,PANEL 1200,<By Category>,,Lightweight Concrete Panel
 Walls,PANEL 31061,PANEL 31061,PANEL 31061,,,,,PANEL 31061,<By Category>,,Lightweight Concrete Panel
@@ -1911,113 +1911,113 @@ Walls,PANEL 101812,PANEL 101812,PANEL 101812,,,,,PANEL 101812,<By Category>,,Lig
 Walls,PANEL 101836,PANEL 101836,PANEL 101836,,,,,PANEL 101836,<By Category>,,Lightweight Concrete Panel
 Walls,PANEL 101863,PANEL 101863,PANEL 101863,,,,,PANEL 101863,<By Category>,,Lightweight Concrete Panel
 Walls,PANEL 101885,PANEL 101885,PANEL 101885,,,,,PANEL 101885,<By Category>,,Lightweight Concrete Panel
-Floors,30881,30881,30881,,,,,30881,<By Category>,<By Category>,General Floor item
-Floors,31270,31270,31270,,,,,31270,<By Category>,<By Category>,General Floor item
-Floors,31290,31290,31290,,,,,31290,<By Category>,<By Category>,General Floor item
-Floors,SLAB 41801,SLAB 41801,SLAB 41801,,,,,SLAB 41801,<By Category>,PRECAST CEMENT,General Floor item
-Floors,42441,42441,42441,,,,,42441,<By Category>,<By Category>,General Floor item
-Floors,42457,42457,42457,,,,,42457,<By Category>,<By Category>,General Floor item
-Floors,42734,42734,42734,,,,,42734,<By Category>,<By Category>,General Floor item
-Floors,42745,42745,42745,,,,,42745,<By Category>,<By Category>,General Floor item
-Floors,SLAB 46445,SLAB 46445,SLAB 46445,,,,,SLAB 46445,<By Category>,<By Category>,General Floor item
-Floors,46584,46584,46584,,,,,46584,<By Category>,<By Category>,General Floor item
-Floors,SLAB 49739,SLAB 49739,SLAB 49739,,,,,SLAB 49739,<By Category>,PRECAST CEMENT,General Floor item
-Floors,50275,50275,50275,,,,,50275,<By Category>,<By Category>,General Floor item
-Floors,50291,50291,50291,,,,,50291,<By Category>,<By Category>,General Floor item
-Floors,50562,50562,50562,,,,,50562,<By Category>,<By Category>,General Floor item
-Floors,50573,50573,50573,,,,,50573,<By Category>,<By Category>,General Floor item
-Floors,SLAB 54085,SLAB 54085,SLAB 54085,,,,,SLAB 54085,<By Category>,<By Category>,General Floor item
-Floors,54157,54157,54157,,,,,54157,<By Category>,<By Category>,General Floor item
-Floors,SLAB 56477,SLAB 56477,SLAB 56477,,,,,SLAB 56477,<By Category>,PRECAST CEMENT,General Floor item
-Floors,56876,56876,56876,,,,,56876,<By Category>,<By Category>,General Floor item
-Floors,59254,59254,59254,,,,,59254,<By Category>,<By Category>,General Floor item
-Floors,59271,59271,59271,,,,,59271,<By Category>,<By Category>,General Floor item
-Floors,59651,59651,59651,,,,,59651,<By Category>,<By Category>,General Floor item
-Floors,59668,59668,59668,,,,,59668,<By Category>,<By Category>,General Floor item
-Floors,60048,60048,60048,,,,,60048,<By Category>,<By Category>,General Floor item
-Floors,60065,60065,60065,,,,,60065,<By Category>,<By Category>,General Floor item
-Floors,60445,60445,60445,,,,,60445,<By Category>,<By Category>,General Floor item
-Floors,60462,60462,60462,,,,,60462,<By Category>,<By Category>,General Floor item
-Floors,60842,60842,60842,,,,,60842,<By Category>,<By Category>,General Floor item
-Floors,60859,60859,60859,,,,,60859,<By Category>,<By Category>,General Floor item
-Floors,61239,61239,61239,,,,,61239,<By Category>,<By Category>,General Floor item
-Floors,61256,61256,61256,,,,,61256,<By Category>,<By Category>,General Floor item
-Floors,61636,61636,61636,,,,,61636,<By Category>,<By Category>,General Floor item
-Floors,61653,61653,61653,,,,,61653,<By Category>,<By Category>,General Floor item
-Floors,62033,62033,62033,,,,,62033,<By Category>,<By Category>,General Floor item
-Floors,62050,62050,62050,,,,,62050,<By Category>,<By Category>,General Floor item
-Floors,SLAB 64911,SLAB 64911,SLAB 64911,,,,,SLAB 64911,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 68073,SLAB 68073,SLAB 68073,,,,,SLAB 68073,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 71438,SLAB 71438,SLAB 71438,,,,,SLAB 71438,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 74801,SLAB 74801,SLAB 74801,,,,,SLAB 74801,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 78163,SLAB 78163,SLAB 78163,,,,,SLAB 78163,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 81529,SLAB 81529,SLAB 81529,,,,,SLAB 81529,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 84889,SLAB 84889,SLAB 84889,,,,,SLAB 84889,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 88247,SLAB 88247,SLAB 88247,,,,,SLAB 88247,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 91611,SLAB 91611,SLAB 91611,,,,,SLAB 91611,<By Category>,PRECAST CEMENT,General Floor item
-Floors,92226,92226,92226,,,,,92226,<By Category>,<By Category>,General Floor item
-Floors,92245,92245,92245,,,,,92245,<By Category>,<By Category>,General Floor item
-Floors,92519,92519,92519,,,,,92519,<By Category>,<By Category>,General Floor item
-Floors,92530,92530,92530,,,,,92530,<By Category>,<By Category>,General Floor item
-Floors,92899,92899,92899,,,,,92899,<By Category>,<By Category>,General Floor item
-Floors,92915,92915,92915,,,,,92915,<By Category>,<By Category>,General Floor item
-Floors,93186,93186,93186,,,,,93186,<By Category>,<By Category>,General Floor item
-Floors,93197,93197,93197,,,,,93197,<By Category>,<By Category>,General Floor item
-Floors,93562,93562,93562,,,,,93562,<By Category>,<By Category>,General Floor item
-Floors,93578,93578,93578,,,,,93578,<By Category>,<By Category>,General Floor item
-Floors,93849,93849,93849,,,,,93849,<By Category>,<By Category>,General Floor item
-Floors,93860,93860,93860,,,,,93860,<By Category>,<By Category>,General Floor item
-Floors,94225,94225,94225,,,,,94225,<By Category>,<By Category>,General Floor item
-Floors,94241,94241,94241,,,,,94241,<By Category>,<By Category>,General Floor item
-Floors,94512,94512,94512,,,,,94512,<By Category>,<By Category>,General Floor item
-Floors,94523,94523,94523,,,,,94523,<By Category>,<By Category>,General Floor item
-Floors,94888,94888,94888,,,,,94888,<By Category>,<By Category>,General Floor item
-Floors,94904,94904,94904,,,,,94904,<By Category>,<By Category>,General Floor item
-Floors,95175,95175,95175,,,,,95175,<By Category>,<By Category>,General Floor item
-Floors,95186,95186,95186,,,,,95186,<By Category>,<By Category>,General Floor item
-Floors,95551,95551,95551,,,,,95551,<By Category>,<By Category>,General Floor item
-Floors,95567,95567,95567,,,,,95567,<By Category>,<By Category>,General Floor item
-Floors,95838,95838,95838,,,,,95838,<By Category>,<By Category>,General Floor item
-Floors,95849,95849,95849,,,,,95849,<By Category>,<By Category>,General Floor item
-Floors,96214,96214,96214,,,,,96214,<By Category>,<By Category>,General Floor item
-Floors,96230,96230,96230,,,,,96230,<By Category>,<By Category>,General Floor item
-Floors,96501,96501,96501,,,,,96501,<By Category>,<By Category>,General Floor item
-Floors,96512,96512,96512,,,,,96512,<By Category>,<By Category>,General Floor item
-Floors,96877,96877,96877,,,,,96877,<By Category>,<By Category>,General Floor item
-Floors,96893,96893,96893,,,,,96893,<By Category>,<By Category>,General Floor item
-Floors,97164,97164,97164,,,,,97164,<By Category>,<By Category>,General Floor item
-Floors,97175,97175,97175,,,,,97175,<By Category>,<By Category>,General Floor item
-Floors,97540,97540,97540,,,,,97540,<By Category>,<By Category>,General Floor item
-Floors,97556,97556,97556,,,,,97556,<By Category>,<By Category>,General Floor item
-Floors,97827,97827,97827,,,,,97827,<By Category>,<By Category>,General Floor item
-Floors,97838,97838,97838,,,,,97838,<By Category>,<By Category>,General Floor item
-Floors,SLAB 104929,SLAB 104929,SLAB 104929,,,,,SLAB 104929,<By Category>,<By Category>,General Floor item
-Floors,105001,105001,105001,,,,,105001,<By Category>,<By Category>,General Floor item
-Floors,SLAB 107330,SLAB 107330,SLAB 107330,,,,,SLAB 107330,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 110572,SLAB 110572,SLAB 110572,,,,,SLAB 110572,<By Category>,<By Category>,General Floor item
-Floors,110644,110644,110644,,,,,110644,<By Category>,<By Category>,General Floor item
-Floors,SLAB 112964,SLAB 112964,SLAB 112964,,,,,SLAB 112964,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 116196,SLAB 116196,SLAB 116196,,,,,SLAB 116196,<By Category>,<By Category>,General Floor item
-Floors,116268,116268,116268,,,,,116268,<By Category>,<By Category>,General Floor item
-Floors,SLAB 118582,SLAB 118582,SLAB 118582,,,,,SLAB 118582,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 121805,SLAB 121805,SLAB 121805,,,,,SLAB 121805,<By Category>,<By Category>,General Floor item
-Floors,121877,121877,121877,,,,,121877,<By Category>,<By Category>,General Floor item
-Floors,SLAB 124191,SLAB 124191,SLAB 124191,,,,,SLAB 124191,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 127414,SLAB 127414,SLAB 127414,,,,,SLAB 127414,<By Category>,<By Category>,General Floor item
-Floors,127486,127486,127486,,,,,127486,<By Category>,<By Category>,General Floor item
-Floors,SLAB 129800,SLAB 129800,SLAB 129800,,,,,SLAB 129800,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 133023,SLAB 133023,SLAB 133023,,,,,SLAB 133023,<By Category>,<By Category>,General Floor item
-Floors,133095,133095,133095,,,,,133095,<By Category>,<By Category>,General Floor item
-Floors,SLAB 135409,SLAB 135409,SLAB 135409,,,,,SLAB 135409,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 138635,SLAB 138635,SLAB 138635,,,,,SLAB 138635,<By Category>,<By Category>,General Floor item
-Floors,138707,138707,138707,,,,,138707,<By Category>,<By Category>,General Floor item
-Floors,SLAB 141021,SLAB 141021,SLAB 141021,,,,,SLAB 141021,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 144244,SLAB 144244,SLAB 144244,,,,,SLAB 144244,<By Category>,<By Category>,General Floor item
-Floors,144316,144316,144316,,,,,144316,<By Category>,<By Category>,General Floor item
-Floors,SLAB 146633,SLAB 146633,SLAB 146633,,,,,SLAB 146633,<By Category>,PRECAST CEMENT,General Floor item
-Floors,SLAB 149860,SLAB 149860,SLAB 149860,,,,,SLAB 149860,<By Category>,<By Category>,General Floor item
-Floors,149932,149932,149932,,,,,149932,<By Category>,<By Category>,General Floor item
-Floors,SLAB 152249,SLAB 152249,SLAB 152249,,,,,SLAB 152249,<By Category>,PRECAST CEMENT,General Floor item
+Floors,30881,30881,30881,,,,,30881,<By Category>,<By Category>,General Floor Item
+Floors,31270,31270,31270,,,,,31270,<By Category>,<By Category>,General Floor Item
+Floors,31290,31290,31290,,,,,31290,<By Category>,<By Category>,General Floor Item
+Floors,SLAB 41801,SLAB 41801,SLAB 41801,,,,,SLAB 41801,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,42441,42441,42441,,,,,42441,<By Category>,<By Category>,General Floor Item
+Floors,42457,42457,42457,,,,,42457,<By Category>,<By Category>,General Floor Item
+Floors,42734,42734,42734,,,,,42734,<By Category>,<By Category>,General Floor Item
+Floors,42745,42745,42745,,,,,42745,<By Category>,<By Category>,General Floor Item
+Floors,SLAB 46445,SLAB 46445,SLAB 46445,,,,,SLAB 46445,<By Category>,<By Category>,General Floor Item
+Floors,46584,46584,46584,,,,,46584,<By Category>,<By Category>,General Floor Item
+Floors,SLAB 49739,SLAB 49739,SLAB 49739,,,,,SLAB 49739,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,50275,50275,50275,,,,,50275,<By Category>,<By Category>,General Floor Item
+Floors,50291,50291,50291,,,,,50291,<By Category>,<By Category>,General Floor Item
+Floors,50562,50562,50562,,,,,50562,<By Category>,<By Category>,General Floor Item
+Floors,50573,50573,50573,,,,,50573,<By Category>,<By Category>,General Floor Item
+Floors,SLAB 54085,SLAB 54085,SLAB 54085,,,,,SLAB 54085,<By Category>,<By Category>,General Floor Item
+Floors,54157,54157,54157,,,,,54157,<By Category>,<By Category>,General Floor Item
+Floors,SLAB 56477,SLAB 56477,SLAB 56477,,,,,SLAB 56477,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,56876,56876,56876,,,,,56876,<By Category>,<By Category>,General Floor Item
+Floors,59254,59254,59254,,,,,59254,<By Category>,<By Category>,General Floor Item
+Floors,59271,59271,59271,,,,,59271,<By Category>,<By Category>,General Floor Item
+Floors,59651,59651,59651,,,,,59651,<By Category>,<By Category>,General Floor Item
+Floors,59668,59668,59668,,,,,59668,<By Category>,<By Category>,General Floor Item
+Floors,60048,60048,60048,,,,,60048,<By Category>,<By Category>,General Floor Item
+Floors,60065,60065,60065,,,,,60065,<By Category>,<By Category>,General Floor Item
+Floors,60445,60445,60445,,,,,60445,<By Category>,<By Category>,General Floor Item
+Floors,60462,60462,60462,,,,,60462,<By Category>,<By Category>,General Floor Item
+Floors,60842,60842,60842,,,,,60842,<By Category>,<By Category>,General Floor Item
+Floors,60859,60859,60859,,,,,60859,<By Category>,<By Category>,General Floor Item
+Floors,61239,61239,61239,,,,,61239,<By Category>,<By Category>,General Floor Item
+Floors,61256,61256,61256,,,,,61256,<By Category>,<By Category>,General Floor Item
+Floors,61636,61636,61636,,,,,61636,<By Category>,<By Category>,General Floor Item
+Floors,61653,61653,61653,,,,,61653,<By Category>,<By Category>,General Floor Item
+Floors,62033,62033,62033,,,,,62033,<By Category>,<By Category>,General Floor Item
+Floors,62050,62050,62050,,,,,62050,<By Category>,<By Category>,General Floor Item
+Floors,SLAB 64911,SLAB 64911,SLAB 64911,,,,,SLAB 64911,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 68073,SLAB 68073,SLAB 68073,,,,,SLAB 68073,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 71438,SLAB 71438,SLAB 71438,,,,,SLAB 71438,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 74801,SLAB 74801,SLAB 74801,,,,,SLAB 74801,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 78163,SLAB 78163,SLAB 78163,,,,,SLAB 78163,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 81529,SLAB 81529,SLAB 81529,,,,,SLAB 81529,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 84889,SLAB 84889,SLAB 84889,,,,,SLAB 84889,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 88247,SLAB 88247,SLAB 88247,,,,,SLAB 88247,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 91611,SLAB 91611,SLAB 91611,,,,,SLAB 91611,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,92226,92226,92226,,,,,92226,<By Category>,<By Category>,General Floor Item
+Floors,92245,92245,92245,,,,,92245,<By Category>,<By Category>,General Floor Item
+Floors,92519,92519,92519,,,,,92519,<By Category>,<By Category>,General Floor Item
+Floors,92530,92530,92530,,,,,92530,<By Category>,<By Category>,General Floor Item
+Floors,92899,92899,92899,,,,,92899,<By Category>,<By Category>,General Floor Item
+Floors,92915,92915,92915,,,,,92915,<By Category>,<By Category>,General Floor Item
+Floors,93186,93186,93186,,,,,93186,<By Category>,<By Category>,General Floor Item
+Floors,93197,93197,93197,,,,,93197,<By Category>,<By Category>,General Floor Item
+Floors,93562,93562,93562,,,,,93562,<By Category>,<By Category>,General Floor Item
+Floors,93578,93578,93578,,,,,93578,<By Category>,<By Category>,General Floor Item
+Floors,93849,93849,93849,,,,,93849,<By Category>,<By Category>,General Floor Item
+Floors,93860,93860,93860,,,,,93860,<By Category>,<By Category>,General Floor Item
+Floors,94225,94225,94225,,,,,94225,<By Category>,<By Category>,General Floor Item
+Floors,94241,94241,94241,,,,,94241,<By Category>,<By Category>,General Floor Item
+Floors,94512,94512,94512,,,,,94512,<By Category>,<By Category>,General Floor Item
+Floors,94523,94523,94523,,,,,94523,<By Category>,<By Category>,General Floor Item
+Floors,94888,94888,94888,,,,,94888,<By Category>,<By Category>,General Floor Item
+Floors,94904,94904,94904,,,,,94904,<By Category>,<By Category>,General Floor Item
+Floors,95175,95175,95175,,,,,95175,<By Category>,<By Category>,General Floor Item
+Floors,95186,95186,95186,,,,,95186,<By Category>,<By Category>,General Floor Item
+Floors,95551,95551,95551,,,,,95551,<By Category>,<By Category>,General Floor Item
+Floors,95567,95567,95567,,,,,95567,<By Category>,<By Category>,General Floor Item
+Floors,95838,95838,95838,,,,,95838,<By Category>,<By Category>,General Floor Item
+Floors,95849,95849,95849,,,,,95849,<By Category>,<By Category>,General Floor Item
+Floors,96214,96214,96214,,,,,96214,<By Category>,<By Category>,General Floor Item
+Floors,96230,96230,96230,,,,,96230,<By Category>,<By Category>,General Floor Item
+Floors,96501,96501,96501,,,,,96501,<By Category>,<By Category>,General Floor Item
+Floors,96512,96512,96512,,,,,96512,<By Category>,<By Category>,General Floor Item
+Floors,96877,96877,96877,,,,,96877,<By Category>,<By Category>,General Floor Item
+Floors,96893,96893,96893,,,,,96893,<By Category>,<By Category>,General Floor Item
+Floors,97164,97164,97164,,,,,97164,<By Category>,<By Category>,General Floor Item
+Floors,97175,97175,97175,,,,,97175,<By Category>,<By Category>,General Floor Item
+Floors,97540,97540,97540,,,,,97540,<By Category>,<By Category>,General Floor Item
+Floors,97556,97556,97556,,,,,97556,<By Category>,<By Category>,General Floor Item
+Floors,97827,97827,97827,,,,,97827,<By Category>,<By Category>,General Floor Item
+Floors,97838,97838,97838,,,,,97838,<By Category>,<By Category>,General Floor Item
+Floors,SLAB 104929,SLAB 104929,SLAB 104929,,,,,SLAB 104929,<By Category>,<By Category>,General Floor Item
+Floors,105001,105001,105001,,,,,105001,<By Category>,<By Category>,General Floor Item
+Floors,SLAB 107330,SLAB 107330,SLAB 107330,,,,,SLAB 107330,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 110572,SLAB 110572,SLAB 110572,,,,,SLAB 110572,<By Category>,<By Category>,General Floor Item
+Floors,110644,110644,110644,,,,,110644,<By Category>,<By Category>,General Floor Item
+Floors,SLAB 112964,SLAB 112964,SLAB 112964,,,,,SLAB 112964,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 116196,SLAB 116196,SLAB 116196,,,,,SLAB 116196,<By Category>,<By Category>,General Floor Item
+Floors,116268,116268,116268,,,,,116268,<By Category>,<By Category>,General Floor Item
+Floors,SLAB 118582,SLAB 118582,SLAB 118582,,,,,SLAB 118582,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 121805,SLAB 121805,SLAB 121805,,,,,SLAB 121805,<By Category>,<By Category>,General Floor Item
+Floors,121877,121877,121877,,,,,121877,<By Category>,<By Category>,General Floor Item
+Floors,SLAB 124191,SLAB 124191,SLAB 124191,,,,,SLAB 124191,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 127414,SLAB 127414,SLAB 127414,,,,,SLAB 127414,<By Category>,<By Category>,General Floor Item
+Floors,127486,127486,127486,,,,,127486,<By Category>,<By Category>,General Floor Item
+Floors,SLAB 129800,SLAB 129800,SLAB 129800,,,,,SLAB 129800,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 133023,SLAB 133023,SLAB 133023,,,,,SLAB 133023,<By Category>,<By Category>,General Floor Item
+Floors,133095,133095,133095,,,,,133095,<By Category>,<By Category>,General Floor Item
+Floors,SLAB 135409,SLAB 135409,SLAB 135409,,,,,SLAB 135409,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 138635,SLAB 138635,SLAB 138635,,,,,SLAB 138635,<By Category>,<By Category>,General Floor Item
+Floors,138707,138707,138707,,,,,138707,<By Category>,<By Category>,General Floor Item
+Floors,SLAB 141021,SLAB 141021,SLAB 141021,,,,,SLAB 141021,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 144244,SLAB 144244,SLAB 144244,,,,,SLAB 144244,<By Category>,<By Category>,General Floor Item
+Floors,144316,144316,144316,,,,,144316,<By Category>,<By Category>,General Floor Item
+Floors,SLAB 146633,SLAB 146633,SLAB 146633,,,,,SLAB 146633,<By Category>,PRECAST CEMENT,General Floor Item
+Floors,SLAB 149860,SLAB 149860,SLAB 149860,,,,,SLAB 149860,<By Category>,<By Category>,General Floor Item
+Floors,149932,149932,149932,,,,,149932,<By Category>,<By Category>,General Floor Item
+Floors,SLAB 152249,SLAB 152249,SLAB 152249,,,,,SLAB 152249,<By Category>,PRECAST CEMENT,General Floor Item
 Columns,ANCHOR 37296,ANCHOR 37296,ANCHOR 37296,,,,,ANCHOR 37296,,<By Category>,Architectural Column
 Columns,ANCHOR 37321,ANCHOR 37321,ANCHOR 37321,,,,,ANCHOR 37321,,<By Category>,Architectural Column
 Columns,ANCHOR 37334,ANCHOR 37334,ANCHOR 37334,,,,,ANCHOR 37334,,<By Category>,Architectural Column
@@ -2238,22 +2238,22 @@ Columns,ANCHOR 152269,ANCHOR 152269,ANCHOR 152269,,,,,ANCHOR 152269,,<By Categor
 Columns,ANCHOR 152279,ANCHOR 152279,ANCHOR 152279,,,,,ANCHOR 152279,,<By Category>,Architectural Column
 Columns,ANCHOR 152289,ANCHOR 152289,ANCHOR 152289,,,,,ANCHOR 152289,,<By Category>,Architectural Column
 Walls,Basic Wall,Generic - 140mm Masonry,Basic Wall,,,,,Generic - 140mm Masonry,Concrete Masonry Units,,Brickwall
-Floors,Floor,Generic 150mm,Floor,,,,,Generic 150mm,<By Category>,,General Floor item
+Floors,Floor,Generic 150mm,Floor,,,,,Generic 150mm,<By Category>,,General Floor Item
 Windows,WD-LW-1P-FP_400W*600H,400W*600H,WD-LW-1P-FP_400W*600H,,,,TO COMPLY WITH SPPG REQUIREMENT,400W*600H,,Aluminum profile extrusion louvre (RAL7012),Adjustable Louvred Window
 Windows,WD-LW-1P-FP_1200W*600H,1200W*600H,WD-LW-1P-FP_1200W*600H,,,,TO COMPLY WITH SPPG REQUIREMENT,1200W*600H,,Aluminum profile extrusion louvre (RAL7012),Adjustable Louvred Window
 Windows,WD-LW-1P-FP_1800W*600H,1800W*600H,WD-LW-1P-FP_1800W*600H,,,,TO COMPLY WITH SPPG REQUIREMENT,1800W*600H,,Aluminum profile extrusion louvre (RAL7012),Adjustable Louvred Window
-Walls,Basic Wall,BASIC WALL,Basic Wall,,,,,BASIC WALL,Metal Stud Layer,,General Wall item
+Walls,Basic Wall,BASIC WALL,Basic Wall,,,,,BASIC WALL,Metal Stud Layer,,General Wall Item
 Doors,D19 LOUVER DOOR,D2,D19 LOUVER DOOR,,,1378 x 2465,,D2,,<By Category>,"General Door Item (including Gate, Roller Shutter)"
 Doors,D19 LOUVER DOOR,D2 2,D19 LOUVER DOOR,,,1150 x 2400,,D2 2,,<By Category>,"General Door Item (including Gate, Roller Shutter)"
 Walls,Basic Wall,TS_150mm Thk. LW Concrete Wall (FRS 2hr),Basic Wall,,,WALL : 150mm Thk. Lightweight Precast Concrete Wall with 2hr Fire Rating,,TS_150mm Thk. LW Concrete Wall (FRS 2hr),TS_LW Wall (w/ FR),,Precast Concrete Wall
 Walls,Basic Wall,TS_150mm Thk. PC Structural Wall (Hanger),Basic Wall,,,WALL : 150mm Thk. PC Structural Hanger Wall,"(BS 3.3) Precast Concrete Wall with Plastering, Tile/Stone Finishes",TS_150mm Thk. PC Structural Wall (Hanger),TS_PC Hanger Wall,,Structural Wall
 Walls,Basic Wall,TS_200mm Thk. LW Concrete Wall (FRS 2hr),Basic Wall,,,WALL : 200mm Thk. Lightweight Precast Concrete Wall with 2HR Fire Rating,,TS_200mm Thk. LW Concrete Wall (FRS 2hr),TS_LW Wall (w/ FR),,Precast Concrete Wall
 Walls,Basic Wall,TS_150mm Thk. PC Parapet Wall (PP2-2),Basic Wall,,,WALL : 250mm Thk. Precast Parapet Wall (PP1),(BS 3.2) Precast Concrete Wall with Skim Coat,TS_150mm Thk. PC Parapet Wall (PP2-2),TS_PC Parapet (120/150/250),,Parapets Wall
-Walls,Basic Wall,TS_150mm Thk. RC Planter Wall,Basic Wall,,,WALL : 150mm Thk. RC Planter Wall,,TS_150mm Thk. RC Planter Wall,TS_PW,,General Wall item
+Walls,Basic Wall,TS_150mm Thk. RC Planter Wall,Basic Wall,,,WALL : 150mm Thk. RC Planter Wall,,TS_150mm Thk. RC Planter Wall,TS_PW,,General Wall Item
 Walls,Basic Wall,TS_200mm Thk. RC Non-Structural Wall (CIS),Basic Wall,,,WALL : 200mm Thk. RC Non-Structural Wall,,TS_200mm Thk. RC Non-Structural Wall (CIS),TS_RC Wall,,Cast In-Situ RC Wall
-Walls,Basic Wall,TS_300mm Thk. ESS Wall (EW1),Basic Wall,,,WALL : 300mm Thk. RC ESS Wall,,TS_300mm Thk. ESS Wall (EW1),TS_RC Core Wall,,General Wall item
+Walls,Basic Wall,TS_300mm Thk. ESS Wall (EW1),Basic Wall,,,WALL : 300mm Thk. RC ESS Wall,,TS_300mm Thk. ESS Wall (EW1),TS_RC Core Wall,,General Wall Item
 Walls,Basic Wall,TS_200mm Thk. RC Kerb Wall,Basic Wall,,,WALL : 200mm Thk. RC Kerb Wall,"(BS 3.3) Precast Concrete Wall with Plastering, Tile/Stone Finishes",TS_200mm Thk. RC Kerb Wall,TS_RC Kerb Wall,,Precast Concrete Wall
-Walls,Basic Wall,TS_200mm Thk. RC Planter Wall (with PW),Basic Wall,,,WALL : 200mm Thk. RC Planter Wall,,TS_200mm Thk. RC Planter Wall (with PW),TS_RC Planter Wall,,General Wall item
+Walls,Basic Wall,TS_200mm Thk. RC Planter Wall (with PW),Basic Wall,,,WALL : 200mm Thk. RC Planter Wall,,TS_200mm Thk. RC Planter Wall (with PW),TS_RC Planter Wall,,General Wall Item
 Walls,Basic Wall,TS_200mm Thk. RC Structural Wall (CIS),Basic Wall,,,WALL : 200mm Thk. RC Structural Wall,,TS_200mm Thk. RC Structural Wall (CIS),TS_RC Core Wall,,Structural Wall
 Walls,Basic Wall,TS_150mm Thk. LW Concrete Wall (STC 55),Basic Wall,,,WALL : Lightweight Precast Concrete Wall with STC 55,,TS_150mm Thk. LW Concrete Wall (STC 55),TS_LW Wall (STC 55),,Precast Concrete Wall
 Walls,Basic Wall,TS_600mm Thk. RC Structural Wall (Stump),Basic Wall,,,WALL : 600mm Thk. RC Wall Stump,,TS_600mm Thk. RC Structural Wall (Stump),TS_RC Stump,,Structural Wall
@@ -2261,10 +2261,10 @@ Walls,Basic Wall,TS_400mm Thk. RC Structural Wall (CIS),Basic Wall,,,WALL : 400m
 Walls,Basic Wall,TS_150mm Thk. PC Parapet Wall (PP2-1),Basic Wall,,,WALL : 150mm Thk. Preacst Parapet Wall,(BS 3.2) Precast Concrete Wall with Skim Coat,TS_150mm Thk. PC Parapet Wall (PP2-1),TS_PC Parapet (120/150/250),,Parapets Wall
 Walls,Basic Wall,TS_150mm Thk. PC Parapet Wall (with Coping),Basic Wall,,,WALL : 150mm Thk. PC Parapet Wall with Coping,(BS 5.2) Cast In-Situ Reinforced Concrete Wall with Skim Coat,TS_150mm Thk. PC Parapet Wall (with Coping),TS_PC Parapet (120/150/250),,Parapets Wall
 Walls,Basic Wall,TS_100mm Thk. PC Parapet Wall,Basic Wall,,,WALL : 100mm Thk. PC Parapet Wall,(BS 3.2) Precast Concrete Wall with Skim Coat,TS_100mm Thk. PC Parapet Wall,TS_PC Parapet (100),,Parapets Wall
-Walls,Basic Wall,TS_15mm Thk. Homogenous Tile,Basic Wall,,,WALL : 15mm Thk. Homogeneous Wall Tiles (300x600),,TS_15mm Thk. Homogenous Tile,TS_Homogenous Tile,,General Wall item
+Walls,Basic Wall,TS_15mm Thk. Homogenous Tile,Basic Wall,,,WALL : 15mm Thk. Homogeneous Wall Tiles (300x600),,TS_15mm Thk. Homogenous Tile,TS_Homogenous Tile,,General Wall Item
 Walls,Basic Wall,TS_100mm Thk. LW Concrete Wall (FRS 2hr),Basic Wall,,,WALL : 100mm Thk. Lightweight Precast Concrete Wall with 2hr Fire Rating,,TS_100mm Thk. LW Concrete Wall (FRS 2hr),TS_LW Wall (w/ FR),,Precast Concrete Wall
 Walls,Basic Wall,TS_300mm Thk. RC Non-Structural Wall (CIS),Basic Wall,,,WALL : 300mm Thk. RC Non-Structural Wall,(BS 5.2) Cast In-Situ Reinforced Concrete Wall with Skim Coat,TS_300mm Thk. RC Non-Structural Wall (CIS),TS_RC Wall,,Cast In-Situ RC Wall
-Walls,Basic Wall,TS_15mm Thk. Homogenous Tile - Cliffstone Ice,Basic Wall,,,WALL : 15mm Thk. Homogeneous Wall Tiles,,TS_15mm Thk. Homogenous Tile - Cliffstone Ice,TS_FT-01(Cliffstone Ice),,General Wall item
+Walls,Basic Wall,TS_15mm Thk. Homogenous Tile - Cliffstone Ice,Basic Wall,,,WALL : 15mm Thk. Homogeneous Wall Tiles,,TS_15mm Thk. Homogenous Tile - Cliffstone Ice,TS_FT-01(Cliffstone Ice),,General Wall Item
 Walls,Basic Wall,TS_400mm Thk. PC Structural Wall,Basic Wall,,,WALL : 400mm Thk. PC Structural Wall,,TS_400mm Thk. PC Structural Wall,TS_PC Core Wall,,Structural Wall
 Walls,Basic Wall,TS_200mm Thk. PC Structural Wall,Basic Wall,,,WALL : 200mm Thk. PC Structural Wall,(BS 3.2) Precast Concrete Wall with Skim Coat,TS_200mm Thk. PC Structural Wall,TS_PC Core Wall,,Structural Wall
 Walls,Basic Wall,TS_300mm Thk. PC Structural Wall,Basic Wall,,,WALL : 300mm Thk. PC Structural Wall,,TS_300mm Thk. PC Structural Wall,TS_PC Core Wall,,Structural Wall
@@ -2281,31 +2281,31 @@ Walls,Basic Wall,TS_5mm Thk. Skim Coat Finish,Basic Wall,,,WALL : 5mm Thk. Skimc
 Walls,Basic Wall,TS_10mm Thk. Skim Coat Finish,Basic Wall,,,WALL : 10mm Thk. Skimcoat Finish,,TS_10mm Thk. Skim Coat Finish,TS_Skim Coat,,Wall Finish
 Walls,Basic Wall,TS_300mm Thk. Detention Tank Wall,Basic Wall,,,WALL : 300mm Thk. RC Detention Tank Wall,(BS 5.2) Cast In-Situ Reinforced Concrete Wall with Skim Coat,TS_300mm Thk. Detention Tank Wall,TS_RC Wall,,Cast In-Situ RC Wall
 Walls,Basic Wall,TS_5mm Thk. Skim Coat Finish (Navy Blue),Basic Wall,,,WALL : 5mm Thk. Skimcoat Finish,,TS_5mm Thk. Skim Coat Finish (Navy Blue),<By Category>,,Wall Finish
-Walls,Basic Wall,TS_15mm Thk. Vinyl Tile,Basic Wall,,,WALL : 15mm Thk. Vinyl Wall Tiles,,TS_15mm Thk. Vinyl Tile,TS_FT-04(Vinyl Tiles),,General Wall item
+Walls,Basic Wall,TS_15mm Thk. Vinyl Tile,Basic Wall,,,WALL : 15mm Thk. Vinyl Wall Tiles,,TS_15mm Thk. Vinyl Tile,TS_FT-04(Vinyl Tiles),,General Wall Item
 Walls,Basic Wall,TS_25mm Thk. Pebble Wash Finish,Basic Wall,,,WALL : 25mm Thk. Pebble Wash Finish (PW),NC,TS_25mm Thk. Pebble Wash Finish,TS_PW,,Wall Finish
 Walls,Basic Wall,TS_175mm Thk. RC Non-Structural Wall (CIS),Basic Wall,,,WALL : 175mm Thk. RC Non-Structural Wall,,TS_175mm Thk. RC Non-Structural Wall (CIS),TS_RC Wall,,Cast In-Situ RC Wall
 Walls,Basic Wall,TS_150mm Thk. RC Kerb Wall,Basic Wall,,,WALL : 150mm Thk. RC Kerb Wall,(BS 5.2) Cast In-Situ Reinforced Concrete Wall with Skim Coat,TS_150mm Thk. RC Kerb Wall,TS_RC Kerb Wall,,Cast In-Situ RC Wall
 Walls,Basic Wall,TS_150mm Thk. PC Parapet Wall_Type F,Basic Wall,,,WALL : 150mm Thk. Preacst Parapet Wall,(BS 3.2) Precast Concrete Wall with Skim Coat,TS_150mm Thk. PC Parapet Wall_Type F,TS_Parapet Wall,,Parapets Wall
 Walls,Basic Wall,TS_120mm Thk. PC Parapet Wall_Type B.1 (with Coping),Basic Wall,,,WALL : 120mm Thk. PC Parapet Wall,(BS 5.2) Cast In-Situ Reinforced Concrete Wall with Skim Coat,TS_120mm Thk. PC Parapet Wall_Type B.1 (with Coping),TS_PC Parapet (120/150/250),,Parapets Wall
 Walls,Basic Wall,TS_150mm Thk. RC Structural Wall (CIS),Basic Wall,,,WALL : 150mm Thk. RC Structural Wall,,TS_150mm Thk. RC Structural Wall (CIS),TS_RC Wall,,Structural Wall
-Walls,Basic Wall,TS_15mm Thk. Homogenous Tile - Berlin Platinum,Basic Wall,,,WALL : 15mm Thk. Homogeneous Wall Tiles,,TS_15mm Thk. Homogenous Tile - Berlin Platinum,TS_FT-01(Berlin Platinum),,General Wall item
-Walls,Basic Wall,TS_15mm Thk. Homogenous Tile - Cliffstone Grigio,Basic Wall,,,WALL : 15mm Thk. Homogeneous Wall Tiles,,TS_15mm Thk. Homogenous Tile - Cliffstone Grigio,TS_FT-01(Cliffstone Grigio),,General Wall item
+Walls,Basic Wall,TS_15mm Thk. Homogenous Tile - Berlin Platinum,Basic Wall,,,WALL : 15mm Thk. Homogeneous Wall Tiles,,TS_15mm Thk. Homogenous Tile - Berlin Platinum,TS_FT-01(Berlin Platinum),,General Wall Item
+Walls,Basic Wall,TS_15mm Thk. Homogenous Tile - Cliffstone Grigio,Basic Wall,,,WALL : 15mm Thk. Homogeneous Wall Tiles,,TS_15mm Thk. Homogenous Tile - Cliffstone Grigio,TS_FT-01(Cliffstone Grigio),,General Wall Item
 Walls,Basic Wall,TS_100mm Thk. RC Non-Structural Wall (CIS),Basic Wall,,,WALL : 100mm Thk. RC Non-Structural Wall,(BS 5.2) Cast In-Situ Reinforced Concrete Wall with Skim Coat,TS_100mm Thk. RC Non-Structural Wall (CIS),TS_RC Wall,,Cast In-Situ RC Wall
 Walls,Basic Wall,TS_Toilet Cubicle Wall (with Headrail),Basic Wall,,,WALL : Toilet Partition Wall,NC,TS_Toilet Cubicle Wall (with Headrail),TS_Phenolic (Toilet),,Compartment Wall
 Walls,Basic Wall,TS_Toilet Cubicle Wall,Basic Wall,,,WALL : Toilet Partition Wall,NC,TS_Toilet Cubicle Wall,TS_Phenolic (Toilet),,Compartment Wall
 Walls,Basic Wall,TS_Modesty Panel,Basic Wall,,,WALL : Toilet Partition Wall,NC,TS_Modesty Panel,TS_Phenolic (Toilet),,Lightweight Concrete Panel
 Walls,Basic Wall,TS_100mm Thk. RC Kerb Wall,Basic Wall,,,WALL : 100mm Thk. RC Kerb Wall,(BS 5.2) Cast In-Situ Reinforced Concrete Wall with Skim Coat,TS_100mm Thk. RC Kerb Wall,TS_RC Kerb Wall,,Cast In-Situ RC Wall
-Walls,Basic Wall,TS_300mm Thk. RC Wall (Stump),Basic Wall,,,WALL : 300mm Thk. RC Wall Stump,,TS_300mm Thk. RC Wall (Stump),TS_RC Stump,,General Wall item
+Walls,Basic Wall,TS_300mm Thk. RC Wall (Stump),Basic Wall,,,WALL : 300mm Thk. RC Wall Stump,,TS_300mm Thk. RC Wall (Stump),TS_RC Stump,,General Wall Item
 Walls,Basic Wall,TS_200mm Thk. RC Structural Wall (Stump),Basic Wall,,,WALL : 200mm Thk. RC Structural Wall Stump,,TS_200mm Thk. RC Structural Wall (Stump),TS_RC Stump,,Structural Wall
 Walls,Basic Wall,TS_75mm Thk. LW Concrete Wall (FRS 2hr),Basic Wall,,,WALL : 100mm Thk. Lightweight Precast Concrete Wall with 2hr Fire Rating,,TS_75mm Thk. LW Concrete Wall (FRS 2hr),TS_LW Wall (w/ FR),,Precast Concrete Wall
 Walls,Basic Wall,TS_12mm Thk. Ductile Concrete Wall (With Profile),Basic Wall,,,WALL : 12mm Thk. Ductile Concrete Wall with Profile,(BS 3.2) Precast Concrete Wall with Skim Coat,TS_12mm Thk. Ductile Concrete Wall (With Profile),TS_Ductile Concrete,,Precast Concrete Wall
-Walls,Basic Wall,TS_20mm Thk. Homogenous Tile (PBU) - Cliffstone Ice,Basic Wall,,,WALL : 20mm Thk. Homogeneous Wall Tiles,,TS_20mm Thk. Homogenous Tile (PBU) - Cliffstone Ice,TS_FT-01(Cliffstone Ice),,General Wall item
+Walls,Basic Wall,TS_20mm Thk. Homogenous Tile (PBU) - Cliffstone Ice,Basic Wall,,,WALL : 20mm Thk. Homogeneous Wall Tiles,,TS_20mm Thk. Homogenous Tile (PBU) - Cliffstone Ice,TS_FT-01(Cliffstone Ice),,General Wall Item
 Walls,Basic Wall,TS_150mm Thk. PC Parapet Wall,Basic Wall,,,WALL : 150mm Thk. Preacst Parapet Wall,(BS 3.2) Precast Concrete Wall with Skim Coat,TS_150mm Thk. PC Parapet Wall,TS_PC Parapet (120/150/250),,Parapets Wall
 Walls,Basic Wall,TS_60mm Thk. LW Concrete Wall,Basic Wall,,,WALL : 60mm Thk. Lightweight Precast Concrete Wall,,TS_60mm Thk. LW Concrete Wall,TS_LW Wall,,Precast Concrete Wall
 Walls,Basic Wall,TS_20mm Thk. Concrete Wall,Basic Wall,,,WALL : 20mm Thk. Ductile Concrete Wall,(BS 3.2) Precast Concrete Wall with Skim Coat,TS_20mm Thk. Concrete Wall,TS_Ductile Concrete,,Precast Concrete Wall
 Walls,Basic Wall,TS_20mm Thk. Ductile Concrete Wall,Basic Wall,,,WALL : 20mm Thk. Ductile Concrete Wall,(BS 3.2) Precast Concrete Wall with Skim Coat,TS_20mm Thk. Ductile Concrete Wall,TS_Ductile Concrete,,Precast Concrete Wall
-Walls,Basic Wall,TS_15mm Thk. Homogenous Tile - Lavastone Bone,Basic Wall,,,WALL : 15mm Thk. Homogeneous Wall Tiles,,TS_15mm Thk. Homogenous Tile - Lavastone Bone,TS_FT-01(Lavastone Bone),,General Wall item
-Walls,Basic Wall,TS_15mm Thk. Homogenous Tile - Slate Grigio,Basic Wall,,,WALL : 15mm Thk. Homogeneous Wall Tiles,,TS_15mm Thk. Homogenous Tile - Slate Grigio,TS_FT-01(Slate Grigio),,General Wall item
+Walls,Basic Wall,TS_15mm Thk. Homogenous Tile - Lavastone Bone,Basic Wall,,,WALL : 15mm Thk. Homogeneous Wall Tiles,,TS_15mm Thk. Homogenous Tile - Lavastone Bone,TS_FT-01(Lavastone Bone),,General Wall Item
+Walls,Basic Wall,TS_15mm Thk. Homogenous Tile - Slate Grigio,Basic Wall,,,WALL : 15mm Thk. Homogeneous Wall Tiles,,TS_15mm Thk. Homogenous Tile - Slate Grigio,TS_FT-01(Slate Grigio),,General Wall Item
 Walls,Basic Wall,TS_15mm Thk. Timber Skirting,Basic Wall,,,WALL : 15mm Thk. Timber Skirting Wall,NC,TS_15mm Thk. Timber Skirting,<By Category>,,Wall Skirting
 Walls,Basic Wall,TS_50mm Thk. Ductile Concrete Wall,Basic Wall,,,WALL : 50mm Thk. Ductile Concrete Wall,(BS 3.2) Precast Concrete Wall with Skim Coat,TS_50mm Thk. Ductile Concrete Wall,TS_Ductile Concrete,,Precast Concrete Wall
 Walls,Basic Wall,TS_92mm Thk. RC Kerb Wall,Basic Wall,,,WALL : 92mm Thk. RC Kerb Wall,(BS 3.2) Precast Concrete Wall with Skim Coat,TS_92mm Thk. RC Kerb Wall,TS_RC Kerb Wall,,Precast Concrete Wall
@@ -2320,10 +2320,10 @@ Walls,Basic Wall,TS_180mm Thk. RC Structural Wall (CIS),Basic Wall,,,WALL : 300m
 Walls,Basic Wall,TS_325mm Thk. RC Structural Wall (CIS),Basic Wall,,,WALL : 300mm Thk. RC Structural Wall,,TS_325mm Thk. RC Structural Wall (CIS),TS_RC Core Wall,,Structural Wall
 Walls,Basic Wall,TS_2mm Aluminium Panel (Powder Coated),Basic Wall,,,WALL : 2mm Thk. Powdercoated Aluminum Panel,,TS_2mm Aluminium Panel (Powder Coated),TS_Aluminum,,Wall Finish
 Walls,Basic Wall,TS_50mm Thk. RC Non-Structural Wall (CIS),Basic Wall,,,WALL : 100mm Thk. RC Non-Structural Wall,(BS 5.2) Cast In-Situ Reinforced Concrete Wall with Skim Coat,TS_50mm Thk. RC Non-Structural Wall (CIS),TS_RC Wall,,Cast In-Situ RC Wall
-Walls,Basic Wall,TS_15mm Thk. 300x600 Ceramic Glazed Tiles,Basic Wall,,,WALL : 15mm Thk. Homogeneous Wall Tiles (300x600),,TS_15mm Thk. 300x600 Ceramic Glazed Tiles,TS_600x300 Ceramic Glazed,,General Wall item
+Walls,Basic Wall,TS_15mm Thk. 300x600 Ceramic Glazed Tiles,Basic Wall,,,WALL : 15mm Thk. Homogeneous Wall Tiles (300x600),,TS_15mm Thk. 300x600 Ceramic Glazed Tiles,TS_600x300 Ceramic Glazed,,General Wall Item
 Walls,Basic Wall,TS_75mm Thk. Drywall,Basic Wall,,,WALL : 150mm Thk. Drywall with 2hr Fire Rating,,TS_75mm Thk. Drywall,TS_Drywall,,Dry Wall
-Walls,TS_Accent Wall 04,TS_East Grand Staircase Accent Wall 02,TS_Accent Wall 04,,,,,TS_East Grand Staircase Accent Wall 02,<By Category>,,General Wall item
-Walls,TS_Accent Wall 03,TS_East Grand Staircase Accent Wall 01,TS_Accent Wall 03,,,,,TS_East Grand Staircase Accent Wall 01,<By Category>,,General Wall item
+Walls,TS_Accent Wall 04,TS_East Grand Staircase Accent Wall 02,TS_Accent Wall 04,,,,,TS_East Grand Staircase Accent Wall 02,<By Category>,,General Wall Item
+Walls,TS_Accent Wall 03,TS_East Grand Staircase Accent Wall 01,TS_Accent Wall 03,,,,,TS_East Grand Staircase Accent Wall 01,<By Category>,,General Wall Item
 Walls,Curtain Wall,TS_Fence (TBC),CP_Chain Link fence,,,,,Chain Link fence,,,Curtain Wall
 Walls,Curtain Wall,TS_Fence (TBC),TS_Fence,,,Door : Fence Gate,,TS_Fence_FG-1,,,Curtain Wall
 Walls,Curtain Wall,TS_Fence (TBC),Curtain Wall,B2020200,Curtain Walls,WALL : Fence,,TS_Fence (TBC),<By Category>,,Curtain Wall
@@ -2400,70 +2400,70 @@ Walls,Curtain Wall,TS_Facade (SE),Rectangular Mullion,,,,,TS_Horizontal Rectangu
 Walls,Curtain Wall,TS_Facade (SE),Rectangular Mullion,,,,,TS_Vertical Rectangular Mullion (100x150),,TS_Aluminun Powder Coat(Dark Grey),Curtain Wall
 Walls,Curtain Wall,TS_Facade (SE),System Panel,,,,,TS_Perforated Panel (50%),,TS_Perforated steel 50% (Light Grey),Curtain Wall
 Walls,Curtain Wall,TS_Facade (SE),Curtain Wall,,,WALL : Curtain Wall,,TS_Facade (SE),<By Category>,,Curtain Wall
-Walls,TS_Accent Wall 01,TS_Biz Hub Foyer Accent Wall 01,TS_Accent Wall 01,,,,,TS_Biz Hub Foyer Accent Wall 01,<By Category>,,General Wall item
-Walls,TS_Accent Wall 02,TS_Biz Hub Foyer Accent Wall 02,TS_Accent Wall 02,,,,,TS_Biz Hub Foyer Accent Wall 02,TS_Aluminum,,General Wall item
+Walls,TS_Accent Wall 01,TS_Biz Hub Foyer Accent Wall 01,TS_Accent Wall 01,,,,,TS_Biz Hub Foyer Accent Wall 01,<By Category>,,General Wall Item
+Walls,TS_Accent Wall 02,TS_Biz Hub Foyer Accent Wall 02,TS_Accent Wall 02,,,,,TS_Biz Hub Foyer Accent Wall 02,TS_Aluminum,,General Wall Item
 Walls,TS_Ramp Parapet Wall Void L01-12,TS_Wall Void,TS_Ramp Parapet Wall Void L01-12,,,WALL : Ramp Parapet Wall Void,,TS_Wall Void,<By Category>,,Parapets Wall
 Walls,TS_Ramp Parapet Wall Void L02-13,TS_Wall Void,TS_Ramp Parapet Wall Void L02-13,,,WALL : Ramp Parapet Wall Void,,TS_Wall Void,<By Category>,,Parapets Wall
 Walls,TS_Ramp Parapet Wall Void L04-15,TS_Wall Void,TS_Ramp Parapet Wall Void L04-15,,,WALL : Ramp Parapet Wall Void,,TS_Wall Void,<By Category>,,Parapets Wall
 Walls,TS_Ramp Parapet Wall Void L05-15,TS_Wall Void,TS_Ramp Parapet Wall Void L05-15,,,WALL : Ramp Parapet Wall Void,,TS_Wall Void,<By Category>,,Parapets Wall
 Walls,TS_Ramp Parapet Wall Void L06-15,TS_Wall Void,TS_Ramp Parapet Wall Void L06-15,,,WALL : Ramp Parapet Wall Void,,TS_Wall Void,<By Category>,,Parapets Wall
 Walls,TS_Ramp Parapet Wall Void L03-13,TS_Wall Void,TS_Ramp Parapet Wall Void L03-13,,,WALL : Ramp Parapet Wall Void,,TS_Wall Void,<By Category>,,Parapets Wall
-Walls,TS_Wall at Ramp Block (Bin Center),TS_Wall at Ramp Block (Bin Center),TS_Wall at Ramp Block (Bin Center),,,,,TS_Wall at Ramp Block (Bin Center),<By Category>,,General Wall item
-Walls,TS_Accent Wall 1,TS_East Grand Staircase Accent Wall 02,TS_Accent Wall 1,,,,,TS_East Grand Staircase Accent Wall 02,<By Category>,,General Wall item
-Walls,TS_Accent Wall 2,TS_East Grand Staircase Accent Wall 02,TS_Accent Wall 2,,,,,TS_East Grand Staircase Accent Wall 02,<By Category>,,General Wall item
-Floors,Floor,TS_500mm Thk. Slab (CIS),Floor,,,FLOOR : 500mm Thk. Cast In-Situ Slab,,TS_500mm Thk. Slab (CIS),TS_CIS Slab,<By Category>,General Floor item
-Floors,Floor,TS_Green,Floor,,,FLOOR : Green,,TS_Green,<By Category>,<By Category>,General Floor item
-Floors,Floor,TS_200mm Thk. Slab (CIS),Floor,,,FLOOR : 200mm Thk. Cast In-Situ Slab,,TS_200mm Thk. Slab (CIS),TS_CIS Slab,<By Category>,General Floor item
-Floors,Floor,TS_300mm Thk. Slab (CIS),Floor,,,FLOOR : 300mm Thk. Cast In-Situ Slab,,TS_300mm Thk. Slab (CIS),TS_CIS Slab,<By Category>,General Floor item
-Floors,Floor,TS_150mm Thk. Slab (CIS),Floor,,,FLOOR : 150mm thk. Cast In-Situ Slab,,TS_150mm Thk. Slab (CIS),TS_CIS Slab,<By Category>,General Floor item
-Floors,Floor,TS_175mm Thk. Slab (CIS),Floor,,,FLOOR : 175mm Thk. Cast In-Situ Slab,,TS_175mm Thk. Slab (CIS),TS_CIS Slab,<By Category>,General Floor item
-Floors,Floor,TS_100mm Thk. Slab (CIS),Floor,,,FLOOR : 100mm Thk. Cast In-Situ Slab,,TS_100mm Thk. Slab (CIS),TS_CIS Slab,<By Category>,General Floor item
-Floors,Floor,TS_350mm Thk. Slab (CIS),Floor,,,FLOOR : 350mm Thk. Cast In-Situ Slab,,TS_350mm Thk. Slab (CIS),TS_CIS Slab,<By Category>,General Floor item
-Floors,Floor,TS_245mm Thk. Plank Slab (PC),Floor,,,FLOOR : 245mm Thk. PC Plank Slab,,TS_245mm Thk. Plank Slab (PC),TS_CIS Slab,<By Category>,General Floor item
-Floors,Floor,TS_250mm Thk. Slab (CIS),Floor,,,FLOOR : 250mm Thk. Cast In-Situ Slab,,TS_250mm Thk. Slab (CIS),TS_CIS Slab,<By Category>,General Floor item
-Floors,Floor,TS_150mm Thk. Bondek Slab,Floor,,,FLOOR : 150mm Thk. Bondek Slab,,TS_150mm Thk. Bondek Slab,TS_CIS Slab,<By Category>,General Floor item
-Floors,Floor,TS_150mm Thk. PC Plank Slab + CIS,Floor,,,FLOOR : 150mm Thk. PC Plank Slab + Cast In-Situ,,TS_150mm Thk. PC Plank Slab + CIS,TS_CIS Slab,<By Category>,General Floor item
-Floors,Floor,TS_150mm Thk. Steel Floor,Floor,,,FLOOR : 150mm Thk. Steel Floor (Bondek Slab),,TS_150mm Thk. Steel Floor,TS_Steel (Bondek),<By Category>,General Floor item
+Walls,TS_Wall at Ramp Block (Bin Center),TS_Wall at Ramp Block (Bin Center),TS_Wall at Ramp Block (Bin Center),,,,,TS_Wall at Ramp Block (Bin Center),<By Category>,,General Wall Item
+Walls,TS_Accent Wall 1,TS_East Grand Staircase Accent Wall 02,TS_Accent Wall 1,,,,,TS_East Grand Staircase Accent Wall 02,<By Category>,,General Wall Item
+Walls,TS_Accent Wall 2,TS_East Grand Staircase Accent Wall 02,TS_Accent Wall 2,,,,,TS_East Grand Staircase Accent Wall 02,<By Category>,,General Wall Item
+Floors,Floor,TS_500mm Thk. Slab (CIS),Floor,,,FLOOR : 500mm Thk. Cast In-Situ Slab,,TS_500mm Thk. Slab (CIS),TS_CIS Slab,<By Category>,General Floor Item
+Floors,Floor,TS_Green,Floor,,,FLOOR : Green,,TS_Green,<By Category>,<By Category>,General Floor Item
+Floors,Floor,TS_200mm Thk. Slab (CIS),Floor,,,FLOOR : 200mm Thk. Cast In-Situ Slab,,TS_200mm Thk. Slab (CIS),TS_CIS Slab,<By Category>,General Floor Item
+Floors,Floor,TS_300mm Thk. Slab (CIS),Floor,,,FLOOR : 300mm Thk. Cast In-Situ Slab,,TS_300mm Thk. Slab (CIS),TS_CIS Slab,<By Category>,General Floor Item
+Floors,Floor,TS_150mm Thk. Slab (CIS),Floor,,,FLOOR : 150mm thk. Cast In-Situ Slab,,TS_150mm Thk. Slab (CIS),TS_CIS Slab,<By Category>,General Floor Item
+Floors,Floor,TS_175mm Thk. Slab (CIS),Floor,,,FLOOR : 175mm Thk. Cast In-Situ Slab,,TS_175mm Thk. Slab (CIS),TS_CIS Slab,<By Category>,General Floor Item
+Floors,Floor,TS_100mm Thk. Slab (CIS),Floor,,,FLOOR : 100mm Thk. Cast In-Situ Slab,,TS_100mm Thk. Slab (CIS),TS_CIS Slab,<By Category>,General Floor Item
+Floors,Floor,TS_350mm Thk. Slab (CIS),Floor,,,FLOOR : 350mm Thk. Cast In-Situ Slab,,TS_350mm Thk. Slab (CIS),TS_CIS Slab,<By Category>,General Floor Item
+Floors,Floor,TS_245mm Thk. Plank Slab (PC),Floor,,,FLOOR : 245mm Thk. PC Plank Slab,,TS_245mm Thk. Plank Slab (PC),TS_CIS Slab,<By Category>,General Floor Item
+Floors,Floor,TS_250mm Thk. Slab (CIS),Floor,,,FLOOR : 250mm Thk. Cast In-Situ Slab,,TS_250mm Thk. Slab (CIS),TS_CIS Slab,<By Category>,General Floor Item
+Floors,Floor,TS_150mm Thk. Bondek Slab,Floor,,,FLOOR : 150mm Thk. Bondek Slab,,TS_150mm Thk. Bondek Slab,TS_CIS Slab,<By Category>,General Floor Item
+Floors,Floor,TS_150mm Thk. PC Plank Slab + CIS,Floor,,,FLOOR : 150mm Thk. PC Plank Slab + Cast In-Situ,,TS_150mm Thk. PC Plank Slab + CIS,TS_CIS Slab,<By Category>,General Floor Item
+Floors,Floor,TS_150mm Thk. Steel Floor,Floor,,,FLOOR : 150mm Thk. Steel Floor (Bondek Slab),,TS_150mm Thk. Steel Floor,TS_Steel (Bondek),<By Category>,General Floor Item
 Floors,Floor,TS_100mm Thk. Concrete Topping (FC-02),Floor,,,FLOOR : Coloured Concrete with Non-Metallic Hardener and Dust-Proofing Compound,FF,TS_100mm Thk. Concrete Topping (FC-02),TS_FC-02,<By Category>,Floor Finish
 Floors,Floor,TS_20mm Thk. Homogeneous Tile (FT-01) - Slate Grigio,Floor,,,"FLOOR : Heavy Duty, Non-Slip 300x600x9mm Thk. Homogeneous Tiles",FF,TS_20mm Thk. Homogeneous Tile (FT-01) - Slate Grigio,<By Category>,<By Category>,Floor Finish
 Floors,Floor,TS_20mm Thk. Homogeneous Tile (FT-01),Floor,,,"FLOOR : Heavy Duty, Non-Slip 300x600x9mm Thk. Homogeneous Tiles",FF,TS_20mm Thk. Homogeneous Tile (FT-01),<By Category>,<By Category>,Floor Finish
 Floors,Floor,TS_20mm Homogeneous Tile (FT-01),Floor,,,"FLOOR : Heavy Duty, Non-Slip 300x600x9mm Thk. Homogeneous Tiles",FF,TS_20mm Homogeneous Tile (FT-01),TS_Tile Finish 300X600,<By Category>,Floor Finish
 Floors,Floor,TS_300x600x9mm Thk. Homogeneous Tiles,Floor,,,"FLOOR : Heavy Duty, Non-Slip 300x600x9mm Thk. Homogeneous Floor Tiles",FF,TS_300x600x9mm Thk. Homogeneous Tiles,TS_Tile Finish,<By Category>,Floor Finish
 Floors,Floor,TS_20mm Thk. Homogeneous Tile (FT-01) - PY6600B,Floor,,,"FLOOR : Heavy Duty, Non-Slip 300x600x9mm Thk. Homogeneous Tiles",FF,TS_20mm Thk. Homogeneous Tile (FT-01) - PY6600B,<By Category>,<By Category>,Floor Finish
-Floors,Floor,TS_HCS + 90mm Topping,Floor,,,FLOOR : HCS Slab,,TS_HCS + 90mm Topping,TS_CIS Slab,<By Category>,General Floor item
-Floors,Floor,TS_500mm Thk. PTS Slab,Floor,,,FLOOR : 500mm Thk. Post-Tensioned Slab,,TS_500mm Thk. PTS Slab,TS_PC Slab,<By Category>,General Floor item
-Floors,Floor,TS_200mm Thk. Slab (PC),Floor,,,FLOOR : CEMENT SCREED WITH MONOLITHIC NON-METALLIC HARDENER WITH HARDENING AND DUST-PROOFING COMPOUND,,TS_200mm Thk. Slab (PC),TS_PC Slab,<By Category>,General Floor item
-Floors,Floor,TS_400mm Thk. Slab (CIS),Floor,,,FLOOR : 400mm Thk. Cast In-Situ Slab,,TS_400mm Thk. Slab (CIS),TS_CIS Slab,<By Category>,General Floor item
-Floors,Floor,TS_450mm Thk. Slab (CIS),Floor,,,FLOOR : 450mm Thk. Cast In-Situ Slab,,TS_450mm Thk. Slab (CIS),TS_CIS Slab,<By Category>,General Floor item
-Floors,Floor,TS_450mm Thk. Slab (PTS),Floor,,,FLOOR : 450mm Thk. Post-Tensioned Slab,,TS_450mm Thk. Slab (PTS),TS_PC Slab,<By Category>,General Floor item
-Floors,Floor,TS_150mm Thk. Steel Cover,Floor,,,FLOOR : 130mm Thk. Steel Cover,,TS_150mm Thk. Steel Cover,TS_Stainless Steel,<By Category>,General Floor item
+Floors,Floor,TS_HCS + 90mm Topping,Floor,,,FLOOR : HCS Slab,,TS_HCS + 90mm Topping,TS_CIS Slab,<By Category>,General Floor Item
+Floors,Floor,TS_500mm Thk. PTS Slab,Floor,,,FLOOR : 500mm Thk. Post-Tensioned Slab,,TS_500mm Thk. PTS Slab,TS_PC Slab,<By Category>,General Floor Item
+Floors,Floor,TS_200mm Thk. Slab (PC),Floor,,,FLOOR : CEMENT SCREED WITH MONOLITHIC NON-METALLIC HARDENER WITH HARDENING AND DUST-PROOFING COMPOUND,,TS_200mm Thk. Slab (PC),TS_PC Slab,<By Category>,General Floor Item
+Floors,Floor,TS_400mm Thk. Slab (CIS),Floor,,,FLOOR : 400mm Thk. Cast In-Situ Slab,,TS_400mm Thk. Slab (CIS),TS_CIS Slab,<By Category>,General Floor Item
+Floors,Floor,TS_450mm Thk. Slab (CIS),Floor,,,FLOOR : 450mm Thk. Cast In-Situ Slab,,TS_450mm Thk. Slab (CIS),TS_CIS Slab,<By Category>,General Floor Item
+Floors,Floor,TS_450mm Thk. Slab (PTS),Floor,,,FLOOR : 450mm Thk. Post-Tensioned Slab,,TS_450mm Thk. Slab (PTS),TS_PC Slab,<By Category>,General Floor Item
+Floors,Floor,TS_150mm Thk. Steel Cover,Floor,,,FLOOR : 130mm Thk. Steel Cover,,TS_150mm Thk. Steel Cover,TS_Stainless Steel,<By Category>,General Floor Item
 Floors,Floor,TS_300mm Thk. Slab - ESS Ramp (CIS),Floor,,,FLOOR : 300mm Thk. Cast In-Situ Slab for ESS Ramp,,TS_300mm Thk. Slab - ESS Ramp (CIS),TS_CIS Slab,<By Category>,Ramp
 Floors,Floor,TS_5mm Thk. Vinyl Tile (FT-04_2),Floor,,,FLOOR : 5mm Thk. Vinyl Tile,FF,TS_5mm Thk. Vinyl Tile (FT-04_2),<By Category>,<By Category>,Floor Finish
 Floors,Floor,TS_20mm Thk. Homogeneous Tile (FT-01) - Lavastone Bone,Floor,,,"FLOOR : Heavy Duty, Non-Slip 300x600x9mm Thk. Homogeneous Tiles",FF,TS_20mm Thk. Homogeneous Tile (FT-01) - Lavastone Bone,<By Category>,<By Category>,Floor Finish
 Floors,Floor,TS_50mm Thk. Concrete Topping,Floor,,,FLOOR : 50mm Thk. Concrete Topping,FF,TS_50mm Thk. Concrete Topping,TS_Concrete Topping,<By Category>,Floor Finish
 Floors,Floor,TS_30mm Thk. Concrete Topping,Floor,,,FLOOR : 30mm Thk. Concrete Topping,FF,TS_30mm Thk. Concrete Topping,TS_Concrete Topping,<By Category>,Floor Finish
-Floors,Floor,TS_100mm Thk. Slab (RC Plinth),Floor,,,FLOOR : 100mm Thk. RC Plinth Slab,,TS_100mm Thk. Slab (RC Plinth),TS_RC Plinth,<By Category>,General Floor item
+Floors,Floor,TS_100mm Thk. Slab (RC Plinth),Floor,,,FLOOR : 100mm Thk. RC Plinth Slab,,TS_100mm Thk. Slab (RC Plinth),TS_RC Plinth,<By Category>,General Floor Item
 Floors,Floor,TS_80mm Thk. Concrete Topping,Floor,,,FLOOR : 80mm Thk. Concrete Topping,FF,TS_80mm Thk. Concrete Topping,TS_Concrete Topping,<By Category>,Floor Finish
 Floors,Floor,TS_100mm Thk. Concrete Topping,Floor,,,FLOOR : 100mm Thk. Concrete Topping,FF,TS_100mm Thk. Concrete Topping,TS_Concrete Topping,<By Category>,Floor Finish
 Floors,Floor,TS_5mm Thk. Finish (FC-01),Floor,,,FLOOR : Cement Screed with Monolithic Non-Metallic Hardener with Hardening and Dust-Proofing Compound,FF,TS_5mm Thk. Finish (FC-01),TS_FC-01,<By Category>,Floor Finish
 Floors,Floor,TS_20mm Thk. Finish (FA-01),Floor,,,FLOOR : Exposed Aggregate Finish,FF,TS_20mm Thk. Finish (FA-01),TS_FA-01,<By Category>,Floor Finish
 Floors,Floor,TS_50mm Thk. Slab (FA-01),Floor,,,FLOOR : Exposed Aggregate Finish,FF,TS_50mm Thk. Slab (FA-01),TS_FA-01,<By Category>,Floor Finish
-Floors,Floor,TS_380mm Thk. Mass Concrete Topping,Floor,,,FLOOR : 380mm Thk. Mass Concrete Topping,,TS_380mm Thk. Mass Concrete Topping,TS_Mass Concrete,<By Category>,General Floor item
+Floors,Floor,TS_380mm Thk. Mass Concrete Topping,Floor,,,FLOOR : 380mm Thk. Mass Concrete Topping,,TS_380mm Thk. Mass Concrete Topping,TS_Mass Concrete,<By Category>,General Floor Item
 Floors,Floor,TS_100mm Thk. Concrete Topping (FE-01),Floor,,,"FLOOR : 100mm Thk Concrete Topping in Cement Screed with Monolithic Non-Metallic Hardener, w/ Solvent-Free, High-Build, Anit-Slip Heavy Duty Epoxy Resin Flooring Coating, Broadcast w/ Anti-Skid Grains",FF,TS_100mm Thk. Concrete Topping (FE-01),TS_FE-01,<By Category>,Floor Finish
 Floors,Floor,TS_20mm THK. Homogeneous Tile (FT-02) - Cliffstone Grigio,Floor,,,"FLOOR : Heavy Duty, Non-Slip 300x900x9mm Thk. Homogeneous Tiles",FF,TS_20mm THK. Homogeneous Tile (FT-02) - Cliffstone Grigio,TS_FT-02(Cliffstone Grigio),<By Category>,Floor Finish
 Floors,Floor,TS_9mm Homogeneous Tile w/ 11mm adhesive (FT-01),Floor,,,FLOOR : 9mm Thk. Homogeneous Tiles with 11mm Adhesive,FF,TS_9mm Homogeneous Tile w/ 11mm adhesive (FT-01),TS_Tile Finish 300X600,<By Category>,Floor Finish
 Floors,Floor,TS_100mm Thk. Concrete Topping (FC-01),Floor,,,FLOOR : 100mm Thk. Concrete Topping in Cement Screed with Monolithic Non-Metallic Hardener with Hardening and Dust-Proof Compound,FF,TS_100mm Thk. Concrete Topping (FC-01),TS_FC-01,<By Category>,Floor Finish
 Floors,Floor,TS_20mm Thk. Finish (FC-01),Floor,,,FLOOR : Cement Screed with Monolithic Non-Metallic Hardener with Hardening and Dust-Proof Compound,FF,TS_20mm Thk. Finish (FC-01),TS_FC-01,<By Category>,Floor Finish
 Floors,Floor,TS_20mm Thk. Finish (EA1),Floor,,,FLOOR : Exposed Aggregate with Stainless Steel Brass Strip Separator,FF,TS_20mm Thk. Finish (EA1),TS_EA1,<By Category>,Floor Finish
-Floors,Floor,TS_200mm Thk. Slab (RC Plinth),Floor,,,FLOOR : 200mm Thk. RC Plinth Slab,,TS_200mm Thk. Slab (RC Plinth),TS_RC Plinth,<By Category>,General Floor item
+Floors,Floor,TS_200mm Thk. Slab (RC Plinth),Floor,,,FLOOR : 200mm Thk. RC Plinth Slab,,TS_200mm Thk. Slab (RC Plinth),TS_RC Plinth,<By Category>,General Floor Item
 Floors,Floor,TS_150mm Thk. Concrete Topping,Floor,,,FLOOR : 130mm Thk. Concrete Topping,FF,TS_150mm Thk. Concrete Topping,TS_CIS Slab,<By Category>,Floor Finish
 Floors,Floor,TS_20mm THK. Homogeneous Tile (FT-02),Floor,,,"FLOOR : Heavy Duty, Non-Slip 300x900x9mm Thk. Homogeneous Tiles",FF,TS_20mm THK. Homogeneous Tile (FT-02),TS_Tile Finish 600X600,<By Category>,Floor Finish
-Floors,Floor,TS_15mm Thk. Steel Floor,Floor,,,FLOOR : 15mm Thk Steel Floor,,TS_15mm Thk. Steel Floor,TS_Steel Floor,<By Category>,General Floor item
+Floors,Floor,TS_15mm Thk. Steel Floor,Floor,,,FLOOR : 15mm Thk Steel Floor,,TS_15mm Thk. Steel Floor,TS_Steel Floor,<By Category>,General Floor Item
 Floors,Floor,TS_20mm Thk. Finish (EA3),Floor,,,FLOOR : Exposed Aggregate with Stainless Steel Brass Strip Separator,FF,TS_20mm Thk. Finish (EA3),TS_EA3,<By Category>,Floor Finish
 Floors,Floor,TS_100mm Thk. Slab (FA-01),Floor,,,,FF,TS_100mm Thk. Slab (FA-01),TS_FA-01,<By Category>,Floor Finish
 Floors,Floor,TS_30mm Thk. Solid Surface,Floor,,,FLOOR : 30mm Thk. Solid Surface,FF,TS_30mm Thk. Solid Surface,TS_FC-01,<By Category>,Floor Finish
 Floors,Floor,TS_20mm Thk. Homogeneous Tile (FT-01) - Berlin Series Grigio,Floor,,,"FLOOR : Heavy Duty, Non-Slip 300x600x9mm Thk. Homogeneous Tiles",FF,TS_20mm Thk. Homogeneous Tile (FT-01) - Berlin Series Grigio,<By Category>,<By Category>,Floor Finish
-Floors,Floor,TS_50mm Thk. Steel Floor,Floor,,,FLOOR : 50mm Thk. Steel Floor,,TS_50mm Thk. Steel Floor,TS_Steel Floor,<By Category>,General Floor item
+Floors,Floor,TS_50mm Thk. Steel Floor,Floor,,,FLOOR : 50mm Thk. Steel Floor,,TS_50mm Thk. Steel Floor,TS_Steel Floor,<By Category>,General Floor Item
 Floors,Floor,TS_10mm Carpet Tile (FT-03),Floor,,,FLOOR : Carpet Tile,FF,TS_10mm Carpet Tile (FT-03),TS_Carpet Tile Finish,<By Category>,Floor Finish
 Floors,Floor,TS_20mm Carpet Tile (FT-03),Floor,,,FLOOR : Carpet Tile,FF,TS_20mm Carpet Tile (FT-03),TS_Carpet Tile Finish,<By Category>,Floor Finish
 Floors,Floor,TS_20mm Thk. Solid Surface,Floor,,,FLOOR : 35mm Thk. Solid Surface,FF,TS_20mm Thk. Solid Surface,TS_Solid Surface (Cistern),<By Category>,Floor Finish
@@ -2475,36 +2475,36 @@ Floors,Floor,TS_20mm Thk. Finish (PW),Floor,,,FLOOR : Pebblewash with Stainless 
 Floors,Floor,TS_20mm Thk. Finish (GR3),Floor,,,FLOOR : 600x600 Granite in Flamed Finish,FF,TS_20mm Thk. Finish (GR3),TS_GR3,<By Category>,Floor Finish
 Floors,Floor,TS_20mm Thk. Finish (GR2),Floor,,,"FLOOR : 600x600 Granite Tile, Honed Finish",FF,TS_20mm Thk. Finish (GR2),TS_GR2,<By Category>,Floor Finish
 Floors,Floor,TS_20mm Thk. Finish (GR1),Floor,,,FLOOR : 600x600 Granite in Bush Hammered Finish,FF,TS_20mm Thk. Finish (GR1),TS_GR1,<By Category>,Floor Finish
-Floors,Floor,TS_200mm Thk. Landscape Bench,Floor,,,FLOOR : 200mm Thk. Cast In-Situ Slab,,TS_200mm Thk. Landscape Bench,TS_PW,<By Category>,General Floor item
+Floors,Floor,TS_200mm Thk. Landscape Bench,Floor,,,FLOOR : 200mm Thk. Cast In-Situ Slab,,TS_200mm Thk. Landscape Bench,TS_PW,<By Category>,General Floor Item
 Floors,Floor,TS_5mm Thk. Finish (FE-01),Floor,,,FLOOR : CEMENT SCREED WITH MONOLITHIC NON-METALLIC HARDENER WITH HARDENING AND DUST-PROOFING COMPOUND,FF,TS_5mm Thk. Finish (FE-01),TS_FE-01,<By Category>,Floor Finish
-Floors,Floor,TS_250mm Thk. Slab (CIS-Non Variable),Floor,,,FLOOR : 250mm Thk. Cast In-Situ Slab,,TS_250mm Thk. Slab (CIS-Non Variable),TS_CIS Slab,<By Category>,General Floor item
-Floors,Floor,TS_505mm Thk. Mass Concrete Topping,Floor,,,FLOOR : CEMENT SCREED WITH MONOLITHIC NON-METALLIC HARDENER WITH HARDENING AND DUST-PROOFING COMPOUND,,TS_505mm Thk. Mass Concrete Topping,Concrete - Cast In Situ,<By Category>,General Floor item
+Floors,Floor,TS_250mm Thk. Slab (CIS-Non Variable),Floor,,,FLOOR : 250mm Thk. Cast In-Situ Slab,,TS_250mm Thk. Slab (CIS-Non Variable),TS_CIS Slab,<By Category>,General Floor Item
+Floors,Floor,TS_505mm Thk. Mass Concrete Topping,Floor,,,FLOOR : CEMENT SCREED WITH MONOLITHIC NON-METALLIC HARDENER WITH HARDENING AND DUST-PROOFING COMPOUND,,TS_505mm Thk. Mass Concrete Topping,Concrete - Cast In Situ,<By Category>,General Floor Item
 Floors,Floor,TS_65mm Thk. PBU RC Slab,Floor,,,FLOOR : 200mm Thk. Prefabricated Bathroom Unit RC Slab,Grade C40/50,TS_65mm Thk. PBU RC Slab,TS_PBU RC Slab,<By Category>,Precast Floor
 Floors,Floor,TS_55mm Thk. PBU RC Slab,Floor,,,FLOOR : 200mm Thk. Prefabricated Bathroom Unit RC Slab,Grade C40/50,TS_55mm Thk. PBU RC Slab,TS_PBU RC Slab,<By Category>,Precast Floor
 Floors,Floor,TS_30mm Thk. PBU Homogeneous Tile (FT-01) - Slate Grigio,Floor,,,"FLOOR : Heavy Duty, Non-Slip 300x900x9mm Thk. Homogeneous Tiles",FF,TS_30mm Thk. PBU Homogeneous Tile (FT-01) - Slate Grigio,<By Category>,<By Category>,Precast Floor
 Floors,Floor,TS_50mm Thk. Finish (EA1),Floor,,,FLOOR : Exposed Aggregate with Stainless Steel Brass Strip Separator,FF,TS_50mm Thk. Finish (EA1),TS_EA1,<By Category>,Floor Finish
 Floors,Floor,TS_75mm Thk. Concrete Topping,Floor,,,FLOOR : 75mm Thk. Concrete Topping,FF,TS_75mm Thk. Concrete Topping,TS_Concrete Topping,<By Category>,Floor Finish
 Floors,Floor,TS_5mm Expanded Mesh,Floor,,,FLOOR : 5mm Thk. Expanded Mesh,FF,TS_5mm Expanded Mesh,TS_Galvanized Steel (Dark Grey),<By Category>,Floor Finish
-Floors,Floor,TS_150mm Thk. AC Ledge,Floor,,,FLOOR : 150mm Thk. AC Ledge Slab,,TS_150mm Thk. AC Ledge,TS_PC Slab,<By Category>,General Floor item
+Floors,Floor,TS_150mm Thk. AC Ledge,Floor,,,FLOOR : 150mm Thk. AC Ledge Slab,,TS_150mm Thk. AC Ledge,TS_PC Slab,<By Category>,General Floor Item
 Floors,Floor,TS_40mm Thk. Concrete Topping,Floor,,,FLOOR : 40mm Thk. Concrete Topping,FF,TS_40mm Thk. Concrete Topping,TS_Concrete Topping,<By Category>,Floor Finish
-Floors,Floor,TS_400mm Thk. Slab (PTS),Floor,,,,,TS_400mm Thk. Slab (PTS),TS_PC Slab,<By Category>,General Floor item
-Floors,Floor,TS_375mm Thk. Slab (CIS),Floor,,,FLOOR : 375mm Thk. Cast In-Situ Slab,,TS_375mm Thk. Slab (CIS),TS_CIS Slab,<By Category>,General Floor item
+Floors,Floor,TS_400mm Thk. Slab (PTS),Floor,,,,,TS_400mm Thk. Slab (PTS),TS_PC Slab,<By Category>,General Floor Item
+Floors,Floor,TS_375mm Thk. Slab (CIS),Floor,,,FLOOR : 375mm Thk. Cast In-Situ Slab,,TS_375mm Thk. Slab (CIS),TS_CIS Slab,<By Category>,General Floor Item
 Floors,Floor,TS_450mm Thk. Slab (CIS) Flat Base Ramp,Floor,,,FLOOR : 450mm Thk. Cast In-Situ Slab,,TS_450mm Thk. Slab (CIS) Flat Base Ramp,TS_CIS Slab,<By Category>,Ramp
 Floors,Floor,TS_25mm Thk. Finish (EA2),Floor,,,FLOOR : Exposed Aggregate with Stainless Steel Brass Strip Separator,FF,TS_25mm Thk. Finish (EA2),TS_EA2,<By Category>,Floor Finish
 Floors,Floor,TS_60mm Thk. Concrete Topping (FC-02),Floor,,,FLOOR : Coloured Concrete with Non-Metallic Hardener and Dust-Proofing Compound,FF,TS_60mm Thk. Concrete Topping (FC-02),TS_FC-02,<By Category>,Floor Finish
-Floors,Floor,TS_150mm Thk. Slab (RC Plinth),Floor,,,FLOOR : 100mm Thk. RC Plinth Slab,,TS_150mm Thk. Slab (RC Plinth),TS_RC Plinth,<By Category>,General Floor item
+Floors,Floor,TS_150mm Thk. Slab (RC Plinth),Floor,,,FLOOR : 100mm Thk. RC Plinth Slab,,TS_150mm Thk. Slab (RC Plinth),TS_RC Plinth,<By Category>,General Floor Item
 Floors,Floor,TS_60mm Thk. Concrete Topping,Floor,,,FLOOR : 60mm Thk. Concrete Topping,FF,TS_60mm Thk. Concrete Topping,TS_Concrete Topping,<By Category>,Floor Finish
 Floors,Floor,TS_100mm Thk. Finish (FP-02),Floor,,,FLOOR : Interlocking Grass Paver,FF,TS_100mm Thk. Finish (FP-02),TS_FP-02,<By Category>,Floor Finish
 Floors,Floor,TS_130mm Thk. Concrete Topping,Floor,,,FLOOR : 130mm Thk. Concrete Topping,FF,TS_130mm Thk. Concrete Topping,TS_CIS Slab,<By Category>,Floor Finish
 Floors,Floor,TS_Ramp Headroom Clearance,Floor,,,FLOOR : M&E Headroom Clearance,M&E Headroom Clearance,TS_Ramp Headroom Clearance,TS_Ramp Headroom Clearance,<By Category>,Ramp
-Floors,Floor,TS_75mm Thk. Slab (CIS),Floor,,,FLOOR : 100mm Thk. Cast In-Situ Slab,,TS_75mm Thk. Slab (CIS),TS_CIS Slab,<By Category>,General Floor item
-Floors,Floor,TS_200mm Thk. CIS Slab,Floor,,,FLOOR : 200mm Thk. Cast In Situ Slab,Grade C40/50,TS_200mm Thk. CIS Slab,TS_CIS Slab,<By Category>,General Floor item
-Floors,Floor,TS_75mm Thk. PC Slab,Floor,,,FLOOR : 65mm Thk. Prefabricated Bathroom Unit RC Slab,Grade C40/50,TS_75mm Thk. PC Slab,TS_PC Slab,<By Category>,General Floor item
+Floors,Floor,TS_75mm Thk. Slab (CIS),Floor,,,FLOOR : 100mm Thk. Cast In-Situ Slab,,TS_75mm Thk. Slab (CIS),TS_CIS Slab,<By Category>,General Floor Item
+Floors,Floor,TS_200mm Thk. CIS Slab,Floor,,,FLOOR : 200mm Thk. Cast In Situ Slab,Grade C40/50,TS_200mm Thk. CIS Slab,TS_CIS Slab,<By Category>,General Floor Item
+Floors,Floor,TS_75mm Thk. PC Slab,Floor,,,FLOOR : 65mm Thk. Prefabricated Bathroom Unit RC Slab,Grade C40/50,TS_75mm Thk. PC Slab,TS_PC Slab,<By Category>,General Floor Item
 Floors,Floor,TS_50mm Thk. Finish (EA2),Floor,,,FLOOR : Exposed Aggregate with Stainless Steel Brass Strip Separator,FF,TS_50mm Thk. Finish (EA2),TS_EA2,<By Category>,Floor Finish
 Floors,Floor,TS_40mm Thk. Finish (FP-02),Floor,,,FLOOR : Interlocking Grass Paver,FF,TS_40mm Thk. Finish (FP-02),TS_FP-02,<By Category>,Floor Finish
-Floors,TS_Slab Haunching,TS_Slab Haunching,TS_Slab Haunching,,,,,TS_Slab Haunching,<By Category>,<By Category>,General Floor item
-Roofs,Basic Roof,TS_Lightweight Metal Roofing,Basic Roof,,,,,TS_Lightweight Metal Roofing,,<By Category>,General Roof item
-Roofs,Basic Roof,TS_72mm Thick Canopy Roofing,Basic Roof,,,,,TS_72mm Thick Canopy Roofing,,<By Category>,General Roof item
+Floors,TS_Slab Haunching,TS_Slab Haunching,TS_Slab Haunching,,,,,TS_Slab Haunching,<By Category>,<By Category>,General Floor Item
+Roofs,Basic Roof,TS_Lightweight Metal Roofing,Basic Roof,,,,,TS_Lightweight Metal Roofing,,<By Category>,General Roof Item
+Roofs,Basic Roof,TS_72mm Thick Canopy Roofing,Basic Roof,,,,,TS_72mm Thick Canopy Roofing,,<By Category>,General Roof Item
 Doors,TS_MDV1,MDV1,TS_MDV1,,,"Door : Swing Door, Hot Dipped Galvanized Steel With Spray Paint",,MDV1,,,"General Door Item (including Gate, Roller Shutter)"
 Doors,TS_MD3,MD3,TS_MD3,,,"Door : Swing Door, Hot Dipped Galvanized Steel With Spray Paint",,MD3,,,"General Door Item (including Gate, Roller Shutter)"
 Doors,TS_RS1A,RS1A,TS_RS1A,23-17 11 10,,"Door : Roller Shutter, Hot Dipped Galvanized Steel With Pre-Coated Paint",,RS1A,,,"General Door Item (including Gate, Roller Shutter)"
@@ -2633,12 +2633,12 @@ Walls,Curtain Wall,Curtain Wall,Dbl Glass (3)1,,,,,Dbl Glass (3) 1,,<By Category
 Walls,Curtain Wall,Curtain Wall,Dbl Glass (3a),,,,,Dbl Glass (3a),,<By Category>,Curtain Wall
 Walls,Curtain Wall,Curtain Wall,Dbl Glass (3)2,,,,,Dbl Glass (3)2,,<By Category>,Curtain Wall
 Walls,Curtain Wall,Curtain Wall,Dbl Glass (3)3,,,,,Dbl Glass (3) 2,,<By Category>,Curtain Wall
-Walls,Basic Wall,BASIC WALL,Basic Wall,,,,,BASIC WALL,Metal Stud Layer,<By Category>,General Wall item
+Walls,Basic Wall,BASIC WALL,Basic Wall,,,,,BASIC WALL,Metal Stud Layer,<By Category>,General Wall Item
 Doors,D19 LOUVER DOOR,D2,D19 LOUVER DOOR,,,,,D2,,<By Category>,"General Door Item (including Gate, Roller Shutter)"
 Doors,D19 LOUVER DOOR,D2 2,D19 LOUVER DOOR,,,,,D2 2,,<By Category>,"General Door Item (including Gate, Roller Shutter)"
 Doors,D18 LOUVER DOUBLE DOOR,LouverDoorESS,D18 LOUVER DOUBLE DOOR,,,,,LouverDoorESS,,<By Category>,"General Door Item (including Gate, Roller Shutter)"
 Doors,ALUM. PANEL DOOR,Alum panel Door 1,ALUM. PANEL DOOR,,,,,Alum panel Door 1,,<By Category>,"General Door Item (including Gate, Roller Shutter)"
-Walls,Basic Wall,Wall 100mm thk,Basic Wall,,,,,Wall 100mm thk,<By Category>,,General Wall item
+Walls,Basic Wall,Wall 100mm thk,Basic Wall,,,,,Wall 100mm thk,<By Category>,,General Wall Item
 Fire Alarm Devices,,,Arup_M_DT_FA_Bell_Call point_Visual Alarm_outdoor,,,,,,,,Fire Alarm Fixture and Device
 Fire Alarm Devices,,,ArupSG_Hosereel,,,,,,,,Hose Reel
 Fire Alarm Devices,FD-FiremenIntercomFixtureAndDevice-Manual call point,Outdoor,FD-FiremenIntercomFixtureAndDevice-Manual call point,D7050,Detection and Alarm,Manual Call Point,Manual Call Point,Outdoor,,<By Category>,Fire Alarm Fixture and Device
@@ -2651,7 +2651,7 @@ Fire Alarm Devices,Emergency_Notification-Temporal_Horns_and_Strobes-EDWARDS-757
 Fire Alarm Devices,,,IDA - Strobe Light,,,,,,,,Fire Alarm Fixture and Device
 Fire Alarm Devices,,,Fire_Alarm_Bell,,,,,,,,Fire Alarm Fixture and Device
 Fire Alarm Devices,POC_Fire Alarm Visual Indicator1,POC_Fire Alarm Visual Indicator 2,POC_Fire Alarm Visual Indicator1,,,,,POC_Fire Alarm Visual Indicator 2,,,Fire Alarm Fixture and Device
-Floors,Floor,Floor 1_ToBeDeleted,Floor,,,,,Floor 1_ToBeDeleted,<By Category>,,General Floor item
+Floors,Floor,Floor 1_ToBeDeleted,Floor,,,,,Floor 1_ToBeDeleted,<By Category>,,General Floor Item
 Fire Alarm Devices,,,IDA - Manual Call Point,,,,,,,,Fire Alarm Fixture and Device
 Fire Alarm Devices,FP_Fire Extinguisher AB,4.0 litres,FP_Fire Extinguisher AB,,,Extinguisher,,4.0 litres,,,Fire Alarm Fixture and Device
 Fire Alarm Devices,MAINPANEL_Cabinet,Standard,MAINPANEL_Cabinet,,,Lobby cabinet with five local rail module positions,,Standard,,,Fire Alarm Fixture and Device

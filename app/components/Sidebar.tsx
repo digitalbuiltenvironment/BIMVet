@@ -82,7 +82,7 @@ const Sidebar: React.FC<SidebarProps> = ({
             <div className="text-4xl font-bold">
               <iconify-icon icon="iconoir:user-circle"></iconify-icon>
             </div>
-            <p className="ml-2 font-medium no-selection mb-2">Bottom Content</p>
+            <p className="ml-2 font-medium no-selection mb-2"></p>
           </div>
         </div>
       </div>

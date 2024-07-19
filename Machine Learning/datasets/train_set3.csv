@@ -2640,8 +2640,11 @@ Doors,D18 LOUVER DOUBLE DOOR,LouverDoorESS,D18 LOUVER DOUBLE DOOR,,,,,LouverDoor
 Doors,ALUM. PANEL DOOR,Alum panel Door 1,ALUM. PANEL DOOR,,,,,Alum panel Door 1,,<By Category>,"General Door Item (including Gate, Roller Shutter)"
 Walls,Basic Wall,Wall 100mm thk,Basic Wall,,,,,Wall 100mm thk,<By Category>,,General Wall Item
 Fire Alarm Devices,,,Arup_M_DT_FA_Bell_Call point_Visual Alarm_outdoor,,,,,,,,Fire Alarm Fixture and Device
+Fire Alarm Devices,,,ArupSG_Hosereel,,,,,,,,Hose Reel
 Fire Alarm Devices,FD-FiremenIntercomFixtureAndDevice-Manual call point,Outdoor,FD-FiremenIntercomFixtureAndDevice-Manual call point,D7050,Detection and Alarm,Manual Call Point,Manual Call Point,Outdoor,,<By Category>,Fire Alarm Fixture and Device
 Fire Alarm Devices,FD-FiremenIntercomFixtureAndDevice-Manual call point,Indoor,FD-FiremenIntercomFixtureAndDevice-Manual call point,D7050,Detection and Alarm,Manual Call Point,Manual Call Point,Indoor,,<By Category>,Fire Alarm Fixture and Device
+Fire Alarm Devices,,,sprinkler_mimic  PANEL,,,,,,,,Speaker
+Fire Alarm Devices,,,FP-4Way Breeching inlet_1,,,,,,,,Breeching Inlet
 Fire Alarm Devices,,,IDA - Fire Alarm Bell,,,,,,,,Fire Alarm Fixture and Device
 Fire Alarm Devices,POC_Fire Alarm Visual Indicator,POC_Fire Alarm Visual Indicator,POC_Fire Alarm Visual Indicator,,,Strobe light,,POC_Fire Alarm Visual Indicator,,,Fire Alarm Fixture and Device
 Fire Alarm Devices,Emergency_Notification-Temporal_Horns_and_Strobes-EDWARDS-757_Series,"Red Housing, 110 cd UL 1638, 120 cd ULC S526, 110 cd Wall and 60 cd Ceiling UL 1971",Emergency_Notification-Temporal_Horns_and_Strobes-EDWARDS-757_Series,,,"Temporal horn-strobe, red housing",,"Red Housing, 110 cd UL 1638, 120 cd ULC S526, 110 cd Wall and 60 cd Ceiling UL 1971",,,Fire Alarm Fixture and Device
@@ -2740,36 +2743,36 @@ Walls,Curtain Wall,Metal Facade - Blue - Klip Lok,Rectangular Mullion,,,,,Rectan
 Walls,Curtain Wall,Metal Facade - Blue - Klip Lok,System Panel,,,,,Glazed,,Glass - Frosted,Curtain Wall
 Walls,Curtain Wall,Metal Facade - Blue - Klip Lok,Rectangular Mullion,,,,,Rectangular_Mullion_Bottom_Left-PF,,Metal - Steel(Navy Blue),Curtain Wall
 Walls,Curtain Wall,Metal Facade - Blue - Klip Lok,Curtain Wall,,,0.54MM THK COLORBOND KLIPLOK HI-TEN 406 AS FASCIA,MCR17,Metal Facade - Blue - Klip Lok,<By Category>,,Curtain Wall
-Doors,ALUMINUM DOOR AD3-AD4,AD2 (1300x1500),ALUMINUM DOOR AD3-AD4,x,Solid Exterior Doors,Heavy duty aluminum door in powder coated finish,MCR03,AD2 (1300x1500),,Steel,"General Door Item (including Gate, Roller Shutter)"
-Doors,DOUBLE LOUVER INSERT SWING DOOR,2800 x2750 - AD1,DOUBLE LOUVER INSERT SWING DOOR,,,Heavy duty aluminum frame aluminum louver door in powder coated finish,MCR03,2800 x2750 - AD1,,,"General Door Item (including Gate, Roller Shutter)"
-Doors,QUADRUPLE LOUVER INSERT SWING DOOR,AD3 (1900x2900),QUADRUPLE LOUVER INSERT SWING DOOR,,,Heavy duty aluminum frame aluminum louver door in powder coated finish,MCR03,AD3 (1900x2900),,,"General Door Item (including Gate, Roller Shutter)"
-Doors,BCA_Dr-Resi_2Leaf,MD9 (1500x2200),BCA_Dr-Resi_2Leaf,,,1HR fire-rated metal frame metal door in spray paint finish,MCR03,MD9 (1500x2200),,,"General Door Item (including Gate, Roller Shutter)"
-Doors,BCA_Dr-NonResi_1Leaf1Swing,MD8 (900x2200),BCA_Dr-NonResi_1Leaf1Swing,,,Metal frame metal door w/ bottom louver in spray paint finish,MCR03,MD8 (900x2200),,,"General Door Item (including Gate, Roller Shutter)"
-Doors,BCA_Dr-NonResi_1Leaf1Swings ASS,MD4 (1050x2200),BCA_Dr-NonResi_1Leaf1Swings ASS,,,Metal frame metal door w/ bottom louver in spray paint finish with horizontal pull bar & vertical pull handle,MCR03,MD4 (1050x2200),,,"General Door Item (including Gate, Roller Shutter)"
-Doors,POC_Timber Door_Unequal Leaf(rend),MD10 (1500x2200),POC_Timber Door_Unequal Leaf(rend),,,Metal frame metal door w/ vision panel in spray paint finish,MCR03,MD10 (1500x2200),,FS1028 Granite Grey PVDF,"General Door Item (including Gate, Roller Shutter)"
-Doors,RKD-IDR_Cubicle Door Placeholder_WC,600x1900mm,RKD-IDR_Cubicle Door Placeholder_WC,,,Internal Single Door,MCR03,600x1900mm,,,"General Door Item (including Gate, Roller Shutter)"
-Doors,RKD-IDR_Cubicle Door Placeholder_WC,600x1900mm,RKD-IDR_Cubicle Door Placeholder_WC,,,Internal Single Door,MCR03,600x1900mm,,,"General Door Item (including Gate, Roller Shutter)"
-Doors,RKD-IDR_Cubicle Door Placeholder_WC,600x1900mm,RKD-IDR_Cubicle Door Placeholder_WC,,,Internal Single Door,MCR03,600x1900mm,,,"General Door Item (including Gate, Roller Shutter)"
-Doors,RKD-IDR_Cubicle Door Placeholder_WC,600x1900mm,RKD-IDR_Cubicle Door Placeholder_WC,,,Internal Single Door,MCR03,600x1900mm,,,"General Door Item (including Gate, Roller Shutter)"
-Doors,RKD-IDR_Cubicle Door Placeholder_WC,600x1900mm,RKD-IDR_Cubicle Door Placeholder_WC,,,Internal Single Door,MCR03,600x1900mm,,,"General Door Item (including Gate, Roller Shutter)"
-Doors,RKD-IDR_Cubicle Door Placeholder_WC,600x1900mm,RKD-IDR_Cubicle Door Placeholder_WC,,,Internal Single Door,MCR03,600x1900mm,,,"General Door Item (including Gate, Roller Shutter)"
-Doors,RKD-IDR_Cubicle Door Placeholder_WC,600x1900mm,RKD-IDR_Cubicle Door Placeholder_WC,,,Internal Single Door,MCR03,600x1900mm,,,"General Door Item (including Gate, Roller Shutter)"
-Doors,RKD-IDR_Cubicle Door Placeholder_WC,600x1900mm,RKD-IDR_Cubicle Door Placeholder_WC,,,Internal Single Door,MCR03,600x1900mm,,,"General Door Item (including Gate, Roller Shutter)"
-Doors,POC_Timber Door_Unequal Leaf,MD10 (1500x2200),POC_Timber Door_Unequal Leaf,,,Metal frame metal door w/ vision panel in spray paint finish,MCR03,MD10 (1500x2200),,FS1028 Granite Grey PVDF,"General Door Item (including Gate, Roller Shutter)"
-Doors,POC_Timber Door_Unequal Leaf,MD10 (1500x2200) WITHOUT VISION PANEL,POC_Timber Door_Unequal Leaf,,,Metal frame metal door w/ vision panel in spray paint finish,MCR03,MD10 (1500x2200) WITHOUT VISION PANEL,,FS1028 Granite Grey PVDF,"General Door Item (including Gate, Roller Shutter)"
-Doors,POC_Timber Door_Unequal Leaf,MD10 (1500x2200) WITHOUT VISION PANEL,POC_Timber Door_Unequal Leaf,,,Metal frame metal door w/ vision panel in spray paint finish,MCR03,MD10 (1500x2200) WITHOUT VISION PANEL,,FS1028 Granite Grey PVDF,"General Door Item (including Gate, Roller Shutter)"
-Doors,D12,MD3 (900X2200) 2,D12,,,MALE & FEMALT TOILET,MCR03,MD3 (900X2200) 2,,,"General Door Item (including Gate, Roller Shutter)"
-Doors,D12,MD3 (900X2200) 2,D12,,,MALE & FEMALT TOILET,MCR03,MD3 (900X2200) 2,,,"General Door Item (including Gate, Roller Shutter)"
-Doors,BCA_SWING DOOR_VISION PANEL INSERT SWING DOOR1,1WaySwing_1000,BCA_SWING DOOR_VISION PANEL INSERT SWING DOOR1,,,METAL FRAME METAL DOOR W/VISION PANEL IN SPRAY PAINT FINISH,MCR03,1WaySwing_1000,,,"General Door Item (including Gate, Roller Shutter)"
-Doors,Steel Door_Single Leaf,AD5 (1100X2100),Steel Door_Single Leaf,,,Heavy duty aluminum door in powder coated finish,MCR03,AD5 (1100X2100),,Steel,"General Door Item (including Gate, Roller Shutter)"
-Doors,Steel Door_Single Leaf,AD5 (1100X2100),Steel Door_Single Leaf,,,Heavy duty aluminum door in powder coated finish,MCR03,AD5 (1100X2100),,Steel,"General Door Item (including Gate, Roller Shutter)"
-Doors,POC_Roller Shutter,RS1 (4000X3200),POC_Roller Shutter,23-17 11 13 25 11,,1HR FIRE RATED GRILLE SHUTTER (MOTORISED),MCR03,RS1 (4000X3200),,,"General Door Item (including Gate, Roller Shutter)"
-Doors,Steel Door_Double Leaf,MD1 (2000x2400),Steel Door_Double Leaf,,,Soundproofing metal acoustic door,MCR03,MD1 (2000x2400),,Steel,"General Door Item (including Gate, Roller Shutter)"
-Doors,BCA_Dr-NonResi_2Sized1Leaf1Swing,MD11 (1050x2100),BCA_Dr-NonResi_2Sized1Leaf1Swing,,,1/2HR fire-rated metal frame metal door in spray paint finish,MCR03,MD11 (1050x2100),,,"General Door Item (including Gate, Roller Shutter)"
-Doors,BCA_Dr-NonResi_2Sized1Leaf1Swing,MD12 (1050x2100),BCA_Dr-NonResi_2Sized1Leaf1Swing,,,Metal frame metal door in spray finish,MCR03,MD12 (1050x2100),,,"General Door Item (including Gate, Roller Shutter)"
-Doors,BCA_Dr-NonResi_1Leaf1Swing1,MD6 (600x2200)-3,BCA_Dr-NonResi_1Leaf1Swing1,,,Metal frame metal door in spray finish,MCR03,MD6 (600x2200)-3,,,"General Door Item (including Gate, Roller Shutter)"
-Doors,BCA_Dr-NonResi_1Leaf1Swing1,300X300,BCA_Dr-NonResi_1Leaf1Swing1,,,Metal frame metal door in spray finish,MCR03,300X300,,,"General Door Item (including Gate, Roller Shutter)"
-Doors,Timber Door Sliding _ Single Leaf with Louver,D420 (1070x2200),Timber Door Sliding _ Single Leaf with Louver,23-17 11 15 10,,Metal frame metal slidign door in spray paint finish,MCR03,D420 (1070x2200),,,"General Door Item (including Gate, Roller Shutter)"
+Doors,ALUMINUM DOOR AD3-AD4,AD2 (1300x1500),ALUMINUM DOOR AD3-AD4,x,Solid Exterior Doors,Heavy duty aluminum door in powder coated finish,MCR03,AD2 (1300x1500),,Steel,General Door Item
+Doors,DOUBLE LOUVER INSERT SWING DOOR,2800 x2750 - AD1,DOUBLE LOUVER INSERT SWING DOOR,,,Heavy duty aluminum frame aluminum louver door in powder coated finish,MCR03,2800 x2750 - AD1,,,General Door Item
+Doors,QUADRUPLE LOUVER INSERT SWING DOOR,AD3 (1900x2900),QUADRUPLE LOUVER INSERT SWING DOOR,,,Heavy duty aluminum frame aluminum louver door in powder coated finish,MCR03,AD3 (1900x2900),,,General Door Item
+Doors,BCA_Dr-Resi_2Leaf,MD9 (1500x2200),BCA_Dr-Resi_2Leaf,,,1HR fire-rated metal frame metal door in spray paint finish,MCR03,MD9 (1500x2200),,,General Door Item
+Doors,BCA_Dr-NonResi_1Leaf1Swing,MD8 (900x2200),BCA_Dr-NonResi_1Leaf1Swing,,,Metal frame metal door w/ bottom louver in spray paint finish,MCR03,MD8 (900x2200),,,General Door Item
+Doors,BCA_Dr-NonResi_1Leaf1Swings ASS,MD4 (1050x2200),BCA_Dr-NonResi_1Leaf1Swings ASS,,,Metal frame metal door w/ bottom louver in spray paint finish with horizontal pull bar & vertical pull handle,MCR03,MD4 (1050x2200),,,General Door Item
+Doors,POC_Timber Door_Unequal Leaf(rend),MD10 (1500x2200),POC_Timber Door_Unequal Leaf(rend),,,Metal frame metal door w/ vision panel in spray paint finish,MCR03,MD10 (1500x2200),,FS1028 Granite Grey PVDF,General Door Item
+Doors,RKD-IDR_Cubicle Door Placeholder_WC,600x1900mm,RKD-IDR_Cubicle Door Placeholder_WC,,,Internal Single Door,MCR03,600x1900mm,,,General Door Item
+Doors,RKD-IDR_Cubicle Door Placeholder_WC,600x1900mm,RKD-IDR_Cubicle Door Placeholder_WC,,,Internal Single Door,MCR03,600x1900mm,,,General Door Item
+Doors,RKD-IDR_Cubicle Door Placeholder_WC,600x1900mm,RKD-IDR_Cubicle Door Placeholder_WC,,,Internal Single Door,MCR03,600x1900mm,,,General Door Item
+Doors,RKD-IDR_Cubicle Door Placeholder_WC,600x1900mm,RKD-IDR_Cubicle Door Placeholder_WC,,,Internal Single Door,MCR03,600x1900mm,,,General Door Item
+Doors,RKD-IDR_Cubicle Door Placeholder_WC,600x1900mm,RKD-IDR_Cubicle Door Placeholder_WC,,,Internal Single Door,MCR03,600x1900mm,,,General Door Item
+Doors,RKD-IDR_Cubicle Door Placeholder_WC,600x1900mm,RKD-IDR_Cubicle Door Placeholder_WC,,,Internal Single Door,MCR03,600x1900mm,,,General Door Item
+Doors,RKD-IDR_Cubicle Door Placeholder_WC,600x1900mm,RKD-IDR_Cubicle Door Placeholder_WC,,,Internal Single Door,MCR03,600x1900mm,,,General Door Item
+Doors,RKD-IDR_Cubicle Door Placeholder_WC,600x1900mm,RKD-IDR_Cubicle Door Placeholder_WC,,,Internal Single Door,MCR03,600x1900mm,,,General Door Item
+Doors,POC_Timber Door_Unequal Leaf,MD10 (1500x2200),POC_Timber Door_Unequal Leaf,,,Metal frame metal door w/ vision panel in spray paint finish,MCR03,MD10 (1500x2200),,FS1028 Granite Grey PVDF,General Door Item
+Doors,POC_Timber Door_Unequal Leaf,MD10 (1500x2200) WITHOUT VISION PANEL,POC_Timber Door_Unequal Leaf,,,Metal frame metal door w/ vision panel in spray paint finish,MCR03,MD10 (1500x2200) WITHOUT VISION PANEL,,FS1028 Granite Grey PVDF,General Door Item
+Doors,POC_Timber Door_Unequal Leaf,MD10 (1500x2200) WITHOUT VISION PANEL,POC_Timber Door_Unequal Leaf,,,Metal frame metal door w/ vision panel in spray paint finish,MCR03,MD10 (1500x2200) WITHOUT VISION PANEL,,FS1028 Granite Grey PVDF,General Door Item
+Doors,D12,MD3 (900X2200) 2,D12,,,MALE & FEMALT TOILET,MCR03,MD3 (900X2200) 2,,,General Door Item
+Doors,D12,MD3 (900X2200) 2,D12,,,MALE & FEMALT TOILET,MCR03,MD3 (900X2200) 2,,,General Door Item
+Doors,BCA_SWING DOOR_VISION PANEL INSERT SWING DOOR1,1WaySwing_1000,BCA_SWING DOOR_VISION PANEL INSERT SWING DOOR1,,,METAL FRAME METAL DOOR W/VISION PANEL IN SPRAY PAINT FINISH,MCR03,1WaySwing_1000,,,General Door Item
+Doors,Steel Door_Single Leaf,AD5 (1100X2100),Steel Door_Single Leaf,,,Heavy duty aluminum door in powder coated finish,MCR03,AD5 (1100X2100),,Steel,General Door Item
+Doors,Steel Door_Single Leaf,AD5 (1100X2100),Steel Door_Single Leaf,,,Heavy duty aluminum door in powder coated finish,MCR03,AD5 (1100X2100),,Steel,General Door Item
+Doors,POC_Roller Shutter,RS1 (4000X3200),POC_Roller Shutter,23-17 11 13 25 11,,1HR FIRE RATED GRILLE SHUTTER (MOTORISED),MCR03,RS1 (4000X3200),,,General Door Item
+Doors,Steel Door_Double Leaf,MD1 (2000x2400),Steel Door_Double Leaf,,,Soundproofing metal acoustic door,MCR03,MD1 (2000x2400),,Steel,General Door Item
+Doors,BCA_Dr-NonResi_2Sized1Leaf1Swing,MD11 (1050x2100),BCA_Dr-NonResi_2Sized1Leaf1Swing,,,1/2HR fire-rated metal frame metal door in spray paint finish,MCR03,MD11 (1050x2100),,,General Door Item
+Doors,BCA_Dr-NonResi_2Sized1Leaf1Swing,MD12 (1050x2100),BCA_Dr-NonResi_2Sized1Leaf1Swing,,,Metal frame metal door in spray finish,MCR03,MD12 (1050x2100),,,General Door Item
+Doors,BCA_Dr-NonResi_1Leaf1Swing1,MD6 (600x2200)-3,BCA_Dr-NonResi_1Leaf1Swing1,,,Metal frame metal door in spray finish,MCR03,MD6 (600x2200)-3,,,General Door Item
+Doors,BCA_Dr-NonResi_1Leaf1Swing1,300X300,BCA_Dr-NonResi_1Leaf1Swing1,,,Metal frame metal door in spray finish,MCR03,300X300,,,General Door Item
+Doors,Timber Door Sliding _ Single Leaf with Louver,D420 (1070x2200),Timber Door Sliding _ Single Leaf with Louver,23-17 11 15 10,,Metal frame metal slidign door in spray paint finish,MCR03,D420 (1070x2200),,,General Door Item
 Floors,Floor,Screeding-50mmthk.,Floor,C3020100,Floor Toppings & Coatings,50MM THK SCEEDING,MCR04,Screeding-50mmthk.,Floor-Screeding,Floor-Screeding,Floor Finish
 Floors,Floor,200 RC SLAB,Floor,C3020100,Floor Toppings & Coatings,Floor Hardener and Sealer.,MCR04,200 RC SLAB,"Concrete, Cast In Situ",Floor-Screeding,Floor Finish
 Floors,Floor,FF-1 (300x600 HT LEA3009)(H),Floor,C3020430,Flooring - Tile,300X600 HT-LEA 3009,MCR04,FF-1 (300x600 HT LEA3009)(H),Floor-Screeding,HT-LEA3009,Floor Finish
@@ -2859,28 +2862,16 @@ Columns,Columns 18,Columns 4,Columns 18,,,,,Columns 4,,,Architectural Column
 Columns,Columns 19,Columns 4,Columns 19,,,,,Columns 4,,,Architectural Column
 Columns,Columns 20,Columns 20,Columns 20,,,,,Columns 20,,,Architectural Column
 Windows,JTC_GH Window T01,FW-10 1000 x 1000,JTC_GH Window T01,,,,,Fixed W-10 1000 x 1000,,,Fixed Panel Window
+Windows,JTC_Window_Casement_Single Panel,CW 750 x 1800,JTC_Window_Casement_Single Fixed Panel,,,,,CW 750 x 1800,,,Fixed Panel Window
 Windows,JTC_Window_Casement_Single Fixed Panel,CW 750 x 1800,JTC_Window_Casement_Single Fixed Panel,,,,,CW 750 x 1800,,,Fixed Panel Window
 Windows,JTC_Internal Fixed Window-15,AWT76 1500 x 3000,JTC_Internal Fixed Window-15,,,,,AWT76 1500 x 3000,,,Fixed Panel Window
-Windows,,,JTC_ESS_Louvre,,,,,,,,Adjustable Louvred Window
 Windows,JTC_Window_Casement_Single Panel_FAP,CW 750 x 1800,JTC_Window_Casement_Single Panel_FAP,,,,,CW 750 x 1800,,,Fixed Panel Window
-Windows,JTC_GH Window T02,SW-14 1400 x 1000 Side Hung,JTC_GH Window T02,,,,,SW-14 1400 x 1000 Side Hung,,,Side-Hung Window
-Windows,JTC_GH Window T02,SW-10 1000 x 1000 Side Hung,JTC_GH Window T02,,,,,SW-10 1000 x 1000 Side Hung,,,Side-Hung Window
-Walls,Basic Wall,Aluminium Cladding_100mm,Basic Wall,,,,,Aluminium Cladding_100mm,Aluminum,,Wall Finish
-Walls,Basic Wall,JTC_Toilet Wall Tiles_300x600,Basic Wall,,,,,JTC_Toilet Wall Tiles_300x600,<By Category>,,Wall Finish
-Walls,Basic Wall,JTC_Toilet Wall Tiles_300x300,Basic Wall,,,,,JTC_Toilet Wall Tiles_300x300,<By Category>,,Wall Finish
-Roofs,,,Basic Roof,,,,,,,,General Roof Item
-Floors,Floor,Turfing,Floor,,,,,Turfing,<By Category>,,Floor Finish
-Floors,Floor,JTC_Floor Tile_300x600,Floor,,,,,JTC_Floor Tile_300x600,<By Category>,,Floor Finish
+Doors,Roller Shutter Door,ROLLER SHUTTER RS1 LORRY PARKS 7300 x 5000,Roller Shutter Door Room Divider,,,,,ROLLER SHUTTER RS1 LORRY PARKS 7300 x 5000,,,Screen/Room Divider
+Doors,Roller Shutter Door,ROLLER SHUTTER RS2 PRODUCTION 3500 x 3000,Roller Shutter Door Room Divider,,,,,ROLLER SHUTTER RS2 PRODUCTION 3500 x 3000,,,Screen/Room Divider
+Doors,Roller Shutter Door,ROLLER SHUTTER RS2 PRODUCTION 7000 x 3500,Roller Shutter Door Room Divider,,,,,ROLLER SHUTTER RS2 PRODUCTION 7000 x 3500,,,Screen/Room Divider
 Floors,Floor,RC Plinth,Floor,,,,,RC Plinth,Concrete - RC Cast In Situ,,Structural Slab
-Floors,Floor,JTC_Floor Tile_300x300,Floor,,,,,JTC_Floor Tile_300x300,<By Category>,,Floor Finish
-Floors,Floor,JTC_Power Float Finish_50mm,Floor,,,,,JTC_Power Float Fin_50mm,<By Category>,,Floor Finish
 Floors,Floor,Structural Floor,Floor,,,,,Structural Floor,<By Category>,,Structural Slab
 Floors,Floor,RC Kerb_100mm,Floor,,,,,RC Kerb_100mm,Concrete - RC Cast In Situ,,Structural Slab
-Floors,Floor,JTC_Power Float Finish_125mm,Floor,,,,,JTC_Power Float Fin_125mm,<By Category>,,Floor Finish
-Floors,Floor,JTC_Power Float w/ Waterproofing_30mm,Floor,,,,,JTC_Power Float w/ Waterproofing_30mm,<By Category>,,Floor Finish
-Floors,Floor,JTC_Concrete Floor_Power Float w/ Epoxy Finish 10mm,Floor,,,,,JTC_Concrete Floor_Power Float w/ Epoxy Fin,Concrete - Sand/Cement Screed,,Floor Finish
-Floors,Floor,JTC_Concrete Screed_Power Float w/ Waterproofing)_30mm,Floor,,,,,JTC_Concrete Screed_Power Float w/ Waterproofing)_30mm,<By Category>,,Floor Finish
-Floors,Floor,JTC_Power Float Finish 10mm,Floor,,,,,JTC_Power Float Finish 10mm,<By Category>,,Floor Finish
 Floors,Floor,RC Kerb_50mm,Floor,,,,,RC Kerb_50mm,Concrete - RC Cast In Situ,,Structural Slab
 Floors,Floor,JTC_RC_300,Floor,,,,,JTC_RC_300,Concrete - Cast In Situ,,Structural Slab
 Floors,Floor,JTC_RC_250,Floor,,,,,JTC_RC_250,Concrete - Cast In Situ,,Structural Slab
@@ -2889,57 +2880,10 @@ Floors,Floor,JTC_RC_200,Floor,,,,,JTC_RC_200,Concrete - Cast In Situ,,Structural
 Floors,Floor,JTC_RC_100,Floor,,,,,JTC_RC_100,Concrete - Cast In Situ,,Structural Slab
 Floors,Floor,JTC_RC_350,Floor,,,,,JTC_RC_350,Concrete - Cast In Situ,,Structural Slab
 Floors,Floor,RC Kerb_150mm,Floor,,,,,RC Kerb_150mm,Concrete - RC Cast In Situ,,Structural Slab
-Doors,Roller Shutter Door,ROLLER SHUTTER RS1 LORRY PARKS 7300 x 5000,Roller Shutter Door Room Divider,,,,,ROLLER SHUTTER RS1 LORRY PARKS 7300 x 5000,,,Screen/Room Divider
-Doors,Roller Shutter Door,ROLLER SHUTTER RS2 PRODUCTION 3500 x 3000,Roller Shutter Door Room Divider,,,,,ROLLER SHUTTER RS2 PRODUCTION 3500 x 3000,,,Screen/Room Divider
-Doors,Roller Shutter Door,ROLLER SHUTTER RS2 PRODUCTION 7000 x 3500,Roller Shutter Door Room Divider,,,,,ROLLER SHUTTER RS2 PRODUCTION 7000 x 3500,,,Screen/Room Divider
-Windows,JTC_GH Window T01,FW-10 1000 x 1000,JTC_GH Window T01,,,,,Fixed W-10 1000 x 1000,,,Fixed Panel Window
-Windows,JTC_Awning Window,AW 750 x 900,JTC_Awning Window,B2020100,Windows,,,AW 750 x 900,,,Top-Hung Window
-Windows,JTC_Awning Window,AW 750 x 600,JTC_Awning Window,B2020100,Windows,,,AW 750 x 600,,,Top-Hung Window
-Windows,JTC_Window_Casement_Single Panel,CW 750 x 1800,JTC_Window_Casement_Single Fixed Panel,,,,,CW 750 x 1800,,,Fixed Panel Window
-Windows,JTC_Window_Casement_Single Fixed Panel,CW 750 x 1800,JTC_Window_Casement_Single Fixed Panel,,,,,CW 750 x 1800,,,Fixed Panel Window
-Windows,JTC_Internal Fixed Window-15,AWT76 1500 x 3000,JTC_Internal Fixed Window-15,,,,,AWT76 1500 x 3000,,,Fixed Panel Window
-Windows,,,JTC_Glass_Block_with Joints,,,,,,,,General Window Item
-Windows,,,JTC_ESS_Louvre,,,,,,,,Adjustable Louvred Window
-Windows,,,JTC_Glass_Block_with Joints Unit 1,,,,,,,,General Window Item
-Windows,,,JTC_Fixed Louvre,,,,,,,,Fixed Louvred Window
-Windows,JTC_Vent Block,EVB 1400 x 600 General,JTC_Vent Block,,,,,EVB 1400 x 600,,"Concrete, Precast",General Window Item
-Windows,JTC_Vent Block,EVB 2400 x 600 General,JTC_Vent Block,,,,,EVB 2400 x 600,,"Concrete, Precast",General Window Item
-Windows,JTC_Window_Casement_Single Panel_FAP,CW 750 x 1800,JTC_Window_Casement_Single Panel_FAP,,,,,CW 750 x 1800,,,Fixed Panel Window
 Windows,JTC_GH Window T02,SW-14 1400 x 1000 Side Hung,JTC_GH Window T02,,,,,SW-14 1400 x 1000 Side Hung,,,Side-Hung Window
 Windows,JTC_GH Window T02,SW-10 1000 x 1000 Side Hung,JTC_GH Window T02,,,,,SW-10 1000 x 1000 Side Hung,,,Side-Hung Window
 Walls,Basic Wall,External_PC_150mm with Tile Finish,Basic Wall,,,,,External_PC_150mm with Tile Finish,Concrete - RC Cast In Situ,,Cast In-Situ RC Wall
 Walls,Basic Wall,External_PC_150mm with Skim Coat,Basic Wall,,,,,External_PC_150mm with Skim Coat,Concrete - RC Cast In Situ,,Cast In-Situ RC Wall
-Walls,Basic Wall,External_RC_200mm with Skim coat,Basic Wall,,,,,External_RC_200mm with Skim coat,Concrete - RC Cast In Situ,,Cast In-Situ RC Wall
-Walls,Basic Wall,Internal_PC_100mm With Skim Coat,Basic Wall,,,,,Internal_PC_100mm With Skim Coat,Concrete - RC Cast In Situ,,Cast In-Situ RC Wall
-Walls,Basic Wall,Internal_PC_120mm With Tile Finish,Basic Wall,,,,,Internal_PC_120mm With Tile Finish,Concrete - RC Cast In Situ,,Cast In-Situ RC Wall
-Walls,Basic Wall,External_PC_200mm with Textured,Basic Wall,,,,,External_PC_200mm with Textured,Concrete - RC Cast In Situ,,Cast In-Situ RC Wall
-Walls,Basic Wall,Aluminium Cladding_100mm,Basic Wall,,,,,Aluminium Cladding_100mm,Aluminum,,Wall Finish
-Walls,Basic Wall,External_RC_230mm with Skim coat,Basic Wall,,,,,External_RC_230mm with Skim coat,Concrete - RC Cast In Situ,,Cast In-Situ RC Wall
-Walls,Basic Wall,JTC_Toilet Wall Tiles_300x600,Basic Wall,,,,,JTC_Toilet Wall Tiles_300x600,<By Category>,,Wall Finish
-Walls,Basic Wall,Toilet Maintenance Ledge & Toilet Wall Tiles 300*600,Basic Wall,,,,,Toilet Maintenance Ledge & Toilet Wall Tiles 300*600,Concrete - RC Cast In Situ,,Cast In-Situ RC Wall
-Walls,Basic Wall,Internal_PC_200mm with Skim Coat,Basic Wall,,,,,Internal_PC_200mm with Skim Coat,Concrete - RC Cast In Situ,,Cast In-Situ RC Wall
-Walls,Basic Wall,Internal_RC_50mm With Tile Finish,Basic Wall,,,,,Internal_RC_50mm With Tile Finish,Concrete - RC Cast In Situ,,Cast In-Situ RC Wall
-Walls,Basic Wall,JTC_Toilet Wall Tiles_300x300,Basic Wall,,,,,JTC_Toilet Wall Tiles_300x300,<By Category>,,Wall Finish
-Walls,Curtain Wall,JTC_GlazedPanel_Single_Clear,CurtainPanel,,,,,GlazedPanel_Single_Clear,,,Curtain Wall
-Walls,Curtain Wall,JTC_GlazedPanel_Single_Clear,Rectangular Mullion,,,,,Rectangular_Mullion_Top_Right,,<By Category>,Curtain Wall
-Walls,Curtain Wall,JTC_GlazedPanel_Single_Clear,Rectangular Mullion,,,,,Rectangular_Mullion_Bottom_Left,,<By Category>,Curtain Wall
-Walls,Curtain Wall,JTC_GlazedPanel_Single_Clear,Rectangular Mullion,,,,,Rectangular_Mullion_Center,,<By Category>,Curtain Wall
-Walls,Curtain Wall,JTC_GlazedPanel_Single_Clear,PD_Double Swing Panel,,,,,PD_Double Swing Panel,,,Curtain Wall
-Walls,Curtain Wall,JTC_GlazedPanel_Single_Clear,Curtain Wall,,,,,JTC_GlazedPanel_Single_Clear,<By Category>,,Curtain Wall
-Walls,Curtain Wall,JTC_GlazedPanel_Single_Clear,PD_TOp Hung Panel,,,,,PD_TOp Hung Panel,,,Curtain Wall
-Walls,Curtain Wall,JTC_CW_10745mm,CurtainPanel,,,,,GlazedPanel_Single_Clear,,,Curtain Wall
-Walls,Curtain Wall,JTC_CW_10745mm,Rectangular Mullion,,,,,Rectangular_Mullion_Top_Right,,<By Category>,Curtain Wall
-Walls,Curtain Wall,JTC_CW_10745mm,Rectangular Mullion,,,,,Rectangular_Mullion_Bottom_Left,,<By Category>,Curtain Wall
-Walls,Curtain Wall,JTC_CW_10745mm,Rectangular Mullion,,,,,Rectangular_Mullion_Center,,<By Category>,Curtain Wall
-Walls,Curtain Wall,JTC_CW_10745mm,PD_CW Door,C1020,Interior Doors,,,PD_CW Door,,,Curtain Wall
-Walls,Curtain Wall,JTC_CW_10745mm,Curtain Wall,,,,,JTC_CW_10745mm,<By Category>,,Curtain Wall
-Walls,Basic Wall,Internal_RC_200mm with Skim Coat,Basic Wall,,,,,Internal_RC_200mm with Skim Coat,Concrete - RC Cast In Situ,,Cast In-Situ RC Wall
-Walls,Basic Wall,Internal_RC_120mm With Tile Finish,Basic Wall,,,,,Internal_RC_120mm With Tile Finish,Concrete - RC Cast In Situ,,Cast In-Situ RC Wall
-Walls,Basic Wall,Internal_RC_100mm With Skim Coat,Basic Wall,,,,,Internal_RC_100mm With Skim Coat,Concrete - RC Cast In Situ,,Cast In-Situ RC Wall
-Walls,Curtain Wall,JTC_CW_10745mm,PD_CW Door,C1020,Interior Doors,,,2000 x 2400,,,Curtain Wall
-Walls,Basic Wall,JTC_RC_200_Int,Basic Wall,,,,,JTC_RC_200_Int,Concrete - Cast In Situ,,Cast In-Situ RC Wall
-Walls,Basic Wall,JTC_RC_200_Ext,Basic Wall,,,,,JTC_RC_200_Ext,Concrete - Cast In Situ,,Cast In-Situ RC Wall
-Walls,Basic Wall,JTC_RC_150_Ext,Basic Wall,,,,,JTC_RC_150_Ext,Concrete - Cast In Situ,,Cast In-Situ RC Wall
 Walls,Basic Wall,JTC_RC_150,Basic Wall,,,,,JTC_RC_150,Concrete - Cast In Situ,,Cast In-Situ RC Wall
 Walls,Basic Wall,JTC_RC_350_Int,Basic Wall,,,,,JTC_RC_350_Int,Concrete - Cast In Situ,,Cast In-Situ RC Wall
 Walls,Basic Wall,JTC_RC_250,Basic Wall,,,,,JTC_RC_250,Concrete - Cast In Situ,,Cast In-Situ RC Wall
@@ -2950,31 +2894,6 @@ Roofs,,,Basic Roof,,,,,,,,General Roof Item
 Floors,Floor,Internal Road (Tarmac),Floor,,,,,Internal Road (Tarmac),Tarmac Road,,General Floor Item
 Floors,Floor,Turfing,Floor,,,,,Turfing,<By Category>,,Floor Finish
 Floors,Floor,Footpath (Concrete Screed),Floor,,,,,Footpath (Concrete Screed),Concrete - Cast In Situ,,General Floor Item
-Floors,Floor,K2 Kerb (Concrete Screed),Floor,,,,,K2 Kerb (Concrete Screed),Concrete - Cast In Situ,,General Floor Item
-Floors,Floor,Footpath (Concrete Screed)_150mm,Floor,,,,,Footpath (Concrete Screed)_150mm,Concrete - Cast In Situ,,General Floor Item
-Floors,Floor,Internal Road (Tarmac) 2,Floor,,,,,Internal Road (Tarmac) 2,Tarmac Road,,General Floor Item
-Floors,Floor,Footpath (Concrete Screed) 2,Floor,,,,,Footpath (Concrete Screed) 2,Concrete - Cast In Situ,,General Floor Item
-Floors,Floor,Internal Road (Driveway),Floor,,,,,Internal Road (Driveway),Driveway,,General Floor Item
-Floors,Floor,JTC_Power Float w/ Waterproofing,Floor,,,,,JTC_Power Float w/ Waterproofing,<By Category>,,General Floor Item
-Floors,Floor,JTC_Floor Tile_300x600,Floor,,,,,JTC_Floor Tile_300x600,<By Category>,,Floor Finish
-Floors,Floor,RC Plinth,Floor,,,,,RC Plinth,Concrete - RC Cast In Situ,,Structural Slab
-Floors,Floor,JTC_Concrete Screed_Power Float w/ Waterproofing,Floor,,,,,JTC_Concrete Screed_Power Float w/ Waterproofing,<By Category>,,General Floor Item
-Floors,Floor,JTC_Power Float w/ Epoxy Fin_150mm,Floor,,,,,JTC_Power Float w/ Epoxy Fin_150mm,<By Category>,,General Floor Item
-Floors,Floor,JTC_Concrete Floor_Power Float Fin,Floor,,,,,JTC_Concrete Floor_Power Float Fin,Concrete - Sand/Cement Screed,,General Floor Item
-Floors,Floor,JTC_Floor Tile_300x300,Floor,,,,,JTC_Floor Tile_300x300,<By Category>,,Floor Finish
-Floors,Floor,JTC_Power Float Finish_50mm,Floor,,,,,JTC_Power Float Fin_50mm,<By Category>,,Floor Finish
-Floors,Floor,Structural Floor,Floor,,,,,Structural Floor,<By Category>,,Structural Slab
-Floors,Floor,RC Kerb_100mm,Floor,,,,,RC Kerb_100mm,Concrete - RC Cast In Situ,,Structural Slab
-Floors,Floor,JTC_Power Float Finish_125mm,Floor,,,,,JTC_Power Float Fin_125mm,<By Category>,,Floor Finish
-Floors,Floor,JTC_Power Float w/ Waterproofing_30mm,Floor,,,,,JTC_Power Float w/ Waterproofing_30mm,<By Category>,,Floor Finish
-Floors,Floor,JTC_Concrete Floor_Power Float w/ Epoxy Finish 10mm,Floor,,,,,JTC_Concrete Floor_Power Float w/ Epoxy Fin,Concrete - Sand/Cement Screed,,Floor Finish
-Floors,Floor,JTC_Concrete Screed_Power Float w/ Waterproofing)_30mm,Floor,,,,,JTC_Concrete Screed_Power Float w/ Waterproofing)_30mm,<By Category>,,Floor Finish
-Floors,Floor,JTC_Power Float Finish 10mm,Floor,,,,,JTC_Power Float Finish 10mm,<By Category>,,Floor Finish
-Floors,Floor,RC Kerb_50mm,Floor,,,,,RC Kerb_50mm,Concrete - RC Cast In Situ,,Structural Slab
-Floors,Floor,JTC_RC_300,Floor,,,,,JTC_RC_300,Concrete - Cast In Situ,,Structural Slab
-Floors,Floor,JTC_RC_250,Floor,,,,,JTC_RC_250,Concrete - Cast In Situ,,Structural Slab
-Floors,Floor,JTC_RC_150,Floor,,,,,JTC_RC_150,Concrete - Cast In Situ,,Structural Slab
-Floors,Floor,JTC_RC_200,Floor,,,,,JTC_RC_200,Concrete - Cast In Situ,,Structural Slab
 Floors,Floor,JTC_RC_100,Floor,,,,,JTC_RC_100,Concrete - Cast In Situ,,Structural Slab
 Floors,Floor,JTC_Generic_200,Floor,,,,,JTC_Generic_200,Concrete - Cast In Situ,,General Floor Item
 Floors,Floor,JTC_RC_350,Floor,,,,,JTC_RC_350,Concrete - Cast In Situ,,Structural Slab
@@ -3021,9 +2940,3 @@ Doors,A61_Hatch Door,760 X 760,A61_Hatch Door,,,,,760 X 760,,,"General Door Item
 Doors,PD_Hatch Door,1000 X 1000,PD_Hatch Door,,,,,1000 X 1000,,,"General Door Item (including Gate, Roller Shutter)"
 Doors,PD_Hatch Door,760 X 760,PD_Hatch Door,,,,,760 X 760,,,"General Door Item (including Gate, Roller Shutter)"
 Columns,Rectangular,500 x 500mm,Rectangular,,,,,500 x 500mm,,Plaster_External,Architectural Column
-Windows,JTC_GH Window T01,FW-10 1000 x 1000,JTC_GH Window T01,,,,,Fixed W-10 1000 x 1000,,,Fixed Panel Window
-Windows,,,JTC_ESS_Louvre,,,,,,,,Adjustable Louvred Window
-Windows,,,JTC_Fixed Louvre,,,,,,,,Fixed Louvred Window
-Windows,JTC_GH Window T01,FW-10 1000 x 1000,JTC_GH Window T01,,,,,Fixed W-10 1000 x 1000,,,Fixed Panel Window
-Windows,,,JTC_ESS_Louvre,,,,,,,,Adjustable Louvred Window
-Windows,,,JTC_Fixed Louvre,,,,,,,,Fixed Louvred Window

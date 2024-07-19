@@ -278,7 +278,7 @@ function breakDownData(data, testData) {
               );
             } else {
               flagProblems.push(
-                `${prop} is incorrect with '${cleanUpfoundObject}' Should be (True/False)`
+                `${prop} is potentially inaccurate with '${cleanUpfoundObject}' Please double-check.`
               );
             }
           }
@@ -289,9 +289,13 @@ function breakDownData(data, testData) {
                 goodParameters.push(
                   `${prop} is correct with '${cleanUpfoundObject}'`
                 );
+              } else if (prop.toLocaleLowerCase().includes('firerating')) {
+                problems.push(
+                  `${prop} is incorrect with '${cleanUpfoundObject}' Should not be 0`
+                );
               } else {
                 flagProblems.push(
-                  `${prop} is incorrect with '${cleanUpfoundObject}' Should not be 0`
+                  `${prop} is potentially inaccurate with '${cleanUpfoundObject}' Please double-check.`
                 );
               }
             } else {
@@ -301,7 +305,7 @@ function breakDownData(data, testData) {
                 );
               }
               flagProblems.push(
-                `${prop} is incorrect with '${cleanUpfoundObject}'`
+                `${prop} is potentially inaccurate with '${cleanUpfoundObject}' Please double-check.`
               );
             }
           }
@@ -319,7 +323,7 @@ function breakDownData(data, testData) {
               );
             } else {
               flagProblems.push(
-                `${prop} is incorrect with '${cleanUpfoundObject}'`
+                `${prop} is potentially inaccurate with '${cleanUpfoundObject}' Please double-check.`
               );
             }
           }
@@ -335,7 +339,7 @@ function breakDownData(data, testData) {
                 `${prop} is correct with '${cleanUpfoundObject}'`
               );
             } else {
-              flagProblems.push(
+              problems.push(
                 `${prop} is incorrect with '${cleanUpfoundObject}', Not a date`
               );
             }
@@ -538,6 +542,7 @@ export async function extractMetadata(urn) {
           // Update objectProperties for the next iteration
           objectProperties = updatedObjectProperties;
         }
+        // console.log(objectProperties)
         // console.log(`Extracting ${objectName} metadata...`);
         const jsonMetadata = await sortMetadata(
           objectProperties.data.collection
@@ -547,16 +552,16 @@ export async function extractMetadata(urn) {
         // console.log(test2); // Log the final objectProperties when the loop exits
         // Make it so that the naming convention for file is allowed
         const fileNameApprovedNaming = objectName
-          .trim()
           .replace(/\//g, '-')
           .replace(/\\/g, '-')
           .replace(/\:/g, '-')
           .replace(/\*/g, '-')
           .replace(/\?/g, '-')
           .replace(/\"/g, '-')
-          .replace(/</g, '-')
-          .replace(/>/g, '-')
-          .replace(/|/g, '-');
+          .replace(/\</g, '-')
+          .replace(/\>/g, '-')
+          .replace(/\|/g, '-')
+          .trim();
         fetchPrediction(
           convertedCSVData,
           fileNameApprovedNaming,

@@ -72,17 +72,12 @@ export default function Page() {
     loadInViewer(
       'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltdmV0YnVja2V0L3Rlc3RvYmplY3QucnZ0'
     );
-    setzipDownload(true);
-    extractMetadata(
-      'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltdmV0YnVja2V0L3Rlc3RvYmplY3QucnZ0'
-    ).then(() => {
-      setzipDownload(false);
-    });
+    setUploadedFileCompleted(true);
   };
 
   const [uploadedFile, setUploadedFile] = useState<ArrayBuffer | null>(null);
   const [uploadedFileName, setUploadedFileName] = useState('');
-  const [uploadedFileCompleted, setUploadedFileCompleted] = useState(true);
+  const [uploadedFileCompleted, setUploadedFileCompleted] = useState(false);
   const [loading, setLoading] = useState(false);
 
   const handleDrop = (acceptedFiles: File[]) => {
@@ -112,12 +107,6 @@ export default function Page() {
           setUploadedFileBase64(result);
           setLoading(false);
           setUploadedFileCompleted(true);
-          setzipDownload(true);
-          extractMetadata(
-            'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltdmV0YnVja2V0L3Rlc3RvYmplY3QucnZ0'
-          ).then(() => {
-            setzipDownload(false);
-          });
         })
         .catch((error) => {
           console.error('Error uploading file:', error);
@@ -144,8 +133,18 @@ export default function Page() {
     setShowPopup(false);
   };
 
+  const reportGenerateButton = () => {
+    setzipDownload(true);
+    extractMetadata(
+      'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltdmV0YnVja2V0L3Rlc3RvYmplY3QucnZ0'
+    ).then(() => {
+      setzipDownload(false);
+    });
+  };
+
   return (
     <BackGroundComponent>
+      <title>BIMVet Checker</title>
       {/* Popup */}
       {showPopup && (
         <div
@@ -168,7 +167,7 @@ export default function Page() {
             <div className="upload-section">
               <button
                 className={`absolute top-2 right-2 text-2xl cursor-pointer ${
-                  theme === 'dark' ? 'text-white' : 'text-black'
+                  theme == 'dark' ? 'text-white' : 'text-black'
                 }`}
                 onClick={closePopup}
               >
@@ -182,12 +181,13 @@ export default function Page() {
                       className="dropzone"
                     >
                       <input {...getInputProps()} />
+                      
                       <p
                         className={`text-xl ${
-                          theme === 'dark' ? 'text-white' : 'text-black'
+                          theme == 'dark' ? 'text-white' : 'text-black'
                         }`}
                       >
-                        Drag & drop a file here or click to select one
+                        Drag & drop a file here or click to select (.rvt)
                       </p>
                     </div>
                   )}
@@ -217,6 +217,23 @@ export default function Page() {
         <div className="flex-1 p-2">
           <div>
             <div className="flex items-center row-auto z-50 absolute top-5 right-5 cursor-pointer no-selection">
+              {uploadedFileCompleted && !zipDownload && (
+                <button
+                  className="mr-5"
+                  onClick={reportGenerateButton}
+                >
+                  <div
+                    className={`flex items-center ml-2 text-4xl p-0.5 pr-2 border-2 rounded-md cursor-pointer no-selection ${
+                      theme === 'dark' ? 'border-white' : 'border-black'
+                    }`}
+                  >
+                    <iconify-icon icon="line-md:document-report"></iconify-icon>
+                    <p className="text-base cursor-pointer ml-0.5">
+                      Start Report Generation
+                    </p>
+                  </div>
+                </button>
+              )}
               {zipDownload && (
                 <p className="font-bold text-xl left-2 mr-4">
                   Generating Report Please Wait....
