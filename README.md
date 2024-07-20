@@ -2,17 +2,31 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+Before starting:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+# Install packages for frontend, do this command in main directory
+npm install
+
+# Install packages for backend, do this cmmand in backend folder
+pip install -r requirements.txt
 ```
+
+Required authentication:
+Create a .env with keys from this
+- [Autodesk](https://aps.autodesk.com/developer/)
+- [Supabase](https://supabase.com/)
+```bash
+NEXT_PUBLIC_AUTODESK_CLIENT_SECRET_ID=''
+NEXT_PUBLIC_AUTODESK_CLIENT_SECRET=''
+NEXT_PUBLIC_AUTODESK_CLIENT_BUCKET=''
+NEXT_PUBLIC_SUPABASE_KEY=''
+NEXT_PUBLIC_SUPABASE_SECRET=''
+```
+
+How to start the servers:
+- Frontend: "start frontend.bat"
+- Backend: "start backend.bat"
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
@@ -28,9 +42,3 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
