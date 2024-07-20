@@ -20,6 +20,9 @@ export default function Page() {
   const [showPopup, setShowPopup] = useState(false);
   const [zipDownload, setzipDownload] = useState(false);
 
+  const staticURN =
+    'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltdmV0YnVja2V0L3Rlc3RvYmplY3QucnZ0';
+
   useEffect(() => {
     // Dynamically create the script element
     const script = document.createElement('script');
@@ -69,9 +72,7 @@ export default function Page() {
     setShowPopup(false);
     setSidebarExpanded(false);
     // Load in the previous model
-    loadInViewer(
-      'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltdmV0YnVja2V0L3Rlc3RvYmplY3QucnZ0'
-    );
+    loadInViewer(staticURN);
     setUploadedFileCompleted(true);
   };
 
@@ -135,9 +136,7 @@ export default function Page() {
 
   const reportGenerateButton = () => {
     setzipDownload(true);
-    extractMetadata(
-      'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltdmV0YnVja2V0L3Rlc3RvYmplY3QucnZ0'
-    ).then(() => {
+    extractMetadata(staticURN).then(() => {
       setzipDownload(false);
     });
   };
@@ -181,7 +180,7 @@ export default function Page() {
                       className="dropzone"
                     >
                       <input {...getInputProps()} />
-                      
+
                       <p
                         className={`text-xl ${
                           theme == 'dark' ? 'text-white' : 'text-black'

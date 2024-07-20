@@ -66,7 +66,7 @@ async function createBucket(accessToken) {
 
 async function getSignedS3UploadUrl(accessToken, objectKey) {
   return new Promise((resolve, reject) => {
-    const bucketKey = 'bimvetbucket';
+    const bucketKey = process.env.NEXT_PUBLIC_AUTODESK_CLIENT_BUCKET;
     const minutesExpiration = '10';
     const url = `https://developer.api.autodesk.com/oss/v2/buckets/${bucketKey}/objects/${objectKey}/signeds3upload?minutesExpiration=${minutesExpiration}`;
 
@@ -140,7 +140,7 @@ async function getObjectsInBucket(accessToken, limit = 1) {
 }
 
 async function deleteObjectInBucket(accessToken, objectKey) {
-  const bucketKey = 'bimvetbucket';
+  const bucketKey = process.env.NEXT_PUBLIC_AUTODESK_CLIENT_BUCKET;
   const url = `https://developer.api.autodesk.com/oss/v2/buckets/${bucketKey}/objects/${objectKey}`;
 
   try {
@@ -192,7 +192,7 @@ async function uploadFileToSignedUrl(signedUploadUrl, pathToFile) {
 }
 
 async function initiateSignedS3Upload(accessToken, uploadKey) {
-  const bucketKey = 'bimvetbucket';
+  const bucketKey = process.env.NEXT_PUBLIC_AUTODESK_CLIENT_BUCKET;
   const objectKey = 'testobject.rvt';
   const url = `https://developer.api.autodesk.com/oss/v2/buckets/${bucketKey}/objects/${objectKey}/signeds3upload`;
 
