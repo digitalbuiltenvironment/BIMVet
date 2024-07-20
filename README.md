@@ -1,5 +1,3 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Getting Started
 
 Before starting:
@@ -17,6 +15,7 @@ Create a .env with keys from this
 - [Autodesk](https://aps.autodesk.com/developer/)
 - [Supabase](https://supabase.com/)
 ```bash
+# .env file's required variables 
 NEXT_PUBLIC_AUTODESK_CLIENT_SECRET_ID=''
 NEXT_PUBLIC_AUTODESK_CLIENT_SECRET=''
 NEXT_PUBLIC_AUTODESK_CLIENT_BUCKET=''
