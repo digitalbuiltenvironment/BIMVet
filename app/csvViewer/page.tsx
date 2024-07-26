@@ -253,7 +253,14 @@ export default function Page() {
             </div>
           )}
           {csvData.length > 0 && (
-            <div className="ml-12 mr-12 mt-12">
+            <div
+              className="ml-12 mr-12 mt-12"
+              style={{
+                maxHeight: '85vh',
+                overflowY: 'auto',
+                paddingRight: '15px',
+              }}
+            >
               <button
                 className="flex items-center row-auto z-50 absolute top-20 right-40 cursor-pointer no-selection ml-2"
                 onClick={handleCheckClick}
@@ -272,9 +279,13 @@ export default function Page() {
               </button>
               <div>
                 <button
-                  className={`w-36 text-base cursor-pointer border-2 transition-all no-selection ${
-                    theme === 'dark' ? 'border-white' : 'border-black'
-                  } ${selectedOption === 1 ? 'active border-red-400' : ''} `}
+                  className={`w-36 text-base cursor-pointer border-2 transition-all no-selection  ${
+                    selectedOption === 1
+                      ? 'active border-red-400'
+                      : ` ${
+                          theme === 'dark' ? 'border-white' : 'border-black'
+                        } `
+                  }`}
                   onClick={() => handleOptionToggleClick(1)}
                   disabled={selectedOption === 1}
                 >
@@ -282,17 +293,25 @@ export default function Page() {
                 </button>
                 <button
                   className={`w-36 text-base cursor-pointer border-2 transition-all no-selection ${
-                    theme === 'dark' ? 'border-white' : 'border-black'
-                  } ${selectedOption === 2 ? 'active border-red-400' : ''} `}
+                    selectedOption === 2
+                      ? 'active border-red-400'
+                      : ` ${
+                          theme === 'dark' ? 'border-white' : 'border-black'
+                        } `
+                  } `}
                   onClick={() => handleOptionToggleClick(2)}
                   disabled={selectedOption === 2}
                 >
                   Compliance
                 </button>
                 <button
-                  className={`w-36 text-base cursor-pointer border-2 transition-all no-selection ${
-                    theme === 'dark' ? 'border-white' : 'border-black'
-                  } ${selectedOption === 3 ? 'active border-red-400' : ''} `}
+                  className={`w-36 text-base cursor-pointer border-2 transition-all no-selection${
+                    selectedOption === 3
+                      ? 'active border-red-400'
+                      : ` ${
+                          theme === 'dark' ? 'border-white' : 'border-black'
+                        } `
+                  } `}
                   onClick={() => handleOptionToggleClick(3)}
                   disabled={selectedOption === 3}
                 >

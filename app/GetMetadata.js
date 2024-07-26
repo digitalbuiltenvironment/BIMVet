@@ -299,11 +299,11 @@ function breakDownData(data, testData) {
                 );
               }
             } else {
-              if (reqDesc !== '') {
-                flagProblems.push(
-                  `${prop} is incorrect with '${cleanUpfoundObject}' _ ${reqDesc}`
-                );
-              }
+              // if (reqDesc !== '') {
+              //   flagProblems.push(
+              //     `${prop} is incorrect with '${cleanUpfoundObject}' _ ${reqDesc}`
+              //   );
+              // }
               flagProblems.push(
                 `${prop} is potentially inaccurate with '${cleanUpfoundObject}' Please double-check.`
               );
