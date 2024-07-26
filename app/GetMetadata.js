@@ -512,6 +512,7 @@ export async function extractMetadata(urn) {
       token.access_token,
       urn
     );
+    objectsProcessed = 0
     totalObjects = viewableObjects.data.metadata.length;
     // get all Viewables
     for (const viewableObject of viewableObjects.data.metadata) {
