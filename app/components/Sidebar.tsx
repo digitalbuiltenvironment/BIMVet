@@ -2,7 +2,7 @@
 import React from 'react';
 import ThemeChanger from '../components/ThemeChanger';
 import { useTheme } from 'next-themes';
-import 'iconify-icon';
+import { Icon } from '@iconify/react';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 
@@ -34,13 +34,13 @@ const Sidebar: React.FC<SidebarProps> = ({
         onClick={toggleSidebar}
         className={`p-0.5 text-3xl flex mt-2 transition-opacity duration-400 ml-auto mr-2 no-selection`}
       >
-        <iconify-icon
+        <Icon
           icon={
             sidebarExpanded
               ? 'tabler:layout-sidebar-right-expand-filled'
               : 'tabler:layout-sidebar-left-expand-filled'
           }
-        ></iconify-icon>
+        ></Icon>
       </button>
       {/* Sidebar content */}
       <div
@@ -80,7 +80,7 @@ const Sidebar: React.FC<SidebarProps> = ({
             }`}
           >
             <div className="text-4xl font-bold">
-              <iconify-icon icon="iconoir:user-circle"></iconify-icon>
+              <Icon icon="iconoir:user-circle"></Icon>
             </div>
             <p className="ml-2 font-medium no-selection mb-2"></p>
           </div>

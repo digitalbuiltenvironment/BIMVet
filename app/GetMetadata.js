@@ -435,7 +435,8 @@ async function fetchPrediction(
     ],
   ];
 
-  fetch('http://localhost:5000/predict', {
+  // fetch('http://localhost:5000/predict', {
+    fetch('https://bimvet-test-backend.onrender.com/predict', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',

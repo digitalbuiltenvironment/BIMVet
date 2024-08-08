@@ -1,6 +1,6 @@
 import React from 'react';
 import { useTheme } from 'next-themes';
-import 'iconify-icon';
+import { Icon } from '@iconify/react';
 
 const ThemeChanger: React.FC = () => {
   const { theme, setTheme } = useTheme();
@@ -16,9 +16,9 @@ const ThemeChanger: React.FC = () => {
     >
       <div className="text-3xl">
         {theme === 'light' ? (
-          <iconify-icon icon="line-md:moon-filled-to-sunny-filled-loop-transition"></iconify-icon>
+          <Icon icon="line-md:moon-filled-to-sunny-filled-loop-transition"></Icon>
         ) : (
-          <iconify-icon icon="line-md:sunny-filled-loop-to-moon-filled-transition"></iconify-icon>
+          <Icon icon="line-md:sunny-filled-loop-to-moon-filled-transition"></Icon>
         )}
       </div>
     </button>
