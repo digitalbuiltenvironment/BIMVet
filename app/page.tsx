@@ -21,7 +21,8 @@ export default function Page() {
   const [zipDownload, setzipDownload] = useState(false);
 
   const staticURN =
-    'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltdmV0YnVja2V0L3Rlc3RvYmplY3QucnZ0';
+    // 'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltdmV0YnVja2V0L3Rlc3RvYmplY3QucnZ0';
+    process.env.NEXT_PUBLIC_AUTODESK_CLIENT_URN;
 
   useEffect(() => {
     // Dynamically create the script element
