@@ -7,7 +7,7 @@ import Sidebar from './components/Sidebar';
 import Dropzone from 'react-dropzone';
 import BackGroundComponent from './components/BackGroundComponent';
 import { useTheme } from 'next-themes';
-import 'iconify-icon';
+import { Icon } from '@iconify/react';
 import './custom.css';
 
 export default function Page() {
@@ -21,7 +21,8 @@ export default function Page() {
   const [zipDownload, setzipDownload] = useState(false);
 
   const staticURN =
-    'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltdmV0YnVja2V0L3Rlc3RvYmplY3QucnZ0';
+    // 'dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YmltdmV0YnVja2V0L3Rlc3RvYmplY3QucnZ0';
+    process.env.NEXT_PUBLIC_AUTODESK_CLIENT_URN;
 
   useEffect(() => {
     // Dynamically create the script element
@@ -38,7 +39,7 @@ export default function Page() {
     document.head.appendChild(link);
 
     script.onload = () => {
-      console.log(LMV_VIEWER_VERSION);
+      // console.log(LMV_VIEWER_VERSION);
       setScriptLoaded(true);
     };
 
@@ -72,7 +73,7 @@ export default function Page() {
     setShowPopup(false);
     setSidebarExpanded(false);
     // Load in the previous model
-    loadInViewer(staticURN);
+    loadInViewer(staticURN!);
     setUploadedFileCompleted(true);
   };
 
@@ -120,11 +121,11 @@ export default function Page() {
     setSidebarExpanded(!sidebarExpanded);
   };
 
+  const { theme, setTheme } = useTheme();
+
   if (!scriptLoaded) {
     return <div>Loading Scripts...</div>;
   }
-
-  const { theme, setTheme } = useTheme();
 
   const togglePopup = () => {
     setShowPopup(!showPopup);
@@ -170,7 +171,7 @@ export default function Page() {
                 }`}
                 onClick={closePopup}
               >
-                <iconify-icon icon="zondicons:close-outline"></iconify-icon>
+                <Icon icon="zondicons:close-outline"></Icon>
               </button>
               <div className="mt-12">
                 <Dropzone onDrop={handleDrop}>
@@ -226,7 +227,7 @@ export default function Page() {
                       theme === 'dark' ? 'border-white' : 'border-black'
                     }`}
                   >
-                    <iconify-icon icon="line-md:document-report"></iconify-icon>
+                    <Icon icon="line-md:document-report"></Icon>
                     <p className="text-base cursor-pointer ml-0.5">
                       Start Report Generation
                     </p>
@@ -247,7 +248,7 @@ export default function Page() {
                     theme === 'dark' ? 'border-white' : 'border-black'
                   }`}
                 >
-                  <iconify-icon icon="mdi:file-upload-outline"></iconify-icon>
+                  <Icon icon="mdi:file-upload-outline"></Icon>
                   <p className="text-base cursor-pointer">Upload</p>
                 </div>
               </button>

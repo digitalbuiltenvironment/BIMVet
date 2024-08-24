@@ -4,8 +4,12 @@ import Sidebar from '../components/Sidebar';
 import Dropzone from 'react-dropzone';
 import BackGroundComponent from '../components/BackGroundComponent';
 import { useTheme } from 'next-themes';
-import 'iconify-icon';
+import { Icon } from '@iconify/react';
 import '../custom.css';
+
+type CSVRow = {
+  [key: string]: string;
+}
 
 export default function Page() {
   //Sidebar section
@@ -16,12 +20,12 @@ export default function Page() {
   const [uploadedFile, setUploadedFile] = useState<ArrayBuffer | null>(null);
   const [uploadedFileName, setUploadedFileName] = useState('');
   const [uploadedFileCompleted, setUploadedFileCompleted] = useState(false);
-  const [csvData, setCsvData] = useState<any[]>([]);
+  const [csvData, setCsvData] = useState<CSVRow[]>([]);
   const [currentRowIndex, setCurrentRowIndex] = useState(0);
   const [uploadedFileFull, setUploadedFileFull] = useState<File | null>(null);
-  const [complianceCSV, setComplianceCSV] = useState<any[]>([]);
-  const [noncomplianceCSV, setNoncomplianceCSV] = useState<any[]>([]);
-  const [selectedOption, setSelectedOption] = useState(1);
+  const [complianceCSV, setComplianceCSV] = useState<CSVRow[]>([]);
+  const [noncomplianceCSV, setNoncomplianceCSV] = useState<CSVRow[]>([]);
+  const [selectedOption, setSelectedOption] = useState<number | null>(null);
 
   const toggleSidebar = () => {
     setSidebarExpanded(!sidebarExpanded);
@@ -72,7 +76,7 @@ export default function Page() {
       setComplianceCSV(compliance);
       setNoncomplianceCSV(noncompliance);
     };
-    reader.readAsText(uploadedFileFull);
+    reader.readAsText(uploadedFileFull!);
     // const parsedData = parseCSV(text);
     // setCsvData(parsedData);
   };
@@ -172,7 +176,7 @@ export default function Page() {
     }
   };
 
-  const copyToClipboard = async (text) => {
+  const copyToClipboard = async (text: string) => {
     try {
       text = text.replace(/\"/g, '').trim();
       await navigator.clipboard.writeText(text);
@@ -270,10 +274,10 @@ export default function Page() {
                     theme === 'dark' ? 'border-white' : 'border-black'
                   }`}
                 >
-                  <iconify-icon
+                  <Icon
                     icon="ph:check-fat-bold"
                     style={{ color: 'lightgreen' }}
-                  ></iconify-icon>
+                  ></Icon>
                   <p className="ml-2 text-base cursor-pointer">Checked</p>
                 </div>
               </button>
@@ -367,9 +371,9 @@ export default function Page() {
                   onClick={handlePrevious}
                   className="text-4xl mr-4"
                 >
-                  <iconify-icon
+                  <Icon
                     icon={'solar:map-arrow-left-linear'}
-                  ></iconify-icon>
+                  ></Icon>
                 </button>
                 <span className="w-fit">
                   <input
@@ -389,9 +393,9 @@ export default function Page() {
                   onClick={handleNext}
                   className="text-4xl ml-4"
                 >
-                  <iconify-icon
+                  <Icon
                     icon={'solar:map-arrow-right-linear'}
-                  ></iconify-icon>
+                  ></Icon>
                 </button>
               </div>
             </div>

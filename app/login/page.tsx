@@ -16,7 +16,7 @@ export default function Page() {
   const handleLogin = async () => {
     try {
       router.push('/');
-      const { user, error } = await supabase.auth.signInWithPassword({
+      const { error } = await supabase.auth.signInWithPassword({
         email: email,
         password: password,
       });
@@ -121,7 +121,7 @@ export default function Page() {
               theme === 'dark' ? 'text-white' : 'text-gray-600'
             }`}
           >
-            Don't have an account?{' '}
+            Don&apos;t have an account?{' '}
             <Link
               href="/register"
               className={`${

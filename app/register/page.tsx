@@ -60,17 +60,17 @@ export default function Page() {
 
   useEffect(() => {
     if (password !== passwordConfirm && passwordConfirm !== '') {
-      document.querySelector('.password-error').innerHTML =
+      document.querySelector('.password-error')!.innerHTML =
         'Passwords do not match!';
     } else {
-      document.querySelector('.password-error').innerHTML = '';
+      document.querySelector('.password-error')!.innerHTML = '';
     }
   }, [password, passwordConfirm]);
 
   const handleRegister = async () => {
     if (password === passwordConfirm) {
       try {
-        const { user, error } = await supabase.auth.signUp({
+        const { error } = await supabase.auth.signUp({
           email: email,
           password: password,
         });
@@ -89,7 +89,7 @@ export default function Page() {
             title: 'Registration Successful',
             html: `Registered as ${email}.<br>Please check your email for a verification link.`,
           }).then(() => {
-            console.log('Registered as:', user);
+            console.log('Registered as:', email);
             // router.push('/dashboard');
           });
         }
